@@ -1,0 +1,5 @@
+# generated, never committed
+index/
+state/
+*.tmp
+*.cookie
