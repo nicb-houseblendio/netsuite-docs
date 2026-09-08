@@ -1,0 +1,18 @@
+# Account Setup
+
+Account Setup (388 pages): Account Setup
+
+## Chapters
+- [Account Setup](book_N125907.md): - Centers Overview(https://docs.
+  - [Centers Overview](chapter_N131898.md): The flexible NetSuite user interface adjusts automatically to different users' business needs.
+  - [Enabling Features](chapter_N232138.md): Users with the Administrator role can enable NetSuite features on the Enable Features page.
+  - [NetSuite Company Settings](chapter_N239909.md): For information about the various company settings you need to define to set up your NetSuite account, see the following: - Configuring Company Information(https://docs.
+  - [Classifications in NetSuite](chapter_N261411.md): - Classifications Overview(https://docs.
+  - [NetSuite Users & Roles](chapter_N284861.md): Learn how to manage NetSuite roles and permissions to provide your account users with the access they need.
+  - [Approval Routing](chapter_N2394992.md): NetSuite Approval Routing helps your organization define who can approve employee purchase transactions and limit approval amounts by authorizer level and department.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch account-setup

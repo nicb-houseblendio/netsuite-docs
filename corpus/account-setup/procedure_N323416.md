@@ -1,0 +1,57 @@
+---
+id: "procedure_N323416"
+type: "procedure"
+title: "To provide access for existing customers"
+branch: "account-setup"
+category: "account-administration"
+breadcrumb: "Account Administration > Account Setup > NetSuite Users & Roles > NetSuite Users Overview > Giving Customers Access > Use CSV Import to Provide Access to Multiple Customers > To provide access for existing customers"
+parent: "subsect_1532524356"
+source: "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/procedure_N323416.html"
+anchors: []
+sha256: "3af4b97a37d59465dc83ca391943eb970b1d76173c93929b5fcaa27a8ac67583"
+---
+
+1.  Create a CSV file of customer data, with (at minimum) the following fields. You can include other fields in the CSV file, if necessary.
+    
+    -   **Unique ID** - You should use the Internal ID for the customer record. For information about obtaining internal ID values, see [Displaying Internal IDs](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N349594.html#bridgehead_N349808). However, using the Customer ID is supported.
+        
+    -   **Email address** - Required for NetSuite access. You can omit the value for customers whose email address is already populated in their NetSuite records.
+        
+    -   **Give Access** - Set the value of this field to Yes for all customers included in your CSV file to which you want to provide access.
+        
+    -   **Send New Access Notification Email** - Set this value to Yes. The notification email includes a link that lets customers create their own passwords for accessing NetSuite.
+        
+    -   **Role** - For most customers, this value should be Customer Center.
+        
+2.  Go to _Setup > Import/Export > Import CSV Records_.
+    
+3.  In the Import Assistant, do the following:
+    
+    1.  Select an **Import Type** of **Relationships**.
+        
+    2.  Select a **Record Type** of **Customers Only**.
+        
+    3.  Click the **Select** button and browse to the CSV file you created.
+        
+    4.  Click **Next**.
+        
+4.  Choose a **Data Handling** value of **Update** and click Next.
+    
+5.  Map all of the fields listed in step 1 and any other required fields. Click **Next**.
+    
+    -   For information about importing customer records, see [Customers Only Import](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N383794.html).
+        
+    -   For information about mapping import fields, see [CSV Field Mapping Tasks](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N348870.html).
+        
+6.  Give the import map a name and click **Save & Run**.
+    
+
+If you prefer to assign passwords to customers, as well as give them access to your NetSuite account, follow this procedure.
+
+### Related Topics
+
+-   [NetSuite Users Overview](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N321756.html)
+-   [Use CSV Import to Provide Access to Multiple Customers](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/subsect_1532524356.html)
+-   [To provide access and assign passwords for existing customers](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/procedure_1532372537.html)
+
+[General Notices](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_N000004.html)

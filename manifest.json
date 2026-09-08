@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-09-08T19:10:46.101Z",
+  "release": "2026.2",
+  "censusGeneratedAt": "2026-09-08T19:08:33.180Z",
+  "tocEtag": "\"9da95a850e79e857a473f052d4be0e16:1786980826.391738\"",
+  "tocLastModified": "Mon, 17 Aug 2026 15:17:45 GMT",
+  "branches": [
+    {
+      "slug": "multi-book-accounting",
+      "pages": 39,
+      "fetched": 39,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/multi-book-accounting.json"
+    },
+    {
+      "slug": "account-setup",
+      "pages": 388,
+      "fetched": 388,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/account-setup.json"
+    }
+  ],
+  "stats": {
+    "fetched": 388,
+    "unchanged": 0,
+    "unchangedByHash": 0,
+    "healed": 0,
+    "failed": 0,
+    "removed": 0,
+    "degraded": 0,
+    "durationMs": 101492,
+    "partial": false
+  },
+  "lastRun": {
+    "runId": "20260908T190904Z-targeted-33e585",
+    "mode": "targeted",
+    "startedAt": "2026-09-08T19:09:04.609Z",
+    "finishedAt": "2026-09-08T19:10:46.101Z"
+  },
+  "lastFullSweep": null
+}

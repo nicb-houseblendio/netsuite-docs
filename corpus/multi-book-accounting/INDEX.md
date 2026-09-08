@@ -1,0 +1,43 @@
+# Multi-Book Accounting
+
+39 pages, category: Accounting
+
+- [Multi-Book Accounting](book_3831565332.md) — book_3831565332
+  - [Multi-Book Accounting Overview](chapter_3831567542.md) — chapter_3831567542
+  - [Using Multi-Book Accounting](chapter_3831569045.md) — chapter_3831569045
+    - [Planning for Multi-Book Accounting](section_3831664657.md) — section_3831664657
+    - [Enabling Multi-Book Accounting Features](section_4842473026.md) — section_4842473026
+      - [Accounting Book Status](section_4842473248.md) — section_4842473248
+    - [Adding Accounting Books](section_4842479230.md) — section_4842479230
+    - [Adding a New Subsidiary to an Active Book](section_3868068245.md) — section_3868068245
+    - [Roles and Data Access for Multi-Book Accounting](section_3867227250.md) — section_3867227250
+    - [Chart of Accounts Mapping](section_3851620232.md) — section_3851620232
+      - [Mapping Dimensions](section_3855057144.md) — section_3855057144
+      - [Mapping Restrictions](section_3860182358.md) — section_3860182358
+      - [Global Account Mapping](section_3855055309.md) — section_3855055309
+      - [Item Account Mapping](section_3855054652.md) — section_3855054652
+    - [Accounting Book Period Close Management](section_4308385929.md) — section_4308385929
+      - [Closing Tasks and Their Dependencies](section_4317009345.md) — section_4317009345
+      - [Enabling the Accounting Book Period Close Feature](section_4311063596.md) — section_4311063596
+      - [Transaction Edits in Closed, Locked Accounting Periods](section_4334084139.md) — section_4334084139
+    - [Foreign Currency Management](section_3851620590.md) — section_3851620590
+      - [Foreign Currency Revaluation in Multi-Book Accounting](section_3908504015.md) — section_3908504015
+      - [Revaluation of Invoice with Open Payment and Historical Transaction Processing](article_0308125952.md) — article_0308125952
+      - [Intercompany Transaction Management](section_3868700684.md) — section_3868700684
+      - [Bank Transfers in Multi-Book Accounting](section_3868884504.md) — section_3868884504
+      - [Base Currency Only Transactions](section_3868892998.md) — section_3868892998
+      - [Inventory Costing Transactions](section_3868915326.md) — section_3868915326
+    - [Revenue and Expense Management](section_3851620883.md) — section_3851620883
+      - [Revenue Allocation in Multi-Book Accounting](section_3871456092.md) — section_3871456092
+      - [Revenue Commitments in Multi-Book Accounting](section_3871456967.md) — section_3871456967
+      - [Revenue Recognition Schedules in Multi-Book Accounting](section_3871457556.md) — section_3871457556
+      - [Expense Amortization Schedules in Multi-Book Accounting](section_3871458111.md) — section_3871458111
+        - [Update Amortization](section_3914690322.md) — section_3914690322
+      - [Revenue Recognition and Expense Amortization with Chart of Accounts Mapping](section_3910391816.md) — section_3910391816
+    - [Reports, KPIs, and Saved Searches in Multi-Book Accounting](section_3851653422.md) — section_3851653422
+    - [Book-Generic and Book-Specific Records](section_3862676046.md) — section_3862676046
+      - [Journal Entries in Multi-Book Accounting](section_3862795782.md) — section_3862795782
+        - [Intercompany Journal Entries in Multi-Book Accounting](section_3867050970.md) — section_3867050970
+      - [Advanced Intercompany Journal Entries in Multi-Book Accounting](section_1493309610.md) — section_1493309610
+      - [Allocation Schedules in Multi-Book Accounting](section_3862800603.md) — section_3862800603
+  - [Adjustment-Only Books Overview](chapter_1546505267.md) — chapter_1546505267

@@ -1,0 +1,15 @@
+# Multi-Book Accounting
+
+Multi-Book Accounting (39 pages): Multi-Book Accounting
+
+## Chapters
+- [Multi-Book Accounting](book_3831565332.md): - Multi-Book Accounting Overview(https://docs.
+  - [Multi-Book Accounting Overview](chapter_3831567542.md): Note: Please contact your sales or account representative to find out how to get the Full Multi-Book Accounting feature.
+  - [Using Multi-Book Accounting](chapter_3831569045.md): Note: Please contact your sales or account representative to find out how to get the Full Multi-Book Accounting feature.
+  - [Adjustment-Only Books Overview](chapter_1546505267.md): Important: Multi-Book Accounting, including the Adjustment-Only Books feature, is available only in NetSuite OneWorld.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch multi-book-accounting

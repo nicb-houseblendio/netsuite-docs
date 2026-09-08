@@ -1,0 +1,4 @@
+2026-09-08T19:08:50.043Z targeted concurrency=2 enumerated=39 fetched=39 unchanged=0 byhash=0 healed=0 failed=0 removed=0 degraded=0 duration=00:00:10 exit=0 run=20260908T190839Z-targeted-24216b
+2026-09-08T19:10:46.148Z targeted concurrency=2 enumerated=388 fetched=388 unchanged=0 byhash=0 healed=0 failed=0 removed=0 degraded=0 duration=00:01:41 exit=0 run=20260908T190904Z-targeted-33e585
+2026-09-08T19:12:17.383Z check    toc=unchanged weekly=changed sample=196/364 candidates=196 exit=3
+2026-09-08T19:14:49.352Z check    toc=unchanged weekly=changed sample=0/200 candidates=0 exit=0
