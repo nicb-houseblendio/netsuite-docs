@@ -1,0 +1,14 @@
+# Payroll
+
+Payroll (158 pages): Payroll
+
+## Chapters
+- [Payroll](book_N917262.md): - SuitePeople U.
+  - [SuitePeople U.S. Payroll](preface_1538679887.md): SuitePeople U.
+  - [Payroll Solutions](part_N969390.md): - Paycheck Journal Feature(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch payroll

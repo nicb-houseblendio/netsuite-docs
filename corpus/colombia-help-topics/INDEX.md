@@ -1,0 +1,43 @@
+# Colombia Help Topics
+
+39 pages, category: Country-Specific Features
+
+- [Colombia Help Topics](article_162367083749.md) — article_162367083749
+  - [Colombia Terminology](article_162367162951.md) — article_162367162951
+  - [Setting Up Colombia-specific Preferences](article_162367170198.md) — article_162367170198
+  - [Colombia Tax Topics](article_162367179327.md) — article_162367179327
+    - [Colombia Tax Codes](article_164967939678.md) — article_164967939678
+    - [Tax Determination Rules in the SuiteTax Latam Engine](article_164967942776.md) — article_164967942776
+  - [Colombia-specific SuiteApps](article_162367239871.md) — article_162367239871
+    - [Colombia Localization](article_162367029514.md) — article_162367029514
+      - [Colombia Localization SuiteApp Installation](article_162367074300.md) — article_162367074300
+      - [Colombia Context](article_164251996938.md) — article_164251996938
+      - [Colombia Localization Features](article_164252037846.md) — article_164252037846
+      - [Colombia Localization Field Mapping](article_164252148778.md) — article_164252148778
+      - [Electronic Invoicing for Colombia](article_164252150679.md) — article_164252150679
+      - [Electronic Bank Payments for Colombia](article_164252152221.md) — article_164252152221
+      - [Support Document for People not Liable for VAT](article_164252153860.md) — article_164252153860
+      - [Magnetic Media Information for Colombia](article_164252155652.md) — article_164252155652
+        - [Electronic Invoicing Certification for Mandates](section_1023113919.md) — section_1023113919
+      - [Colombia Localization SuiteApp Limitations and Best Practices](article_164252157234.md) — article_164252157234
+    - [SuiteTax Latam Engine - Colombia Records](article_161970452622.md) — article_161970452622
+      - [SuiteTax Latam Engine - Colombia Records SuiteApp Installation](article_161970455333.md) — article_161970455333
+        - [Prerequisites for Installing the SuiteTax Latam Engine - Colombia Records SuiteApp](subsect_161970457034.md) — subsect_161970457034
+        - [Installing the SuiteTax Latam Engine - Colombia Records SuiteApp](subsect_161970457713.md) — subsect_161970457713
+        - [Verifying the Import Status of the Colombia Predefined Records](subsect_162023200235.md) — subsect_162023200235
+      - [Roles and Permissions for SuiteTax Latam Engine - Colombia Records](article_1113053219.md) — article_1113053219
+      - [Tax Types Setup for Colombia](article_162033260434.md) — article_162033260434
+      - [Parameter Types for Colombia](article_1226030407.md) — article_1226030407
+      - [SuiteTax Latam Engine Plug-ins for Colombia](article_1226032612.md) — article_1226032612
+        - [IVA Colombia Plug-in](article_1226033047.md) — article_1226033047
+        - [RETEFUENTE Colombia Plug-in](article_1226033130.md) — article_1226033130
+        - [RETEICA Colombia Plug-in](article_1226033153.md) — article_1226033153
+        - [RETEIVA Colombia Plug-in](article_1226033144.md) — article_1226033144
+      - [Defining the UVT Value for Colombia](article_1022040415.md) — article_1022040415
+      - [Tax Determination Rules Setup for Colombia](article_162023364109.md) — article_162023364109
+        - [Finding the Predefined Tax Determination Rules CSVs for Colombia](article_161970511336.md) — article_161970511336
+        - [Predefined Tax Determination Rules Import for Colombia](article_162023412696.md) — article_162023412696
+          - [Importing Predefined Tax Determination Rules for Colombia](subsect_162135025016.md) — subsect_162135025016
+          - [Importing Predefined Tax Determination Settings for Colombia](subsect_162135026697.md) — subsect_162135026697
+        - [Tax Determination Rules Preferences for Colombia](article_162023263313.md) — article_162023263313
+      - [SuiteTax Latam Engine - Colombia Records Best Practices and Known Limitations](article_0229094012.md) — article_0229094012

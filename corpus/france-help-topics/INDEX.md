@@ -1,0 +1,72 @@
+# France Help Topics
+
+68 pages, category: Country-Specific Features
+
+- [France Help Topics](section_4169635010.md) — section_4169635010
+  - [France Terminology](article_1102110726.md) — article_1102110726
+  - [France Account Setup](section_1557405119.md) — section_1557405119
+  - [Setting Up France-Specific Preferences](section_1557405157.md) — section_1557405157
+  - [Configuring NetSuite Accounts for Plan Comptable Général Compliance](section_159843313396.md) — section_159843313396
+  - [France-Specific SuiteApps](section_158590000852.md) — section_158590000852
+    - [France Localization](section_157294233447.md) — section_157294233447
+      - [France Localization Overview](section_4730523308.md) — section_4730523308
+        - [Supported Languages in France Localization SuiteApp](section_163585261042.md) — section_163585261042
+      - [Prerequisites for Installing the France Localization SuiteApp](section_4730526614.md) — section_4730526614
+      - [Installing the France Localization SuiteApp](section_4730535012.md) — section_4730535012
+        - [Management of France Localization Components](section_160042962512.md) — section_160042962512
+      - [Roles with Access to France Localization Features](section_162617423441.md) — section_162617423441
+        - [Setting Permissions to Use the France Chart of Accounts](section_4730537012.md) — section_4730537012
+      - [Configuring France Localization SuiteApp Features](section_163058267184.md) — section_163058267184
+        - [France Localization Preferences](section_0519111749.md) — section_0519111749
+          - [Deploying a Script to Apply French Translations of Custom Transactions](section_1005122740.md) — section_1005122740
+          - [Deploying Mass Update scripts for EcritureLib field update](section_0704081445.md) — section_0704081445
+      - [France Localization Changes that Affect Transactions](section_1519037865.md) — section_1519037865
+      - [France Chart of Accounts](section_4730589893.md) — section_4730589893
+        - [Guidelines for Chart of Accounts Edit and Import](section_163056945135.md) — section_163056945135
+      - [France Financial Reports](section_156388724912.md) — section_156388724912
+        - [Getting a France Financial Report Layout](section_160034165510.md) — section_160034165510
+        - [Modifying France Reports (Country-Specific Reports)](section_160086702493.md) — section_160086702493
+        - [France Reports (CSR) Details](section_160145374751.md) — section_160145374751
+        - [France Reports (CSR) (Pre 2025) Details](article_83170535237.md) — article_83170535237
+        - [Best Practice for Applying Transactions for Lettrage](section_160085908153.md) — section_160085908153
+      - [Tax Reports in France Localization](section_157546986238.md) — section_157546986238
+        - [SuiteTax-Based Reports Setup for France Localization](section_157562414065.md) — section_157562414065
+        - [Configuring France VAT Reports for Cash and Accruals Basis](section_160041507132.md) — section_160041507132
+        - [Prerequisites for Generating the France FEC Files](section_163057160474.md) — section_163057160474
+          - [Including Period End Journals in France FEC](section_163057260404.md) — section_163057260404
+          - [Saved Searches for FEC Compliance](section_160041767095.md) — section_160041767095
+        - [Generating the France FEC and SuiteTax-Based Reports](section_163058970280.md) — section_163058970280
+        - [Periodic VAT Return CA3](section_156775787841.md) — section_156775787841
+        - [Periodic VAT Return CA3 - 2024](article_101109421610.md) — article_101109421610
+        - [Declaration of Exchange of Goods (DEB)](section_159005773113.md) — section_159005773113
+          - [Net Mass Requirement in France Declaration of Exchange of Goods (DEB)](section_163878458195.md) — section_163878458195
+          - [France Nature of Transaction Code](subsect_157164601071.md) — subsect_157164601071
+          - [Regime Code](section_157201520734.md) — section_157201520734
+          - [France Department Code](section_157201664359.md) — section_157201664359
+        - [European Services Declaration (DES)](section_159006531001.md) — section_159006531001
+        - [Fichier d'Ecritures Comptables (FEC) in France Localization](section_1539840650.md) — section_1539840650
+          - [France FEC Data Extract](section_163058205041.md) — section_163058205041
+          - [Draft FEC Data Extract](article_78151326078.md) — article_78151326078
+          - [France FEC Lettrage Report](section_163058213722.md) — section_163058213722
+          - [Notice Explicative](section_163610331376.md) — section_163610331376
+      - [France Payment Formats](section_1557744471.md) — section_1557744471
+        - [Setting Up Company Bank Records in France](section_N1611522.md) — section_N1611522
+        - [Setting Up Bank Records of Vendors in France](section_N1612553.md) — section_N1612553
+        - [Setting Up Bank Records of Employees in France](section_N1613472.md) — section_N1613472
+        - [Setting Up Bank Records of Customers in France](section_N1613837.md) — section_N1613837
+        - [Setting Up Bank Records of Partners in France](section_3851204363.md) — section_3851204363
+        - [France Entity Bank Details](section_160042663023.md) — section_160042663023
+  - [France Tax Topics For Accounts Without SuiteTax](section_1557736092.md) — section_1557736092
+    - [France Tax Codes](section_N1890308.md) — section_N1890308
+    - [France VAT Report](section_N1892249.md) — section_N1892249
+      - [What goes into each box - France VAT report](section_N1892495.md) — section_N1892495
+    - [France Intrastat Declaration of Exchange of Goods (DEB) Report](section_157018267486.md) — section_157018267486
+      - [France Intrastat DEB Report Fields](section_157018414429.md) — section_157018414429
+      - [Country of Origin](section_157078252948.md) — section_157078252948
+      - [France Intrastat DEB Report Dispatches and Arrivals Forms](section_157018499304.md) — section_157018499304
+      - [Generating the France Intrastat DEB Report](section_157018543598.md) — section_157018543598
+    - [France Fichier d'Ecritures Comptables (FEC)](section_3929748561.md) — section_3929748561
+      - [Generating the France Fichier d'Ecritures Comptables (FEC) Report](section_158148814343.md) — section_158148814343
+      - [France Fichier d'Ecritures Comptables (FEC) Reporting Compliance](section_158149638709.md) — section_158149638709
+      - [Tax Audit Files Configuration for France Fichier d'Ecritures Comptables (FEC)](section_158149659321.md) — section_158149659321
+      - [France Fichier d'Ecritures Comptables (FEC) Field Mapping](section_156447518392.md) — section_156447518392

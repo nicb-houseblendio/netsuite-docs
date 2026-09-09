@@ -1,0 +1,17 @@
+# NetSuite for Mobile FAQ
+
+NetSuite for Mobile FAQ (6 pages): NetSuite for Mobile FAQ
+
+## Chapters
+- [NetSuite for Mobile FAQ](chapter_1556005109.md): The following sections cover frequently asked questions related to the NetSuite for Mobile application.
+  - [Setup and Login](section_158695027442.md): Frequently asked questions related to setup and login.
+  - [Security](section_158695035601.md): Frequently asked questions related to security concerns.
+  - [Usability](section_158695040512.md): Frequently asked questions related to general usability of the app.
+  - [Expense Features](section_158695045826.md): Frequently asked questions related to expense reporting.
+  - [Working with Records](section_158695049218.md): Frequently asked questions related to record management.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-for-mobile-faq

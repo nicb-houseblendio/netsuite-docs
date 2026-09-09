@@ -1,0 +1,42 @@
+{
+  "branch": "ask-oracle",
+  "generatedAt": null,
+  "pages": {
+    "article_5100902387": {
+      "path": "corpus/ask-oracle/article_5100902387.md",
+      "title": "Ask Oracle",
+      "type": "article",
+      "breadcrumb": "NetSuite Basics > Ask Oracle",
+      "parent": "book_N473219",
+      "category": "netsuite-basics",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_5100902387.html",
+      "etag": "\"8489292a785899c5960ac82d63db10b6:1786980329.586947\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:03:17.519Z",
+      "sha256": "5e97cbf46c70dc242a0eb3adf622475b55e4e8c7e5259d1f5bf9b06f0b9a859a",
+      "bytes": 5327,
+      "anchors": 2,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "article_0527021536": {
+      "path": "corpus/ask-oracle/article_0527021536.md",
+      "title": "More Ask Oracle Features",
+      "type": "article",
+      "breadcrumb": "NetSuite Basics > Ask Oracle > More Ask Oracle Features",
+      "parent": "article_5100902387",
+      "category": "netsuite-basics",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_0527021536.html",
+      "etag": "\"d263e47251dba21570ce4da0cfe50d8d:1786980201.48651\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:03:17.808Z",
+      "sha256": "1a95d20ad726ed76ac4936f482478a051d5e6123da5186e01b0cecd834792654",
+      "bytes": 5684,
+      "anchors": 6,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,22 @@
+# Frequently Asked Questions
+
+Frequently Asked Questions (11 pages): Frequently Asked Questions
+
+## Chapters
+- [Frequently Asked Questions](book_N3895042.md): - FAQ: SFA & Marketing(https://docs.
+  - [FAQ: SFA & Marketing](chapter_N3898540.md): Sales Force Automation See the questions and answers below for information on Sales Force Automation.
+  - [FAQ: Accounting & ERP](chapter_N3906699.md): See the questions and answers below for information on Accounting & ERP.
+  - [FAQ: Fixed Assets Management](chapter_3891643944.md): See the questions and answers below for information on the Fixed Assets Management SuiteApp.
+  - [FAQ: France Fichier d'Ecritures Comptables (FEC)](article_134240377.md): To access this in Français, see FAQ concernant le FEC(https://system.
+  - [FAQ: Site Builder Website](chapter_N3920840.md): See the questions and answers below for information about Site Builder websites.
+  - [FAQ: Electronic Payments](chapter_3727474216.md): See the questions and answers below for information on Electronic Payments.
+  - [FAQ: File Drag and Drop SuiteApp](chapter_3765315602.md): See the questions and answers below for information on the File Drag and Drop SuiteApp.
+  - [FAQ: Portugal Document Series](article_164561285107.md): See the questions and answers below for information about the document series requirement in Portugal.
+  - [FAQ: Warranty and Repair Management](chapter_3933911525.md): See the questions and answers below for information on the Warranty and Repair Management SuiteApp.
+  - [FAQ: Passwords and 2FA](article_3112731776.md): See the questions and answers below for more information about passwords and two-factor authentication (2FA) in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch frequently-asked-questions

@@ -1,0 +1,18 @@
+# File Cabinet Overview
+
+File Cabinet Overview (19 pages): File Cabinet Overview
+
+## Chapters
+- [File Cabinet Overview](chapter_N541319.md): Only users with the Administrator role and users with the Documents and Files permission can use the File Cabinet.
+  - [File Cabinet Page Overview](section_163308205654.md): When the File Cabinet feature is enabled, users with the Administrator role and users with the Documents and Files permission can access File Cabinet files.
+  - [Searching for and Viewing Files in the File Cabinet](section_4799226178.md): From the File Cabinet page, you can view and search for File Cabinet folders and files.
+  - [Permissions and File Cabinet Files](section_4799276714.md): Users with the Administrator role and users with the Documents and Files permission can access File Cabinet files.
+  - [Preferences on File Records](subsect_0530052000.md): When you edit your files in the File Cabinet, you can check the following boxes: | Preference | Description | | --- | --- | | Inactive | Prevents files from appearing on lists.
+  - [File Cabinet Folders](section_4811464978.md): You can use folders to organize the files in your File Cabinet.
+  - [Working with Files](section_4811461596.md): This section includes information about what you can do on file records in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch file-cabinet-overview

@@ -1,0 +1,49 @@
+# Denmark Help Topics
+
+45 pages, category: Country-Specific Features
+
+- [Denmark Help Topics](chapter_157477118810.md) — chapter_157477118810
+  - [Denmark Account Setup](section_157494334804.md) — section_157494334804
+  - [Setting Up Denmark-specific Preferences](section_157494858827.md) — section_157494858827
+  - [Denmark-specific SuiteApps](section_161001522665.md) — section_161001522665
+    - [Denmark Tax Reports](article_32140350988.md) — article_32140350988
+      - [Denmark Tax Reports Overview](article_97163731080.md) — article_97163731080
+      - [Setting Up Denmark Tax Reports SuiteApp](article_66163815558.md) — article_66163815558
+      - [Installing the Denmark Tax Reports SuiteApp](article_0920111923.md) — article_0920111923
+      - [Generating the Denmark Standard Audit File for Tax (SAF-T) Financial](article_1205050054.md) — article_1205050054
+      - [Denmark Standard Audit File for Tax (SAF-T) Report Structure](article_1205050355.md) — article_1205050355
+        - [Header](section_1211043308.md) — section_1211043308
+        - [Master Files](section_1211042701.md) — section_1211042701
+        - [General Ledger Entries](section_1211040925.md) — section_1211040925
+        - [Source Documents](section_1209054613.md) — section_1209054613
+    - [Denmark Localization](article_159602682368.md) — article_159602682368
+      - [Prerequisites](article_159609643544.md) — article_159609643544
+      - [Installing the Denmark Localization SuiteApp](article_159609654577.md) — article_159609654577
+      - [Create Localization Settings Record](article_1003020744.md) — article_1003020744
+      - [Create Country-Specific Localization Settings Record](article_1003020804.md) — article_1003020804
+      - [Denmark Localization Feature Availability](article_159609660159.md) — article_159609660159
+        - [Automatic EU Tax Code Selection for EC Sales](article_159610112030.md) — article_159610112030
+          - [Setup](section_159610118082.md) — section_159610118082
+            - [Creating a Dummy Tax Code](section_159610617662.md) — section_159610617662
+            - [Creating a New Entry in Localization Settings Record](section_159610661860.md) — section_159610661860
+            - [Setting EC-DUMMY-DK Tax Code on Foreign Customers Records](section_159610691363.md) — section_159610691363
+            - [Setting Item VAT Type of Nature](section_159610762874.md) — section_159610762874
+          - [Guideline](section_159610823313.md) — section_159610823313
+        - [Invoicing](article_159611171368.md) — article_159611171368
+          - [Reference Number Calculation](section_159611172590.md) — section_159611172590
+          - [Country-Specific Invoice Layout](section_159612061076.md) — section_159612061076
+          - [VAT Detailed Summary](section_159612122938.md) — section_159612122938
+        - [Automatic Selection of Mandatory Classifications](article_159644449789.md) — article_159644449789
+          - [Accounting Preferences](section_159644455630.md) — section_159644455630
+          - [Global Settings](section_159644459230.md) — section_159644459230
+          - [Subsidiary Specific Settings](section_159644464295.md) — section_159644464295
+          - [Script Deployment](section_159644471343.md) — section_159644471343
+        - [Statutory Reporting Templates](article_159644750264.md) — article_159644750264
+        - [Payment Templates](article_159644807917.md) — article_159644807917
+  - [Denmark Tax Topics For Accounts Without SuiteTax](section_157495175064.md) — section_157495175064
+    - [Denmark Tax Codes](section_N1885417.md) — section_N1885417
+    - [Setting Up Tax Filing for Denmark](section_N1886840.md) — section_N1886840
+    - [Denmark VAT Report](section_N1887046.md) — section_N1887046
+      - [What goes into each box - Denmark VAT Report](section_3905550246.md) — section_3905550246
+    - [Intrastat Report for Denmark](section_1505371864.md) — section_1505371864
+      - [Nature of Transaction Codes for Denmark](section_164379547336.md) — section_164379547336

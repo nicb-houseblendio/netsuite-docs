@@ -1,0 +1,15 @@
+# Overdue Balances and Collections
+
+Overdue Balances and Collections (84 pages): Overdue Balances and Collections
+
+## Chapters
+- [Overdue Balances and Collections](section_N1302093.md): - Collections(https://docs.
+  - [Collections](chapter_4418080075.md): Using the NetSuite integrated customer records and payment records, you can track customers with overdue balances and contact them about making payment.
+  - [Dunning](chapter_4022915403.md): - Dunning Overview(https://docs.
+  - [Finance Charges](section_N1301640.md): Many businesses charge late fees or finance charges on invoices that are overdue.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch overdue-balances-and-collections

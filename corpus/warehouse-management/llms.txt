@@ -1,0 +1,19 @@
+# Warehouse Management
+
+Warehouse Management (145 pages): Warehouse Management
+
+## Chapters
+- [Warehouse Management](book_156356229851.md): - NetSuite WMS Overview(https://docs.
+  - [NetSuite WMS Overview](chapter_156382517509.md): NetSuite Warehouse Management System (WMS) is an important component for the efficient operation of your warehouse.
+  - [NetSuite WMS Setup](chapter_156382465711.md): To enable Warehouse Management, see the following topics for the initial setup procedures: 1.
+  - [Mobile Device Basics for NetSuite WMS](chapter_156382508723.md): NetSuite WMS uses the internet browser on your mobile device to enable you to complete transactions wirelessly in your warehouse.
+  - [Inbound Processing](chapter_1541435915.md): Inbound processing is the receiving and putaway of items into your warehouse.
+  - [Inventory Processing](chapter_1541441780.md): Manage received inventory throughout its life cycle within a warehouse.
+  - [Outbound Processing](chapter_1541442931.md): Outbound processing involves releasing orders that you want to process for shipping out of a warehouse.
+  - [Warehouse Management FAQs](article_6133902954.md): In this section, find the answers to frequently asked questions about setting up or using NetSuite WMS.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch warehouse-management

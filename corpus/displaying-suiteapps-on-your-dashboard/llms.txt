@@ -1,0 +1,12 @@
+# Displaying SuiteApps on Your Dashboard
+
+Displaying SuiteApps on Your Dashboard (1 pages): Displaying SuiteApps on Your Dashboard
+
+## Chapters
+- [Displaying SuiteApps on Your Dashboard](section_4629759056.md): You can use some SuiteApps installed in your account as dashboard portlets.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch displaying-suiteapps-on-your-dashboard

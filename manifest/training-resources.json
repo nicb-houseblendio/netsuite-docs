@@ -1,0 +1,42 @@
+{
+  "branch": "training-resources",
+  "generatedAt": null,
+  "pages": {
+    "set_N3859054": {
+      "path": "corpus/training-resources/set_N3859054.md",
+      "title": "Additional Resources",
+      "type": "set",
+      "breadcrumb": "Additional Resources",
+      "parent": null,
+      "category": "additional-resources",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/set_N3859054.html",
+      "etag": "\"257cce7e0e90411af21d7891ede886db:1786980797.480634\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:39.579Z",
+      "sha256": "eb1f4893c4a3e00369a26178e2503183e686001fe4bbbc36963ddab3b099f8bf",
+      "bytes": 867,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "preface_3710623483": {
+      "path": "corpus/training-resources/preface_3710623483.md",
+      "title": "Training Resources",
+      "type": "preface",
+      "breadcrumb": "Additional Resources > Training Resources",
+      "parent": "set_N3859054",
+      "category": "additional-resources",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/preface_3710623483.html",
+      "etag": "\"adbec057edb41b26d39cd66c3f77d7ff:1786980406.043589\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:39.926Z",
+      "sha256": "206eea20784e0271fc006c95e5ba32538406347a563a78738ef24eed31c5ea50",
+      "bytes": 3429,
+      "anchors": 5,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

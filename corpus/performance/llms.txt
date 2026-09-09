@@ -1,0 +1,12 @@
+# Performance
+
+Performance (1 pages): Performance
+
+## Chapters
+- [Performance](article_54151955419.md): To learn more about how you can use NetSuite for performance management, watch the following videos: Application Performance Management APM: How to Monitor your Account Concurrency Usage(https://videohub.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch performance

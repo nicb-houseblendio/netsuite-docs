@@ -1,0 +1,18 @@
+# France Help Topics
+
+France Help Topics (68 pages): France Help Topics
+
+## Chapters
+- [France Help Topics](section_4169635010.md): Overview The following Help topics provide information about NetSuite features that are specific for companies doing business in France.
+  - [France Terminology](article_1102110726.md): The following table defines the terms used in NetSuite to support businesses in France.
+  - [France Account Setup](section_1557405119.md): Setting up an account for an organization doing business in France usually requires enabling several features and installing additional SuiteApps.
+  - [Setting Up France-Specific Preferences](section_1557405157.md): To setup your NetSuite account according to France-specific preferences, you must adjust your NetSuite Company, and Subsidiary settings.
+  - [Configuring NetSuite Accounts for Plan Comptable Général Compliance](section_159843313396.md): As a company with France subsidiaries, you must configure your NetSuite account in addition to setting up the company, subsidiary, and general preferences, to be compliant with France's generally accepted accounting principles or the Plan Comptable Général (PCG).
+  - [France-Specific SuiteApps](section_158590000852.md): - France Localization(https://docs.
+  - [France Tax Topics For Accounts Without SuiteTax](section_1557736092.md): If you have a France subsidiary and nexus and you have the International Tax Reports SuiteApp installed in your NetSuite account, you can generate the France TVA Form in English or French.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch france-help-topics

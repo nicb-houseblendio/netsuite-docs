@@ -1,0 +1,24 @@
+{
+  "branch": "narrative-insights-overview",
+  "generatedAt": null,
+  "pages": {
+    "article_135342304": {
+      "path": "corpus/narrative-insights-overview/article_135342304.md",
+      "title": "Narrative Insights Overview",
+      "type": "article",
+      "breadcrumb": "Artificial Intelligence in NetSuite > Narrative Insights Overview",
+      "parent": "book_5131850092",
+      "category": "artificial-intelligence-in-netsuite",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_135342304.html",
+      "etag": "\"a07bed4cb07e1052c7e296516e630441:1786980285.518869\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:02:02.909Z",
+      "sha256": "b2ad22a4656909a8f593f25271049b5effe66e1c83cc6fc3faf163a82aea9a86",
+      "bytes": 5743,
+      "anchors": 3,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

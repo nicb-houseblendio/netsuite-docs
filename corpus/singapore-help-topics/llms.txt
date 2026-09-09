@@ -1,0 +1,18 @@
+# Singapore Help Topics
+
+Singapore Help Topics (85 pages): Singapore Help Topics
+
+## Chapters
+- [Singapore Help Topics](section_4256391369.md): Overview The following Help topics provide information about NetSuite features that are specific to Singapore business setting and requirements only.
+  - [Setting up Singapore-specific Features and Preferences](section_1549006623.md): As a NetSuite user, your account should already be configured to suit your country and business-specific needs.
+  - [Singapore Tax Topics for Accounts Without SuiteTax](chapter_N1981261.md): You can generate GST reports and tax audit files for Singapore by installing the following NetSuite SuiteApps: - International Tax Reports(https://docs.
+  - [Singapore Invoicing Features](section_1523859369.md): Singapore invoicing features are included in the Southeast Asia Localization SuiteApp, which you must manually install.
+  - [Singapore PEPPOL-Ready e-Invoicing](section_1003105713.md): The Singapore PEPPOL-Ready e-Invoicing SuiteApp supports PEPPOL e-document exchange and Goods and Services Tax (GST) InvoiceNow processing in Singapore The SuiteApp provides the following capabilities - Exchanges e-documents with customers and vendors through the DataPost PEPPOL access point in Singapore.
+  - [Singapore Payment Formats](section_N1642722.md): You must install the Electronic Bank Payments SuiteApp and Southeast Asia Localization SuiteApp to set up and specify Singapore electronic payment file formats as the electronic fund transfer (EFT) or direct debit templates.
+  - [Singapore Localization](article_13144320779.md): Note: Singapore Localization requires SuiteTax and the Tax Reporting Framework SuiteApp.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch singapore-help-topics

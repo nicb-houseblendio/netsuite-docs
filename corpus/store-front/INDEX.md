@@ -1,0 +1,596 @@
+# Store Front
+
+592 pages, category: Commerce
+
+- [Store Front](set_15021498.md) — set_15021498
+  - [Getting Started](section_N2655840.md) — section_N2655840
+    - [Enable Features and Set Preferences](section_N2656144.md) — section_N2656144
+    - [Install Your Commerce Website Applications](section_N2675216.md) — section_N2675216
+    - [SuiteCommerce Roles and Permissions](article_8115751901.md) — article_8115751901
+    - [Link Your Commerce Applications to a Domain](chapter_157970772311.md) — chapter_157970772311
+      - [Link SSP Application to Your Domain](article_1231025705.md) — article_1231025705
+      - [Deploy SSP Application to Your Domain](article_1231024650.md) — article_1231024650
+    - [Prepare the Web Site Setup Record](section_N2675493.md) — section_N2675493
+      - [Set Minimum Site Record Fields](section_1520292597.md) — section_1520292597
+      - [Set Up Initial Field Sets](section_3716578295.md) — section_3716578295
+      - [Set Up a Initial Search Index](subsect_1522121409.md) — subsect_1522121409
+      - [Comprehensive Web Site Setup Reference](section_159499875581.md) — section_159499875581
+        - [Web Site Setup Preferences](section_N2562624.md) — section_N2562624
+        - [Shopping Preferences](section_N2567548.md) — section_N2567548
+        - [Analytics Preferences](section_N2570054.md) — section_N2570054
+        - [Search Index Preferences](article_159553756087.md) — article_159553756087
+        - [Field Set Preferences](article_159553770489.md) — article_159553770489
+        - [Web Site Email Preferences](section_1518463563.md) — section_1518463563
+        - [Upsell Preferences](section_N2574968.md) — section_N2574968
+        - [Images Preferences](article_159554018669.md) — article_159554018669
+        - [Touch Point Preferences](section_N2576160.md) — section_N2576160
+        - [Domain Preferences](article_159553835589.md) — article_159553835589
+        - [System Notes](article_159553904637.md) — article_159553904637
+    - [Next Steps](chapter_1520191430.md) — chapter_1520191430
+  - [Themes & Extensions](preface_1518478184.md) — preface_1518478184
+    - [Installing Theme and Extension SuiteApps](section_1510953648.md) — section_1510953648
+    - [Manage Themes and Extensions](section_1510954484.md) — section_1510954484
+      - [Setting Up Script Deployments for Themes and Extensions](section_1561500233.md) — section_1561500233
+      - [Extension Manager Overview](section_1548960962.md) — section_1548960962
+      - [Creating a New Activation](section_1549026512.md) — section_1549026512
+      - [Activating Themes and Extensions](section_1549034518.md) — section_1549034518
+        - [Activating a Theme](subsect_1549039282.md) — subsect_1549039282
+        - [Activating Extensions](subsect_1549039302.md) — subsect_1549039302
+        - [Updating Themes and Extensions](subsect_1549054389.md) — subsect_1549054389
+        - [Updating Unmanaged Themes](section_158712811673.md) — section_158712811673
+        - [Troubleshoot Activation Errors](section_1549026540.md) — section_1549026540
+    - [Commerce Extensions](chapter_1530632028.md) — chapter_1530632028
+    - [Commerce Themes](chapter_158386920036.md) — chapter_158386920036
+      - [Prerequisites for Using Commerce Themes](subsect_158993304428.md) — subsect_158993304428
+      - [Available Commerce Themes and Supported Features](section_158695491035.md) — section_158695491035
+        - [Bridge Theme](section_158386941791.md) — section_158386941791
+        - [Horizon Theme](section_158386965797.md) — section_158386965797
+        - [Manor Theme](section_158386968178.md) — section_158386968178
+        - [Posh Theme](section_158386970218.md) — section_158386970218
+        - [Summit Theme](section_158386972535.md) — section_158386972535
+        - [Threads Theme](section_158386974998.md) — section_158386974998
+      - [Configuring Themes](section_158680127593.md) — section_158680127593
+        - [Configuring Settings Specific to Individual Themes](section_159863897414.md) — section_159863897414
+        - [Configuring Global Theme Settings](section_159863912269.md) — section_159863912269
+          - [Configuring the Home Page](section_158871543692.md) — section_158871543692
+          - [Configuring the Header](section_158819251159.md) — section_158819251159
+          - [Configuring the Footer](section_158819258356.md) — section_158819258356
+          - [Configuring the 404 Page](section_158819255390.md) — section_158819255390
+          - [Configuring Web Fonts](section_158819886880.md) — section_158819886880
+          - [Configuring the Login Page](section_158819887902.md) — section_158819887902
+      - [Commerce Themes and Skins](section_159222856038.md) — section_159222856038
+  - [Web Store Items](preface_1518477920.md) — preface_1518477920
+    - [Item Availability](section_N2656387.md) — section_N2656387
+      - [Item Record Setup](section_1489003607.md) — section_1489003607
+      - [Search Index Settings](bridgehead_N2656462.md) — bridgehead_N2656462
+      - [Item Inventory](section_4456262230.md) — section_4456262230
+      - [Personalized Catalog Views](section_1557154874.md) — section_1557154874
+        - [Setting Up Personalized Catalog Views](section_1560331188.md) — section_1560331188
+          - [Defining Customer Segments](section_1560331337.md) — section_1560331337
+          - [Defining Item Segments](section_1560331373.md) — section_1560331373
+          - [Personalized Catalog Views Roles and Permissions](section_1560331283.md) — section_1560331283
+          - [Enabling Personalized Catalog Views](section_1560331236.md) — section_1560331236
+          - [Managing which Customer Segments can Access Item Segments](section_1560331424.md) — section_1560331424
+            - [Defining which Customer Segments can Access Items (CSM)](subsect_1560331471.md) — subsect_1560331471
+            - [Defining which Customer Segments can Access Items (Customer Group)](subsect_1560331508.md) — subsect_1560331508
+            - [Defining which Customer Segments can Access Items (Item Collection)](subsect_1560331493.md) — subsect_1560331493
+            - [Defining which Customer Segments can View Items (Commerce Categories)](subsect_159414449791.md) — subsect_159414449791
+            - [Defining Visibility of Unmapped Items](section_1560331608.md) — section_1560331608
+            - [Impact of Website Visibility Levels on Search Results](section_160821615284.md) — section_160821615284
+        - [Verifying Personalized Catalog Views](section_1560334647.md) — section_1560334647
+          - [Using Workbooks to Verify Personalized Catalog Views](section_1560334678.md) — section_1560334678
+            - [Items by Customer Workbook](section_1561652138.md) — section_1561652138
+              - [Items by Customer Dataset](section_158264305585.md) — section_158264305585
+              - [Items by Customer Workbook](section_158264340182.md) — section_158264340182
+            - [Customers by Item Workbook](section_1561652168.md) — section_1561652168
+              - [Customers by Item Dataset](section_158264420301.md) — section_158264420301
+              - [Customers by Item Workbook](section_158264433760.md) — section_158264433760
+          - [Using SMT Advanced Preview to Verify Personalized Catalog Views](section_1560334720.md) — section_1560334720
+          - [Tips on Testing Personalized Catalog Views](section_1562075388.md) — section_1562075388
+        - [Personalized Catalog View Examples](section_1560356094.md) — section_1560356094
+          - [Exclusive Items for VIP Customers](section_1560356141.md) — section_1560356141
+          - [Different Catalogs based on Customer Location](section_1560356161.md) — section_1560356161
+          - [Items Available only to Certified Customers](section_1560356190.md) — section_1560356190
+          - [Different Product Lines Available to Different Customers](section_161133053638.md) — section_161133053638
+      - [Troubleshooting Item Availability](section_1560335048.md) — section_1560335048
+    - [Item Grouping Methods](section_1561721814.md) — section_1561721814
+      - [Item Collections](section_1561369306.md) — section_1561369306
+        - [Item Collections Roles and Permissions](section_1561971935.md) — section_1561971935
+        - [Creating Item Collections](subsect_1560347402.md) — subsect_1560347402
+      - [Commerce Categories](chapter_4673202005.md) — chapter_4673202005
+        - [Set Up NetSuite](section_4698159725.md) — section_4698159725
+          - [Enable Commerce Categories Feature](section_4670512771.md) — section_4670512771
+          - [Add Commerce Categories to Website Field Sets](section_4696324223.md) — section_4696324223
+          - [Add Commerce Categories to Website Search Index](section_4696324780.md) — section_4696324780
+          - [Set Image Resizing Options For Commerce Category Banners](section_4696325390.md) — section_4696325390
+          - [Set Up Commerce Catalog](section_4655070976.md) — section_4655070976
+          - [Set Up Commerce Categories](section_4655026143.md) — section_4655026143
+            - [Define Commerce Categories Basic Settings](section_4655026448.md) — section_4655026448
+            - [Create Subcategories for a Commerce Category](section_4655026863.md) — section_4655026863
+            - [Assign Items to a Commerce Category](section_4655027043.md) — section_4655027043
+            - [Commerce Category Customer Segment Assignment](section_157919236673.md) — section_157919236673
+          - [View Commerce Category Assignments for Items](section_1543951767.md) — section_1543951767
+          - [Exclude Empty Commerce Categories](section_156260198217.md) — section_156260198217
+        - [Configure Commerce Categories Properties](section_4719816887.md) — section_4719816887
+    - [Item Images](chapter_162137155579.md) — chapter_162137155579
+      - [Website Setup](section_162137343254.md) — section_162137343254
+      - [Rename Image Files with the Item Identifier](section_162137381373.md) — section_162137381373
+      - [Upload Images to the File Cabinet](section_162137397938.md) — section_162137397938
+      - [Image Resizing and Compression](section_162137401329.md) — section_162137401329
+      - [Review Images After Upload](section_162137415332.md) — section_162137415332
+    - [Item Page Options](chapter_1551305045.md) — chapter_1551305045
+      - [Grid Order](section_1553523698.md) — section_1553523698
+        - [Add Field Sets](subsect_1554911198.md) — subsect_1554911198
+        - [Configure Grid Order](subsect_1553536143.md) — subsect_1553536143
+        - [Set Up Matrix Items for Grid Order](subsect_1553536158.md) — subsect_1553536158
+      - [Size Charts](section_1535961080.md) — section_1535961080
+      - [Item Badges](chapter_1550679516.md) — chapter_1550679516
+      - [Inventory Display](chapter_1550863167.md) — chapter_1550863167
+      - [Stock Notifications](chapter_1550851854.md) — chapter_1550851854
+      - [Product Lead Time](chapter_1548178170.md) — chapter_1548178170
+      - [Infinite Scroll](chapter_1554909469.md) — chapter_1554909469
+      - [Product Page Printer](section_159665628983.md) — section_159665628983
+  - [Web Store Transactions](preface_1518478322.md) — preface_1518478322
+    - [Checkout](section_3753900404.md) — section_3753900404
+      - [Checkout Flows](section_4465847415.md) — section_4465847415
+      - [Minimum Web Store Order Amount](section_N2462817.md) — section_N2462817
+      - [Checkout Preferences](section_1542657119.md) — section_1542657119
+      - [Shopping Cart Options for Business Customers](section_1542387318.md) — section_1542387318
+      - [Out-of-Stock Messaging During Checkout](article_0304044915.md) — article_0304044915
+    - [Payment Options for Commerce Web Stores](chapter_N2469683.md) — chapter_N2469683
+      - [Set Up Credit Card Payments for Web Stores](section_N2469773.md) — section_N2469773
+        - [Set up Accounting Preferences for Web Stores](bridgehead_4653397591.md) — bridgehead_4653397591
+        - [Create Payment Methods for Web Stores](bridgehead_4653412329.md) — bridgehead_4653412329
+        - [Assign Payment Processing Profiles to Your Website](bridgehead_4653405996.md) — bridgehead_4653405996
+      - [Credit Card Payer Authentication for Commerce Web Stores](section_N2469977.md) — section_N2469977
+      - [3D Secure Payment Authentication for Commerce Web Stores](section_1503444797.md) — section_1503444797
+        - [Configure 3D Secure Payments for Native 3D Secure](subsect_160201996882.md) — subsect_160201996882
+        - [3D Secure Authentication Process](bridgehead_1503446133.md) — bridgehead_1503446133
+        - [End of Support for 3D Secure 1](section_070511571310.md) — section_070511571310
+        - [Migrating from 3D Secure 1 to 3D Secure 2](subsect_070512231910.md) — subsect_070512231910
+        - [Payment Gateway Support for 3D Secure 2](section_070511583110.md) — section_070511583110
+      - [Require Authorization for Web Store Credit Card Transactions](section_N2470131.md) — section_N2470131
+      - [Alternative Payment Methods for Commerce Web Stores](section_3746121267.md) — section_3746121267
+        - [Set Up an External Payment Gateway for Web Stores](subsect_0810105210.md) — subsect_0810105210
+        - [Create a New Payment Method for Web Stores](subsect_0810105314.md) — subsect_0810105314
+        - [Create a Payment Processing Profile for Web Stores](subsect_0810105332.md) — subsect_0810105332
+        - [Edit Website Settings for Payment Processing Profiles](subsect_0810105354.md) — subsect_0810105354
+        - [Set Up NetSuite to Process Alternative Payment Methods on Web Stores](subsect_0810105427.md) — subsect_0810105427
+        - [Restrict Web Store Payments Based on Customer's Currency](subsect_0810105444.md) — subsect_0810105444
+      - [ACH Payments on Commerce Web Stores](section_162737287771.md) — section_162737287771
+        - [Limitations of ACH Payments on Web Stores](subsect_162737351692.md) — subsect_162737351692
+        - [Prerequisites for ACH Payments on Web Stores](section_162737361569.md) — section_162737361569
+        - [Set Up ACH Payments for Commerce Web Stores](section_162764331225.md) — section_162764331225
+          - [Create a Payment Instrument for ACH Payments on Web Stores](subsect_162763385029.md) — subsect_162763385029
+          - [Enable ACH Payments for Web Stores](subsect_162763391301.md) — subsect_162763391301
+        - [Web Store User Experience for ACH Payments](section_162737365006.md) — section_162737365006
+      - [PayPal Integration and Express Checkout for Commerce Web Stores](section_N2470255.md) — section_N2470255
+        - [Setting Up PayPal Express Checkout for Web Stores](section_N2470380.md) — section_N2470380
+        - [Using Multiple PayPal Accounts on Web Stores](section_N2470797.md) — section_N2470797
+        - [Authorization and Capture with PayPal Express Checkout on Web Stores](section_N2473428.md) — section_N2473428
+        - [Managing Customer Records with PayPal Express Checkout on Web Stores](section_N2473533.md) — section_N2473533
+        - [Refunding Web Store Orders Paid by PayPal Express Checkout](section_N2473655.md) — section_N2473655
+        - [Web Store PayPal Integration Without Express Checkout](section_N2473756.md) — section_N2473756
+        - [Web Store Checkout Process with PayPal Express Checkout](section_N2473830.md) — section_N2473830
+      - [SuiteCommerce Payment Instruments Integration](subsect_1547502831.md) — subsect_1547502831
+        - [Payment Card Management for Commerce Web Stores](subsect_1550867967.md) — subsect_1550867967
+        - [Tokenized Payment Instruments for Web Stores](subsect_1549636748.md) — subsect_1549636748
+    - [Shipping Setup](section_N2462067.md) — section_N2462067
+      - [Setting a Preferred Shipping Method for Your Site](section_N2462284.md) — section_N2462284
+      - [Shipping Estimator](section_1489430469.md) — section_1489430469
+      - [Restricting Ship To Countries in Your Commerce Web Store](section_N2462655.md) — section_N2462655
+      - [Shipping Items in Your OneWorld SuiteCommerce Website](section_N2468211.md) — section_N2468211
+      - [Shipping Bar](section_1533646274.md) — section_1533646274
+      - [Multiple Ship To](section_4188560821.md) — section_4188560821
+        - [Setup Tasks](section_4212611303.md) — section_4212611303
+        - [Known Limitations](section_4212612312.md) — section_4212612312
+    - [Device Fingerprinting](section_4652727157.md) — section_4652727157
+    - [Commerce Web Store Taxes](chapter_1501094122.md) — chapter_1501094122
+      - [SuiteCommerce VAT, GST, PST Tax Support](subsect_1548344002.md) — subsect_1548344002
+      - [SuiteCommerce SuiteTax Support](subsect_1547824626.md) — subsect_1547824626
+  - [Search](preface_1518478010.md) — preface_1518478010
+    - [Search Settings Overview](section_N2656810.md) — section_N2656810
+      - [Select and Configure Search Fields](section_N2657065.md) — section_N2657065
+        - [Understanding Match Types](bridgehead_1499938097.md) — bridgehead_1499938097
+        - [Sample Search Field Configuration](bridgehead_1510159801.md) — bridgehead_1510159801
+        - [Configure Search Fields](article_1201013254.md) — article_1201013254
+      - [Select and Configure Facet Fields](section_N2657346.md) — section_N2657346
+        - [Configure Facet Fields](section_156587819021.md) — section_156587819021
+        - [Facets as Parameters](section_1485881926.md) — section_1485881926
+      - [Select and Configure Sort Fields](section_N2659294.md) — section_N2659294
+        - [Configure Sort Fields](article_1201012018.md) — article_1201012018
+        - [Sorting Best Practices](section_1530613879.md) — section_1530613879
+      - [Define Field Sets](section_N2659559.md) — section_N2659559
+        - [Derived Fields for Field Sets](section_3923307567.md) — section_3923307567
+      - [Improve Relevance of your Search Results](section_1499342355.md) — section_1499342355
+      - [Troubleshoot Unexpected Search Results](section_1499343065.md) — section_1499343065
+      - [Improve the Performance of the Search Results Page](section_1499343101.md) — section_1499343101
+    - [Search Index Overview](section_N2659979.md) — section_N2659979
+      - [Events that Trigger Search Index Rebuild](bridgehead_1500035290.md) — bridgehead_1500035290
+      - [Events that Trigger Search Index Update](bridgehead_1500035310.md) — bridgehead_1500035310
+      - [Check the Search Index Job Status](bridgehead_1500035318.md) — bridgehead_1500035318
+      - [Rebuild the Search Index Manually](bridgehead_1500035326.md) — bridgehead_1500035326
+  - [Orders](preface_1518477823.md) — preface_1518477823
+    - [Payment Link](chapter_162516600357.md) — chapter_162516600357
+    - [Direct Invoice Payment](article_9160903634.md) — article_9160903634
+    - [Order Status](chapter_1546625199.md) — chapter_1546625199
+      - [Order Status Customer Experience](section_163577023563.md) — section_163577023563
+    - [Quantity Pricing](section_4618800801.md) — section_4618800801
+      - [Set Up Quantity Pricing in NetSuite](section_4622074558.md) — section_4622074558
+      - [Disable Quantity Pricing](section_4622078441.md) — section_4622078441
+    - [Order Quantity](section_1510780638.md) — section_1510780638
+    - [Strike-Through Pricing](section_159190992483.md) — section_159190992483
+      - [Verify Strike-Through Pricing is Enabled and Default Price Level is Set](section_1117030732.md) — section_1117030732
+      - [Set Up Item Pricing](subsect_159197517928.md) — subsect_159197517928
+      - [Add Default Price Level to Field Sets](subsect_159197524883.md) — subsect_159197524883
+      - [Set Customer Price Level](subsect_159197528898.md) — subsect_159197528898
+    - [Quick Order](section_4618800500.md) — section_4618800500
+      - [Set Up Quick Order in NetSuite](section_4619521786.md) — section_4619521786
+      - [Disable Quick Order](section_4619542396.md) — section_4619542396
+    - [Store Pickup for SuiteCommerce Websites](chapter_4793321418.md) — chapter_4793321418
+      - [Prerequisites for Store Pickup](section_4815858346.md) — section_4815858346
+      - [Set Up Store Pickup for Commerce Websites](section_4794169754.md) — section_4794169754
+    - [Store Locator](section_4594388350.md) — section_4594388350
+      - [Set up Store Locator in NetSuite](section_4606690741.md) — section_4606690741
+      - [Configure Store Locator Properties](section_4606690911.md) — section_4606690911
+      - [Map Engine Implementation](section_4622209902.md) — section_4622209902
+    - [Web Store Orders Workbook](chapter_156759301108.md) — chapter_156759301108
+      - [Web Store Orders Dataset](section_158159970692.md) — section_158159970692
+      - [Web Store Orders Workbook](section_156768914174.md) — section_156768914174
+  - [My Account](preface_158100703898.md) — preface_158100703898
+    - [SuiteCommerce MyAccount Overview](chapter_159786656208.md) — chapter_159786656208
+    - [Give Customers Access to My Account](article_7150741863.md) — article_7150741863
+    - [Product Lists](section_3952550164.md) — section_3952550164
+      - [Product List Custom Records](section_3957635745.md) — section_3957635745
+        - [SuiteCommerce Extensions Tab](bridgehead_3962681391.md) — bridgehead_3962681391
+      - [Configuring Product Lists](section_3952550980.md) — section_3952550980
+        - [Configuring Predefined Templates](bridgehead_3962849355.md) — bridgehead_3962849355
+        - [Configuring Item Display Options](bridgehead_3962849711.md) — bridgehead_3962849711
+      - [Product Lists Customer Experience](section_163188651186.md) — section_163188651186
+    - [Support Cases for Commerce](chapter_159292925828.md) — chapter_159292925828
+      - [Enable Commerce Support Cases](subsect_159346246707.md) — subsect_159346246707
+      - [Configure Commerce Support Cases Properties](subsect_159346247857.md) — subsect_159346247857
+      - [Grant Shoppers Access to Commerce Support Cases](subsect_79100059048.md) — subsect_79100059048
+      - [Commerce Support Cases User Experience](subsect_159346248762.md) — subsect_159346248762
+    - [Transaction Lists](chapter_1548081625.md) — chapter_1548081625
+      - [Configure Transaction Columns](article_0105031109.md) — article_0105031109
+      - [Transactions and Advanced Employee Permissions](subsect_163836481817.md) — subsect_163836481817
+    - [Save for Later](section_4024260541.md) — section_4024260541
+      - [Save for Later Prerequisites](bridgehead_4026889372.md) — bridgehead_4026889372
+      - [Save for Later Configuration Options](bridgehead_4026889870.md) — bridgehead_4026889870
+      - [Save for Later Customer Experience](section_163524824392.md) — section_163524824392
+    - [Quotes for Commerce Websites](section_4464799196.md) — section_4464799196
+      - [Set up Quotes in NetSuite](section_4494997073.md) — section_4494997073
+        - [Give Customers Permission to Request and View Quotes](bridgehead_4520209178.md) — bridgehead_4520209178
+        - [Confirm Item Searcher Fields are Defined](bridgehead_4520247759.md) — bridgehead_4520247759
+        - [Set Up Search Fields for Quotes](bridgehead_4520245527.md) — bridgehead_4520245527
+        - [Customize the Standard Quote Form to Display the Shipping Address](bridgehead_4527222910.md) — bridgehead_4527222910
+        - [Enable Online Ordering and Customer Access Features](bridgehead_1499798186.md) — bridgehead_1499798186
+      - [Configure Quotes Properties](section_4495040639.md) — section_4495040639
+        - [Customize Request a Quote Properties](section_156933397554.md) — section_156933397554
+        - [Set the Customer Status Internal ID](bridgehead_4527214444.md) — bridgehead_4527214444
+        - [Define an Invoice Form](bridgehead_4527219186.md) — bridgehead_4527219186
+        - [Set Quote Expiration](bridgehead_4706652617.md) — bridgehead_4706652617
+        - [Customize Sales Representative Information](bridgehead_4533229975.md) — bridgehead_4533229975
+        - [Disable Quotes](section_4719036553.md) — section_4719036553
+      - [Quotes for Commerce Websites User Experience](section_163999695164.md) — section_163999695164
+    - [Reorder Items](chapter_161286223878.md) — chapter_161286223878
+      - [How to Enable the Reorder Items Feature](subsect_161426071801.md) — subsect_161426071801
+      - [Limitations of the Reorder Items Feature](subsect_161426088698.md) — subsect_161426088698
+    - [Subscriptions for Commerce Websites](chapter_156079542004.md) — chapter_156079542004
+      - [Setup and Configure Subscriptions for Commerce Websites](section_161460389957.md) — section_161460389957
+        - [Set Up Subscriptions for Commerce Websites](subsect_161677186692.md) — subsect_161677186692
+        - [Configure Subscriptions for Commerce Websites](section_161460400005.md) — section_161460400005
+      - [How Subscriptions for Commerce Websites Works](section_161459668755.md) — section_161459668755
+        - [Subscription Status](section_161460541562.md) — section_161460541562
+        - [Subscription Pricing Models and Modifiers](section_161460561727.md) — section_161460561727
+          - [Subscription Pricing Models](section_161460588827.md) — section_161460588827
+          - [Subscription Pricing Modifiers](section_161460656265.md) — section_161460656265
+        - [Subscription Date Visibility](section_158472822053.md) — section_158472822053
+      - [Subscriptions for Commerce Websites User Experience](section_161460492309.md) — section_161460492309
+  - [SEO & Analytics](preface_1518477612.md) — preface_1518477612
+    - [Analytics](chapter_1520371126.md) — chapter_1520371126
+      - [Google Ads](section_4429358327.md) — section_4429358327
+      - [Google Tag Manager](section_4546835898.md) — section_4546835898
+        - [Set Up Google Tag Manager](section_1525975256.md) — section_1525975256
+        - [Modify Google Tag Manager Services](section_1535475532.md) — section_1535475532
+        - [Supported Google Tag Manager Services](section_1535724805.md) — section_1535724805
+          - [Migrating from Google Universal Analytics to Google Analytics 4 with GTM](section_1117043037.md) — section_1117043037
+        - [Tracked Events](section_1531508071.md) — section_1531508071
+        - [Set Up Google Tag Manager (SuiteCommerce Advanced Aconcagua and Earlier)](subsect_1532009142.md) — subsect_1532009142
+      - [Google Analytics 4](article_0104849037.md) — article_0104849037
+        - [Configuring Google Analytics 4](section_0930112146.md) — section_0930112146
+        - [Enable Google Analytics 4 in NetSuite](section_0930114438.md) — section_0930114438
+        - [Google Analytics 4 Conversion Events](section_0930115551.md) — section_0930115551
+        - [Migrating from Google Universal Analytics to Google Analytics 4](section_1116015217.md) — section_1116015217
+        - [Google Analytics with ShopFlow and Site Builder](section_0110020411.md) — section_0110020411
+      - [Google Universal Analytics](section_3783245880.md) — section_3783245880
+        - [Configuring GUA](section_3819647146.md) — section_3819647146
+        - [Enable GUA in NetSuite](section_4550508934.md) — section_4550508934
+          - [GUA in Commerce Web Stores](bridgehead_3819645338.md) — bridgehead_3819645338
+          - [GUA for Site Builder with Site Builder Extensions](section_4550379461.md) — section_4550379461
+        - [GUA Goals](section_4586557178.md) — section_4586557178
+    - [Search Engine Optimization (SEO)](chapter_4053877422.md) — chapter_4053877422
+      - [SEO Page Generator](section_4053806622.md) — section_4053806622
+        - [SEO Page Generator Debug Log](section_1548174148.md) — section_1548174148
+        - [SEO Page Generator Best Practices](section_4768841930.md) — section_4768841930
+      - [SEO and Redirects](section_N2637891.md) — section_N2637891
+        - [Setting Up a URL Redirect](section_N2638072.md) — section_N2638072
+        - [Updating Redirect Domains](section_N2638305.md) — section_N2638305
+        - [Importing Website Redirects](section_N2638492.md) — section_N2638492
+        - [Delete Web Site Redirects Mass Update](section_N2638981.md) — section_N2638981
+      - [SEO and Robots.txt](chapter_4286780920.md) — chapter_4286780920
+        - [Robots.txt with Categories and Facets](section_4290198220.md) — section_4290198220
+        - [SEO and Item Reviews](section_4291257484.md) — section_4291257484
+      - [Sitemap Generator](section_3746951084.md) — section_3746951084
+      - [SEO and Page Titles](chapter_4280885364.md) — chapter_4280885364
+      - [Structured Data Markup](section_158032882820.md) — section_158032882820
+      - [SEO and Meta Descriptions](chapter_4285087960.md) — chapter_4285087960
+      - [SEO and Images](chapter_4284172461.md) — chapter_4284172461
+      - [Customizing Item URLs for SEO](section_N2695545.md) — section_N2695545
+      - [SEO and Canonicalization](chapter_4411370568.md) — chapter_4411370568
+        - [URL Component Aliases](section_4299068434.md) — section_4299068434
+          - [Enable URL Components Alias](section_4047713124.md) — section_4047713124
+          - [URL Components on Items](section_4129902430.md) — section_4129902430
+          - [URL Components for Facets](section_4129902565.md) — section_4129902565
+        - [Canonical Domains](section_4411999499.md) — section_4411999499
+      - [Adding a Third-Party Script for Analytics Tracking](section_4060551230.md) — section_4060551230
+  - [SuiteCommerce Analytics Data](book_159110157649.md) — book_159110157649
+    - [SuiteCommerce Analytics Data Overview](article_160260490967.md) — article_160260490967
+    - [Data Privacy](article_160260451951.md) — article_160260451951
+    - [Shoppers in SuiteCommerce Data Analytics](article_160763363788.md) — article_160763363788
+    - [Setting Up the SuiteCommerce Analytics Data Feature](article_160339216711.md) — article_160339216711
+      - [Enable the SuiteCommerce Analytics Data Feature](subsect_162690227190.md) — subsect_162690227190
+      - [Install the SC Cookie Consent Extension](subsect_162690245617.md) — subsect_162690245617
+      - [Activate the Extension for Your Web Store Domain](subsect_162690256151.md) — subsect_162690256151
+      - [Configure the SC Cookie Consent Extension](subsect_162429920925.md) — subsect_162429920925
+      - [Add Required Footer Links to Cookie Policy and Settings](subsect_162748768444.md) — subsect_162748768444
+      - [Using Extensibility For a Custom Cookie Consent Process](subsect_163104289171.md) — subsect_163104289171
+    - [Record Types](article_160261792908.md) — article_160261792908
+      - [Action Record](article_162887289142.md) — article_162887289142
+      - [Campaign Analytic Record](article_162887300325.md) — article_162887300325
+      - [Customer Record](article_162887491453.md) — article_162887491453
+      - [Device Record](article_162887501574.md) — article_162887501574
+      - [Geography Record](article_162887508517.md) — article_162887508517
+      - [Journey Record](article_162887512332.md) — article_162887512332
+      - [Page URL Record](article_162887516629.md) — article_162887516629
+      - [Search Record](article_162887519376.md) — article_162887519376
+      - [Session Record](article_162887522143.md) — article_162887522143
+      - [User Interaction Record](article_162887525197.md) — article_162887525197
+    - [Creating a Saved Search for SuiteCommerce Analytics Data](article_160260503890.md) — article_160260503890
+    - [Creating a Workbook for SuiteCommerce Analytics Data](article_160260516768.md) — article_160260516768
+    - [Use Cases](article_160260504985.md) — article_160260504985
+      - [Shoppers Who Purchased Item X and Also Viewed Item Y](article_162768073800.md) — article_162768073800
+      - [Shoppers Who Have Not Visited My Web Store Within the Last X Days](article_162768075514.md) — article_162768075514
+      - [Top Items Viewed by Shoppers](article_162768077691.md) — article_162768077691
+      - [Top Keywords Searched by a Specific Shopper](article_162768078440.md) — article_162768078440
+      - [Shoppers Who Added Items to the Cart, But Did Not Make a Purchase](article_162768079175.md) — article_162768079175
+      - [Items a Shopper Viewed Within a Time Frame](article_162768079838.md) — article_162768079838
+  - [Marketing](preface_1518006459.md) — preface_1518006459
+    - [Promotions in Commerce Web Stores](section_4704180728.md) — section_4704180728
+      - [Set Up SuitePromotions for Commerce Web Stores](section_4704225549.md) — section_4704225549
+      - [Known Limitations of SuitePromotions on Commerce Web Stores](section_4713774850.md) — section_4713774850
+      - [SuitePromotion Notifications on Commerce Web Stores](section_1500956220.md) — section_1500956220
+      - [Developer Reference](section_1500955696.md) — section_1500955696
+        - [Auto-Apply Promotions API](bridgehead_1500949476.md) — bridgehead_1500949476
+        - [URL Parameters for Promotions](bridgehead_1487202161.md) — bridgehead_1487202161
+    - [Storefront Merchandising Tools](chapter_1531814631.md) — chapter_1531814631
+      - [Product Merchandising](section_N2687121.md) — section_N2687121
+        - [Product Merchandising Overview](section_N2687230.md) — section_N2687230
+        - [Create a Product Merchandising Rule](section_N2687488.md) — section_N2687488
+        - [Prepare Pages for Product Merchandising Zones](section_N2687979.md) — section_N2687979
+      - [Correlated and Related Items](section_3862818109.md) — section_3862818109
+        - [Architecture Overview](bridgehead_4719630979.md) — bridgehead_4719630979
+        - [Set Up NetSuite](section_3866309833.md) — section_3866309833
+        - [Related Items](section_N2586873.md) — section_N2586873
+          - [Create Related Items Groups](section_N2587164.md) — section_N2587164
+          - [Associate Individual Related Items](section_N2588768.md) — section_N2588768
+        - [Customize Views](section_8866274975.md) — section_8866274975
+      - [Best Sellers](section_1530872656.md) — section_1530872656
+        - [Set Up Best Sellers in the Web Store](section_1534421898.md) — section_1534421898
+        - [Apply Best Seller Sorting in the Web Store](section_1534421997.md) — section_1534421997
+      - [Intelligent Item Recommendations for Commerce Websites](section_162185425331.md) — section_162185425331
+        - [Account Requirements for Intelligent Item Recommendations for Websites](section_15205015355.md) — section_15205015355
+        - [Install and Activate Intelligent Item Recommendations](section_165027316099.md) — section_165027316099
+        - [Configure the Intelligent Item Recommendations Extension](section_0725053233.md) — section_0725053233
+        - [Add and Remove Intelligent Item Recommendations from your Website](section_165027326313.md) — section_165027326313
+        - [Intelligent Item Recommendations Analytics](section_162185443173.md) — section_162185443173
+          - [Intelligent Item Recommendations Dataset](subsect_161418754753.md) — subsect_161418754753
+          - [Estimated Revenue Dataset](section_164337499710.md) — section_164337499710
+          - [Intelligent Item Recommendations Workbook](subsect_161418756993.md) — subsect_161418756993
+      - [Featured Category](section_1535712306.md) — section_1535712306
+      - [Featured Product](section_1535712777.md) — section_1535712777
+      - [Gifts](section_1537454310.md) — section_1537454310
+        - [Gift Certificates](bridgehead_N2246072.md) — bridgehead_N2246072
+          - [Buy Gift Certificates in the Web Store](subsect_1528121250.md) — subsect_1528121250
+          - [Apply Gift Certificates in the Web Store](bridgehead_N2247867.md) — bridgehead_N2247867
+          - [Gift Certificate Management](section_1527753117.md) — section_1527753117
+            - [Group Gift Certificates in Your Web Store](section_156295511195.md) — section_156295511195
+            - [Add Gift Certificate Value Check](section_156295197141.md) — section_156295197141
+            - [Display Gift Certificates in My Account](section_156295198709.md) — section_156295198709
+        - [Gift Wrap & Message](section_1533645221.md) — section_1533645221
+          - [Set Up Gift Wrap](section_1543917969.md) — section_1543917969
+          - [Customize Gift Wrap](section_1543917931.md) — section_1543917931
+          - [Disable Gift Wrap](section_1543918039.md) — section_1543918039
+          - [Gift Wrap Customer Experience](section_162996532099.md) — section_162996532099
+      - [Look Book](chapter_1553894105.md) — chapter_1553894105
+        - [Configure the Look Book extension](subsect_1553896149.md) — subsect_1553896149
+        - [Create a Look Book](subsect_1553896199.md) — subsect_1553896199
+        - [Add Looks to a Look Book](subsect_1553896216.md) — subsect_1553896216
+        - [Add Look Items to a Look](subsect_1553896243.md) — subsect_1553896243
+    - [Advertising](chapter_1535725273.md) — chapter_1535725273
+      - [Product Feeds](chapter_1535554720.md) — chapter_1535554720
+        - [Set Up Product Feeds](section_1535475982.md) — section_1535475982
+        - [Create a Product Feed](section_1528899668.md) — section_1528899668
+          - [Configure Google UCP Product Feeds](article_0616042155.md) — article_0616042155
+        - [Create a Promotion Feed](section_1535633259.md) — section_1535633259
+        - [View the Feed Status](section_1541150310.md) — section_1541150310
+      - [Testimonials](chapter_1532956207.md) — chapter_1532956207
+      - [Logo List](chapter_1532956001.md) — chapter_1532956001
+    - [SuiteCommerce Customer Management](chapter_1517326599.md) — chapter_1517326599
+      - [Customer Registration Flow](section_1517327084.md) — section_1517327084
+      - [Configure Customer Website Settings](section_1517326994.md) — section_1517326994
+        - [Configure Site Registration](section_1517823266.md) — section_1517823266
+        - [Create the Website Customer Center Role](section_1517823205.md) — section_1517823205
+        - [Detect Duplicate Customer Email](section_1496870850.md) — section_1496870850
+      - [Customize Customer Registration Communications](section_1517327155.md) — section_1517327155
+      - [Advanced Sign Up](section_159112490105.md) — section_159112490105
+        - [Configure Advanced Sign Up](subsect_158750277193.md) — subsect_158750277193
+        - [Set Up Advanced Sign Up Email Templates](subsect_158750272195.md) — subsect_158750272195
+        - [View the Advanced Sign Up Saved Search](subsect_158750282870.md) — subsect_158750282870
+        - [Customize the Advanced Sign Up Form with Site Management Tools](subsect_159103562163.md) — subsect_159103562163
+        - [Add CAPTCHA to an Advanced Sign Up Form](section_1209061305.md) — section_1209061305
+    - [Communications](chapter_1519169486.md) — chapter_1519169486
+      - [Email Management](section_1503333654.md) — section_1503333654
+        - [Website Email Settings](section_1530697974.md) — section_1530697974
+          - [Set Website Email Preferences](section_N2572962.md) — section_N2572962
+          - [Select Email Templates for your Web Site](bridgehead_N2573247.md) — bridgehead_N2573247
+        - [Templates for Website Email Messages](section_1530715267.md) — section_1530715267
+          - [Create and Modify Email Templates](section_1530723676.md) — section_1530723676
+          - [Preview Website Email Templates](section_1541438310.md) — section_1541438310
+          - [Records and Fields Available in Website Email Templates](section_1530863017.md) — section_1530863017
+        - [Change Email Address](section_1503333705.md) — section_1503333705
+      - [Newsletter](section_4640365472.md) — section_4640365472
+        - [Set Up Newsletter](section_4642098755.md) — section_4642098755
+        - [Newsletter Sign Up](section_1535640492.md) — section_1535640492
+          - [Add a Newsletter Sign Up Form](section_156831077298.md) — section_156831077298
+          - [Configure a Newsletter Sign Up Form](section_4654839571.md) — section_4654839571
+          - [Remove a Newsletter Sign Up Form](section_156831061698.md) — section_156831061698
+        - [Newsletter Sign Up Using Core SCA Source Code](section_4653133028.md) — section_4653133028
+      - [Social Media](chapter_4258829492.md) — chapter_4258829492
+        - [Pinterest](section_3971317981.md) — section_3971317981
+        - [Twitter Cards](section_3971318111.md) — section_3971318111
+        - [Facebook Share](section_4347407387.md) — section_4347407387
+    - [SuiteCommerce Product Reviews](section_3844716106.md) — section_3844716106
+      - [Product Reviews Custom Record](section_3855216741.md) — section_3855216741
+      - [Product Review Attributes](section_3855217334.md) — section_3855217334
+      - [Product Review Configuration](section_3855217803.md) — section_3855217803
+      - [Product Review Moderation](article_162193000488.md) — article_162193000488
+      - [Product Review Customer Experience](section_162133790082.md) — section_162133790082
+    - [Product Comparison](chapter_1552422328.md) — chapter_1552422328
+  - [Website Content](preface_1536077865.md) — preface_1536077865
+    - [Content Overview](chapter_4123521177.md) — chapter_4123521177
+      - [Content Type Table](section_1536699874.md) — section_1536699874
+      - [Moving Content](section_4152258381.md) — section_4152258381
+      - [Mixed Secure and Unsecure Content](section_4858944356.md) — section_4858944356
+      - [Content Tags and Filter Tools](section_1524601707.md) — section_1524601707
+    - [Pages](chapter_4314594735.md) — chapter_4314594735
+      - [CMS Page Types](section_1540560212.md) — section_1540560212
+      - [Landing Pages](section_4344038011.md) — section_4344038011
+        - [Creating a Landing Page](section_159413730572.md) — section_159413730572
+        - [Editing a Landing Page](section_159413745851.md) — section_159413745851
+        - [Removing or Deleting a Landing Page](section_159413753859.md) — section_159413753859
+      - [Enhanced Pages](section_4344038220.md) — section_4344038220
+        - [Enhancing a Page](section_159414412339.md) — section_159414412339
+        - [Editing an Enhanced Page](section_159414416560.md) — section_159414416560
+        - [Deleting Page Enhancements](section_159414425967.md) — section_159414425967
+      - [Site Management Tools Page Layout Selector](chapter_1549386933.md) — chapter_1549386933
+        - [Changing the Page Layout of a Specific Page](section_159414457638.md) — section_159414457638
+        - [Changing the Layout of All Instances of a Page Type](section_159416786895.md) — section_159416786895
+    - [Text Content](chapter_1533934189.md) — chapter_1533934189
+      - [Site Management Tools Text Content](section_4123521463.md) — section_4123521463
+        - [Adding Text and Image Content](bridgehead_4138279026.md) — bridgehead_4138279026
+        - [Editing Text Content](article_1203073224.md) — article_1203073224
+        - [Discarding or Removing Text Content](article_1204104947.md) — article_1204104947
+      - [Columns](section_1528293178.md) — section_1528293178
+        - [Setting User Role Access for Columns Extension](subsect_0625030657.md) — subsect_0625030657
+        - [Adding a Column](subsect_159431782366.md) — subsect_159431782366
+        - [Discarding or Removing a Column](subsect_159431786158.md) — subsect_159431786158
+      - [Blog](section_1535962991.md) — section_1535962991
+        - [Configuring the Blog Extension](section_157378048517.md) — section_157378048517
+        - [Adding a Blog Post](section_161524046517.md) — section_161524046517
+        - [Removing a Blog Post](article_1204123516.md) — article_1204123516
+        - [Adding a Blog Spotlight](section_161524169667.md) — section_161524169667
+          - [Discarding or Removing a Blog Spotlight](section_161524306995.md) — section_161524306995
+        - [Setting Up a Blog RSS Feed](section_161524173337.md) — section_161524173337
+        - [Enabling JSON-LD for Your Blog](section_161524175966.md) — section_161524175966
+    - [Image Content](chapter_1536078006.md) — chapter_1536078006
+      - [Image Manager](section_1530202893.md) — section_1530202893
+      - [Site Management Tools Image Content Type](section_4123521956.md) — section_4123521956
+        - [Adding the Site Management Tools Image Content Type](article_1125022012.md) — article_1125022012
+        - [Discarding or Removing the Site Management Tools Image Content Type](article_1125022320.md) — article_1125022320
+        - [Image Template](chapter_4181533616.md) — chapter_4181533616
+      - [Site Management Tools Image Compression](section_162212765652.md) — section_162212765652
+        - [Setting Up Website Image Compression](article_1125023844.md) — article_1125023844
+        - [Setting Up Folder Image Compression](article_1125023921.md) — article_1125023921
+      - [Image Text Overlay](section_1528293080.md) — section_1528293080
+        - [Adding an Image with Text Overlay](subsect_162453276157.md) — subsect_162453276157
+        - [Discarding or Removing an Image with Text Overlay](subsect_162453301382.md) — subsect_162453301382
+        - [Changing the Image Text Overlay Button](subsect_162453311708.md) — subsect_162453311708
+      - [Photo Gallery](section_1528293246.md) — section_1528293246
+        - [Adding a Photo Gallery](subsect_1559072930.md) — subsect_1559072930
+        - [Configuring a Photo Gallery](subsect_1559073786.md) — subsect_1559073786
+        - [Discarding or Removing a Photo Gallery](subsect_1559072938.md) — subsect_1559072938
+      - [Slideshow](section_1528293224.md) — section_1528293224
+        - [Adding a Slideshow](section_1126031345.md) — section_1126031345
+        - [Discarding or Removing a Slideshow](section_1126031455.md) — section_1126031455
+        - [Changing the Slideshow Button](section_1126031555.md) — section_1126031555
+    - [HTML Content](chapter_4314426534.md) — chapter_4314426534
+      - [Site Management Tools HTML Content Type](section_1537278615.md) — section_1537278615
+        - [Adding HTML Content](article_1208012422.md) — article_1208012422
+        - [Editing HMTL Content](article_1208013947.md) — article_1208013947
+        - [Discarding or Removing HTML Content](article_1208012511.md) — article_1208012511
+      - [Map and Contact](chapter_1533898131.md) — chapter_1533898131
+        - [Map and Contact Content Type](section_1548712615.md) — section_1548712615
+          - [Adding Map and Contact Information](subsect_1548437823.md) — subsect_1548437823
+          - [Configuring Map and Contact Information](subsect_1548715027.md) — subsect_1548715027
+          - [Changing Map Store Location](subsect_1548438549.md) — subsect_1548438549
+          - [Deleting Map and Contact Information](subsect_1548438653.md) — subsect_1548438653
+        - [Contact Form Content Type](section_1548712640.md) — section_1548712640
+          - [Adding a Contact Form](subsect_1548441813.md) — subsect_1548441813
+          - [Configuring a Contact Form](subsect_1548716842.md) — subsect_1548716842
+            - [Configuring Contact Form Properties in NetSuite](subsect_1550025801.md) — subsect_1550025801
+            - [Configuring Contact Form General Settings](subsect_1550025903.md) — subsect_1550025903
+            - [Configuring Contact Form Contact Fields](subsect_1550026159.md) — subsect_1550026159
+            - [Configuring Contact Form Messaging Fields](subsect_1550026192.md) — subsect_1550026192
+            - [Configuring Contact Form Additional Fields](subsect_1550026222.md) — subsect_1550026222
+            - [Configuring Contact Form Feedback Messages](subsect_1550026261.md) — subsect_1550026261
+            - [Configuring Contact Form Layout and Style](subsect_1550026291.md) — subsect_1550026291
+          - [Discarding or Removing a Contact Form](subsect_1548441875.md) — subsect_1548441875
+          - [Add CAPTCHA to a Contact Form](article_1009041823.md) — article_1009041823
+    - [Multi-Language Sites](chapter_159847476054.md) — chapter_159847476054
+      - [Multi-Language Setup](section_161487569504.md) — section_161487569504
+        - [Multi-Language Preferences](section_159846959365.md) — section_159846959365
+        - [Prerequisites for Using Multi-Language](section_160063618979.md) — section_160063618979
+      - [Managing Your Translation Content](section_161487645303.md) — section_161487645303
+        - [Translations Tab User Interface](section_159854780475.md) — section_159854780475
+        - [Multi-Language Support for Commerce Categories](section_159854776857.md) — section_159854776857
+          - [Category Translations Using NetSuite](article_1209011204.md) — article_1209011204
+            - [Creating Category Translations Using NetSuite](subsect_160081026112.md) — subsect_160081026112
+            - [Editing Category Translations Using NetSuite](subsect_159838475199.md) — subsect_159838475199
+            - [Deleting Category Translations Using NetSuite](subsect_160124158523.md) — subsect_160124158523
+          - [Category Translations Using Site Management Tools](article_1209011216.md) — article_1209011216
+            - [Creating Category Translations Using Site Management Tools](subsect_160063870351.md) — subsect_160063870351
+            - [Editing Category Translations Using Site Management Tools](subsect_160080855633.md) — subsect_160080855633
+            - [Deleting Category Translations Using Site Management Tools](subsect_160080998117.md) — subsect_160080998117
+        - [Multi-Language Support for Landing Pages](section_160063583550.md) — section_160063583550
+          - [Creating Landing Page Translations](subsect_159838779148.md) — subsect_159838779148
+          - [Editing Landing Page Translations](subsect_160081261723.md) — subsect_160081261723
+          - [Hiding Landing Page Translations](subsect_162317714817.md) — subsect_162317714817
+          - [Deleting Landing Page Translations](subsect_160081275234.md) — subsect_160081275234
+        - [Multi-Language Support for Website Content](section_160063585630.md) — section_160063585630
+          - [Creating Website Content Translations](subsect_159839284263.md) — subsect_159839284263
+          - [Editing Website Content Translations](subsect_160081283822.md) — subsect_160081283822
+          - [Hiding Website Content Translations](subsect_162306579560.md) — subsect_162306579560
+          - [Deleting Website Content Translations](subsect_160081365611.md) — subsect_160081365611
+        - [Exporting and Importing Bulk Translation Content in Site Management Tools](section_161013787933.md) — section_161013787933
+          - [Exporting Bulk Content for Translation from Site Management Tools](section_161013809893.md) — section_161013809893
+          - [Importing Bulk Translation Content into Site Management Tools](section_161013818898.md) — section_161013818898
+          - [Editing and Reviewing Bulk Translations in Site Management Tools](section_161013824670.md) — section_161013824670
+    - [Merchandising Zone Content](chapter_159561426850.md) — chapter_159561426850
+      - [Creating a Merchandising Rule](section_0606053629.md) — section_0606053629
+      - [Adding a Merchandising Zone](section_159706874340.md) — section_159706874340
+      - [Editing a Merchandising Zone](section_160615470462.md) — section_160615470462
+      - [Removing or Deleting a Merchandising Zone](section_160615483707.md) — section_160615483707
+      - [Changing Merchandising Zone Elements](section_161428486184.md) — section_161428486184
+        - [Merchandising Zone Template](chapter_4158274442.md) — chapter_4158274442
+    - [Commerce Custom Fields](chapter_4837340253.md) — chapter_4837340253
+      - [Create Custom Fields Using an Extension](section_1531905521.md) — section_1531905521
+        - [Custom Fields for Checkout](subsect_156174144933.md) — subsect_156174144933
+          - [Creating Custom Fields for Checkout](subsect_1532520157.md) — subsect_1532520157
+          - [Configuring Custom Fields for Checkout](subsect_1532520234.md) — subsect_1532520234
+        - [Custom Fields for the Product Details Page](subsect_156174139171.md) — subsect_156174139171
+      - [Create Custom Fields by Customizing Templates](section_1534761413.md) — section_1534761413
+        - [Setting Up Custom Item Fields](section_4837342955.md) — section_4837342955
+        - [Setting Up Custom Transaction Body Fields](section_1484337273.md) — section_1484337273
+        - [Setting Up Custom Transaction Line and Transaction Item Option Fields](section_1484336937.md) — section_1484336937

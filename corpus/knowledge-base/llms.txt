@@ -1,0 +1,19 @@
+# Knowledge Base
+
+Knowledge Base (10 pages): Knowledge Base
+
+## Chapters
+- [Knowledge Base](chapter_N2445950.md): The Knowledge Base feature helps you organize and publish information specific to your business.
+  - [Knowledge Base Setup Checklist](section_N2446166.md): Use the checklist below to help you quickly set up your knowledge base.
+  - [Setting Up a Knowledge Base](section_N2447719.md): Knowledge bases let you organize and share information specific to your business, can increase the efficiency of your support reps, and improve communication in your company.
+  - [Creating Knowledge Base Topics](section_N2447915.md): Tip: You can get writing help for text fields Brief Description and Detailed Description from our generative AI service, NetSuite Text Enhance.
+  - [Creating Knowledge Base Solutions](section_N2448156.md): Solutions are answers to customer issues.
+  - [Publishing a Knowledge Base](section_N2448614.md): The Knowledge Base feature is a valuable tool for organizing and delivering information to your customers, employees, and others you do business with.
+  - [Arranging Solutions in a Published Knowledge Base](section_N2449221.md): After you add solutions to a topic, you can rearrange their order on the topic record.
+  - [Attaching Knowledge Base Solutions to Cases](section_N2449315.md): A Support Person can search your knowledge bases for solutions related to the support case they're working on.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch knowledge-base

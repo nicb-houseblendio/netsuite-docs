@@ -1,0 +1,12 @@
+# Non-Profit Editions
+
+Non-Profit Editions (1 pages): Non-Profit Editions
+
+## Chapters
+- [Non-Profit Editions](chapter_157260149625.md): Non-profit SuiteApps are available in different editions.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch non-profit-editions

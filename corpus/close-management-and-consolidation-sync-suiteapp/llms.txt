@@ -1,0 +1,14 @@
+# Close Management and Consolidation Sync SuiteApp
+
+Close Management and Consolidation Sync SuiteApp (81 pages): Close Management and Consolidation Sync SuiteApp
+
+## Chapters
+- [Close Management and Consolidation Sync SuiteApp](article_33112718443.md): The Close Management and Consolidation Sync SuiteApp delivers default configurations to integrate NetSuite and your Financial Consolidation and Close application in Oracle Cloud Enterprise Performance Management (EPM).
+  - [Close Management and Consolidation Sync Installation and Setup](article_98111940878.md): To install and set up the Close Management and Consolidation Sync SuiteApp, you must have the Administrator role and complete the following consecutive steps: 1.
+  - [Close Management and Consolidation Sync Release Notes](article_54104649820.md): This help topic summarizes the recent changes to the Close Management and Consolidation Sync SuiteApp.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch close-management-and-consolidation-sync-suiteapp

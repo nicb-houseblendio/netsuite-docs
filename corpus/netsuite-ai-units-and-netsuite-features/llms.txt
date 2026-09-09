@@ -1,0 +1,12 @@
+# NetSuite AI Units and NetSuite Features
+
+NetSuite AI Units and NetSuite Features (1 pages): NetSuite AI Units and NetSuite Features
+
+## Chapters
+- [NetSuite AI Units and NetSuite Features](article_2163848930.md): After they are provisioned in your account, NetSuite AI Units are consumed each time you use these generative AI features in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-ai-units-and-netsuite-features

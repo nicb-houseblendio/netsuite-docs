@@ -1,0 +1,13 @@
+# NetSuite CPQ AI Assistant
+
+NetSuite CPQ AI Assistant (5 pages): NetSuite CPQ AI Assistant
+
+## Chapters
+- [NetSuite CPQ AI Assistant](article_9094751090.md): Note: Available for accounts in supported locations and for users whose language preference is set to a supported language.
+  - [Prepare Configurable Items for NetSuite CPQ AI Assistant](section_0902032125.md): NetSuite CPQ AI Assistant improves your product setup by using AI-generated content.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-cpq-ai-assistant

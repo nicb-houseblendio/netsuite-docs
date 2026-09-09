@@ -1,0 +1,13 @@
+# Managing Ask Oracle Access for Roles
+
+Managing Ask Oracle Access for Roles (2 pages): Managing Ask Oracle Access for Roles
+
+## Chapters
+- [Managing Ask Oracle Access for Roles](T_article_4103202860_1.md): Note: This topic describes functionality available to users eligible for NetSuite Next.
+  - [Setting Ask Oracle Access](T_article_0804111020_1.md): To Set Ask Oracle Access for Roles: 1.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch managing-ask-oracle-access-for-roles

@@ -1,0 +1,60 @@
+{
+  "branch": "social-impact-donation-edition",
+  "generatedAt": null,
+  "pages": {
+    "chapter_1562837651": {
+      "path": "corpus/social-impact-donation-edition/chapter_1562837651.md",
+      "title": "Social Impact Donation Edition",
+      "type": "chapter",
+      "breadcrumb": "Non-Profit Management > Social Impact Donation Edition",
+      "parent": "preface_1548271679",
+      "category": "non-profit-management",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_1562837651.html",
+      "etag": "\"3e9ed95fd782f4ec7d0a603c7c25b431:1786980391.20206\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:40:44.941Z",
+      "sha256": "b37c27245371c9ecd704886026ce46215e5799bc5ccf5ea1dac157dba3df34da",
+      "bytes": 2258,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_1562839754": {
+      "path": "corpus/social-impact-donation-edition/section_1562839754.md",
+      "title": "Donation Edition Role and Dashboards",
+      "type": "section",
+      "breadcrumb": "Non-Profit Management > Social Impact Donation Edition > Donation Edition Role and Dashboards",
+      "parent": "chapter_1562837651",
+      "category": "non-profit-management",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_1562839754.html",
+      "etag": "\"d69c344296e4bbc15170d69eaaf775f6:1786980515.011439\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:40:45.317Z",
+      "sha256": "8869acdc0b4af96a5672fac9c3dcddf51102632f66ac971ad10fdcdff58748be",
+      "bytes": 2722,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_156327763005": {
+      "path": "corpus/social-impact-donation-edition/section_156327763005.md",
+      "title": "NFP - CFO",
+      "type": "section",
+      "breadcrumb": "Non-Profit Management > Social Impact Donation Edition > Donation Edition Role and Dashboards > NFP - CFO",
+      "parent": "section_1562839754",
+      "category": "non-profit-management",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_156327763005.html",
+      "etag": "\"35b66da736954fcc8bdd119a66f9375d:1786980515.257681\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:40:45.606Z",
+      "sha256": "bdd76c7aac16930f3de79d7a219bdc9c9e864ab86a76e5ad29e581caf2d1aabb",
+      "bytes": 2606,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

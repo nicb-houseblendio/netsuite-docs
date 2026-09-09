@@ -1,0 +1,12 @@
+# Creating New Records for Projects
+
+Creating New Records for Projects (1 pages): Creating New Records for Projects
+
+## Chapters
+- [Creating New Records for Projects](chapter_4740587135.md): Depending on the features you have enabled, you can create new records for projects.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch creating-new-records-for-projects

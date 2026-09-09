@@ -1,0 +1,15 @@
+# Order Management Workbooks
+
+Order Management Workbooks (12 pages): Order Management Workbooks
+
+## Chapters
+- [Order Management Workbooks](book_157125650538.md): - Sales (Invoiced) Workbook(https://docs.
+  - [Sales (Invoiced) Workbook](chapter_156571652720.md): SuiteAnalytics Workbook offers many workbook and dataset templates, each with predefined source data, criteria, pivot tables, and charts.
+  - [Sales (Ordered) Workbook](chapter_156571169588.md): SuiteAnalytics Workbook offers many workbook and dataset templates, each with predefined source data, criteria, pivot tables, and charts.
+  - [Monthly Recurring Revenue Workbook](chapter_158532673374.md): SuiteAnalytics Workbook offers many workbook and dataset templates, each with predefined source data, criteria, pivot tables, and charts.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch order-management-workbooks

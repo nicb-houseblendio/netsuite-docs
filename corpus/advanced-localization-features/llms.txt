@@ -1,0 +1,20 @@
+# Advanced Localization Features
+
+Advanced Localization Features (22 pages): Advanced Localization Features
+
+## Chapters
+- [Advanced Localization Features](article_160622647667.md): The following topics describe the features that are included in the Advanced Localization Features (ALF) SuiteApp: - Advanced Localization Features Overview(https://docs.
+  - [Advanced Localization Features Overview](article_160622669797.md): The purpose of this SuiteApp is to create the following localized printable transactions that comply with tax regulations and meet common business needs of NetSuite users.
+  - [Enabling Required Features for Advanced Localization Features](article_160691043993.md): Before installing the Advanced Localization Features SuiteApp, go to Setup Company Setup Tasks Enable Features, and make sure that the following features are enabled: Note: All the required fields in the Company Information page and the primary subsidiary record must be filled before you install the Advanced Localization Features SuiteApp.
+  - [Installing the Advanced Localization Features SuiteApp](article_160691065745.md): The Advanced Localization Features SuiteApp enables you to create the following localized printable transactions that comply with tax regulations and meet common business needs of NetSuite users.
+  - [Setting Up the Advanced Localization Features Templates](article_160691067358.md): With the Advanced Localization Features SuiteApp, advanced PDF/HTML templates for invoices, credit memos, and sales orders are installed to your NetSuite account.
+  - [Roles and Permissions Setup for Advanced Localization Features](article_160691069150.md): To use the Advanced Localization Features SuiteApp, you should perform several steps related to NetSuite roles and permissions.
+  - [ALF Additional Features and Configuration](article_160699699623.md): The main feature delivered by the Advanced Localization Features SuiteApp consists of the advanced PDF/HTML templates for the following transactions.
+  - [Printing Transactions](subsect_160154427786.md): Note: Before printing any invoices, credit memos, sales orders, or purchase orders using the templates delivered by the Advanced Localization Features SuiteApp, make sure that the templates and individual features are properly configured.
+  - [Commercial Invoice](article_1107022355.md): The commercial invoice is a legal document between the supplier and the customer, detailing information about the sold goods.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch advanced-localization-features

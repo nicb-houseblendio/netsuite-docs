@@ -1,0 +1,13 @@
+# Social Impact Donation Edition
+
+Social Impact Donation Edition (3 pages): Social Impact Donation Edition
+
+## Chapters
+- [Social Impact Donation Edition](chapter_1562837651.md): Social Impact Donation Edition includes NFP Financials and the Non-Profit financial metrics.
+  - [Donation Edition Role and Dashboards](section_1562839754.md): Note: After installing the Customization bundle, contact your NetSuite account manager for the customization of roles and dashboards.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch social-impact-donation-edition

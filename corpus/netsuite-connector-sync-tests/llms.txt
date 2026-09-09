@@ -1,0 +1,18 @@
+# NetSuite Connector Sync Tests
+
+NetSuite Connector Sync Tests (25 pages): NetSuite Connector Sync Tests
+
+## Chapters
+- [NetSuite Connector Sync Tests](article_164681422142.md): Before using syncs in your live production environment, you should test the syncs with test or sample orders first.
+  - [NetSuite Connector Order and Fulfillment Sync Tests](section_163160022755.md): Before using order and fulfillment sync in production, test the processes with test or sample orders first.
+  - [NetSuite Connector Product Sync Tests](section_163108717577.md): Test product sync with sample products before using it in production.
+  - [NetSuite Connector Refund Sync Tests](section_163160073669.md): Before using refund sync in production, test it with sample orders first Follow these steps to prepare test orders and test refund sync: 1.
+  - [NetSuite Connector Third-Party Logistics (3PL) Sync Tests](section_163160136786.md): Before using 3PL sync in production, test it with sample orders first.
+  - [NetSuite Connector Settlement Sync Tests](section_163445323371.md): Before using Amazon settlement sync in production, test it with sample orders first.
+  - [NetSuite Connector Manual Sync Tests](section_162866034358.md): This topic covers manual testing procedures for the following: - Order sync - Fulfillment sync - Price and quantity sync - Full product sync - Matrix items Testing Order Sync First, retrieve the order into NetSuite Connector, then send it to NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-connector-sync-tests

@@ -1,0 +1,12 @@
+# Merchandising
+
+Merchandising (1 pages): Merchandising
+
+## Chapters
+- [Merchandising](article_161703098926.md): Merchandising videos are categorized into the following areas: - Merchandise Hierarchy(bridgehead1120034515) - Promotions(bridgehead1120034536) - Searchandising(bridgehead1120034554) Merchandise Hierarchy Watch the following videos to help you with planning, purchasing, and tracking your product inventory.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch merchandising-article_161703098926

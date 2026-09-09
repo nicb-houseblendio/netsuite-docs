@@ -1,0 +1,21 @@
+# Connect
+
+Connect (134 pages): Connect
+
+## Chapters
+- [Connect](book_N748613.md): - SuiteAnalytics Connect(https://docs.
+  - [SuiteAnalytics Connect](chapter_3963845427.md): The SuiteAnalytics Connect Service lets you archive, analyze, and report on NetSuite data.
+  - [Connect Drivers](article_9151201949.md): To analyze your data with SuiteAnalytics Connect, you must download and install a Connect driver.
+  - [Accessing the Connect Service Using an ODBC Driver](section_3990584734.md): The following table lists tasks for an ODBC driver to connect to Connect Service; however, some of these tasks are optional to complete.
+  - [Accessing the Connect Service Using a JDBC Driver](section_3994742720.md): Installing a Connect JDBC driver lets you connect a Java application to the Connect Service.
+  - [Accessing the Connect Service Using an ADO.NET Data Provider](section_3994744300.md): The SuiteAnalytics Connect for ADO.
+  - [Connect Service Considerations](chapter_N751003.md): This section includes best practices and examples for working with the Connect Service.
+  - [Connect Data Source](chapter_N752122.md): With SuiteAnalytics Connect you can access NetSuite data through the NetSuite2.
+  - [Connect Service Notifications](chapter_1530646443.md): The following sections include information about changes to the Connect Service which may impact the behavior of the service.
+  - [SuiteAnalytics Connect FAQ](chapter_1555594476.md): See the questions and answers below for information about SuiteAnalytics Connect.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch connect

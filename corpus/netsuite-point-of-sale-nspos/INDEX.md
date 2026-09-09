@@ -1,0 +1,266 @@
+# NetSuite Point of Sale (NSPOS)
+
+262 pages, category: Commerce
+
+- [NetSuite Point of Sale (NSPOS)](preface_4631540035.md) — preface_4631540035
+  - [NSPOS Administrator Guide](preface_1527170928.md) — preface_1527170928
+    - [NetSuite Point of Sale Overview](chapter_1528399174.md) — chapter_1528399174
+      - [Synchronization with NetSuite ERP](section_1529954217.md) — section_1529954217
+        - [Backward Compatibility for NSPOS Upgrades](bridgehead_1523290523.md) — bridgehead_1523290523
+      - [Standards and Guidelines](section_1529954338.md) — section_1529954338
+      - [User Interface](section_4419091873.md) — section_4419091873
+      - [Icons](section_1529002892.md) — section_1529002892
+      - [Cashier Tips for Using an NSPOS Register](section_1487795481.md) — section_1487795481
+      - [Contacting Customer Support](section_1538146917.md) — section_1538146917
+    - [Environment - Required](chapter_1528230698.md) — chapter_1528230698
+      - [NSPOS System Requirements](chapter_4685231215.md) — chapter_4685231215
+      - [Benchmarks for Data Transfers and System Limits](chapter_1488813888.md) — chapter_1488813888
+      - [Working With Tenders/Payments and Managing Your Cash Drawer Till](article_6154214121.md) — article_6154214121
+        - [Tenders and Payment Methods](chapter_1512494948.md) — chapter_1512494948
+          - [Managing Your Tender Types and Payment Methods](section_1512495090.md) — section_1512495090
+          - [About Transaction Payment Records in NetSuite ERP](section_1512507518.md) — section_1512507518
+          - [About Tender Workflows](section_1513279316.md) — section_1513279316
+        - [Cash Drawer Till Management](article_6153506996.md) — article_6153506996
+          - [Till Management Concepts](section_51153817515.md) — section_51153817515
+          - [Till Management Tasks](section_0609120103.md) — section_0609120103
+            - [Start of Day](section_1515530514.md) — section_1515530514
+            - [During the Day](section_1515530525.md) — section_1515530525
+            - [End of Day](section_0609120634.md) — section_0609120634
+          - [Till Function Details and NetSuite ERP Accounting Impacts](section_0517122434.md) — section_0517122434
+          - [Till, End of Day, and Other Settings](section_38100945029.md) — section_38100945029
+          - [Tracking Till Money Movement through NetSuite ERP records](section_1513280696.md) — section_1513280696
+      - [Subsidiaries, Locations, and Taxes](section_1528403213.md) — section_1528403213
+        - [Working with Subsidiaries](section_1548783281.md) — section_1548783281
+        - [Working with Locations](section_4846759449.md) — section_4846759449
+        - [Working with Taxes](section_159405454546.md) — section_159405454546
+          - [Map Sales Tax Locations by Group or Code](section_4595409161.md) — section_4595409161
+          - [Defining Tax Schedules for Items](bridgehead_4595414369.md) — bridgehead_4595414369
+          - [Preventing Tax Rounding Discrepancies by using Discount Items](section_4853697981.md) — section_4853697981
+          - [Errors when No Tax is Available](bridgehead_1544824158.md) — bridgehead_1544824158
+        - [SuiteTax Integration](section_92150959936.md) — section_92150959936
+          - [Configuring NSPOS SuiteTax](section_97151055157.md) — section_97151055157
+          - [Global Settings](section_85151101714.md) — section_85151101714
+          - [Tax Schedules Settings](section_58151144703.md) — section_58151144703
+          - [Subsidiaries Settings](section_94151158177.md) — section_94151158177
+          - [Locations Settings](section_55151207358.md) — section_55151207358
+          - [Tax Schedules](section_94151215613.md) — section_94151215613
+          - [Tax Codes](section_43151223274.md) — section_43151223274
+          - [Tax Groups](section_23151230749.md) — section_23151230749
+      - [Set up a Register](chapter_4737180054.md) — chapter_4737180054
+        - [Prerequisites for NSPOS](section_1495565126.md) — section_1495565126
+        - [Add an RA-Workstation Record in NetSuite](section_4768027020.md) — section_4768027020
+        - [Stage a Register in NSPOS 2020.1.X or 2024.1.X](section_164936755439.md) — section_164936755439
+          - [Restage NSPOS From the Register](section_0131111115.md) — section_0131111115
+        - [Stage a Self-checkout Kiosk](section_0731052056.md) — section_0731052056
+          - [Configure Windows Kiosk Mode](section_1028124429.md) — section_1028124429
+        - [Store Server Architecture](section_1494359246.md) — section_1494359246
+        - [Use Workstation Groups to customize Features for Select Registers](section_4804392257.md) — section_4804392257
+      - [Configure the User Interface and Security in NSPOS](chapter_4452843880.md) — chapter_4452843880
+        - [Configure the Journal Logo](section_0102094250.md) — section_0102094250
+        - [Configure Button Bars](section_4537576167.md) — section_4537576167
+        - [Set Button Security](section_4537595751.md) — section_4537595751
+        - [Set Page Security](section_4538432341.md) — section_4538432341
+        - [Configure the On-screen Keyboard](section_4544461888.md) — section_4544461888
+        - [Set up Item Hotkeys](section_4544477945.md) — section_4544477945
+        - [Configure a Prompt for Receipt (2020.1)](section_1519676174.md) — section_1519676174
+        - [Configure Receipt Print and Prompt Options (2024.1)](section_19134634444.md) — section_19134634444
+        - [Capture Signatures on a Tap Screen Tablet](section_4595418770.md) — section_4595418770
+      - [Set Up Reason Codes and Sales Comments](section_1528403760.md) — section_1528403760
+        - [Reason Codes](section_4592782035.md) — section_4592782035
+        - [Require Entering a Comment with Sale](section_4539055305.md) — section_4539055305
+    - [Environment - Optional](chapter_1528230736.md) — chapter_1528230736
+      - [Payment Gateways](chapter_1508162264.md) — chapter_1508162264
+        - [Shift4 UTG](section_4592782365.md) — section_4592782365
+        - [Worldpay](section_158213018586.md) — section_158213018586
+          - [Worldpay (Vantiv) [Mercury Payment Systems]](section_4592782608.md) — section_4592782608
+          - [Worldpay (YESpay)](section_1515535310.md) — section_1515535310
+        - [FreedomPay](section_1492114692.md) — section_1492114692
+          - [Payment Instruments and FreedomPay](section_65144432167.md) — section_65144432167
+        - [Linkly (PC-EFTPOS)](section_1515535576.md) — section_1515535576
+      - [Digital Receipts](section_164823743228.md) — section_164823743228
+      - [Flags and Settings](chapter_4470908436.md) — chapter_4470908436
+        - [Flag List](section_4665425460.md) — section_4665425460
+        - [Setting List](section_4665426623.md) — section_4665426623
+    - [Managing Customer Records](chapter_1538582051.md) — chapter_1538582051
+      - [Configuring the Default Anonymous Customer](section_1528403599.md) — section_1528403599
+    - [Managing Items and Prices](chapter_1528230662.md) — chapter_1528230662
+      - [Items](section_1528406320.md) — section_1528406320
+        - [Working with Inventory Items](section_1530631819.md) — section_1530631819
+        - [Setting up a Services for Sale Item](section_1531772373.md) — section_1531772373
+        - [Gift Cards and Gift Certificates in NSPOS](chapter_4473500769.md) — chapter_4473500769
+          - [Set up NSPOS Gift Cards/Certificates in NetSuite ERP](section_4528057469.md) — section_4528057469
+          - [Gift Card Track Data Specifications](section_4528058125.md) — section_4528058125
+          - [Sell NetSuite Gift Card/Certificate](section_1506634964.md) — section_1506634964
+          - [Check Balance of NetSuite Gift Card/Certificate](section_1506714780.md) — section_1506714780
+          - [Use a NetSuite Gift Card/Certificate](section_1506716054.md) — section_1506716054
+          - [Sell an External Gift Card](section_1506715773.md) — section_1506715773
+          - [Check an External Gift Card Balance](section_1506716002.md) — section_1506716002
+          - [Cash Out an External Gift Card](section_161556977404.md) — section_161556977404
+        - [Item Synchronization - NetSuite ERP to NSPOS](section_0614012133.md) — section_0614012133
+        - [Disable Item from Searches on the POS](section_4539054679.md) — section_4539054679
+        - [Do Not Download Item to POS](section_4539054280.md) — section_4539054280
+        - [Item Restrictions by Subsidiary or Location](section_1523303467.md) — section_1523303467
+        - [Searching for Items in NetSuite ERP Using RA-Barcodes](section_0227125047.md) — section_0227125047
+        - [Save Previous UPCs If Replaced](section_0224110620.md) — section_0224110620
+        - [Multiple Bar Codes for Single Items](section_4594489708.md) — section_4594489708
+        - [Weighted Bar Codes - Enabling Scans](section_4688578650.md) — section_4688578650
+        - [Bin Management](section_4595350916.md) — section_4595350916
+      - [Prices](section_1528407245.md) — section_1528407245
+        - [Add a Price or Price Levels to an Item](section_1531162488.md) — section_1531162488
+        - [Using Price Levels to adjust Prices across Locations](section_1543852241.md) — section_1543852241
+        - [Price Filtering for Currency by Location](section_1524143914.md) — section_1524143914
+        - [Require Price Entry at Register](section_4539053905.md) — section_4539053905
+    - [Transaction Management](chapter_1528230779.md) — chapter_1528230779
+      - [Basic Sales Transactions](chapter_4208141196.md) — chapter_4208141196
+        - [Enter a Sales Transaction](section_4210806383.md) — section_4210806383
+          - [Add Customers to a Sales Transaction](section_4424397150.md) — section_4424397150
+          - [Work with Items in a Sales Transaction](section_4424397273.md) — section_4424397273
+          - [Accept Payments for Purchases](section_3903960544.md) — section_3903960544
+        - [Discounts](section_3904044606.md) — section_3904044606
+        - [Sales Taxes](section_4407866123.md) — section_4407866123
+        - [Suspend, Resume, Cancel Transactions](section_3903987153.md) — section_3903987153
+        - [Receipts](section_4407888737.md) — section_4407888737
+        - [Select Sales Associate](section_3899702492.md) — section_3899702492
+      - [Sales Orders](chapter_1501269880.md) — chapter_1501269880
+        - [Sales Order Processes](section_1501516577.md) — section_1501516577
+        - [Customize Sales Order Processes - Setting Flags](section_1494616736.md) — section_1494616736
+          - [How Sales Order Flags interact](section_1503420322.md) — section_1503420322
+        - [Using Customized Sales Order Processes](section_1501516680.md) — section_1501516680
+      - [Promotions](chapter_1497908536.md) — chapter_1497908536
+        - [Overview](section_1497967059.md) — section_1497967059
+        - [Creating a Promotion](section_1497967124.md) — section_1497967124
+          - [Create or Verify Discount Item](section_1497969716.md) — section_1497969716
+          - [Create a Classic Promotion Record](section_1501186012.md) — section_1501186012
+            - [Basic Item Promotions - Classic Form](section_1501186730.md) — section_1501186730
+            - [BOGO or Mix and Match Promotions - Classic Form](section_1501186881.md) — section_1501186881
+        - [Create an Advanced Promotion Record](section_1497969900.md) — section_1497969900
+          - [Basic Item Promotions - Advanced Form](section_1498146360.md) — section_1498146360
+          - [Transaction Discount Promotions - Advanced Form](section_1498146375.md) — section_1498146375
+          - [Amount Spend Promotions - Advanced Form](section_1498511439.md) — section_1498511439
+          - [BOGO or Mix and Match Promotions - Advanced Form](section_1498146388.md) — section_1498146388
+        - [Work with Coupon Codes](section_1497970722.md) — section_1497970722
+        - [Use Stacking Rules for Promotion Interactions](section_1497967237.md) — section_1497967237
+        - [Promotions on NSPOS Terminals](section_1497967297.md) — section_1497967297
+        - [Analyze Promotion Results in NetSuite](section_1497967333.md) — section_1497967333
+        - [Promotion System Flags](section_1497967341.md) — section_1497967341
+        - [Setting your default promotion form in NetSuite ERP](section_1501100142.md) — section_1501100142
+        - [Troubleshoot Promotions](section_1497967365.md) — section_1497967365
+        - [Other Discount Types](section_1509464555.md) — section_1509464555
+          - [Do Not Allow Discount on Item](section_1509464819.md) — section_1509464819
+          - [Grouping Transaction Discounts](section_1509464710.md) — section_1509464710
+      - [Returns](chapter_1510674254.md) — chapter_1510674254
+        - [Return with Receipt](section_1513721443.md) — section_1513721443
+        - [Return without Receipt](section_1513721294.md) — section_1513721294
+        - [Apply Refund to a new Gift Card](section_1529959892.md) — section_1529959892
+        - [Configure Return Settings](section_1513721328.md) — section_1513721328
+        - [Configure Refund Limits by Tender](section_1513721339.md) — section_1513721339
+      - [Self-checkout Kiosk](article_66171906511.md) — article_66171906511
+    - [Company](chapter_1528230766.md) — chapter_1528230766
+      - [Employees and NSPOS](chapter_4539107183.md) — chapter_4539107183
+        - [Setting up a New Employee](section_158802309801.md) — section_158802309801
+        - [Assisting Employees with Lockouts and Passwords](section_158802391371.md) — section_158802391371
+        - [Changing an Employee's Security Role](section_4556458923.md) — section_4556458923
+        - [Disabling an Employee's Access to NSPOS](section_1520882708.md) — section_1520882708
+        - [Inactivating an Employee in NetSuite ERP](section_0824023504.md) — section_0824023504
+        - [Configuring Password Requirements by Role in NSPOS](section_156935980961.md) — section_156935980961
+        - [Working with the optional Time Clock in NSPOS](section_4539107908.md) — section_4539107908
+      - [Reports in NSPOS](chapter_4628114910.md) — chapter_4628114910
+        - [Credit Card Transactions Overview Report](section_1029014854.md) — section_1029014854
+        - [Customer Profile Report](section_4466669332.md) — section_4466669332
+        - [Inventory On Hand Report](section_4466669688.md) — section_4466669688
+        - [Items Sold Report](section_4466670163.md) — section_4466670163
+        - [Sales Audit Report](section_4533010281.md) — section_4533010281
+        - [Stuck (Sales) Transactions Report](section_4799234648.md) — section_4799234648
+        - [Time Punch Report](section_4466670601.md) — section_4466670601
+        - [Transaction Detail Report](section_4466670840.md) — section_4466670840
+        - [Employees Roles Assignment Report](section_0224114414.md) — section_0224114414
+        - [Custom Reports using Saved Searches](section_1533048850.md) — section_1533048850
+    - [Monitoring and Troubleshooting](chapter_1528230649.md) — chapter_1528230649
+      - [Workstation/Register Statuses in NSPOS](section_0525111155.md) — section_0525111155
+      - [NS ERP Workstation/NSPOS Normal State Monitoring](section_0216091200.md) — section_0216091200
+      - [Workstation Monitoring in NetSuite ERP](chapter_1519753438.md) — chapter_1519753438
+      - [Normal State Monitoring in NSPOS](section_156935954418.md) — section_156935954418
+      - [NS ERP Workstation and NSPOS Normal State Monitoring Statistics](section_0215014821.md) — section_0215014821
+      - [Automatic Upsync Error Mitigation](section_1120033057.md) — section_1120033057
+      - [Troubleshooting](chapter_4496023026.md) — chapter_4496023026
+        - [Security Notifications for ERP Sandbox Integration](section_1526307894.md) — section_1526307894
+        - [Enabling NSPOS Features in NetSuite ERP](section_37124214068.md) — section_37124214068
+        - [Replication Issues](section_1526307857.md) — section_1526307857
+        - [Workstation and Peripheral Issues](section_1526307756.md) — section_1526307756
+        - [Software Issues](section_1526307809.md) — section_1526307809
+    - [Appendix: PCI SSF Information for NSPOS](article_4142502876.md) — article_4142502876
+      - [PCI SSF Related Application Summary](section_0506031844.md) — section_0506031844
+      - [Preventing the Accidental Capture of Sensitive Information in Windows](section_0506030805.md) — section_0506030805
+        - [Preventing the Accidental Capture of Sensitive Information in Windows 11](section_0221113355.md) — section_0221113355
+        - [Preventing the Accidental Capture of Sensitive Information in Windows 10](section_0221113429.md) — section_0221113429
+  - [NSPOS Release Notes 2024.1.X](part_1634005497.md) — part_1634005497
+    - [NSPOS 2024.1.0 Release Notes](chapter_86094449771.md) — chapter_86094449771
+      - [Product Features and Enhancements NSPOS 2024.1.0](article_1132846621.md) — article_1132846621
+        - [Self-checkout Kiosk](section_0404115103.md) — section_0404115103
+        - [SuiteTax Integration for New NSPOS Customers](section_0312105336.md) — section_0312105336
+          - [Configuring NSPOS SuiteTax](section_0515121418.md) — section_0515121418
+          - [Global Settings](section_0312104957.md) — section_0312104957
+          - [Tax Schedules Settings](section_0313034409.md) — section_0313034409
+          - [Subsidiaries Settings](section_0510024358.md) — section_0510024358
+          - [Locations Settings](section_0510024408.md) — section_0510024408
+          - [Tax Schedules](section_0313125458.md) — section_0313125458
+          - [Tax Codes](section_0320043034.md) — section_0320043034
+          - [Tax Groups](section_0320033753.md) — section_0320033753
+        - [Payment Instruments Compatibility](section_0404105606.md) — section_0404105606
+        - [Receipt Auto-print and Prompt Enhancements](section_0404114749.md) — section_0404114749
+        - [Employee Password-change Feature](section_0404114539.md) — section_0404114539
+        - [Gender Configuration for Customer Form](section_0404113850.md) — section_0404113850
+      - [Fixes NSPOS 2024.1.0](article_94121302859.md) — article_94121302859
+      - [Perform the Upgrade to NSPOS 2024.1.X](section_74104755802.md) — section_74104755802
+      - [NSPOS 2024.1.X Minor Release and Hot Push Updates](section_6105002282.md) — section_6105002282
+        - [NSPOS 2024.1.10 Minor Release Notes](article_83142909560.md) — article_83142909560
+        - [NSPOS 2024.1.20 Minor Release Notes](article_9131203491.md) — article_9131203491
+      - [Appendix: NSPOS Release Types and Verification](article_7316222129.md) — article_7316222129
+  - [NSPOS Release Notes 2020.1.X](part_1634008898.md) — part_1634008898
+    - [NSPOS 2020.1.0 Release Notes](chapter_159301984366.md) — chapter_159301984366
+      - [Product Enhancements NSPOS 2020.1.0](section_159301991720.md) — section_159301991720
+        - [Staging 2.0](article_162930310025.md) — article_162930310025
+        - [Manage Extensions in NetSuite ERP](article_162930327655.md) — article_162930327655
+        - [Digital Receipts](article_162930296833.md) — article_162930296833
+        - [Location and Working Hours Restrictions](article_164822375473.md) — article_164822375473
+        - [Password Management](article_162930719621.md) — article_162930719621
+        - [Monitoring Enhancements](article_162930430366.md) — article_162930430366
+      - [Fixes NSPOS 2020.1.0](section_159301993946.md) — section_159301993946
+      - [Perform the Update to NSPOS 2020.1.X](section_159301995180.md) — section_159301995180
+      - [NSPOS 2020.1.X E-fix and Hot Push Updates](section_165427862163.md) — section_165427862163
+        - [NSPOS 2020.1.1 Minor Release Notes](article_67154154533.md) — article_67154154533
+        - [NSPOS 2020.1.10 E-fix Notes](article_29153705921.md) — article_29153705921
+        - [NSPOS 2020.1.11 Minor Release Notes](article_0153127864.md) — article_0153127864
+        - [NSPOS 2020.1.12 Minor Release Notes](article_0153127869.md) — article_0153127869
+        - [NSPOS 2020.1.13 Minor Release Notes](article_7142745793.md) — article_7142745793
+        - [NSPOS 2020.1.20 Minor Release Notes](article_69115043875.md) — article_69115043875
+        - [NSPOS 2020.1.21 Minor Release Notes](article_48100710408.md) — article_48100710408
+        - [NSPOS 2020.1.22 Hot Push Notes](article_89133220972.md) — article_89133220972
+        - [NSPOS 2020.1.30 Minor Release Notes](article_59120957693.md) — article_59120957693
+        - [NSPOS 2020.1.31 Hot Push Notes](article_71145147620.md) — article_71145147620
+      - [Appendix: NSPOS Release Types and Verification](article_86104348453.md) — article_86104348453
+  - [NSPOS Release Notes 2025.1.0](part_0610102803.md) — part_0610102803
+    - [NSPOS 2025.1.0 Release Notes](chapter_15121238646.md) — chapter_15121238646
+      - [Product Features and Enhancements NSPOS 2025.1.0](article_19150531745.md) — article_19150531745
+        - [QR Code and Pin Authentication for Self-checkout Kiosk Assistants](section_0514112405.md) — section_0514112405
+        - [SuiteTax is Available for All Customers](section_0514115730.md) — section_0514115730
+        - [Windcave Payment Gateway](section_0514010908.md) — section_0514010908
+        - [Customer Taxable Synchronization](section_0514011128.md) — section_0514011128
+        - [Inactivated Items Searches](section_0514011708.md) — section_0514011708
+        - [Cancel and Void Data Summary](section_0514011826.md) — section_0514011826
+        - [Promotions Configuration Sub-menu](section_0514012857.md) — section_0514012857
+        - [Updated Integration Endpoints](section_0514012913.md) — section_0514012913
+        - [Depreciation of Worldpay (Vantiv) [Mercury Payment Systems]](section_0514012938.md) — section_0514012938
+        - [Automatic Upsync Error Mitigation Reports Available in NSPOS Menu](section_0514013007.md) — section_0514013007
+        - [Auto-close Timer](section_0514013035.md) — section_0514013035
+        - [Windows Kiosk Mode](section_0514013051.md) — section_0514013051
+      - [Fixes NSPOS 2025.1.0](article_42122835120.md) — article_42122835120
+      - [Perform the Upgrade to NSPOS 2025.1.X](section_31135901988.md) — section_31135901988
+      - [NSPOS 2025.1.X Minor Release and Hot Push Updates](section_2135913638.md) — section_2135913638
+        - [NSPOS 2025.1.4 Hot Push Notes](article_8003758190.md) — article_8003758190
+      - [Appendix: NSPOS Release Types and Verification](article_68121338277.md) — article_68121338277
+  - [NSPOS Security Guide](part_1523997777.md) — part_1523997777
+    - [Introduction](chapter_1534780985.md) — chapter_1534780985
+    - [NSPOS Network Components](chapter_1535385076.md) — chapter_1535385076
+    - [Register Applications and Hardware](chapter_1534795160.md) — chapter_1534795160
+    - [Ongoing User Security](chapter_1534781311.md) — chapter_1534781311

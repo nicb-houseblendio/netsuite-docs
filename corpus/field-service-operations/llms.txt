@@ -1,0 +1,13 @@
+# Field Service Operations
+
+Field Service Operations (8 pages): Field Service Operations
+
+## Chapters
+- [Field Service Operations](article_4105425929.md): Operations managers handle day-to-day Field Service Management (FSM) operations in NetSuite so service technicians can work efficiently, and stakeholders can stay informed.
+  - [Key FSM Operations Areas](article_0331110007.md): Key areas of Field Service Management (FSM) operations include: - FSM Daily Operations and User Flows(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch field-service-operations

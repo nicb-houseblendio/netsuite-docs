@@ -1,0 +1,24 @@
+{
+  "branch": "enterprise-resource-planning-erp",
+  "generatedAt": null,
+  "pages": {
+    "article_161718122877": {
+      "path": "corpus/enterprise-resource-planning-erp/article_161718122877.md",
+      "title": "Enterprise Resource Planning (ERP)",
+      "type": "article",
+      "breadcrumb": "Videos > Enterprise Resource Planning (ERP)",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_161718122877.html",
+      "etag": "\"c9a43e8af91788ff91401719fbd727a3:1786980303.886217\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:43:20.739Z",
+      "sha256": "2b2f210e0b3dbe08d3a75ccf98925b124ef1307280ef157f51628533bb4b4f2b",
+      "bytes": 13518,
+      "anchors": 14,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

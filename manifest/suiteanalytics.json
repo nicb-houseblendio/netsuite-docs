@@ -1,0 +1,24 @@
+{
+  "branch": "suiteanalytics",
+  "generatedAt": null,
+  "pages": {
+    "article_161702871346": {
+      "path": "corpus/suiteanalytics/article_161702871346.md",
+      "title": "SuiteAnalytics",
+      "type": "article",
+      "breadcrumb": "Videos > SuiteAnalytics",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_161702871346.html",
+      "etag": "\"8f203fc625529fad7fbc467e94816fd0:1786980303.770807\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:38.855Z",
+      "sha256": "1c4123ec5a2a4a3690e050343605aa6fcfa5f958c2c1014d26dd8a62952b9d9c",
+      "bytes": 3197,
+      "anchors": 4,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

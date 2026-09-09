@@ -1,0 +1,21 @@
+# Integrating NetSuite Connector with Supported Storefronts or 3PLs
+
+Integrating NetSuite Connector with Supported Storefronts or 3PLs (10 pages): Integrating NetSuite Connector with Supported Storefronts or 3PLs
+
+## Chapters
+- [Integrating NetSuite Connector with Supported Storefronts or 3PLs](article_165036447599.md): This chapter discusses authorizing NetSuite Connector on your storefronts or 3PL accounts.
+  - [Integrating NetSuite Connector with Amazon](section_163748079641.md): To integrate NetSuite Connector and Amazon, authorize NetSuite Connector on your Amazon seller account.
+  - [Integrating NetSuite Connector with BigCommerce](section_0412115743.md): Use the following procedure to access the BigCommerce account.
+  - [Integrating NetSuite Connector with eBay](section_162848468799.md): To integrate NetSuite Connector and eBay, authorize NetSuite Connector on your eBay seller account.
+  - [Integrating NetSuite Connector with Loop Returns](article_0410021815.md): To set up Loop Returns with NetSuite Connector, you must generate an API token.
+  - [Integrating NetSuite Connector with Magento 2](section_162935187192.md): To connect your Magento 2 account to NetSuite Connector, you must fill out the credentials on your Magento 2 connector's Credentials page in NetSuite Connector.
+  - [Integrating NetSuite Connector with Oracle Simphony](section_0628034824.md): To integrate NetSuite Connector and Oracle Simphony, enter your SFTP credentials in the Simphony Connector credentials settings screen.
+  - [Integrating NetSuite Connector with Shopify](section_163058015410.md): Use the following procedure to access Shopify account.
+  - [Integrating Shopify B2B with NetSuite](section_0217084843.md): To integrate NetSuite Connector with Shopify B2B, you must authorize NetSuite Connector on your Shopify B2B account.
+  - [Integrating NetSuite with Square Connector](section_0930082850.md): To integrate the Square connector and NetSuite Connector, you must authorize NetSuite Connector in your Square account.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch integrating-netsuite-connector-with-supported-storefronts-or

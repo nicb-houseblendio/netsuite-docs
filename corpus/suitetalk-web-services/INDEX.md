@@ -1,0 +1,917 @@
+# SuiteTalk Web Services
+
+913 pages, category: SuiteCloud Platform
+
+- [SuiteTalk Web Services](set_22152129.md) — set_22152129
+  - [SuiteTalk SOAP Web Services Platform Guide](book_156388532579.md) — book_156388532579
+    - [SuiteTalk SOAP Web Services Platform Overview](chapter_N3412777.md) — chapter_N3412777
+      - [SOAP Web Services Overview](section_N3413869.md) — section_N3413869
+      - [NetSuite WSDL and XSD Structure](section_N3413913.md) — section_N3413913
+      - [NetSuite WSDL Versioning](section_N3418174.md) — section_N3418174
+        - [NetSuite Versioning and WSDL Versioning Overview](section_N3418264.md) — section_N3418264
+        - [Upgrading WSDL Versions](section_N3418339.md) — section_N3418339
+        - [Support for Existing WSDL Versions](section_N3418621.md) — section_N3418621
+        - [SOAP Web Services Archives](section_3892701016.md) — section_3892701016
+      - [SOAP Web Services Performance Optimization](section_1537861842.md) — section_1537861842
+      - [SOAP Web Services Governance Overview](section_N3418637.md) — section_N3418637
+      - [Web Services and RESTlet Concurrency Governance](section_1500275531.md) — section_1500275531
+        - [Concurrency Governance Limits Based on Service Tiers and SuiteCloud Plus Licenses](bridgehead_1500275603.md) — bridgehead_1500275603
+        - [Concurrency Limit per Integration](bridgehead_156224824287.md) — bridgehead_156224824287
+        - [Concurrency Governance for Internal Applications](bridgehead_1532590357.md) — bridgehead_1532590357
+        - [Effects of Authentication Method on Concurrency Governance](bridgehead_1502455060.md) — bridgehead_1502455060
+        - [Account Concurrency Monitoring Resources](bridgehead_1525252220.md) — bridgehead_1525252220
+        - [Errors Related to Concurrency Violations](bridgehead_1525252812.md) — bridgehead_1525252812
+        - [Best Practices](bridgehead_1500276239.md) — bridgehead_1500276239
+        - [Retrying Failed Web Services Requests](bridgehead_1509974866.md) — bridgehead_1509974866
+        - [Sample Scenario](section_1525253248.md) — section_1525253248
+        - [Frequently Asked Questions](section_1504769959.md) — section_1504769959
+      - [Glossary](section_N3419527.md) — section_N3419527
+    - [SOAP Web Services Setup](chapter_N3419686.md) — chapter_N3419686
+      - [SOAP Web Services Quick Start](section_N3419782.md) — section_N3419782
+        - [Enabling the SOAP Web Services Feature](section_N3419926.md) — section_N3419926
+        - [Setting the Show Internal IDs Preference](section_N3420345.md) — section_N3420345
+        - [Building an Application with Java using Apache Axis](section_N3420833.md) — section_N3420833
+        - [Downloading Sample Applications](section_N3421207.md) — section_N3421207
+        - [Capturing SOAP](section_N3421282.md) — section_N3421282
+      - [SOAP Web Services Development Considerations](section_N3421363.md) — section_N3421363
+        - [Development Considerations Overview](section_N3421458.md) — section_N3421458
+        - [NetSuite Features in SOAP Web Services](section_N3421552.md) — section_N3421552
+        - [SOAP Web Services Reliability Considerations](section_1540364662.md) — section_1540364662
+        - [Effects of Account Configuration in SOAP Web Services](section_N3421585.md) — section_N3421585
+        - [Enumerations, Special Characters, and Character Encoding](section_N3421860.md) — section_N3421860
+        - [Image References in SOAP Web Services](section_N3421872.md) — section_N3421872
+    - [SOAP Web Services Preferences](chapter_N3422061.md) — chapter_N3422061
+      - [Company-Wide Preferences](section_N3422217.md) — section_N3422217
+      - [One-Time Preferences](section_N3423112.md) — section_N3423112
+        - [Request-Level Preferences](section_4170181850.md) — section_4170181850
+        - [Sample Code](section_4171706519.md) — section_4171706519
+      - [Setting the Internal ID Preference](section_N3423996.md) — section_N3423996
+      - [Caching Behavior in SOAP Web Services](section_1512050046.md) — section_1512050046
+    - [Integration Management](chapter_4399047360.md) — chapter_4399047360
+      - [Integration Record Overview](section_4389727047.md) — section_4389727047
+      - [Adding an Integration Record](section_4430970451.md) — section_4430970451
+        - [Creating an Integration Record](section_4393879073.md) — section_4393879073
+        - [Auto-Installation of Integration Records](section_4429293934.md) — section_4429293934
+        - [Bundle Installation of Integration Records](section_4431829430.md) — section_4431829430
+      - [Application Details for Client Code](section_4431145184.md) — section_4431145184
+        - [Sending an Application ID with User Credentials](section_4398166065.md) — section_4398166065
+          - [Requirements for Using an Application ID and User Credentials](section_4399767175.md) — section_4399767175
+          - [Application ID Code Samples (Request-Level Credentials)](section_4399767063.md) — section_4399767063
+          - [Using Application ID with the Login and ssoLogin Operations](section_4502721888.md) — section_4502721888
+        - [Token-Based Authentication Details](section_4395622897.md) — section_4395622897
+          - [Requirements for Using Token-Based Authentication](section_4395625427.md) — section_4395625427
+          - [Regenerating a Consumer Key and Secret](section_4395597766.md) — section_4395597766
+          - [TokenPassport Complex Type](section_4395630653.md) — section_4395630653
+          - [Updating a SOAP Web Services Integration to Send Token-Based Authentication Details](section_4395625838.md) — section_4395625838
+          - [SOAP Web Services Governance for Token-Based Authentication](section_4502013915.md) — section_4502013915
+          - [Token-Based Authentication Errors in SOAP Web Services](section_1509544929.md) — section_1509544929
+      - [Blocking SOAP Web Services Requests](section_4431175537.md) — section_4431175537
+      - [SOAP Web Services Execution Log](section_4543338726.md) — section_4543338726
+      - [Distributing Integration Records](section_4389835426.md) — section_4389835426
+      - [Default Web Services Integrations Record](section_4431183712.md) — section_4431183712
+      - [Using Integration Records in Sandbox Accounts](section_1515139626.md) — section_1515139626
+      - [Token-based Authentication Credentials and Accounts](section_1515141510.md) — section_1515141510
+      - [Using Integration Records in Conjunction With SSO Calls](section_4416335959.md) — section_4416335959
+      - [Removing Integration Records](section_4429221557.md) — section_4429221557
+      - [Tracking Changes to Integration Records](section_4543308762.md) — section_4543308762
+    - [Roles and Permissions in SOAP Web Services](chapter_N3424144.md) — chapter_N3424144
+      - [Role and Permission Considerations When Developing in SOAP Web Services](section_N3424344.md) — section_N3424344
+      - [Assigning the SOAP Web Services Permission to a Role](section_N3424476.md) — section_N3424476
+      - [Setting a Default Role for a SOAP Web Services User](section_N3424690.md) — section_N3424690
+      - [Setting a Web Services Only Role for a User](section_N3424894.md) — section_N3424894
+      - [Customer Center, Vendor Center, and Partner Center Roles](section_N3427014.md) — section_N3427014
+      - [Internal IDs Associated with Roles](section_N3427186.md) — section_N3427186
+    - [Records, Fields, Forms, and Sublists in SOAP Web Services](chapter_N3428523.md) — chapter_N3428523
+      - [Records in SOAP Web Services](section_N3428663.md) — section_N3428663
+        - [Record Types](section_N3428928.md) — section_N3428928
+        - [Search Records](section_N3429060.md) — section_N3429060
+        - [Subrecords](section_N3432503.md) — section_N3432503
+        - [Using Internal IDs, External IDs, and References](section_N3432681.md) — section_N3432681
+        - [External IDs Overview](section_N3433806.md) — section_N3433806
+        - [Shared Internal and External IDs](section_N3436356.md) — section_N3436356
+      - [Fields in SOAP Web Services](section_N3436475.md) — section_N3436475
+        - [Datetime Fields](section_1521451348.md) — section_1521451348
+        - [CustomFieldList](section_N3438152.md) — section_N3438152
+        - [Custom Fields and Joined Searches](section_N3438635.md) — section_N3438635
+        - [User Defined Lists](section_N3438708.md) — section_N3438708
+        - [Enumerated Lists](section_N3438876.md) — section_N3438876
+        - [Field Lengths](section_N3438979.md) — section_N3438979
+        - [Field Level Errors](section_N3439078.md) — section_N3439078
+        - [Required Fields](section_N3439180.md) — section_N3439180
+        - [Fields and Operations](section_N3439314.md) — section_N3439314
+        - [Default Field Values](section_N3439416.md) — section_N3439416
+      - [Forms in SOAP Web Services](section_N3439676.md) — section_N3439676
+      - [Sublists in SOAP Web Services](section_N3439908.md) — section_N3439908
+        - [Updating Sublists in SOAP Web Services](section_N3441570.md) — section_N3441570
+        - [Sublist Line Numbers](section_N3443715.md) — section_N3443715
+        - [Deleting All Lines on a Sublist](section_N3443838.md) — section_N3443838
+        - [Searching a Sublist](section_N3443977.md) — section_N3443977
+    - [SOAP Web Services Processing](chapter_N3444088.md) — chapter_N3444088
+      - [Synchronous Versus Asynchronous Request Processing](section_N3444207.md) — section_N3444207
+      - [Asynchronous Request Processing](section_3770809638.md) — section_3770809638
+        - [Checking the Status of an Asynchronous Job](section_3771741984.md) — section_3771741984
+        - [Checking for Detailed Results of an Asynchronous Job](section_3771740553.md) — section_3771740553
+        - [Monitoring Asynchronous Jobs from the UI](section_N3445354.md) — section_N3445354
+      - [Synchronous Request Processing](section_N3444684.md) — section_N3444684
+        - [Using the SOAP Web Services Usage Log](section_N3444819.md) — section_N3444819
+        - [Creating Integration Reports](section_N3445008.md) — section_N3445008
+        - [Handling of Lengthy Requests](section_4078474279.md) — section_4078474279
+    - [SOAP Web Services Security](chapter_N3445516.md) — chapter_N3445516
+      - [Authentication for SOAP Web Services](section_N3445710.md) — section_N3445710
+        - [Structuring SOAP Requests to Include Authentication Details](section_4489690806.md) — section_4489690806
+        - [Using the Login Audit Trail](section_1521211724.md) — section_1521211724
+      - [Authorization for SOAP Web Services](section_N3447510.md) — section_N3447510
+      - [Session Management for SOAP Web Services](section_N3447680.md) — section_N3447680
+      - [Encryption for SOAP Web Services](section_N3448169.md) — section_N3448169
+      - [Custom Field Security](section_N3448524.md) — section_N3448524
+    - [Platform Features](chapter_N3448700.md) — chapter_N3448700
+      - [Enabling Web Services Concurrent Users with SuiteCloud Plus](section_N3448861.md) — section_N3448861
+      - [Operations and Their Internal ID Requirements](section_N3449174.md) — section_N3449174
+      - [Using SOAP web services to Send Data from a CSV File](section_4488980213.md) — section_4488980213
+      - [Searching for SOAP Web Services Log Information](section_4738049812.md) — section_4738049812
+      - [SOAP Web Services Operations Search Type](section_4738050787.md) — section_4738050787
+      - [SOAP Web Services Record Processing Search Type](section_4738051114.md) — section_4738051114
+    - [Types](chapter_N3452524.md) — chapter_N3452524
+      - [Built-in Types](section_N3452691.md) — section_N3452691
+      - [Complex Types](section_N3452954.md) — section_N3452954
+      - [Custom Field Types](section_N3458179.md) — section_N3458179
+      - [Search Types](section_N3460474.md) — section_N3460474
+      - [Platform Enumerations](section_N3471338.md) — section_N3471338
+    - [SOAP Web Services Operations](chapter_N3477815.md) — chapter_N3477815
+      - [SOAP Web Services Standard Operations](section_N3478008.md) — section_N3478008
+      - [SOAP Web Services List Operations](section_N3480490.md) — section_N3480490
+      - [SOAP Web Services Asynchronous Operations](section_N3480635.md) — section_N3480635
+      - [add](section_N3480855.md) — section_N3480855
+      - [addList](section_N3481360.md) — section_N3481360
+      - [attach / detach](section_N3481947.md) — section_N3481947
+      - [changeEmail](section_N3484955.md) — section_N3484955
+      - [changePassword](section_N3485424.md) — section_N3485424
+      - [checkAsyncStatus](section_N3485891.md) — section_N3485891
+      - [delete](section_N3486046.md) — section_N3486046
+      - [deleteList](section_N3486552.md) — section_N3486552
+      - [get](section_N3488543.md) — section_N3488543
+      - [getAccountGovernanceInfo](section_158142198604.md) — section_158142198604
+      - [getAll](section_N3489077.md) — section_N3489077
+      - [getAsyncResult](section_N3489563.md) — section_N3489563
+      - [getBudgetExchangeRate](section_N3489718.md) — section_N3489718
+      - [getConsolidatedExchangeRate](section_N3491080.md) — section_N3491080
+      - [getCurrencyRate](section_N3492280.md) — section_N3492280
+      - [getCustomizationId](section_N3493817.md) — section_N3493817
+      - [getDataCenterUrls](section_N3494684.md) — section_N3494684
+      - [getDeleted](section_N3497592.md) — section_N3497592
+      - [getIntegrationGovernanceInfo](section_158142272877.md) — section_158142272877
+      - [getItemAvailability](section_N3498308.md) — section_N3498308
+      - [getList](section_N3499748.md) — section_N3499748
+      - [getPostingTransactionSummary](section_N3500304.md) — section_N3500304
+      - [getSavedSearch](section_N3503649.md) — section_N3503649
+      - [getSelectValue](section_N3504236.md) — section_N3504236
+      - [getServerTime](section_N3508018.md) — section_N3508018
+      - [initialize / initializeList](section_N3508536.md) — section_N3508536
+      - [mapSso](section_N3513702.md) — section_N3513702
+      - [search](section_N3514306.md) — section_N3514306
+        - [Basic Searches in SOAP Web Services](section_N3514760.md) — section_N3514760
+        - [Joined Searches in SOAP Web Services](section_N3516345.md) — section_N3516345
+        - [Advanced Searches in SOAP Web Services](section_N3516862.md) — section_N3516862
+          - [How Custom Fields Are Identified in Search Results](section_3777668168.md) — section_3777668168
+        - [Joining Through Custom Fields](section_3770131952.md) — section_3770131952
+          - [Overview of CustomSearchJoin and CustomSearchRowBasic](section_3771855573.md) — section_3771855573
+          - [CustomSearch Objects Defined](section_3770750529.md) — section_3770750529
+          - [Using CustomSearchJoin and CustomSearchRowBasic Example](section_3770756508.md) — section_3770756508
+          - [CustomSearchJoin Usage Notes](section_3770757929.md) — section_3770757929
+        - [Setting Valid Search Values](section_N3518134.md) — section_N3518134
+        - [Setting the anyof, mine, or myteam Filtering Values](section_N3518157.md) — section_N3518157
+        - [Searching by lastModifiedDate](section_N3518534.md) — section_N3518534
+        - [Understanding Sorting in Advanced Search](section_N3518731.md) — section_N3518731
+        - [Search-Related Sample Code](section_N3519853.md) — section_N3519853
+        - [Searching for a Multi-select Custom Field](section_N3522048.md) — section_N3522048
+        - [Search Issues and Best Practices for SOAP Web Services and SuiteScript](section_1519647409.md) — section_1519647409
+      - [searchMoreWithId](section_N3523074.md) — section_N3523074
+      - [ssoLogin](section_N3526370.md) — section_N3526370
+      - [update](section_N3527090.md) — section_N3527090
+      - [updateList](section_N3527652.md) — section_N3527652
+      - [updateInviteeStatus](section_N3531056.md) — section_N3531056
+      - [updateInviteeStatusList](section_N3531763.md) — section_N3531763
+      - [upsert](section_N3532463.md) — section_N3532463
+      - [upsertList](section_N3533243.md) — section_N3533243
+    - [SOAP Web Services PHP Toolkit](chapter_N3533866.md) — chapter_N3533866
+      - [PHP Toolkit Overview](section_N3534011.md) — section_N3534011
+      - [Downloading the PHP Toolkit](section_N3534718.md) — section_N3534718
+      - [Configuring an Environment for the PHP Toolkit](section_N3534858.md) — section_N3534858
+      - [Creating a SOAP Web Services PHP Project](section_N3535140.md) — section_N3535140
+      - [Creating and Submitting Records Using the PHP Toolkit](section_N3535701.md) — section_N3535701
+      - [Logging SOAP Requests and Responses Using the PHP Toolkit](section_N3535863.md) — section_N3535863
+      - [Troubleshooting PHP and SOAP Web Services](section_N3535978.md) — section_N3535978
+    - [SOAP Web Services Error Handling and Error Codes](chapter_N3536378.md) — chapter_N3536378
+      - [SOAP Web Services Warnings, Errors, and Faults](section_N3536574.md) — section_N3536574
+      - [SOAP Faults for Each Operation](section_N3536956.md) — section_N3536956
+      - [SOAP Fault Status Codes](section_N3539420.md) — section_N3539420
+      - [Error Status Codes](section_N3539978.md) — section_N3539978
+      - [Warning Status Codes](section_N3599699.md) — section_N3599699
+    - [SOAP Web Services Frequently Asked Questions (FAQ)](chapter_1554821898.md) — chapter_1554821898
+    - [SOAP Removal Plans FAQ](article_2104046421.md) — article_2104046421
+  - [SuiteTalk SOAP Web Services Records Guide](book_156388697975.md) — book_156388697975
+    - [SuiteTalk SOAP Records Overview](chapter_N3634785.md) — chapter_N3634785
+      - [How to Use the SOAP Web Services Records Help](section_N3635039.md) — section_N3635039
+      - [SOAP Web Services Supported Records](section_N3635369.md) — section_N3635369
+      - [SOAP Schema Browser](section_N3639052.md) — section_N3639052
+        - [Finding a Record or Subrecord](section_3975716851.md) — section_3975716851
+        - [Finding Other Objects](section_3975714806.md) — section_3975714806
+        - [Default View](section_3975713667.md) — section_3975713667
+        - [Namespace View](section_3975743909.md) — section_3975743909
+    - [Entities](chapter_N3639664.md) — chapter_N3639664
+      - [Customer](section_N3639940.md) — section_N3639940
+      - [Customer Status](section_N3643020.md) — section_N3643020
+      - [Contact](section_N3643434.md) — section_N3643434
+      - [Employee](section_N3643925.md) — section_N3643925
+      - [Group (Entity Group)](section_N3644456.md) — section_N3644456
+      - [HCM Job](section_1500288688.md) — section_1500288688
+      - [Partner](section_N3645002.md) — section_N3645002
+      - [Project (Job)](section_N3645529.md) — section_N3645529
+        - [Adding a Project with a Status Example One](section_3795306517.md) — section_3795306517
+        - [Adding Resources Example Two](section_3795308162.md) — section_3795308162
+      - [Project Type (Job Type)](section_N3646063.md) — section_N3646063
+      - [Project Status (Job Status)](section_N3646476.md) — section_N3646476
+      - [Vendor](section_N3646902.md) — section_N3646902
+      - [Entity Search](section_N3650214.md) — section_N3650214
+    - [Activities](chapter_N3650400.md) — chapter_N3650400
+      - [Events (CalendarEvent)](section_N3650565.md) — section_N3650565
+      - [Phone Call](section_N3651734.md) — section_N3651734
+      - [Project Task](section_N3652149.md) — section_N3652149
+        - [Project Tasks Versus Milestone Tasks](section_3793231818.md) — section_3793231818
+        - [Project Task Supported Operations](section_3793222925.md) — section_3793222925
+        - [Project Task Field Definitions](section_3793221576.md) — section_3793221576
+        - [Project Task Permissions](section_3793220177.md) — section_3793220177
+        - [Adding a Project Task Example](section_3790879161.md) — section_3790879161
+        - [Adding a Milestone Task Example](section_3790879372.md) — section_3790879372
+      - [Project Task Assignment Joined Search](section_N3654425.md) — section_N3654425
+      - [Resource Allocation](section_3724237064.md) — section_3724237064
+      - [Tasks](section_N3654609.md) — section_N3654609
+    - [Communications](chapter_N3655132.md) — chapter_N3655132
+      - [Note](section_N3655263.md) — section_N3655263
+      - [Message](section_N3655720.md) — section_N3655720
+    - [Transactions](chapter_N3657735.md) — chapter_N3657735
+      - [Usage Notes for Transaction Record Types](section_N3658677.md) — section_N3658677
+      - [Assembly Build](section_N3659969.md) — section_N3659969
+      - [Assembly Unbuild](section_N3660532.md) — section_N3660532
+      - [Bin Putaway Worksheet](section_N3661129.md) — section_N3661129
+      - [Bin Transfer](section_N3661654.md) — section_N3661654
+      - [Cash Refund](section_N3662733.md) — section_N3662733
+      - [Cash Sale](section_N3663345.md) — section_N3663345
+      - [Check](section_N3664209.md) — section_N3664209
+      - [Credit Memo](section_N3666537.md) — section_N3666537
+      - [Customer Deposit](section_N3667158.md) — section_N3667158
+      - [Customer Refund](section_N3672094.md) — section_N3672094
+      - [Deposit](section_3897139696.md) — section_3897139696
+        - [Deposit Supported Operations](section_3941930688.md) — section_3941930688
+        - [Deposit Usage Notes and Field Summary](section_3941934330.md) — section_3941934330
+        - [Deposit Code Samples](section_3941930905.md) — section_3941930905
+          - [Adding a Record With Payment Lines](section_3941950392.md) — section_3941950392
+          - [Adding a Record With Other Deposit, Cash Back Lines](section_3947199795.md) — section_3947199795
+          - [Updating the Deposit Record](section_3948125053.md) — section_3948125053
+        - [Common Errors With Deposit Records](section_3941974737.md) — section_3941974737
+      - [Deposit Application](section_N3672681.md) — section_N3672681
+      - [Estimate/Quote](section_N3673214.md) — section_N3673214
+      - [Expense Report](section_N3674551.md) — section_N3674551
+      - [Inbound Shipment](section_1502366759.md) — section_1502366759
+      - [Inventory Adjustment](section_N3676432.md) — section_N3676432
+      - [Inventory Cost Revaluation](section_3743308294.md) — section_3743308294
+      - [Inventory Transfer](section_N3678082.md) — section_N3678082
+      - [Invoice](section_N3678746.md) — section_N3678746
+      - [Item Fulfillment](section_N3680777.md) — section_N3680777
+      - [Item Receipt](section_N3681685.md) — section_N3681685
+      - [Opportunity](section_N3684743.md) — section_N3684743
+      - [Paycheck](section_1500627996.md) — section_1500627996
+      - [Paycheck Journal](section_N3687114.md) — section_N3687114
+      - [Purchase Order](section_N3687718.md) — section_N3687718
+      - [Requisition](section_4205474329.md) — section_4205474329
+        - [Requisition Supported Operations](section_4261640138.md) — section_4261640138
+        - [Requisition Body and Sublist Fields](section_4261646552.md) — section_4261646552
+        - [Requisition Code Samples](section_4261814728.md) — section_4261814728
+      - [Return Authorization](section_N3688557.md) — section_N3688557
+      - [Sales Order](section_N3690924.md) — section_N3690924
+      - [Transfer Order](section_N3692380.md) — section_N3692380
+      - [Vendor Return Authorization](section_N3696445.md) — section_N3696445
+      - [Work Order](section_N3697954.md) — section_N3697954
+      - [Work Order Close](section_N3699241.md) — section_N3699241
+      - [Work Order Completion](section_N3701691.md) — section_N3701691
+      - [Work Order Issue](section_N3698631.md) — section_N3698631
+    - [Transactions-related Records](article_160526452785.md) — article_160526452785
+      - [Advanced Intercompany Journal Entry](section_1500297529.md) — section_1500297529
+      - [Budget](section_N3662262.md) — section_N3662262
+      - [Charge](section_3743306486.md) — section_3743306486
+      - [Customer Payment](section_N3667711.md) — section_N3667711
+      - [Intercompany Journal Entry](section_N3675034.md) — section_N3675034
+        - [Intercompany Journal Entry Supported Operations](section_4105132614.md) — section_4105132614
+        - [Intercompany Journal Entry Body and Sublist Fields](section_4105132538.md) — section_4105132538
+        - [Intercompany Journal Entry Code Samples](section_4105132444.md) — section_4105132444
+          - [Adding an Intercompany Journal Entry](section_4105318254.md) — section_4105318254
+          - [Adding a Book Specific Intercompany Journal Entry](section_4105341906.md) — section_4105341906
+        - [Common Errors With Intercompany Journal Entries](section_4105316538.md) — section_4105316538
+      - [Intercompany Transfer Order](section_N3675550.md) — section_N3675550
+      - [Item Demand Plan](section_N3679563.md) — section_N3679563
+      - [Item Supply Plan](section_N3682363.md) — section_N3682363
+      - [Journal Entry](section_N3683608.md) — section_N3683608
+        - [Journal Entry Supported Operations](section_4099131522.md) — section_4099131522
+        - [Journal Entry Body and Sublist Fields](section_4099136433.md) — section_4099136433
+        - [Journal Entry Code Samples](section_4102626680.md) — section_4102626680
+          - [Adding a Journal Entry](section_4102627067.md) — section_4102627067
+          - [Adding a Book Specific Journal Entry](section_4102627137.md) — section_4102627137
+        - [Common Errors With Journal Entries](section_4103386138.md) — section_4103386138
+      - [Manufacturing Operation Task](section_N3684116.md) — section_N3684116
+      - [Payment Instruments](section_1539169962.md) — section_1539169962
+      - [Period End Journal Entry](section_1554986834.md) — section_1554986834
+      - [Statistical Journal Entry](section_3897121273.md) — section_3897121273
+        - [Statistical Journal Entry Supported Operations](section_3922117227.md) — section_3922117227
+        - [Statistical Journal Entry Body and Sublist Fields](section_3922117110.md) — section_3922117110
+        - [Statistical Journal Entry Code Samples](section_3922117283.md) — section_3922117283
+          - [Adding a Statistical Journal Entry Record](section_3922122248.md) — section_3922122248
+          - [Searching for Statistical Journal Entry Records](section_3929054485.md) — section_3929054485
+        - [Common Errors with Statistical Journal Entries](section_3928175996.md) — section_3928175996
+      - [Time Bill (Track Time)](section_N3691883.md) — section_N3691883
+      - [Usage](section_4858848869.md) — section_4858848869
+      - [Vendor Bill](section_N3694535.md) — section_N3694535
+      - [Vendor Credit](section_N3695165.md) — section_N3695165
+      - [Vendor Payment](section_N3695867.md) — section_N3695867
+      - [Multiple Shipping Routes in SOAP Web Services](section_N3702654.md) — section_N3702654
+    - [Items](chapter_N3704574.md) — chapter_N3704574
+      - [Usage Notes for Item Record Types](section_N3705128.md) — section_N3705128
+      - [Working with Matrix Items in SOAP web services](section_N3705423.md) — section_N3705423
+      - [Shared Field Definitions for Items](section_N3707811.md) — section_N3707811
+        - [Pricing Matrix List](section_N3707950.md) — section_N3707950
+        - [Billing Rates Matrix List](section_N3708857.md) — section_N3708857
+        - [Item Member List](section_N3709426.md) — section_N3709426
+        - [Item Options List](section_N3711605.md) — section_N3711605
+        - [Translation List](section_N3711780.md) — section_N3711780
+        - [Item Vendor List](section_N3712676.md) — section_N3712676
+        - [Site Category List](section_N3713212.md) — section_N3713212
+      - [Assembly Item (BOM Item)](section_N3713949.md) — section_N3713949
+      - [Description Item](section_N3714433.md) — section_N3714433
+      - [Discount Item](section_N3714869.md) — section_N3714869
+      - [Download Item](section_N3715305.md) — section_N3715305
+      - [Gift Certificate Item](section_N3717097.md) — section_N3717097
+      - [Inventory Item](section_N3717575.md) — section_N3717575
+      - [Item Group](section_N3718140.md) — section_N3718140
+      - [Kit/Package Item](section_N3718619.md) — section_N3718619
+      - [Lot Numbered Assembly Item](section_N3719877.md) — section_N3719877
+      - [Lot Numbered Inventory Item](section_N3720360.md) — section_N3720360
+      - [Markup Item](section_N3720882.md) — section_N3720882
+      - [Noninventory Purchase Item](section_N3721317.md) — section_N3721317
+      - [Noninventory Resale Item](section_N3721753.md) — section_N3721753
+      - [NonInventory Sales Item](section_N3723281.md) — section_N3723281
+      - [Other Charge Purchase Item](section_N3723717.md) — section_N3723717
+      - [Other Charge Resale Item](section_N3724153.md) — section_N3724153
+      - [Other Charge Sale Item](section_N3724588.md) — section_N3724588
+      - [Payment Item](section_N3725025.md) — section_N3725025
+      - [Serialized Assembly Item](section_N3727646.md) — section_N3727646
+      - [Serialized Inventory Item](section_N3728128.md) — section_N3728128
+      - [Service Purchase Item](section_N3728646.md) — section_N3728646
+      - [Service Resale Item](section_N3729083.md) — section_N3729083
+      - [Service Sale Item](section_N3729520.md) — section_N3729520
+      - [Subtotal Item](section_N3732142.md) — section_N3732142
+    - [Support](chapter_N3732579.md) — chapter_N3732579
+      - [Issue](section_N3732831.md) — section_N3732831
+      - [Support Case](section_N3733259.md) — section_N3733259
+      - [Support Case Status](section_N3734755.md) — section_N3734755
+      - [Support Case Type](section_N3735126.md) — section_N3735126
+      - [Support Case Origin](section_N3735497.md) — section_N3735497
+      - [Support Case Issue](section_N3735867.md) — section_N3735867
+      - [Support Case Priority](section_N3736238.md) — section_N3736238
+      - [Solution](section_N3736609.md) — section_N3736609
+      - [Topic](section_N3738648.md) — section_N3738648
+    - [Website](chapter_N3739047.md) — chapter_N3739047
+    - [Lists](chapter_N3739470.md) — chapter_N3739470
+      - [Account](section_N3739999.md) — section_N3739999
+      - [Accounting Period](section_N3740408.md) — section_N3740408
+      - [Billing Account](section_4779334000.md) — section_4779334000
+      - [Billing Schedule](section_3884921707.md) — section_3884921707
+        - [Billing Schedule Types](section_3938626927.md) — section_3938626927
+        - [Billing Schedule Body Fields and Sublist Fields](section_3941278513.md) — section_3941278513
+        - [Billing Schedule Supported Operations](section_3932374609.md) — section_3932374609
+        - [Billing Schedule Code Samples](section_3932385875.md) — section_3932385875
+          - [Adding a Standard Billing Schedule](section_3938525542.md) — section_3938525542
+          - [Adding a Fixed Bid Milestone Billing Schedule](section_3932613729.md) — section_3932613729
+          - [Attaching a Billing Schedule to an Item](section_3935925996.md) — section_3935925996
+          - [Attaching a Billing Schedule to a Project](section_3935875522.md) — section_3935875522
+        - [Common Errors with Billing Schedules](section_3934224642.md) — section_3934224642
+      - [Bin](section_N3740750.md) — section_N3740750
+      - [Bill of Materials (BOM)](section_1517399759.md) — section_1517399759
+      - [BOM Revision](section_1517399803.md) — section_1517399803
+      - [Classification (Class)](section_N3741163.md) — section_N3741163
+      - [Consolidated Exchange Rate](section_4847555414.md) — section_4847555414
+      - [Currency](section_N3741577.md) — section_N3741577
+      - [Currency Rate](section_N3741914.md) — section_N3741914
+      - [Customer-Subsidiary Relationship](section_1551876225.md) — section_1551876225
+      - [Department](section_N3742370.md) — section_N3742370
+      - [Expense Category](section_N3743940.md) — section_N3743940
+      - [Fair Value Price](section_4582204692.md) — section_4582204692
+      - [Gift Certificate](section_N3744289.md) — section_N3744289
+      - [Inventory Number](section_N3746766.md) — section_N3746766
+      - [Item Revision](section_N3747185.md) — section_N3747185
+      - [Location](section_N3747661.md) — section_N3747661
+      - [Manufacturing Cost Template](section_N3748057.md) — section_N3748057
+      - [Manufacturing Routing](section_N3750659.md) — section_N3750659
+      - [Merchandise Hierarchy Node](section_1556534558.md) — section_1556534558
+      - [Nexus](section_N3751365.md) — section_N3751365
+      - [Payroll Item](section_N3751811.md) — section_N3751811
+      - [Revenue Recognition Schedule](section_N3752734.md) — section_N3752734
+      - [Revenue Recognition Template](section_N3753754.md) — section_N3753754
+      - [Sales Tax Item](section_N3754277.md) — section_N3754277
+      - [Subsidiary](section_N3754626.md) — section_N3754626
+      - [Tax Group](section_N3755021.md) — section_N3755021
+      - [Tax Type](section_N3755370.md) — section_N3755370
+      - [Unit Type](section_N3756812.md) — section_N3756812
+      - [Vendor-Subsidiary Relationship](section_1551886204.md) — section_1551886204
+    - [Other Lists](chapter_N3757146.md) — chapter_N3757146
+      - [Usage Notes for Other List Record Types](section_N3757575.md) — section_N3757575
+      - [Budget Category](section_N3757717.md) — section_N3757717
+      - [Contact Category](section_N3758134.md) — section_N3758134
+      - [Contact Role](section_N3758510.md) — section_N3758510
+      - [Cost Category](section_N3761082.md) — section_N3761082
+      - [Customer Category](section_N3761524.md) — section_N3761524
+      - [Customer Message](section_N3761912.md) — section_N3761912
+      - [Global Account Mapping](section_3884899929.md) — section_3884899929
+        - [Global Account Mapping Supported Operations](section_3915235386.md) — section_3915235386
+        - [Global Account Mapping Field Definitions](section_3915320758.md) — section_3915320758
+        - [Global Account Mapping Code Samples](section_3915222374.md) — section_3915222374
+          - [Adding a Global Account Mapping Record](section_3915233923.md) — section_3915233923
+          - [Getting a Global Account Mapping Record](section_3915361984.md) — section_3915361984
+        - [Common Errors With Global Account Mappings](section_3915347952.md) — section_3915347952
+      - [Item Account Mapping](section_3884899997.md) — section_3884899997
+        - [Item Account Mapping Supported Operations](section_3916874824.md) — section_3916874824
+        - [Item Account Mapping Field Definitions](section_3916874924.md) — section_3916874924
+        - [Item Account Mapping Code Samples](section_3916875055.md) — section_3916875055
+          - [Adding an Item Account Mapping Record](section_3916875179.md) — section_3916875179
+          - [Updating an Item Account Mapping Record](section_3916875354.md) — section_3916875354
+        - [Common Errors With Item Account Mappings](section_3916875483.md) — section_3916875483
+      - [Lead Source](section_N3762312.md) — section_N3762312
+      - [Note Type](section_N3762642.md) — section_N3762642
+      - [Other Name Category](section_N3763026.md) — section_N3763026
+      - [Partner Category](section_N3764522.md) — section_N3764522
+      - [Payment Method](section_N3764902.md) — section_N3764902
+      - [Price Level](section_N3765290.md) — section_N3765290
+      - [Pricing Group](section_N3765704.md) — section_N3765704
+      - [Sales Role](section_N3766064.md) — section_N3766064
+      - [Tax Control Account](section_3726828990.md) — section_3726828990
+      - [Term](section_N3767518.md) — section_N3767518
+      - [Vendor Category](section_N3767893.md) — section_N3767893
+      - [Win Loss Reason](section_N3768274.md) — section_N3768274
+    - [Customization](chapter_N3768661.md) — chapter_N3768661
+      - [Custom Record](section_N3768988.md) — section_N3768988
+      - [Custom Record Type](section_N3769505.md) — section_N3769505
+      - [Custom Record Custom Field](section_N3771706.md) — section_N3771706
+      - [Custom List](section_N3772071.md) — section_N3772071
+      - [Custom Segment](section_1552570607.md) — section_1552570607
+        - [Working With Custom Segment Values](section_4514768175.md) — section_4514768175
+          - [Identifying Custom Segments and Values](section_4574498478.md) — section_4574498478
+          - [Example of Dynamic Discovery of Existing Custom Segments](section_1503398554.md) — section_1503398554
+          - [Example of Adding a Custom Segment Value](section_4570155133.md) — section_4570155133
+          - [Example of Updating a Custom Segment Value](section_4574607623.md) — section_4574607623
+          - [Example of Getting a Custom Segment Value by Using Record ID](section_4574615725.md) — section_4574615725
+          - [Example of Deleting a Custom Segment Value by Using Record ID](section_1503400786.md) — section_1503400786
+          - [Example of Getting a Custom Segment Value by Using Type Internal ID](section_4574630549.md) — section_4574630549
+          - [Example of Deleting a Custom Segment Value by Using Type Internal ID](section_1503401391.md) — section_1503401391
+        - [CustomFieldLists for Setting Custom Segment Values](section_4514127747.md) — section_4514127747
+          - [Custom Segment Types](section_4514256574.md) — section_4514256574
+          - [Identifying the Correct Script ID for a Custom Segment](section_4514248688.md) — section_4514248688
+          - [Identifying a Custom Segment Value](section_4514248608.md) — section_4514248608
+          - [Example of Setting a List/Record Segment Value](section_4514248526.md) — section_4514248526
+          - [Example of Setting Values for Multiple Segments](section_4514248450.md) — section_4514248450
+      - [Custom Transaction](section_4177777043.md) — section_4177777043
+        - [Custom Transaction Supported Operations](section_4267697187.md) — section_4267697187
+        - [Custom Transaction Body and Sublist Fields](section_4267721380.md) — section_4267721380
+        - [How List Styles Affect Your Integration](section_4268634150.md) — section_4268634150
+        - [About the CustomTransactionType Enum Value](section_4349020048.md) — section_4349020048
+        - [Sales and Purchase Custom Transaction Types](section_158142526855.md) — section_158142526855
+        - [Custom Transaction Code Samples](section_4267682571.md) — section_4267682571
+          - [Example of Getting a Custom Transaction](section_4268588149.md) — section_4268588149
+          - [Example of Adding an Instance of a Basic Custom Transaction Type](section_4268556158.md) — section_4268556158
+          - [Example of Adding an Instance of a Journal Custom Transaction Type](section_4268566454.md) — section_4268566454
+          - [Example of Adding a Sales Custom Transaction Type](section_158143050776.md) — section_158143050776
+          - [Example of Transforming a Purchase Custom Transaction Type](section_158143122041.md) — section_158143122041
+      - [CRM Custom Field](section_N3772486.md) — section_N3772486
+      - [Entity Custom Field](section_N3772873.md) — section_N3772873
+      - [Item Custom Field](section_N3773233.md) — section_N3773233
+      - [Item Number Custom Field](section_N3773607.md) — section_N3773607
+      - [Item Option Custom Field](section_N3773949.md) — section_N3773949
+      - [Other Record Field](section_N3774307.md) — section_N3774307
+      - [Transaction Body Custom Field](section_N3774667.md) — section_N3774667
+      - [Transaction Line Custom Field](section_N3775025.md) — section_N3775025
+    - [Marketing Records](chapter_N3775421.md) — chapter_N3775421
+      - [Campaign](section_N3775730.md) — section_N3775730
+      - [Campaign Category](section_N3778661.md) — section_N3778661
+      - [Campaign Audience](section_N3778995.md) — section_N3778995
+      - [Campaign Family](section_N3779329.md) — section_N3779329
+      - [Campaign Search Engine](section_N3779662.md) — section_N3779662
+      - [Campaign Channel](section_N3779979.md) — section_N3779979
+      - [Campaign Offer](section_N3780297.md) — section_N3780297
+      - [Campaign Response](section_N3780619.md) — section_N3780619
+        - [Campaign Response Supported Operations](section_3808757070.md) — section_3808757070
+        - [Working with the campaignResponseDate Field](section_3808895636.md) — section_3808895636
+        - [Campaign Response Usage Notes](section_3808759336.md) — section_3808759336
+        - [Example of Adding a Campaign Response Record](section_3808925990.md) — section_3808925990
+        - [Example of Getting a Campaign Response Record](section_3808927740.md) — section_3808927740
+      - [Campaign Vertical](section_N3781020.md) — section_N3781020
+      - [Campaign Subscription](section_N3781338.md) — section_N3781338
+      - [Coupon Code](section_N3781656.md) — section_N3781656
+      - [Promotion Code](section_N3782125.md) — section_N3782125
+    - [File Cabinet](chapter_N3782560.md) — chapter_N3782560
+      - [File](section_N3784054.md) — section_N3784054
+        - [File Record Supported Operations](section_4443167525.md) — section_4443167525
+        - [File Record Field Definitions](section_4443172233.md) — section_4443172233
+        - [File Record Code Samples](section_4443156951.md) — section_4443156951
+      - [Folder](section_N3784601.md) — section_N3784601
+    - [Subrecords](chapter_4599346578.md) — chapter_4599346578
+      - [Address](section_4599373137.md) — section_4599373137
+      - [Inventory Detail](section_N3744760.md) — section_N3744760
+        - [Updating SOAP Web Services Code When Advanced Bin / Numbered Inventory Management is Enabled](section_N3745415.md) — section_N3745415
+      - [Landed Cost](section_4610708264.md) — section_4610708264
+    - [Searches](chapter_4177763939.md) — chapter_4177763939
+      - [Accounting Transaction Search](section_4177768855.md) — section_4177768855
+      - [Item Search](section_N3713653.md) — section_N3713653
+        - [Item Search Usage Notes](section_4349721305.md) — section_4349721305
+        - [Item Search Code Sample](section_4349720855.md) — section_4349720855
+      - [Transaction Search](section_N3659492.md) — section_N3659492
+    - [Country, State, and Language Enumerations](chapter_N3784994.md) — chapter_N3784994
+      - [Country Enumerations](section_N3785183.md) — section_N3785183
+      - [Setting State Values in SOAP web services](section_N3796175.md) — section_N3796175
+      - [Language Enumerations](section_N3796595.md) — section_N3796595
+  - [SOAP Web Services To Rest Web Services Upgrade Guide](book_8110600984.md) — book_8110600984
+    - [SOAP Web Services to REST Web Services Upgrade Guide](article_2095713813.md) — article_2095713813
+    - [SOAP Web Services and REST Web Services Operations](article_3101500486.md) — article_3101500486
+      - [add](article_0624101814.md) — article_0624101814
+      - [addList](article_0129091558.md) — article_0129091558
+      - [attach / detach](article_0115032226.md) — article_0115032226
+      - [checkAsyncStatus](article_0624010801.md) — article_0624010801
+      - [delete](article_0624125335.md) — article_0624125335
+      - [deleteList](article_0130093306.md) — article_0130093306
+      - [get](article_0721010159.md) — article_0721010159
+      - [getAccountGovernanceInfo](article_0729100620.md) — article_0729100620
+      - [getAll](article_0804011937.md) — article_0804011937
+      - [getAsyncResult](article_0721110548.md) — article_0721110548
+      - [getBudgetExchangeRate](article_0717093507.md) — article_0717093507
+      - [getCurrencyRate](article_0723093056.md) — article_0723093056
+      - [getIntegrationGovernanceInfo](article_0815123622.md) — article_0815123622
+      - [getItemAvailability](article_0815092044.md) — article_0815092044
+      - [getList](article_0728100352.md) — article_0728100352
+      - [getSelectValue](article_0216100311.md) — article_0216100311
+      - [getServerTime](article_0728090637.md) — article_0728090637
+      - [initialize / initializeList](article_0717100858.md) — article_0717100858
+      - [search](article_0728114850.md) — article_0728114850
+      - [searchMoreWithId](article_0807095731.md) — article_0807095731
+      - [update](article_0731124139.md) — article_0731124139
+      - [updateInviteeStatus](article_0728122402.md) — article_0728122402
+      - [updateList](article_0130125737.md) — article_0130125737
+      - [upsert](article_0807093604.md) — article_0807093604
+      - [upsertList](article_0203101639.md) — article_0203101639
+    - [SOAP Web Services and REST Web Services Supported Records](article_3100712104.md) — article_3100712104
+  - [SuiteTalk REST Web Services API Guide](book_1559132836.md) — book_1559132836
+    - [Overview of SuiteTalk REST Web Services](chapter_1540391670.md) — chapter_1540391670
+      - [Limitations of REST Web Services](subsect_1544786455.md) — subsect_1544786455
+      - [Concurrency Governance and Session Management](subsect_1559222360.md) — subsect_1559222360
+      - [REST Web Services Key Concepts](section_1546936508.md) — section_1546936508
+      - [REST Web Services and Other Integration Options](section_1544786256.md) — section_1544786256
+      - [SOAP Web Services vs. REST Web Services Operation Mapping](section_164155878349.md) — section_164155878349
+      - [REST Web Services URL Schema and Account-Specific URLs](section_1546938065.md) — section_1546938065
+    - [Prerequisites and Setup for REST Web Services](article_5085602973.md) — article_5085602973
+      - [Setting Up Authentication](article_0627022005.md) — article_0627022005
+    - [REST Web Services Request Processing](chapter_161251386312.md) — chapter_161251386312
+      - [Sending an Asynchronous Request](subsect_161278579295.md) — subsect_161278579295
+      - [Sending an Asynchronous Request Using an Idempotency Key](subsect_164494900632.md) — subsect_164494900632
+      - [Polling for the Status of a Completed Asynchronous Request](subsect_161252896355.md) — subsect_161252896355
+      - [Getting the Result of an Executed Request](subsect_161252889998.md) — subsect_161252889998
+    - [REST Web Services Operations](article_5130114613.md) — article_5130114613
+      - [Attach and Detach Operations](article_0113084334.md) — article_0113084334
+      - [Batch Operations](article_0127092747.md) — article_0127092747
+      - [Create-form Operation](article_1217103046.md) — article_1217103046
+      - [GovernanceLimits Operation](article_0625010817.md) — article_0625010817
+      - [selectOptions Operation](article_0115100241.md) — article_0115100241
+      - [serverTime Operation](article_0528010158.md) — article_0528010158
+    - [Using Postman with REST Web Services](chapter_1544794192.md) — chapter_1544794192
+      - [Importing and Setting Up a Postman Environment](section_1545058149.md) — section_1545058149
+      - [Importing the Postman Collection](section_1545059880.md) — section_1545059880
+      - [Sending a Request From the Imported Collection](section_1545060962.md) — section_1545060962
+      - [Tutorial: Using Postman with OAuth 2.0](section_0602033701.md) — section_0602033701
+      - [Setting Up Token-Based Authentication (TBA) - Tutorial](article_0605103340.md) — article_0605103340
+    - [Working with Resource Metadata](chapter_1540810168.md) — chapter_1540810168
+      - [Getting Metadata](section_1540810174.md) — section_1540810174
+      - [Working with OpenAPI 3.0 Metadata](section_1545126526.md) — section_1545126526
+      - [Working with JSON Schema Metadata](section_1545129726.md) — section_1545129726
+    - [Working with Records](chapter_1540811107.md) — chapter_1540811107
+      - [The REST API Browser](section_157373386674.md) — section_157373386674
+      - [NetSuite Record Structure](section_1540811112.md) — section_1540811112
+      - [Using CRUD Operations on Custom Records, Custom Lists, and Custom Transactions v1](section_158100110171.md) — section_158100110171
+      - [Creating a Record Instance](section_1545141395.md) — section_1545141395
+      - [Getting a Record Instance](section_1545141500.md) — section_1545141500
+        - [Format of Sublists and Subrecords](section_1545141947.md) — section_1545141947
+        - [Format of Selects and References](section_1545142037.md) — section_1545142037
+        - [Format of Multiselects](section_1545142093.md) — section_1545142093
+        - [Format of Enumeration Values](section_1545142146.md) — section_1545142146
+      - [Updating a Record Instance](section_1545142173.md) — section_1545142173
+      - [Using the Upsert Operation](section_156335203191.md) — section_156335203191
+      - [Deleting a Record Instance](section_1545142287.md) — section_1545142287
+      - [Accessing Subresources in REST Web Services](section_159894563219.md) — section_159894563219
+      - [Using External IDs](section_156334828635.md) — section_156334828635
+      - [Using Datetime Fields](section_157305090645.md) — section_157305090645
+      - [Executing Record Actions](section_156631158782.md) — section_156631158782
+      - [Transforming Records](section_157901123882.md) — section_157901123882
+      - [Working with the Pricing Sublist on Item Records](section_159531460854.md) — section_159531460854
+      - [Using the REST Web Services SuiteScript Execution Context](section_157927488310.md) — section_157927488310
+    - [Working with Sublists](chapter_1545142407.md) — chapter_1545142407
+      - [Creating a Sublist](section_1545142420.md) — section_1545142420
+      - [Updating a Sublist](section_1545295601.md) — section_1545295601
+      - [Replacing a Sublist](section_1545297048.md) — section_1545297048
+      - [Deleting a Sublist](section_161717311354.md) — section_161717311354
+    - [Working with Subrecords](chapter_156337267817.md) — chapter_156337267817
+    - [Record Filtering and Query](chapter_1540810947.md) — chapter_1540810947
+      - [Listing All Record Instances](section_1540810951.md) — section_1540810951
+      - [Record Collection Filtering](section_1545222128.md) — section_1545222128
+      - [Executing SuiteQL Queries Through REST Web Services](section_157909186990.md) — section_157909186990
+      - [Working with SuiteAnalytics Datasets in REST Web Services](section_156577938018.md) — section_156577938018
+      - [Collection Paging](section_156414087576.md) — section_156414087576
+    - [Error Handling and Logging in REST Web Services](chapter_1548678643.md) — chapter_1548678643
+      - [Error Handling in REST Web Services](section_156570709583.md) — section_156570709583
+      - [Using the REST Web Services Execution Log](section_156570320384.md) — section_156570320384
+  - [SuiteTalk REST Web Services Records Guide](book_157830111504.md) — book_157830111504
+    - [REST Web Services Supported Records](chapter_1558962745.md) — chapter_1558962745
+      - [Account](section_0902085857.md) — section_0902085857
+      - [Accounting Book](article_0313103607.md) — article_0313103607
+      - [Accounting Period](section_0818065706.md) — section_0818065706
+      - [Advanced Intercompany Journal Entry](section_84141518422.md) — section_84141518422
+      - [Analytical Impact](article_0711020845.md) — article_0711020845
+      - [Assembly Build](article_21213308376.md) — article_21213308376
+      - [Assembly Item](section_164614354019.md) — section_164614354019
+      - [Assembly Unbuild](article_91213140860.md) — article_91213140860
+      - [Automated Clearing House](article_0303053509.md) — article_0303053509
+      - [Billing Account](section_1558962815.md) — section_1558962815
+      - [Billing Revenue Event](article_101854976.md) — article_101854976
+      - [Billing Schedule](section_89160926072.md) — section_89160926072
+      - [Bin](section_0822105332.md) — section_0822105332
+      - [Bin Putaway Worksheet](article_0919015211.md) — article_0919015211
+      - [Bin Transfer](section_0817095603.md) — section_0817095603
+      - [Blanket Purchase Order](section_1122010523.md) — section_1122010523
+      - [BOM](article_42203359533.md) — article_42203359533
+      - [BOM Revision](article_50203514885.md) — article_50203514885
+      - [Budget Category](article_0522035327.md) — article_0522035327
+      - [Budget Exchange Rate](article_0305060708.md) — article_0305060708
+      - [Budget Import](article_0305054912.md) — article_0305054912
+      - [Campaign](article_59165957110.md) — article_59165957110
+      - [Campaign Audience](article_0224093034.md) — article_0224093034
+      - [Campaign Category](article_0226011123.md) — article_0226011123
+      - [Campaign Channel](article_0226014334.md) — article_0226014334
+      - [Campaign Family](article_0226020051.md) — article_0226020051
+      - [Campaign Offer](article_0226022254.md) — article_0226022254
+      - [Campaign Response](article_85170039907.md) — article_85170039907
+      - [Campaign Search Engine](article_0226034001.md) — article_0226034001
+      - [Campaign Subscription](article_0226035836.md) — article_0226035836
+      - [Campaign Template](article_0226040732.md) — article_0226040732
+      - [Campaign Vertical](article_0227121106.md) — article_0227121106
+      - [Cash Refund](section_40160920714.md) — section_40160920714
+      - [Cash Sale](section_161487969808.md) — section_161487969808
+      - [Change Order](section_160858392918.md) — section_160858392918
+      - [Charge](section_159310901448.md) — section_159310901448
+      - [Check](section_081706221410.md) — section_081706221410
+      - [Class](section_0902090250.md) — section_0902090250
+      - [Commerce Category](section_17095236437.md) — section_17095236437
+      - [Competitor](section_1122012230.md) — section_1122012230
+      - [Consolidated Exchange Rate](section_0818035535.md) — section_0818035535
+      - [Contact](section_159170320047.md) — section_159170320047
+      - [Contact Category](section_159170440113.md) — section_159170440113
+      - [Contact Role](section_159170489659.md) — section_159170489659
+      - [Cost Category](article_37133516886.md) — article_37133516886
+      - [Coupon Code](section_19112846600.md) — section_19112846600
+      - [Credit Card Charge](section_45174026772.md) — section_45174026772
+      - [Credit Card Refund](section_26154254145.md) — section_26154254145
+      - [Credit Memo](article_164460021767.md) — article_164460021767
+      - [Currency](section_0818023012.md) — section_0818023012
+      - [Currency Rate](article_0715014257.md) — article_0715014257
+      - [Customer](article_161581923822.md) — article_161581923822
+      - [Customer Category](article_0829023257.md) — article_0829023257
+      - [Customer Deposit](article_0830072110.md) — article_0830072110
+      - [Customer Message](section_0928115835.md) — section_0928115835
+      - [Customer Payment](article_0224093711.md) — article_0224093711
+      - [Customer Refund](article_0830082954.md) — article_0830082954
+      - [Customer Status](section_0928011027.md) — section_0928011027
+      - [Customer Subsidiary Relationship](article_161521122959.md) — article_161521122959
+      - [Department](section_0902090444.md) — section_0902090444
+      - [Deposit](article_14124948339.md) — article_14124948339
+      - [Deposit Application](article_0830101547.md) — article_0830101547
+      - [Description Item](article_0120110115.md) — article_0120110115
+      - [Discount Item](article_36144653283.md) — article_36144653283
+      - [Download Item](article_60211156500.md) — article_60211156500
+      - [Email Template](section_159170509141.md) — section_159170509141
+      - [Employee](section_161886175135.md) — section_161886175135
+      - [Entity Group](article_0227025348.md) — article_0227025348
+      - [Estimate](article_0719105836.md) — article_0719105836
+      - [Event](article_161013672126.md) — article_161013672126
+      - [Expense Category](article_82134258767.md) — article_82134258767
+      - [Expense Report](article_71141027565.md) — article_71141027565
+      - [Fair Value Formula](article_0305065341.md) — article_0305065341
+      - [Fair Value Price](article_9093327188.md) — article_9093327188
+      - [Fulfillment Request](article_0403093259.md) — article_0403093259
+      - [General Token](article_0303065347.md) — article_0303065347
+      - [Gift Certificate](article_0825123333.md) — article_0825123333
+      - [Gift Certificate Item](article_0830110856.md) — article_0830110856
+      - [GL Audit Numbering Sequence](article_0226103437.md) — article_0226103437
+      - [Global Account Mapping](article_0923052335.md) — article_0923052335
+      - [HCM Job](article_0718101551.md) — article_0718101551
+      - [Impact Subcategory](article_0828033228.md) — article_0828033228
+      - [Inbound Shipment](article_7165449964.md) — article_7165449964
+      - [Intercompany Journal Entry](section_0902090936.md) — section_0902090936
+      - [Intercompany Transfer Order](section_0822103427.md) — section_0822103427
+      - [Inventory Adjustment](section_0817101055.md) — section_0817101055
+      - [Inventory Cost Revaluation](article_23081803437.md) — article_23081803437
+      - [Inventory Count](section_0817104703.md) — section_0817104703
+      - [Inventory Item](article_161522936052.md) — article_161522936052
+      - [Inventory Number](section_0817015947.md) — section_0817015947
+      - [Inventory Status](article_0219030237.md) — article_0219030237
+      - [Inventory Transfer](section_0817112542.md) — section_0817112542
+      - [Invoice](section_161488248489.md) — section_161488248489
+      - [Issue](article_4093608295.md) — article_4093608295
+      - [Item Account Mapping](article_0923044121.md) — article_0923044121
+      - [Item Fulfillment](section_161425629582.md) — section_161425629582
+      - [Item Group](article_0120112015.md) — article_0120112015
+      - [Item Receipt](section_0817102411.md) — section_0817102411
+      - [Item Revision](article_9213001923.md) — article_9213001923
+      - [Item Supply Plan](article_0220040009.md) — article_0220040009
+      - [Job](article_83090456314.md) — article_83090456314
+      - [Job Status](article_46115448596.md) — article_46115448596
+      - [Job Type](article_97115338076.md) — article_97115338076
+      - [Journal Entry](section_159886587653.md) — section_159886587653
+      - [Kit Item](article_69204612369.md) — article_69204612369
+      - [Lead Source](article_0227042605.md) — article_0227042605
+      - [Location](section_0902090732.md) — section_0902090732
+      - [Lot Numbered Assembly Item](article_0219025403.md) — article_0219025403
+      - [Lot Numbered Inventory Item](article_0219023029.md) — article_0219023029
+      - [Manufacturing Cost Template](article_34202720474.md) — article_34202720474
+      - [Manufacturing Operation Task](article_66202904244.md) — article_66202904244
+      - [Manufacturing Routing](article_11203701840.md) — article_11203701840
+      - [Markup Item](article_0719015223.md) — article_0719015223
+      - [Message](article_161038358813.md) — article_161038358813
+      - [Merchandise Hierarchy Level](article_0204030544.md) — article_0204030544
+      - [Merchandise Hierarchy Node](article_0218024037.md) — article_0218024037
+      - [Merchandise Hierarchy Version](article_0218025413.md) — article_0218025413
+      - [Nexus](article_0811020103.md) — article_0811020103
+      - [Non-Inventory Purchase Item](article_0120113247.md) — article_0120113247
+      - [Non-Inventory Resale Item](article_0120114938.md) — article_0120114938
+      - [Non-Inventory Sale Item](article_161522943519.md) — article_161522943519
+      - [Note Type](article_1009044453.md) — article_1009044453
+      - [Opportunity](article_0718040350.md) — article_0718040350
+      - [Other Charge for Purchase Item](article_63201856891.md) — article_63201856891
+      - [Other Charge for Resale Item](article_43203909591.md) — article_43203909591
+      - [Other Charge for Sale Item](article_24213744571.md) — article_24213744571
+      - [Other Name](section_23172022252.md) — section_23172022252
+      - [Other Name Category](section_95173120332.md) — section_95173120332
+      - [Partner](section_0815024527.md) — section_0815024527
+      - [Partner Category](article_0205024258.md) — article_0205024258
+      - [Paycheck](section_40145908096.md) — section_40145908096
+      - [Paycheck Journal](article_0723074441.md) — article_0723074441
+      - [Payment Card](article_0303073218.md) — article_0303073218
+      - [Payment Card Token](article_0303081302.md) — article_0303081302
+      - [Payment Item](article_26201102415.md) — article_26201102415
+      - [Payment Method](article_1207013221.md) — article_1207013221
+      - [Payroll Item](article_0723070552.md) — article_0723070552
+      - [Period End Journal Entry](article_0522043016.md) — article_0522043016
+      - [Phone Call](article_161038772855.md) — article_161038772855
+      - [Price Book](section_156027196106.md) — section_156027196106
+      - [Price Level](article_0718033232.md) — article_0718033232
+      - [Price Plan](section_156027197809.md) — section_156027197809
+      - [Pricing Group](section_0809015637.md) — section_0809015637
+      - [Project Task](article_68093010260.md) — article_68093010260
+      - [Promotion Code](section_76112913770.md) — section_76112913770
+      - [Purchase Contract](article_3132429178.md) — article_3132429178
+      - [Purchase Order](article_161165602348.md) — article_161165602348
+      - [Resource Allocation](article_0311115918.md) — article_0311115918
+      - [Return Authorization](article_0718011926.md) — article_0718011926
+      - [Requisition](section_0809105436.md) — section_0809105436
+      - [Revenue Recognition Schedule](article_2100141079.md) — article_2100141079
+      - [Revenue Recognition Template](article_3102152456.md) — article_3102152456
+      - [Sales Price Rule](section_164442225943.md) — section_164442225943
+      - [Sales Price Rule Entry](section_164442227122.md) — section_164442227122
+      - [Sales Campaign](article_0227043616.md) — article_0227043616
+      - [Sales Order](section_159665260887.md) — section_159665260887
+      - [Sales Role](section_0927030258.md) — section_0927030258
+      - [Sales Tax Item](article_0814121722.md) — article_0814121722
+      - [Serialized Assembly Item](article_0219024829.md) — article_0219024829
+      - [Serialized Inventory Item](article_0219024202.md) — article_0219024202
+      - [Service Purchase Item](article_39125740372.md) — article_39125740372
+      - [Service Resale Item](article_56134834756.md) — article_56134834756
+      - [Service Sale Item](article_79140109160.md) — article_79140109160
+      - [Ship Item](article_61232355280.md) — article_61232355280
+      - [Site Category](article_0301085014.md) — article_0301085014
+      - [Subscription](section_156027198593.md) — section_156027198593
+      - [Subscription Line](section_156027199749.md) — section_156027199749
+      - [Subscription Plan](section_156027200907.md) — section_156027200907
+      - [Subscription Term](section_161401148553.md) — section_161401148553
+      - [Statistical Journal Entry](section_0902091117.md) — section_0902091117
+      - [Subsidiary](section_157607424766.md) — section_157607424766
+      - [Subtotal Item](article_83205715176.md) — article_83205715176
+      - [Support Case](article_91142453659.md) — article_91142453659
+      - [Support Case Origin](article_79171637835.md) — article_79171637835
+      - [Support Case Priority](article_69114600529.md) — article_69114600529
+      - [Support Case Status](article_77120018260.md) — article_77120018260
+      - [Support Case Type](article_22152208342.md) — article_22152208342
+      - [Task](article_161039060436.md) — article_161039060436
+      - [Tax Control Account](article_0226091922.md) — article_0226091922
+      - [Tax Group](article_0225104240.md) — article_0225104240
+      - [Tax Schedule](article_0225052953.md) — article_0225052953
+      - [Tax Type](article_0814115234.md) — article_0814115234
+      - [Term](article_0830044718.md) — article_0830044718
+      - [Time Bill (Track Time)](section_164439865832.md) — section_164439865832
+      - [Topic](section_0921043312.md) — section_0921043312
+      - [Transfer Order](section_0817021034.md) — section_0817021034
+      - [Unit of Measure](article_63210224348.md) — article_63210224348
+      - [Usage](section_158713807177.md) — section_158713807177
+      - [Vendor](article_164337045826.md) — article_164337045826
+      - [Vendor Bill](article_164484956387.md) — article_164484956387
+      - [Vendor Category](article_0821113647.md) — article_0821113647
+      - [Vendor Credit](section_0809015408.md) — section_0809015408
+      - [Vendor Payment](article_7095737506.md) — article_7095737506
+      - [Vendor Prepayment](section_0809021546.md) — section_0809021546
+      - [Vendor Prepayment Application](article_0821015349.md) — article_0821015349
+      - [Vendor Return Authorization](article_0104090350.md) — article_0104090350
+      - [Vendor Subsidiary Relationship](article_161521108061.md) — article_161521108061
+      - [Website](article_0220092558.md) — article_0220092558
+      - [Weekly Timesheet](article_6102743586.md) — article_6102743586
+      - [Win/Loss Reason](article_0227105819.md) — article_0227105819
+      - [Work Order](article_47212826771.md) — article_47212826771
+      - [Work Order Close](article_37213527353.md) — article_37213527353
+      - [Work Order Completion](article_94213635853.md) — article_94213635853
+      - [Work Order Issue](article_29213414016.md) — article_29213414016
+    - [REST Web Services Tutorials](chapter_157674821412.md) — chapter_157674821412
+      - [Sales Order Use Cases](section_159708826777.md) — section_159708826777
+        - [Use Case For Creating Your Sales Order](section_159793606645.md) — section_159793606645
+        - [Use Case For Applying a Promotion to Your Sales Order](section_159795372138.md) — section_159795372138
+        - [Use Case For Retrieving Your Sales Order](section_159795471905.md) — section_159795471905
+        - [Use Case For Updating Your Sales Order](section_159795512874.md) — section_159795512874
+        - [Use Case For Approving Your Sales Order](section_159795516182.md) — section_159795516182
+        - [Use Case For Fulfilling Your Sales Order](section_159795518068.md) — section_159795518068
+        - [Use Case For Creating Invoices or Cash Sales from Your Sales Order](section_159795520083.md) — section_159795520083
+        - [Use Case For Creating a Progress Sales Order](section_159795523407.md) — section_159795523407
+        - [Use Case For Deleting a Sales Order](section_159795525389.md) — section_159795525389
+      - [SuiteBilling Use Cases](section_157674838963.md) — section_157674838963
+        - [Use Case For Managing Your Subscription Catalog](section_158109852746.md) — section_158109852746
+        - [Use Case For Managing Your Subscription Sales](section_158109853563.md) — section_158109853563
+      - [Inventory Item Use Cases](section_0915050524.md) — section_0915050524
+        - [Use Case for Changing the Location of an Inventory Item](section_0916090042.md) — section_0916090042
+        - [Use Case for Adding a Vendor to an Inventory Item](section_0916092551.md) — section_0916092551
+        - [Use Case for Finding Items that are Assigned a Pricing Group](section_0916094114.md) — section_0916094114
+        - [Use Case for Deleting an Inventory Item](section_0916121549.md) — section_0916121549
+      - [Customer Use Cases](section_1014091843.md) — section_1014091843
+        - [Use Case for Finding Customers with Shipping Carrier Set to UPS](section_1014091934.md) — section_1014091934
+        - [Use Case for Updating Contact Details of a Customer](section_1014094822.md) — section_1014094822
+        - [Use Case for Creating a Customer from an External ID](section_1014121640.md) — section_1014121640
+        - [Use Case for Fetching a List of All Customers with Pagination](section_1017083728.md) — section_1017083728
+        - [Use Case for Creating an Invoice from a Customer](section_1014114134.md) — section_1014114134
+      - [Employee Use Cases](section_1201035939.md) — section_1201035939
+        - [Use Case for Adding a Supervisor to an Employee](section_1208041010.md) — section_1208041010
+        - [Use Case for Adding Employee Address](section_1208042345.md) — section_1208042345
+        - [Use Case for Adding Subscriptions to an Employee](section_1208043046.md) — section_1208043046
+        - [Use Case for Creating an Expense Report from an Employee Record](section_1208051918.md) — section_1208051918
+        - [Use Case for Finding All Employee Records Under a Supervisor](section_1208053111.md) — section_1208053111
+        - [Use Case for Retrieving Permissions Assigned to a Role](section_0210123130.md) — section_0210123130
+        - [Use Case for Finding IDs of Roles Assigned to an Employee](section_0210124841.md) — section_0210124841
+        - [Use Case for Finding the Name of a Role](section_0210125706.md) — section_0210125706
+      - [Invoice Use Cases](section_0209124829.md) — section_0209124829
+        - [Use Case for Creating an Invoice](section_0209125602.md) — section_0209125602
+        - [Use Cases for Updating an Invoice](section_0209053443.md) — section_0209053443
+        - [Use Case or Retrieving an Invoice](section_0210111448.md) — section_0210111448
+        - [Use Case for Fetching Invoices from a Lead Source](section_0210091043.md) — section_0210091043
+        - [Use Case for Deleting an Invoice](section_0210122026.md) — section_0210122026
+      - [Journal Entry Use Cases](section_0223034632.md) — section_0223034632
+        - [Use Case for Creating a Journal Entry](section_0223040947.md) — section_0223040947
+        - [Use Cases for Approving a Journal Entry](section_0224100235.md) — section_0224100235
+        - [Use Case for Creating a Reverse Journal Entry](section_0224111734.md) — section_0224111734
+        - [Use Case for Updating Line Items in a Journal Entry](section_0224115029.md) — section_0224115029
+        - [Use Case for Retrieving Journal Entries Created After a Date](section_0224115754.md) — section_0224115754
+      - [Event Use Cases](section_0323093510.md) — section_0323093510
+        - [Use Case for Creating an Event](section_0323094448.md) — section_0323094448
+        - [Use Case for Adding an Attendee to an Event](section_0323121730.md) — section_0323121730
+        - [Use Case for Getting a List of Events with Confirmed Status and that are Scheduled After a Date](section_0323122020.md) — section_0323122020
+        - [Use Case for Fetching Details of Events at a Location](section_0323122636.md) — section_0323122636
+        - [Use Case for Deleting an Event](section_0323050034.md) — section_0323050034
+      - [Credit Memo Use Cases](section_0404040255.md) — section_0404040255
+        - [Use Case for Creating a Credit Memo](section_0404042133.md) — section_0404042133
+        - [Use Case for Adding Line Items to a Credit Memo](section_0404043117.md) — section_0404043117
+        - [Use Case for Fetching List of Credit Memos Created After a Date](section_0404043348.md) — section_0404043348
+        - [Use Case for Fetching Credit Memos from a Lead Source](section_0404045232.md) — section_0404045232
+        - [Use Case for Getting Details of a Credit Memo](section_0404050225.md) — section_0404050225
+      - [Vendor Use Cases](section_0413113922.md) — section_0413113922
+        - [Use Case for Creating a Vendor](section_0413120018.md) — section_0413120018
+        - [Use Case for Creating a Tax Agency Vendor](section_0413120435.md) — section_0413120435
+        - [Use Case for Providing Role Access to a Vendor](section_0413121324.md) — section_0413121324
+        - [Use Case for Inactivating a Vendor](section_0413121545.md) — section_0413121545
+        - [Use Case for Setting Credit Limit for a Vendor](section_0413122151.md) — section_0413122151
+        - [Use Case for Defining the Preferred Transaction Delivery Methods for a Vendor](section_0413122601.md) — section_0413122601
+        - [Use Case for Finding Vendors that are Assigned an Expense Account](section_0413122813.md) — section_0413122813
+        - [Use Case for Getting Details of Vendors that are Assigned a Category](section_0413122944.md) — section_0413122944
+        - [Use Case for Getting List of Vendors that have Credit Limits Above a Value](section_0413015814.md) — section_0413015814
+      - [Vendor Bill Use Cases](section_0504044708.md) — section_0504044708
+        - [Use Case for Creating a Vendor Bill](section_0504045254.md) — section_0504045254
+        - [Use Case for Approving a Vendor Bill](section_0504060412.md) — section_0504060412
+        - [Use Case for Adding Line Items to a Vendor Bill](section_0504060515.md) — section_0504060515
+        - [Use Case for Getting a List of Bills from a Vendor](section_0504060740.md) — section_0504060740
+      - [Cash Sale Use Cases](section_0526095231.md) — section_0526095231
+        - [Use Case for Creating a Cash Sale](section_0526121430.md) — section_0526121430
+        - [Use Case for Updating a Cash Sale](section_0526122054.md) — section_0526122054
+        - [Use Case for Issuing a Return Authorization from a Cash Sale](section_0526122453.md) — section_0526122453
+        - [Use Case for Fetching List of Cash Sales for a Customer](section_0526122916.md) — section_0526122916

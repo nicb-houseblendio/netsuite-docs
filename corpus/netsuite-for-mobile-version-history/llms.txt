@@ -1,0 +1,14 @@
+# NetSuite for Mobile Version History
+
+NetSuite for Mobile Version History (3 pages): NetSuite for Mobile Version History
+
+## Chapters
+- [NetSuite for Mobile Version History](chapter_1556005541.md): Here you find information about the latest versions of NetSuite for iOS and Android.
+  - [NetSuite for iOS Version History](section_156215310455.md): | Version | Release Date | Features | | --- | --- | --- | | 14.
+  - [NetSuite for Android Version History](section_156214622093.md): | Version | Release Date | Features | | --- | --- | --- | | 13.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-for-mobile-version-history

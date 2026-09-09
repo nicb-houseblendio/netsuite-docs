@@ -1,0 +1,24 @@
+{
+  "branch": "monthly-minor-releases",
+  "generatedAt": null,
+  "pages": {
+    "preface_8143203769": {
+      "path": "corpus/monthly-minor-releases/preface_8143203769.md",
+      "title": "Monthly Minor Releases",
+      "type": "preface",
+      "breadcrumb": "What's New > Monthly Minor Releases",
+      "parent": "set_N20140200",
+      "category": "what-s-new",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/preface_8143203769.html",
+      "etag": "\"ead577c41e79463c7e05c2bf3f809e00:1786980372.314272\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:56:17.437Z",
+      "sha256": "7305d05df02acbd98499ac645c4959be2741ef102d61dae2e70d1c81055e09a5",
+      "bytes": 665,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

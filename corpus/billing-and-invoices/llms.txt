@@ -1,0 +1,20 @@
+# Billing and Invoices
+
+Billing and Invoices (351 pages): Billing and Invoices
+
+## Chapters
+- [Billing and Invoices](chapter_N1232486.md): - Billing(https://docs.
+  - [Billing](chapter_4419712298.md): Billing Overview To receive payment from customers for the correct amount they owe, bill customers for any goods and services that you sell.
+  - [Invoices](section_N1235134.md): Note: For information specific to Not-for-Profit (NFP), see Invoicing Pledges(https://docs.
+  - [SuiteBilling](part_156104598290.md): - SuiteBilling Overview(https://docs.
+  - [Fulfillable Items with SuiteBilling](article_35172632604.md): Fulfillable Items with SuiteBilling SuiteApp addresses the gap of NetSuite SuiteBilling in terms of support for fulfillable items in subscriptions.
+  - [Advanced Billing](section_N1250607.md): - Advanced Billing Overview(https://docs.
+  - [Advanced Billing and Advanced Shipping](section_N1256787.md): When you use the Advanced Billing feature and the Advanced Shipping feature together, order processing is based on whether each item on an order is able to be fulfilled or received.
+  - [Electronic Invoicing](chapter_4536869488.md): Note: The Electronic Invoicing SuiteApp provides you the ability to generate and send e-documents as well as receive and convert them into transactions records.
+  - [NetSuite Electronic Business](article_3140642944.md): To understand how to set up and use the NetSuite Electronic Business (NSEB) SuiteApp features, read the following topics: - NetSuite Electronic Business Quick Start(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch billing-and-invoices

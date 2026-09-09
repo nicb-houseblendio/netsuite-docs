@@ -1,0 +1,13 @@
+# Managing NetSuite Next Access by Role
+
+Managing NetSuite Next Access by Role (2 pages): Managing NetSuite Next Access by Role
+
+## Chapters
+- [Managing NetSuite Next Access by Role](T_article_6105821113_1.md): Note: This topic describes functionality available to users eligible for NetSuite Next.
+  - [Managing NetSuite Next Access](T_article_0804110002_1.md): To Manage NetSuite Next Access For One or More Roles: 1.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch managing-netsuite-next-access-by-role

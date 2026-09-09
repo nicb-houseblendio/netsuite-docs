@@ -1,0 +1,47 @@
+# U.S. Help Topics
+
+43 pages, category: Country-Specific Features
+
+- [U.S. Help Topics](section_4198378704.md) — section_4198378704
+  - [United States Account Setup](section_160283717546.md) — section_160283717546
+  - [Setting Up United States-Specific Preferences Page](section_160283719635.md) — section_160283719635
+  - [Taxation Features For Accounts with SuiteTax](article_160527027384.md) — article_160527027384
+    - [Setting Up Nexuses in SuiteTax](article_160639612283.md) — article_160639612283
+    - [Automatic Tax Records Provisioning for the United States](article_160639624915.md) — article_160639624915
+    - [Setting Up Tax Rate Types for the United States](article_160639631316.md) — article_160639631316
+    - [U.S. Consumer's Use Tax](article_160639645021.md) — article_160639645021
+    - [Setting Up Nexus Preferences for United States](article_160639666119.md) — article_160639666119
+    - [Setting Up Entity Default Tax Codes and Tax Groups](article_160639670636.md) — article_160639670636
+    - [Creating Exemption Certificates](article_160639676040.md) — article_160639676040
+    - [Creating Non-taxability Rules for Items](article_160639680662.md) — article_160639680662
+    - [Tax Code Lookup Logic for United States](article_160639686083.md) — article_160639686083
+    - [U.S. Sales Tax Reports](article_0831101353.md) — article_0831101353
+      - [Sales Tax Liability by Tax Item Report](article_1201025537.md) — article_1201025537
+      - [Sales Tax on Sales Detail Report](article_1201032442.md) — article_1201032442
+      - [Sales Tax Analysis Report](article_1201033532.md) — article_1201033532
+      - [Sales Tax by State Analysis Report](article_0123042036.md) — article_0123042036
+      - [File Ready Report - California](article_0323011445.md) — article_0323011445
+        - [Configuring and Generating the File Ready Report - California](article_0415115337.md) — article_0415115337
+      - [Custom Currency for U.S. Sales Tax Reports](article_1110040513.md) — article_1110040513
+  - [Taxation Features For Accounts without SuiteTax](section_156940239941.md) — section_156940239941
+    - [Setting U.S. Tax Preferences](section_N2038835.md) — section_N2038835
+    - [Adding or Deleting a U.S. State Nexus](section_4283733632.md) — section_4283733632
+    - [Creating Tax Codes - U.S. Nexus](section_N2039577.md) — section_N2039577
+    - [Creating a Tax Group (United States)](section_N2039890.md) — section_N2039890
+    - [Importing the State Sales Tax Table](section_N2041195.md) — section_N2041195
+    - [Enabling U.S. Tax Lookup](section_N2041606.md) — section_N2041606
+    - [Taxing Previous-Year Sales with State Tax Codes - U.S. Edition](section_N2041849.md) — section_N2041849
+    - [Paying Sales Tax - United States](section_N2041996.md) — section_N2041996
+  - [U.S. Tax Reports](section_N2042330.md) — section_N2042330
+    - [Sales Tax Liability by Tax Item Report](section_N2042683.md) — section_N2042683
+    - [Sales Tax Liability by Tax Agency Report](section_N2043102.md) — section_N2043102
+    - [Sales Tax on Sales Summary Report](section_N2044611.md) — section_N2044611
+    - [Sales Tax on Sales Detail Report](section_N2044970.md) — section_N2044970
+    - [Sales Tax Analysis Report](section_N2045340.md) — section_N2045340
+    - [Form 1099-MISC - Miscellaneous Income Statement](section_N2045726.md) — section_N2045726
+  - [U.S. Payment Formats](section_N1659055.md) — section_N1659055
+    - [Setting Up Company Bank Records in the U.S.](section_N1659433.md) — section_N1659433
+    - [Setting Up Bank Records of Vendors in the U.S.](section_N1660722.md) — section_N1660722
+    - [Setting Up Bank Records of Employees in the U.S.](section_N1661066.md) — section_N1661066
+    - [Setting Up Bank Records of Customers in the U.S.](section_N1661408.md) — section_N1661408
+    - [Setting Up Bank Records of Partners in the U.S.](section_3851250354.md) — section_3851250354

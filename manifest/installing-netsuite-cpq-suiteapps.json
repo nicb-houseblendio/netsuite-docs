@@ -1,0 +1,24 @@
+{
+  "branch": "installing-netsuite-cpq-suiteapps",
+  "generatedAt": null,
+  "pages": {
+    "article_1145912241": {
+      "path": "corpus/installing-netsuite-cpq-suiteapps/article_1145912241.md",
+      "title": "Installing NetSuite CPQ SuiteApps",
+      "type": "article",
+      "breadcrumb": "NetSuite CPQ > Installing NetSuite CPQ SuiteApps",
+      "parent": "book_6185324445",
+      "category": "netsuite-cpq",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_1145912241.html",
+      "etag": "\"9d1c581887180f31ce08ce580e7a478d:1786980277.448832\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:34.308Z",
+      "sha256": "462d6353e741a2f6f69a81b8cb385af82ca70e051f5550729e3f4e0d576e589b",
+      "bytes": 7441,
+      "anchors": 4,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

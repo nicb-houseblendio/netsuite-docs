@@ -1,0 +1,60 @@
+{
+  "branch": "netsuite-suiteapps-license-client",
+  "generatedAt": null,
+  "pages": {
+    "chapter_4635371374": {
+      "path": "corpus/netsuite-suiteapps-license-client/chapter_4635371374.md",
+      "title": "NetSuite SuiteApps License Client",
+      "type": "chapter",
+      "breadcrumb": "SuiteApps > NetSuite SuiteApps License Client",
+      "parent": "article_3134602194",
+      "category": "suiteapps",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_4635371374.html",
+      "etag": "\"d120394e41265d7b3e1a542c44686ed9:1786980396.64928\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:42:54.648Z",
+      "sha256": "e49bb0edffde32fded7d4e2745bb72827b36038491f89978c7422940d62f8bae",
+      "bytes": 1665,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_4635371677": {
+      "path": "corpus/netsuite-suiteapps-license-client/section_4635371677.md",
+      "title": "NetSuite SuiteApps License Client Guide for Administrators",
+      "type": "section",
+      "breadcrumb": "SuiteApps > NetSuite SuiteApps License Client > NetSuite SuiteApps License Client Guide for Administrators",
+      "parent": "chapter_4635371374",
+      "category": "suiteapps",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_4635371677.html",
+      "etag": "\"85b5bd1c5c8e51cc56049b42d871c890:1786980698.345103\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:42:55.013Z",
+      "sha256": "058630b9ebeb705983fe6f98be4a62a636d4bb37000233cd02303a8c60d95c1e",
+      "bytes": 7720,
+      "anchors": 7,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_4689211654": {
+      "path": "corpus/netsuite-suiteapps-license-client/section_4689211654.md",
+      "title": "NetSuite SuiteApps License Client FAQ",
+      "type": "section",
+      "breadcrumb": "SuiteApps > NetSuite SuiteApps License Client > NetSuite SuiteApps License Client Guide for Administrators > NetSuite SuiteApps License Client FAQ",
+      "parent": "section_4635371677",
+      "category": "suiteapps",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_4689211654.html",
+      "etag": "\"1863c2b33b552be84ddeeafe08f58299:1786980703.037122\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:42:55.362Z",
+      "sha256": "f27f0052c19362e9bf4a5e641ab1befcbdc99c7166d3e75f555bfdb80f9134d3",
+      "bytes": 1998,
+      "anchors": 4,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

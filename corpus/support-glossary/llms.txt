@@ -1,0 +1,12 @@
+# Support Glossary
+
+Support Glossary (1 pages): Support Glossary
+
+## Chapters
+- [Support Glossary](chapter_1551963638.md): Case: A record created to document a problem, question, or other feedback from a customer.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch support-glossary

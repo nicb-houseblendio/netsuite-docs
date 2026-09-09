@@ -1,0 +1,138 @@
+# Connect
+
+134 pages, category: SuiteAnalytics
+
+- [Connect](book_N748613.md) — book_N748613
+  - [SuiteAnalytics Connect](chapter_3963845427.md) — chapter_3963845427
+    - [Getting Started with SuiteAnalytics Connect](section_4011949938.md) — section_4011949938
+      - [Prerequisites for Using the Connect Service](section_4012735789.md) — section_4012735789
+      - [Enabling the Connect Service Feature](section_3996274388.md) — section_3996274388
+      - [Connect Permissions](section_3998867068.md) — section_3998867068
+        - [General Role and Permission Considerations for Connect](subsect_162885561735.md) — subsect_162885561735
+        - [Role and Permission Considerations for NetSuite2.com](subsect_162885566786.md) — subsect_162885566786
+        - [Providing Users with SuiteAnalytics Connect Permissions](section_4102771016.md) — section_4102771016
+        - [Verifying the SuiteAnalytics Connect Permission](section_162885600190.md) — section_162885600190
+      - [Supported Windows Versions](section_4042928734.md) — section_4042928734
+      - [Supported Linux Distributions](section_4042917875.md) — section_4042917875
+    - [Authentication for SuiteAnalytics Connect](article_0907011905.md) — article_0907011905
+      - [OAuth 2.0 for Connect](article_0907012138.md) — article_0907012138
+        - [Requirements for Using OAuth 2.0 for Connect](article_0907012731.md) — article_0907012731
+        - [Getting the Authentication String](article_0907012935.md) — article_0907012935
+        - [Setting the OAuth2Token Attribute](article_0907013016.md) — article_0907013016
+        - [Using Connect with OAuth 2.0](article_0907013045.md) — article_0907013045
+      - [Token-based Authentication for Connect](article_163239871614.md) — article_163239871614
+        - [Requirements for Using Token-based Authentication in Connect](article_163239880280.md) — article_163239880280
+        - [Using Connect with Token-Based Authentication (TBA)](article_163239887396.md) — article_163239887396
+          - [Running Connect Queries with TBA](article_163240137370.md) — article_163240137370
+        - [Token Password for Connect](article_163239884825.md) — article_163239884825
+          - [Required Parameters for Creating the Token Password](article_163240162059.md) — article_163240162059
+          - [Creating the Token Password](article_163240164565.md) — article_163240164565
+  - [Connect Drivers](article_9151201949.md) — article_9151201949
+    - [ODBC Drivers](article_1201032531.md) — article_1201032531
+    - [JDBC Drivers](article_1201032640.md) — article_1201032640
+    - [ADO.NET Drivers](article_1201032653.md) — article_1201032653
+    - [Connect Driver Download Page](article_1202105110.md) — article_1202105110
+    - [Downloading and Installing Connect Drivers](article_1202121851.md) — article_1202121851
+    - [Verifying the Downloaded File](article_0206024856.md) — article_0206024856
+    - [Configuring Your Data Source](section_1549957264.md) — section_1549957264
+    - [Determining Your Connect Driver Version](section_4525081472.md) — section_4525081472
+  - [Accessing the Connect Service Using an ODBC Driver](section_3990584734.md) — section_3990584734
+    - [Prerequisites](section_3996462629.md) — section_3996462629
+    - [Downloading and Installing the ODBC Driver for Windows](section_3963853203.md) — section_3963853203
+      - [ODBC Installation on Windows for a Bundled Installation](section_4047450603.md) — section_4047450603
+      - [ODBC Installation on Windows for Installer Only](section_4047449946.md) — section_4047449946
+      - [Verifying the ODBC Driver Installation on Windows](section_3963857044.md) — section_3963857044
+      - [Configuring the ODBC Data Source on Windows](section_3963857327.md) — section_3963857327
+    - [Downloading and Installing the ODBC Driver for Linux](section_4042973030.md) — section_4042973030
+      - [Installing the Latest Driver on Linux](section_4049054066.md) — section_4049054066
+      - [Installing a Driver for Linux into an Alternate Directory](section_4047452302.md) — section_4047452302
+      - [Accessing ODBC Data Source on Linux](section_4047451849.md) — section_4047451849
+      - [Verifying the ODBC Driver Installation on Linux](section_4044004512.md) — section_4044004512
+      - [Configuring the ODBC Data Source on Linux](section_4044005623.md) — section_4044005623
+    - [Configuring the ODBC Driver](article_0801120603.md) — article_0801120603
+    - [Connecting Using a Connection String](section_4406003916.md) — section_4406003916
+    - [Connection Attributes](section_4406013158.md) — section_4406013158
+    - [Authentication Using Server Certificates for ODBC](section_4041410260.md) — section_4041410260
+    - [Upgrading an ODBC Driver](section_3963860724.md) — section_3963860724
+    - [Accessing the Connect Service Using Microsoft Excel](section_4563175974.md) — section_4563175974
+  - [Accessing the Connect Service Using a JDBC Driver](section_3994742720.md) — section_3994742720
+    - [Prerequisites](section_3994768328.md) — section_3994768328
+    - [Installing the JDBC Driver for Windows](section_3996479815.md) — section_3996479815
+    - [Installing the JDBC Driver for Linux](section_4044023088.md) — section_4044023088
+    - [Installing the JDBC Driver for macOS](section_4520819104.md) — section_4520819104
+    - [Configuring the JDBC Driver](section_0726102029.md) — section_0726102029
+    - [Specifying Connection Properties](section_4425615742.md) — section_4425615742
+    - [JDBC Connection Properties](section_4425626714.md) — section_4425626714
+    - [JDBC Code Examples](section_3998941125.md) — section_3998941125
+      - [Connection URL Used with JDBC Driver Manager Example](section_4047458506.md) — section_4047458506
+      - [JDBC Data Source Example](section_4047458230.md) — section_4047458230
+    - [Authentication Using Server Certificates for JDBC](section_4353052057.md) — section_4353052057
+  - [Accessing the Connect Service Using an ADO.NET Data Provider](section_3994744300.md) — section_3994744300
+    - [Prerequisites](section_3994769074.md) — section_3994769074
+    - [Review the ADO.NET Data Server Configuration](section_3994772352.md) — section_3994772352
+    - [Downloading and Installing the ADO.NET Driver](section_3996483022.md) — section_3996483022
+    - [Connecting with the ADO.NET Data Provider](section_3998994424.md) — section_3998994424
+    - [ADO.NET Connection Options](section_4437990943.md) — section_4437990943
+    - [Authentication Using Server Certificates for ADO.NET](section_4170071356.md) — section_4170071356
+    - [Removing the ADO.NET Driver](section_4353056083.md) — section_4353056083
+  - [Connect Service Considerations](chapter_N751003.md) — chapter_N751003
+    - [Query Language Compliance](section_3903316302.md) — section_3903316302
+    - [Connections](section_4153627846.md) — section_4153627846
+    - [Exceptions](section_4153646644.md) — section_4153646644
+    - [Custom Columns, Lists, and Records in the Connect Service](section_N751341.md) — section_N751341
+    - [Driver Access for a Sandbox or Release Preview Account](section_3963862712.md) — section_3963862712
+    - [Operating System Settings](article_0801115551.md) — article_0801115551
+    - [Third-Party Application Access](section_3963861118.md) — section_3963861118
+    - [Server Restarts](article_162071870533.md) — article_162071870533
+  - [Connect Data Source](chapter_N752122.md) — chapter_N752122
+    - [Changing from NetSuite.com to NetSuite2.com](article_164258362224.md) — article_164258362224
+    - [Identifying Users that Still Access NetSuite.com](article_1021065904.md) — article_1021065904
+    - [Connect Schema](section_158695828012.md) — section_158695828012
+    - [NetSuite2.com Data Source](article_163465025391.md) — article_163465025391
+      - [Working with the Static Data Model](article_164485063706.md) — article_164485063706
+      - [Record Types and Fields](article_164312261929.md) — article_164312261929
+      - [Record Names, Permissions, and Features Required](article_0411012830.md) — article_0411012830
+    - [NetSuite.com to NetSuite2.com Map](article_0822031101.md) — article_0822031101
+    - [NetSuite.com Records Not Directly Mapped to NetSuite2.com Records](article_0828101731.md) — article_0828101731
+    - [SuiteAnalytics Connect System Tables](section_4407755805.md) — section_4407755805
+      - [oa_tables](section_4410183661.md) — section_4410183661
+      - [oa_columns](section_4410183892.md) — section_4410183892
+      - [oa_fkeys](section_4410184091.md) — section_4410184091
+    - [Querying Data with Connect](section_159006290517.md) — section_159006290517
+      - [Using Qualified Queries](section_4585642966.md) — section_4585642966
+      - [Using the Uppercase Attribute](article_1014022519.md) — article_1014022519
+      - [Incremental Backups](section_159006313446.md) — section_159006313446
+  - [Connect Service Notifications](chapter_1530646443.md) — chapter_1530646443
+    - [ODBC Driver Versions 9.0.32.0 and 8.10.190.0 Available](article_0609041654.md) — article_0609041654
+    - [JDBC Driver Version 8.10.190.0 Available](article_0526011236.md) — article_0526011236
+    - [The Outdated NetSuite.com Data Source is No Longer Available](article_0128043134.md) — article_0128043134
+    - [Removal of the PeriodFiscalCalendars Table from SuiteAnalytics Connect](article_0415110630.md) — article_0415110630
+    - [JDBC Driver Version 8.10.184.0 Available](article_1209114219.md) — article_1209114219
+    - [Required Update for SuiteAnalytics Connect ODBC Drivers for Linux](article_1027113747.md) — article_1027113747
+    - [Test Window for the Removal of the NetSuite.com Data Source Scheduled for Some Connect Accounts](article_0915041228.md) — article_0915041228
+    - [Early Removal of the NetSuite.com Data Source for Some Connect Accounts](article_0603093523.md) — article_0603093523
+    - [Removal of SuiteAnalytics Connect NetSuite.com Data Source](article_0405125116.md) — article_0405125116
+    - [NetSuite.com to NetSuite2.com Map Available for SuiteAnalytics Connect](article_0829051359.md) — article_0829051359
+    - [Change to SuiteAnalytics Connect and SOAP Web Services Fields](article_0627041354.md) — article_0627041354
+    - [Windows Server 2012 R2 No Longer Supported for SuiteAnalytics Connect](article_0703113325.md) — article_0703113325
+    - [Uppercase Connection Attribute](article_1115031521.md) — article_1115031521
+    - [OAuth 2.0 for SuiteAnalytics Connect](article_1011040638.md) — article_1011040638
+    - [JDBC Driver Version 8.10.136.0 Available](article_0726015817.md) — article_0726015817
+    - [Required Update of SuiteAnalytics Connect Drivers](article_164500699628.md) — article_164500699628
+    - [New Accounts and Access to the Connect Data Source](article_163594533438.md) — article_163594533438
+    - [Connect NetSuite.com Data Source No Longer Being Updated](article_163221777014.md) — article_163221777014
+    - [Removal of the Analytics Browser](article_163758909154.md) — article_163758909154
+    - [Change to Display Size and Precision in Some Connect Columns](section_163093728951.md) — section_163093728951
+    - [Changes to Return Values in Some Connect Columns](section_162582087416.md) — section_162582087416
+    - [Removal of Some Connect Tables and Columns](section_161098518213.md) — section_161098518213
+    - [Changes to Return Values in SuiteAnalytics Connect Columns](section_159257441111.md) — section_159257441111
+    - [Audit Trail and Execution Log Record Types Contain Outdated Data](section_158698395721.md) — section_158698395721
+    - [Idle Session Timeout for SuiteAnalytics Connect](section_157902040585.md) — section_157902040585
+    - [Data Center-Specific Domains not Supported for SuiteAnalytics Connect](section_157485077338.md) — section_157485077338
+    - [Change in Time Zone of Charges Table Date Columns](section_157475925443.md) — section_157475925443
+    - [New Version for SuiteAnalytics Connect ODBC and JDBC Drivers](section_156922545722.md) — section_156922545722
+    - [Changes to SuiteAnalytics Connect Return Values and String Types](section_1530646847.md) — section_1530646847
+    - [The Analytics Data Source and SuiteAnalytics Connect](section_1549964695.md) — section_1549964695
+    - [NetSuite Password Policies Now Apply to SuiteAnalytics Connect](section_1547566712.md) — section_1547566712
+    - [Cipher Suite Deprecations for SuiteAnalytics Connect JDBC Drivers](section_1530649753.md) — section_1530649753
+  - [SuiteAnalytics Connect FAQ](chapter_1555594476.md) — chapter_1555594476

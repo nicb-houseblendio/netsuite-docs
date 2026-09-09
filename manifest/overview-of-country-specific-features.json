@@ -1,0 +1,42 @@
+{
+  "branch": "overview-of-country-specific-features",
+  "generatedAt": null,
+  "pages": {
+    "book_4198429264": {
+      "path": "corpus/overview-of-country-specific-features/book_4198429264.md",
+      "title": "Country-Specific Features",
+      "type": "book",
+      "breadcrumb": "Country-Specific Features",
+      "parent": null,
+      "category": "country-specific-features",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/book_4198429264.html",
+      "etag": "\"250e2b7bed7f604000873227bda94510:1786980353.206075\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:07:21.961Z",
+      "sha256": "dbbe2ae327a2260a4563111da3a64d3910370f949ce9c6c3c98b2676d05bf0d3",
+      "bytes": 4022,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "chapter_4169633414": {
+      "path": "corpus/overview-of-country-specific-features/chapter_4169633414.md",
+      "title": "Overview of Country-Specific Features",
+      "type": "chapter",
+      "breadcrumb": "Country-Specific Features > Overview of Country-Specific Features",
+      "parent": "book_4198429264",
+      "category": "country-specific-features",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_4169633414.html",
+      "etag": "\"9afe6ac50f3f84ae65d08adb6381de8e:1786980394.743605\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:07:22.245Z",
+      "sha256": "62e3e7c63c37b6f1abc668b39658452ffba4fbda9b1ecd28ec08008d34f55bf4",
+      "bytes": 6339,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

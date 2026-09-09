@@ -1,0 +1,20 @@
+# Sales Force Automation
+
+Sales Force Automation (288 pages): Sales Force Automation
+
+## Chapters
+- [Sales Force Automation](book_N1035197.md): - Sales Force Automation Overview(https://docs.
+  - [Sales Force Automation Overview](chapter_N1035383.md): As a sales manager, the NetSuite integrated sales features give you power, flexibility, and convenience in managing your sales team.
+  - [Setting Up SFA](chapter_N1035717.md): As a sales manager, the less time you spend entering data, the more time you have to evaluate your selling process.
+  - [Sales Forecasting](chapter_N1045230.md): One of the most important requirements for your business' success is being able to predict sales.
+  - [Opportunities and Estimates](chapter_N1066094.md): Routing leads and setting up quotas are the first steps to successfully managing your team with NetSuite.
+  - [Record Management](chapter_N1074872.md): With NetSuite entity records, you can track sales histories, items you've purchased, support cases, and your communication with the people you do business with.
+  - [Last Sales Activity](article_160396957674.md): The Last Sales Activity SuiteApp lets you track the latest sales activities performed for leads, prospects, customers, contacts, and opportunities.
+  - [Sales Reports](chapter_N1101968.md): The following standard sales reports are available in NetSuite.
+  - [Commissions](chapter_N1122333.md): The most effective incentive for motivating your sales team is commission.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch sales-force-automation

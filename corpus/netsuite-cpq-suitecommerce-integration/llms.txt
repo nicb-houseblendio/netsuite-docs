@@ -1,0 +1,12 @@
+# NetSuite CPQ SuiteCommerce Integration
+
+NetSuite CPQ SuiteCommerce Integration (1 pages): NetSuite CPQ SuiteCommerce Integration
+
+## Chapters
+- [NetSuite CPQ SuiteCommerce Integration](article_25182351521.md): The NetSuite CPQ SuiteCommerce (SC) Integration extension lets you launch NetSuite CPQ Configurator from a SuiteCommerce product page and add configured items to the shopping cart when submitting the configuration.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-cpq-suitecommerce-integration

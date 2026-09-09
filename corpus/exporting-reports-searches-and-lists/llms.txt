@@ -1,0 +1,14 @@
+# Exporting Reports, Searches, and Lists
+
+Exporting Reports, Searches, and Lists (3 pages): Exporting Reports, Searches, and Lists
+
+## Chapters
+- [Exporting Reports, Searches, and Lists](chapter_N575321.md): You can export reports, searches and lists into various formats.
+  - [Limitations on Exports to PDF](section_N575781.md): Exported PDFs have some limitations.
+  - [Limitations on CSV Exports of Data with Special Characters](section_N576068.md): If you export data in a language other than English to a CSV and open it in Excel, some special characters may not show correctly.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch exporting-reports-searches-and-lists

@@ -1,0 +1,42 @@
+{
+  "branch": "licensing-information-user-manuals",
+  "generatedAt": null,
+  "pages": {
+    "book_162866904907": {
+      "path": "corpus/licensing-information-user-manuals/book_162866904907.md",
+      "title": "Licensing Information User Manuals",
+      "type": "book",
+      "breadcrumb": "Additional Resources > Licensing Information User Manuals",
+      "parent": "set_N3859054",
+      "category": "additional-resources",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/book_162866904907.html",
+      "etag": "\"f99da0b51e8e98321a3a107b157beff0:1786980353.037121\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:40.560Z",
+      "sha256": "e85ccb530a39bb5c5272be6d24036712d61daefe22f5ab9c67748ed7cfedc8a2",
+      "bytes": 232,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "article_162866918316": {
+      "path": "corpus/licensing-information-user-manuals/article_162866918316.md",
+      "title": "Licensing Information User Manuals",
+      "type": "article",
+      "breadcrumb": "Additional Resources > Licensing Information User Manuals > Licensing Information User Manuals",
+      "parent": "book_162866904907",
+      "category": "additional-resources",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_162866918316.html",
+      "etag": "\"dfa9118f24d5349a0c65e3c6e82123c0:1786980312.592697\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:41.139Z",
+      "sha256": "e2dfd8f2b5a34743d67765c17275e73191e65c4bb4333e11db7cefd10f6df08b",
+      "bytes": 2882,
+      "anchors": 4,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# NetSuite Account Types
+
+NetSuite Account Types (39 pages): NetSuite Account Types
+
+## Chapters
+- [NetSuite Account Types](book_4607642783.md): - NetSuite Account Types Overview(https://docs.
+  - [NetSuite Account Types Overview](chapter_4607634104.md): The Understanding NetSuite Account Types(https://docs.
+  - [NetSuite Sandbox](chapter_N333400.md): You can use a NetSuite sandbox to safely test and develop new applications and customizations without affecting your production account.
+  - [NetSuite Sandbox FAQ](chapter_4714508173.md): See the following for answers to common NetSuite sandbox questions.
+  - [NetSuite Development Accounts](chapter_4422375565.md): NetSuite development accounts are isolated from your production account.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-account-types

@@ -1,0 +1,28 @@
+# Region-Specific SuiteApps
+
+Region-Specific SuiteApps (349 pages): Region-Specific SuiteApps
+
+## Chapters
+- [Region-Specific SuiteApps](chapter_158151293416.md): SuiteApps are applications that extend NetSuite for specific industry and business needs.
+  - [ANZ Localization](article_158677153915.md): The ANZ Localization SuiteApp gives you the localization features, templates, and financial reporting needed to run businesses in Australia and New Zealand.
+  - [Australia Bank Feeds SuiteApp](article_3164944442.md): The Australia Bank Feeds SuiteApp is a single-page SuiteApp that automates the transfer of your bank data from financial institutions domiciled in Australia into NetSuite.
+  - [Country-Specific Address Forms](article_158497967043.md): Country-Specific Address Forms SuiteApp provides address forms formatted for certain countries.
+  - [EMEA Localization](chapter_157122959910.md): The following topics describe the features that are included in the EMEA Localization SuiteApp: - EMEA Localization Overview(https://docs.
+  - [European Union Electronic Invoicing](article_7122551804.md): To use the European Union Electronic Invoicing SuiteApp, read the following topics: - European Union Electronic Invoicing Overview(https://docs.
+  - [GL Matching](chapter_1516099228.md): The following topics describe the features included in the GL Matching SuiteApp: - GL Matching Overview(https://docs.
+  - [LATAM E-Document Certification](article_160320092518.md): Note: To access the LATAM E-Document Certification SuiteApp documentation in Brazilian Portuguese (Português do Brasil), see LATAM E-Document Certification(https://system.
+  - [LATAM File Builder](article_66113219331.md): Note: To access the LATAM File Builder SuiteApp documentation in Brazilian Portuguese (Português do Brasil), see LATAM File Builder(https://system.
+  - [Localization Assistant SuiteApp](article_163092114640.md): The Localization Assistant SuiteApp enables you to identify and install the SuiteApps that are mandatory to a specific location.
+  - [North America Electronic Invoicing](article_94516111.md): To understand how to set up and use the North America Electronic Invoicing SuiteApp, read the following topics: - North America Electronic Invoicing Overview(https://docs.
+  - [Revenue/Expense Reclassification by Region](chapter_1552020655.md): The following describes the features of NetSuite for Revenue Expense Reclassification by Region.
+  - [Southeast Asia Localization](chapter_1532415717.md): The Southeast Asia Localization SuiteApp provides localized invoicing features and electronic payment formats that are specific to Malaysia, Philippines, Singapore, and Thailand.
+  - [SuiteTax Country Tax Reports APAC](section_156739606850.md): The SuiteTax Country Tax Reports APAC SuiteApp enables users in supported countries to generate VAT or GST returns and supplementary reports.
+  - [SuiteTax Latam Engine](article_161833403570.md): Note: To access the SuiteTax Latam Engine SuiteApp documentation in other languages, do the following: - To access the documentation in Brazilian Portuguese (Português do Brasil), see SuiteTax Latam Engine(https://system.
+  - [Transaction Locking SuiteApp](article_158384161821.md): Warning: As of April 2019, the Transaction Locking SuiteApp is not available for new installations, and Oracle-NetSuite ended support for the SuiteApp.
+  - [Universal Mapping Assistant](article_85523794.md): To use the Universal Mapping Assistant SuiteApp, read the following topics: - Universal Mapping Assistant Overview(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch region-specific-suiteapps

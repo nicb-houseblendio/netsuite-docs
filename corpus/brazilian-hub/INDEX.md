@@ -1,0 +1,223 @@
+# Brazilian Hub
+
+219 pages, category: SuiteApps
+
+- [Brazilian Hub](article_158773778810.md) — article_158773778810
+  - [Brazilian Hub SuiteApp Installation](article_159740769678.md) — article_159740769678
+  - [Brazilian Hub Setup](article_160397782837.md) — article_160397782837
+    - [Roles and Permissions for Brazilian Hub](article_159896342406.md) — article_159896342406
+    - [Setting Up User Preferences for Brazil (Brazilian Hub SuiteApp)](article_159742722900.md) — article_159742722900
+    - [Setting Up the Brazilian Custom Address Form (Brazilian Hub SuiteApp)](article_159742831157.md) — article_159742831157
+    - [Setting Up the Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_159742897023.md) — article_159742897023
+    - [Chart of Accounts for Brazil (Brazilian Hub SuiteApp)](article_160192202918.md) — article_160192202918
+    - [Setting Up the Informação Complementar da Subsidiária Record (Brazilian Hub SuiteApp)](article_160035217915.md) — article_160035217915
+      - [Setting Up Tax Calculation for a Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_160398917925.md) — article_160398917925
+      - [Defining Electronic Invoicing for Goods Preferences for a Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_160398915572.md) — article_160398915572
+      - [Defining Electronic Invoicing for Consumers Preferences for a Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_160398913902.md) — article_160398913902
+      - [Defining Electronic Invoicing for Services Preferences for a Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_160398911925.md) — article_160398911925
+      - [Setting Up Tax Benefits Calculations for a Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_160398910257.md) — article_160398910257
+      - [Entering Profits or Losses Records for a Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_160398908525.md) — article_160398908525
+      - [Setting Tax Assessment Preferences for a Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_160398906970.md) — article_160398906970
+      - [Setting Bookkeeping Preferences for a Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_160398904697.md) — article_160398904697
+      - [Entering Information Related to the SIMP System (Brazilian Hub SuiteApp)](article_160398902047.md) — article_160398902047
+      - [Enabling GNRE Generation for a Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_160398898324.md) — article_160398898324
+      - [Enabling CNAB Features for a Brazilian Subsidiary (Brazilian Hub SuiteApp)](article_160398895642.md) — article_160398895642
+    - [Setting Up a Customer for Brazil (Brazilian Hub SuiteApp)](article_159898071003.md) — article_159898071003
+    - [Setting Up a Vendor for Brazil (Brazilian Hub SuiteApp)](article_160008700666.md) — article_160008700666
+    - [Setting Up an Employee for Brazil (Brazilian Hub SuiteApp)](article_159922499538.md) — article_159922499538
+    - [Setting Up Items for Brazilian Hub](article_159838224360.md) — article_159838224360
+      - [Setting Up Service Items for Brazil (Brazilian Hub SuiteApp)](article_159838228962.md) — article_159838228962
+      - [Setting Up Product Items for Brazil (Brazilian Hub SuiteApp)](article_159838230568.md) — article_159838230568
+  - [Taxes in Brazil (Brazilian Hub SuiteApp)](article_160337498946.md) — article_160337498946
+    - [Brazilian Custom GL Lines Plug-In Deployment (Brazilian Hub SuiteApp)](article_160337504697.md) — article_160337504697
+    - [Setting Up Accounts Without SuiteTax for Brazil (Brazilian Hub SuiteApp)](article_160743687629.md) — article_160743687629
+      - [Setting Up a Brazilian Nexus in Accounts Without SuiteTax (Brazilian Hub SuiteApp)](article_160743741491.md) — article_160743741491
+      - [Creating Tax Type Records for Brazil in Accounts Without SuiteTax (Brazilian Hub SuiteApp)](article_160743960044.md) — article_160743960044
+      - [Creating Tax Code Records for Brazil in Accounts Without SuiteTax (Brazilian Hub SuiteApp)](article_160744632564.md) — article_160744632564
+    - [Setting Up Accounts With SuiteTax for Brazil (Brazilian Hub SuiteApp)](article_160337507258.md) — article_160337507258
+      - [Enabling the Brazilian Hub Tax Engine Plug-In (Brazilian Hub SuiteApp)](article_160339049022.md) — article_160339049022
+      - [Brazilian Nexus in Accounts With SuiteTax (Brazilian Hub SuiteApp)](article_161851306773.md) — article_161851306773
+      - [Brazilian Tax Types in Accounts With SuiteTax (Brazilian Hub SuiteApp)](article_160339614128.md) — article_160339614128
+      - [Brazilian Tax Codes in Accounts With SuiteTax (Brazilian Hub SuiteApp)](article_160339051606.md) — article_160339051606
+    - [Tax Parameters for Brazil (Brazilian Hub SuiteApp)](article_160405854730.md) — article_160405854730
+      - [Creating Tax Groups for Brazil (Brazilian Hub SuiteApp)](article_160405859068.md) — article_160405859068
+      - [Creating IBPT Parameters for Brazil (Brazilian Hub SuiteApp)](article_160405900810.md) — article_160405900810
+      - [Creating Approximated Taxes for Brazil (Brazilian Hub SuiteApp)](article_160406166088.md) — article_160406166088
+      - [Creating CEST Codes for Brazil (Brazilian Hub SuiteApp)](article_160406461309.md) — article_160406461309
+      - [Tax Calculation for Taxes on Goods in Brazil (Brazilian Hub SuiteApp)](article_160581800042.md) — article_160581800042
+        - [PIS and COFINS Calculation on Goods (Brazilian Hub SuiteApp)](article_160581802662.md) — article_160581802662
+        - [ICMS Calculation (Brazilian Hub SuiteApp)](article_160581807419.md) — article_160581807419
+          - [Creating CST Parameters for ICMS (Brazilian Hub SuiteApp)](article_162014738634.md) — article_162014738634
+          - [Creating ICMS DIFAL Parameters (Brazilian Hub SuiteApp)](article_162014739035.md) — article_162014739035
+          - [Creating ICMS FCP Parameters (Brazilian Hub SuiteApp)](article_162014739679.md) — article_162014739679
+        - [IPI Calculation (Brazilian Hub SuiteApp)](article_160581809232.md) — article_160581809232
+        - [II Calculation (Brazilian Hub SuiteApp)](article_160581810125.md) — article_160581810125
+        - [CIDE Calculation on Goods (Brazilian Hub SuiteApp)](article_160581810963.md) — article_160581810963
+      - [Tax Calculation for Taxes on Services in Brazil (Brazilian Hub SuiteApp)](article_160467103821.md) — article_160467103821
+        - [CBS and IBS Calculation (Brazilian Hub SuiteApp)](article_1106015938.md) — article_1106015938
+        - [ISS Calculation (Brazilian Hub SuiteApp)](article_160468523332.md) — article_160468523332
+        - [IRRF Calculation (Brazilian Hub SuiteApp)](article_160469245089.md) — article_160469245089
+        - [INSS Calculation (Brazilian Hub SuiteApp)](article_160494387586.md) — article_160494387586
+          - [Setting Up INSS PJ Calculation (Brazilian Hub SuiteApp)](article_160494394098.md) — article_160494394098
+          - [Setting Up INSS PF Calculation (Brazilian Hub SuiteApp)](article_160494395330.md) — article_160494395330
+          - [Setting Up INSS Calculation for Self-Employed Workers (Brazilian Hub SuiteApp)](article_160494397091.md) — article_160494397091
+          - [Setting Up INSS Patronal Calculation (Brazilian Hub SuiteApp)](article_160494399109.md) — article_160494399109
+          - [Setting Up INSS Calculation for Shipping Expenses (Brazilian Hub SuiteApp)](article_160494392317.md) — article_160494392317
+        - [PIS, COFINS, and CSLL Calculation (Brazilian Hub SuiteApp)](article_160494964817.md) — article_160494964817
+          - [PIS and COFINS Calculation (Brazilian Hub SuiteApp)](article_160494996093.md) — article_160494996093
+          - [PCC Calculation (Brazilian Hub SuiteApp)](article_160494998670.md) — article_160494998670
+        - [CIDE Calculation (Brazilian Hub SuiteApp)](article_160501283695.md) — article_160501283695
+  - [Electronic Invoicing for Brazil (Brazilian Hub SuiteApp)](article_160103813525.md) — article_160103813525
+    - [Setting Up Electronic Invoicing for Brazil (Brazilian Hub SuiteApp)](article_160103820312.md) — article_160103820312
+      - [Digital Certificates Upload for Brazil (Brazilian Hub SuiteApp)](article_161133630982.md) — article_161133630982
+      - [Predefined E-Document Template Files for Brazil (Brazilian Hub SuiteApp)](article_161773143849.md) — article_161773143849
+        - [Finding the Predefined E-Document Template Files for Electronic Invoices for Goods (Brazilian Hub SuiteApp)](article_0512012758.md) — article_0512012758
+        - [Finding the Predefined E-Document Template Files for Electronic Invoices for Services (Brazilian Hub SuiteApp)](article_15114615576.md) — article_15114615576
+        - [Finding the Predefined E-Document Template Files for GNRE and EFD-Reinf Reports (Brazilian Hub SuiteApp)](article_35133448415.md) — article_35133448415
+      - [Setup for Electronic Invoicing for Goods for Brazil (Brazilian Hub SuiteApp)](article_160103863947.md) — article_160103863947
+        - [Creating the Brazilian E-Document Package for Electronic Invoices for Goods (Brazilian Hub SuiteApp)](article_160106176419.md) — article_160106176419
+        - [Creating the Sending Method for Electronic Invoices for Goods (Brazilian Hub SuiteApp)](article_160129746709.md) — article_160129746709
+        - [Setting Up E-Document Templates for Electronic Invoices for Goods (Brazilian Hub SuiteApp)](article_160129861613.md) — article_160129861613
+          - [Creating an Electronic Invoice for Goods Certification Template (Brazilian Hub SuiteApp)](article_161902801357.md) — article_161902801357
+          - [Creating an Electronic Invoice for Goods from Outras Operações Fiscais Template (Brazilian Hub SuiteApp)](article_161902808810.md) — article_161902808810
+          - [Creating an Electronic Invoice for Goods Correction Letter Template (Brazilian Hub SuiteApp)](article_161902817944.md) — article_161902817944
+          - [Creating an Electronic Invoice for Goods Cancellation Template (Brazilian Hub SuiteApp)](article_161902822344.md) — article_161902822344
+          - [Creating an Electronic Invoice for Goods Number Voiding Template (Brazilian Hub SuiteApp)](article_161902827383.md) — article_161902827383
+          - [Creating a Receiver Acknowledgment Template (Brazilian Hub SuiteApp)](article_161902834500.md) — article_161902834500
+          - [Creating an Electronic Invoice for Goods Status Request Template (Brazilian Hub SuiteApp)](article_161902836266.md) — article_161902836266
+          - [Creating a Receiver Acknowledgment Status Request Template (Brazilian Hub SuiteApp)](article_161902844923.md) — article_161902844923
+          - [Electronic Invoice for Goods Templates Association with Subsidiaries (Brazilian Hub SuiteApp)](article_161902847954.md) — article_161902847954
+        - [Creating an Electronic Invoice for Goods Series (Brazilian Hub SuiteApp)](article_160130611002.md) — article_160130611002
+        - [Creating Transaction Natures (Brazilian Hub SuiteApp)](article_160130612886.md) — article_160130612886
+      - [Setup for Electronic Invoicing for Services for Brazil (Brazilian Hub SuiteApp)](article_160103865421.md) — article_160103865421
+        - [Creating the Brazilian E-Document Package for Electronic Invoices for Services (Brazilian Hub SuiteApp)](article_161166509265.md) — article_161166509265
+        - [Creating the Sending Method for Electronic Invoices for Services (Brazilian Hub SuiteApp)](article_160138738717.md) — article_160138738717
+        - [Setting Up E-Document Templates for Electronic Invoices for Services (Brazilian Hub SuiteApp)](article_160138745015.md) — article_160138745015
+          - [Creating an Electronic Invoice for Services Certification Template (Brazilian Hub SuiteApp)](article_161903042662.md) — article_161903042662
+          - [Creating an Electronic Invoice for Services Cancellation Template (Brazilian Hub SuiteApp)](article_161903041046.md) — article_161903041046
+          - [Creating an Electronic Invoice for Services Status Request Template (Brazilian Hub SuiteApp)](article_161903028579.md) — article_161903028579
+          - [Electronic Invoice for Services Templates Association with Subsidiaries (Brazilian Hub SuiteApp)](article_161903027042.md) — article_161903027042
+        - [Creating an Electronic Invoice for Services Series (Brazilian Hub SuiteApp)](article_160138920925.md) — article_160138920925
+      - [Creating Electronic Invoice Template Numbers (Brazilian Hub SuiteApp)](article_160103867392.md) — article_160103867392
+      - [GNRE Tax Collection Form Setup (Brazilian Hub SuiteApp)](article_162188036978.md) — article_162188036978
+        - [Creating the GNRE Template (Brazilian Hub SuiteApp)](article_162188134099.md) — article_162188134099
+        - [Creating the GNRE Status Request Template (Brazilian Hub SuiteApp)](article_162188189422.md) — article_162188189422
+        - [Creating the DUA Download Template (Brazilian Hub SuiteApp)](article_162188249197.md) — article_162188249197
+      - [E-Document Certification Setup (Brazilian Hub SuiteApp)](article_161185202377.md) — article_161185202377
+        - [Creating a Certification Monitoring Plug-in Implementation (Brazilian Hub SuiteApp)](article_0213024006.md) — article_0213024006
+        - [Enabling E-Document Validation on Certification Service Operations in Brazil (Brazilian Hub SuiteApp)](article_8140123267.md) — article_8140123267
+      - [Scheduled Generation and Sending of E-Documents for Brazil (Brazilian Hub SuiteApp)](article_160103869044.md) — article_160103869044
+    - [Generating Electronic Invoices for Brazil (Brazilian Hub SuiteApp)](article_160270386975.md) — article_160270386975
+      - [Generating Electronic Invoices for Goods in Brazil (Brazilian Hub SuiteApp)](article_160270491562.md) — article_160270491562
+        - [Generating Electronic Invoices for Goods from Invoices (Brazilian Hub SuiteApp)](article_160276621870.md) — article_160276621870
+        - [Generating Electronic Invoices for Goods from Returns (Brazilian Hub SuiteApp)](article_160371788721.md) — article_160371788721
+          - [Entering Return Authorizations from Invoices or Vendor Bills with Electronic Invoice for Goods Generation (Brazilian Hub SuiteApp)](article_163543256791.md) — article_163543256791
+          - [Entering Return Authorizations and Generating Electronic Invoices for Goods (Brazilian Hub SuiteApp)](article_163543261596.md) — article_163543261596
+        - [Generating Electronic Invoices for Imported Goods (Brazilian Hub SuiteApp)](article_160373472122.md) — article_160373472122
+        - [Generating Electronic Invoices for Goods from Outras Operações Fiscais (Brazilian Hub SuiteApp)](article_160374206522.md) — article_160374206522
+      - [Generating Electronic Invoices for Services in Brazil (Brazilian Hub SuiteApp)](article_160466504839.md) — article_160466504839
+    - [Canceling Electronic Invoices for Brazil (Brazilian Hub SuiteApp)](article_160493175920.md) — article_160493175920
+      - [Roles and Permissions for Canceling Electronic Invoices for Brazil (Brazilian Hub SuiteApp)](article_161945568209.md) — article_161945568209
+      - [Canceling Electronic Invoices for Goods for Brazil (Brazilian Hub SuiteApp)](article_160494467924.md) — article_160494467924
+      - [Canceling Electronic Invoices for Services for Brazil (Brazilian Hub SuiteApp)](article_160527313126.md) — article_160527313126
+        - [Canceling Electronic Invoices for Services in Salvador (Brazilian Hub SuiteApp)](article_163655191530.md) — article_163655191530
+    - [Correcting Electronic Invoices for Brazil (Brazilian Hub SuiteApp)](article_160684576511.md) — article_160684576511
+      - [Correcting Electronic Invoices on Invoices and Returns (Brazilian Hub SuiteApp)](article_162213238113.md) — article_162213238113
+      - [Correcting Electronic Invoices on Outras Operações Fiscais (Brazilian Hub SuiteApp)](article_162213236437.md) — article_162213236437
+    - [Voiding Electronic Invoice Numbers for Brazil (Brazilian Hub SuiteApp)](article_162369908290.md) — article_162369908290
+      - [Voiding Electronic Invoice Numbers on Invoices and Returns (Brazilian Hub SuiteApp)](article_162370185462.md) — article_162370185462
+      - [Voiding Electronic Invoices Numbers on Outras Operações Fiscais Transactions (Brazilian Hub SuiteApp)](article_162370181407.md) — article_162370181407
+  - [Receiving for Brazil (Brazilian Hub SuiteApp)](article_160226852080.md) — article_160226852080
+    - [Purchasing for Brazil (Brazilian Hub SuiteApp)](article_160226854064.md) — article_160226854064
+    - [Billing Purchase Orders for Brazil (Brazilian Hub SuiteApp)](article_160227278547.md) — article_160227278547
+      - [Billing a Purchase Order and Posting an Electronic Invoice for Goods (Brazilian Hub SuiteApp)](article_162127262957.md) — article_162127262957
+      - [Billing a Purchase Order and Posting an Electronic Invoice for Services (Brazilian Hub SuiteApp)](article_162127260993.md) — article_162127260993
+      - [Billing a Purchase Order and Posting an Invoice Document (Brazilian Hub SuiteApp)](article_162127258060.md) — article_162127258060
+    - [Importing Inbound Electronic Invoices for Goods in Brazil (Brazilian Hub SuiteApp)](article_160260098349.md) — article_160260098349
+    - [Expenses for Brazil (Brazilian Hub SuiteApp)](article_160613597388.md) — article_160613597388
+      - [Receiving Rental Expenses (Brazilian Hub SuiteApp)](article_160614189645.md) — article_160614189645
+        - [Creating a Rental Expense Category (Brazilian Hub SuiteApp)](article_160614818042.md) — article_160614818042
+        - [Creating Vendor Bills for Rental Expenses (Brazilian Hub SuiteApp)](article_160614854539.md) — article_160614854539
+      - [Receiving Expenses for Shipping, Electricity, and Telecommunication (Brazilian Hub SuiteApp)](article_160615268135.md) — article_160615268135
+        - [Setup for Shipping, Electricity, and Telecommunication Expense Categories (Brazilian Hub SuiteApp)](article_160622021198.md) — article_160622021198
+          - [Creating Expense Categories for Shipping, Electricity, and Telecommunication (Brazilian Hub SuiteApp)](article_162127275114.md) — article_162127275114
+          - [Creating CFOP codes for Shipping, Electricity, and Telecommunication Services (Brazilian Hub SuiteApp)](article_162127272878.md) — article_162127272878
+        - [Setup for Tax Calculation on Shipping, Electricity, and Telecommunication Expenses (Brazilian Hub SuiteApp)](article_160624535541.md) — article_160624535541
+          - [Setup for Tax Calculation on Shipping Expenses (Brazilian Hub SuiteApp)](article_162127314022.md) — article_162127314022
+          - [Setup for Tax Calculation on Electricity and Telecommunication Expenses (Brazilian Hub SuiteApp)](article_162127312568.md) — article_162127312568
+        - [Receiving Expenses for Shipping (Brazilian Hub SuiteApp)](article_160624876504.md) — article_160624876504
+          - [Creating Purchase Orders for Shipping Expenses (Brazilian Hub SuiteApp)](article_162127284121.md) — article_162127284121
+          - [Billing Expenses for Shipping (Brazilian Hub SuiteApp)](article_162127282937.md) — article_162127282937
+        - [Receiving Electricity and Telecommunication Expenses (Brazilian Hub SuiteApp)](article_160632199518.md) — article_160632199518
+          - [Creating Purchase Orders for Electricity and Telecommunication Expenses (Brazilian Hub SuiteApp)](article_162127295405.md) — article_162127295405
+          - [Billing Electricity and Telecommunication Expenses (Brazilian Hub SuiteApp)](article_162127294156.md) — article_162127294156
+  - [Payments for Brazil (Brazilian Hub SuiteApp)](article_160268939174.md) — article_160268939174
+    - [Terms of Payment for Brazil (Brazilian Hub SuiteApp)](article_160269515789.md) — article_160269515789
+      - [Terms of Payment Setup for Brazil (Brazilian Hub SuiteApp)](article_160269651835.md) — article_160269651835
+        - [Creating a Condição de Pagamento Record (Brazilian Hub SuiteApp)](article_160269684606.md) — article_160269684606
+        - [Creating a Condição de Pagamento Prazos Record (Brazilian Hub SuiteApp)](article_160269686688.md) — article_160269686688
+        - [Setting Up Brazilian Holidays (Brazilian Hub SuiteApp)](article_160279392073.md) — article_160279392073
+      - [Terms of Payment Applicability for Brazil (Brazilian Hub SuiteApp)](article_160269677318.md) — article_160269677318
+        - [Setting Default Terms of Payment for Brazil (Brazilian Hub SuiteApp)](article_160285255296.md) — article_160285255296
+        - [Setting Terms of Payment on Transactions for Brazil (Brazilian Hub SuiteApp)](article_160285314665.md) — article_160285314665
+        - [Editing Installment Plans in Brazil (Brazilian Hub SuiteApp)](article_160285458453.md) — article_160285458453
+    - [Customer Payments for Brazil (Brazilian Hub SuiteApp)](article_160624934529.md) — article_160624934529
+      - [Receiving a Payment on the Customer Payment Page for Brazil (Brazilian Hub SuiteApp)](article_160624937675.md) — article_160624937675
+      - [Receiving a Payment on an Invoice in Brazil (Brazilian Hub SuiteApp)](article_160624980126.md) — article_160624980126
+      - [Receiving Payments in Bulk in Brazil (Brazilian Hub SuiteApp)](article_160631655561.md) — article_160631655561
+    - [Vendor Payments for Brazil (Brazilian Hub SuiteApp)](article_163475387422.md) — article_163475387422
+      - [Paying Vendors in Brazil (Brazilian Hub SuiteApp)](article_160633035634.md) — article_160633035634
+        - [Paying a Single Vendor on the Bill Payment Page in Brazil (Brazilian Hub SuiteApp)](article_160633554485.md) — article_160633554485
+        - [Paying a Single Vendor from a Bill in Brazil (Brazilian Hub SuiteApp)](article_160633563511.md) — article_160633563511
+      - [Paying Employee Expenses in Brazil (Brazilian Hub SuiteApp)](article_160633473380.md) — article_160633473380
+        - [Paying an Employee Expense on the Bill Payment Page in Brazil (Brazilian Hub SuiteApp)](article_160639351071.md) — article_160639351071
+        - [Paying an Employee Expense from an Expense Report in Brazil (Brazilian Hub SuiteApp)](article_160639482768.md) — article_160639482768
+      - [Making Payments in Bulk in Brazil (Brazilian Hub SuiteApp)](article_160633556865.md) — article_160633556865
+    - [Electronic Bank Payments with CNAB for Brazil (Brazilian Hub SuiteApp)](article_159966073326.md) — article_159966073326
+      - [Implementing a Custom Bank in Brazil (Brazilian Hub SuiteApp)](article_161790218364.md) — article_161790218364
+        - [Payment Slip Plug-in Creation (Brazilian Hub SuiteApp)](article_161790220322.md) — article_161790220322
+        - [Payment Slip Template Creation (Brazilian Hub SuiteApp)](article_161790222095.md) — article_161790222095
+        - [Creating Bancos Records in Brazil (Brazilian Hub SuiteApp)](article_161359549473.md) — article_161359549473
+      - [Setting Up CNAB Preferences (Brazilian Hub SuiteApp)](article_159966342902.md) — article_159966342902
+        - [Setting Up CNAB Preferences in the Informação Complementar da Subsidiária Record (Brazilian Hub SuiteApp)](article_159967353944.md) — article_159967353944
+        - [Creating Banco Contas Records in Brazil (Brazilian Hub SuiteApp)](article_159967359068.md) — article_159967359068
+        - [Setting Up Layout CNAB Records (Brazilian Hub SuiteApp)](article_159967360486.md) — article_159967360486
+          - [Creating a CNAB Layout Record (Brazilian Hub SuiteApp)](article_161825569362.md) — article_161825569362
+          - [Creating CNAB Segment Fields (Brazilian Hub SuiteApp)](article_161825569805.md) — article_161825569805
+        - [Creating Ocorrência de Retorno Records (Brazilian Hub SuiteApp)](article_161799593324.md) — article_161799593324
+        - [Setting Up the Return File Processing Log (Brazilian Hub SuiteApp)](article_0119094505.md) — article_0119094505
+      - [CNAB 400 Payment File (Brazilian Hub SuiteApp)](article_159967295140.md) — article_159967295140
+        - [Setting Up a Payment Slip Condição de Pagamento Record (Brazilian Hub SuiteApp)](article_159983672116.md) — article_159983672116
+        - [Generating Payment Slips in Brazil (Brazilian Hub SuiteApp)](article_159983674534.md) — article_159983674534
+        - [Deleting or Canceling Payment Slips in Brazil (Brazilian Hub SuiteApp)](article_160018978801.md) — article_160018978801
+        - [Updating Payment Slips in Brazil (Brazilian Hub SuiteApp)](article_160019154369.md) — article_160019154369
+        - [Generating a CNAB 400 Delivery File (Brazilian Hub SuiteApp)](article_160019244031.md) — article_160019244031
+        - [Processing a CNAB 400 Return File (Brazilian Hub SuiteApp)](article_160026450276.md) — article_160026450276
+      - [CNAB 240 Payment File (Brazilian Hub SuiteApp)](article_159967302176.md) — article_159967302176
+        - [Setting Up Entity Records for Electronic Bank Payments with CNAB (Brazilian Hub SuiteApp)](article_159984755841.md) — article_159984755841
+        - [Paying Vendors with CNAB (Brazilian Hub SuiteApp)](article_159984756530.md) — article_159984756530
+        - [Paying Utility Bills and Tax Collection Forms with CNAB (Brazilian Hub SuiteApp)](article_159984758184.md) — article_159984758184
+        - [Reimbursing Employee Expenses with CNAB (Brazilian Hub SuiteApp)](article_159984760086.md) — article_159984760086
+        - [Generating a CNAB 240 Delivery File (Brazilian Hub SuiteApp)](article_160043870015.md) — article_160043870015
+        - [Processing a CNAB 240 Return File (Brazilian Hub SuiteApp)](article_160043870476.md) — article_160043870476
+    - [Pix Instant Payments for Brazil (Brazilian Hub SuiteApp)](article_162525898626.md) — article_162525898626
+      - [Pix Instant Payments Setup for Brazil (Brazilian Hub SuiteApp)](article_162525862586.md) — article_162525862586
+        - [Pix Keys in Banco Contas Records (Brazilian Hub SuiteApp)](article_162525868593.md) — article_162525868593
+        - [Creating Pix Term of Payments (Brazilian Hub SuiteApp)](article_162525871903.md) — article_162525871903
+        - [Pix Email Recipients Setup (Brazilian Hub SuiteApp)](article_162525873902.md) — article_162525873902
+          - [Creating the Pix Contact Role (Brazilian Hub SuiteApp)](article_162525892597.md) — article_162525892597
+          - [Setting Contacts as Pix Email Recipients (Brazilian Hub SuiteApp)](article_162550742833.md) — article_162550742833
+      - [Pix Terms of Payment Applicability (Brazilian Hub SuiteApp)](article_162550809780.md) — article_162550809780
+        - [Setting Pix Keys as the Payment Format in Invoices (Brazilian Hub SuiteApp)](article_162550811994.md) — article_162550811994
+        - [Setting Static QR Codes as the Payment Format in Invoices (Brazilian Hub SuiteApp)](article_162550812371.md) — article_162550812371
+      - [Sending Emails with Pix Payment Information (Brazilian Hub SuiteApp)](article_162551252965.md) — article_162551252965
+      - [Viewing Static QR Codes in Installments (Brazilian Hub SuiteApp)](article_162551361593.md) — article_162551361593
+    - [Accounting-Related Reports for Brazil (Brazilian Hub SuiteApp)](article_160933126046.md) — article_160933126046
+      - [Accounts Payable Reports for Brazil (Brazilian Hub SuiteApp)](article_160933753933.md) — article_160933753933
+      - [Accounts Receivable Reports for Brazil (Brazilian Hub SuiteApp)](article_160933763067.md) — article_160933763067
+  - [Discounts for Brazil (Brazilian Hub SuiteApp)](article_160685440387.md) — article_160685440387
+  - [Debit Notes for Brazil (Brazilian Hub SuiteApp)](article_160760946681.md) — article_160760946681
+    - [Generating Debit Notes for Brazil (Brazilian Hub SuiteApp)](article_162577471388.md) — article_162577471388
+    - [Receiving Debit Note Payments for Brazil (Brazilian Hub SuiteApp)](article_162577471706.md) — article_162577471706
+    - [Voiding Debit Notes for Brazil (Brazilian Hub SuiteApp)](article_162991092077.md) — article_162991092077
+  - [Brazilian Hub SuiteApp Known Limitations and Best Practices](article_162222962840.md) — article_162222962840

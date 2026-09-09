@@ -1,0 +1,13 @@
+# Migrating to NetSuite CPQ SuiteApps
+
+Migrating to NetSuite CPQ SuiteApps (9 pages): Migrating to NetSuite CPQ SuiteApps
+
+## Chapters
+- [Migrating to NetSuite CPQ SuiteApps](article_3152834198.md): Note: Before attempting to migrate the NetSuite CPQ bundles to SuiteApps, contact NetSuite Customer Support.
+  - [Migration Process](subsect_0330114031.md): Note: Depending on the amount of data, the migration process may take a while.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch migrating-to-netsuite-cpq-suiteapps

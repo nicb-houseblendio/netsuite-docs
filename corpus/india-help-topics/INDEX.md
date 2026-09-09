@@ -1,0 +1,138 @@
+# India Help Topics
+
+134 pages, category: Country-Specific Features
+
+- [India Help Topics](section_4198421457.md) — section_4198421457
+  - [India Terminology](article_0424122228.md) — article_0424122228
+  - [India Account Setup](section_156505353585.md) — section_156505353585
+  - [Setting Up India-specific Preferences](section_156507253436.md) — section_156507253436
+  - [India Localization SuiteTax Engine](section_1543359686.md) — section_1543359686
+    - [Supported Languages in India Localization SuiteTax Engine SuiteApp](article_1023023140.md) — article_1023023140
+    - [India Localization SuiteTax Glossary](section_1553644875.md) — section_1553644875
+    - [India Localization SuiteTax Engine Prerequisites](section_0213044746.md) — section_0213044746
+    - [Installing the India Localization SuiteTax Engine SuiteApp](section_0213044826.md) — section_0213044826
+    - [Setting Up the India Localization SuiteTax Engine](section_0213044858.md) — section_0213044858
+      - [Selecting the India Tax Engine Plug-in](article_1027053537.md) — article_1027053537
+      - [Assigning Roles and Permissions to Use India Tax Features](article_1027053649.md) — article_1027053649
+      - [Configuring Subsidiary Tax Information](article_1027053753.md) — article_1027053753
+      - [Setting Up India Tax Registration](article_1027054053.md) — article_1027054053
+      - [Importing India Tax Rules with a CSV File](article_1027054308.md) — article_1027054308
+    - [India Localization SuiteTax Engine Best Practices](article_0406045813.md) — article_0406045813
+    - [India Localization SuiteTax Engine Limitations](article_0220055541.md) — article_0220055541
+    - [Tax Deduction at Source](section_1528857544.md) — section_1528857544
+      - [Setting Up TDS](section_1528864099.md) — section_1528864099
+        - [Setting Up Tax Information in Vendor Records](section_1528944722.md) — section_1528944722
+        - [Mapping TDS Tax Types](section_1528941496.md) — section_1528941496
+        - [Managing Section Codes for TDS](section_1528957737.md) — section_1528957737
+        - [Creating Rules for TDS Tax Types](section_1528944307.md) — section_1528944307
+          - [Creating Tax Deduction at Source Rules](article_0916120422.md) — article_0916120422
+          - [Creating Education Cess Rules](article_0916120809.md) — article_0916120809
+          - [Creating Secondary Education Cess Rules](article_0916120856.md) — article_0916120856
+          - [Creating Surcharge Rules](article_0916120934.md) — article_0916120934
+          - [Creating Vendor Exemption Rules](article_0916121048.md) — article_0916121048
+            - [Vendor Exemption Rule Settings and Options](article_0916123435.md) — article_0916123435
+            - [Calculating and Managing Vendor Exemption Rules](article_0916123659.md) — article_0916123659
+            - [Inactivating Vendor Exemption Rules](article_0916124436.md) — article_0916124436
+      - [Assigning TDS Section Codes to Items and Accounts](section_1528945970.md) — section_1528945970
+      - [Applying TDS on Vendor Bills](section_1528951701.md) — section_1528951701
+        - [TDS TI Journal](subsect_7170129023.md) — subsect_7170129023
+        - [India Accumulated Tax Buckets for TDS](subsect_46170423153.md) — subsect_46170423153
+      - [Viewing TDS Tax Details](section_1536797792.md) — section_1536797792
+      - [Editing Vendor Bills with TDS](article_0322112655.md) — article_0322112655
+      - [Verifying TDS Amount](article_0916044434.md) — article_0916044434
+      - [Creating TDS Challan Vouchers](section_1536798316.md) — section_1536798316
+        - [Printing TDS Challan Vouchers](subsect_1014044126.md) — subsect_1014044126
+    - [Tax Collection at Source](article_1226092929.md) — article_1226092929
+      - [Setting Up TCS](section_1226094715.md) — section_1226094715
+        - [Configuring Customer Records that are Eligible for TCS](subsect_82214502405.md) — subsect_82214502405
+        - [Configuring Item Records for TCS](subsect_68214002517.md) — subsect_68214002517
+        - [Creating TCS Tax Rate Rules](subsect_67214300750.md) — subsect_67214300750
+      - [Applying TCS on Transactions](section_1226101814.md) — section_1226101814
+        - [TCS Calculation](subsect_40174944715.md) — subsect_40174944715
+        - [TCS TI Journal](subsect_96174900827.md) — subsect_96174900827
+    - [Goods and Services Tax](section_1533876022.md) — section_1533876022
+      - [Setting Up India GST](section_1536725831.md) — section_1536725831
+        - [Setting Up India GST Tax Registrations for Entities](section_1534401707.md) — section_1534401707
+        - [Assigning India Tax Nature to Items](section_1549243345.md) — section_1549243345
+        - [Assigning Tax Accounts to India GST Types](section_1534231174.md) — section_1534231174
+        - [Managing HSN or SAC Codes for India GST](section_1533876290.md) — section_1533876290
+        - [Creating India GST Tax Rate Rules](section_1534232862.md) — section_1534232862
+          - [Prerequisites of Creating India GST Rules](subsect_1111031758.md) — subsect_1111031758
+        - [Setting Up Default Unique Quantity Code (UQC) for Items](section_1534403824.md) — section_1534403824
+      - [Assigning Default India HSN and SAC Codes to Items and Accounts](section_1537323913.md) — section_1537323913
+        - [Assigning Default India HSN and SAC Codes to Account Records](subsect_21162615419.md) — subsect_21162615419
+        - [Assigning Default India HSN and SAC Codes to Item Records](article_1111041500.md) — article_1111041500
+        - [Assigning Default India HSN and SAC Codes to Shipping Item Records](article_1111041154.md) — article_1111041154
+      - [Applying India GST on Transactions](section_1537336181.md) — section_1537336181
+        - [Applying GST on Purchase Transactions](article_1111042029.md) — article_1111042029
+        - [Applying India GST on Sales Transactions](section_1537340230.md) — section_1537340230
+        - [Viewing India GST Details for Transactions](section_1537507312.md) — section_1537507312
+          - [India GST Tax Details Saved Search Filters](article_1111044448.md) — article_1111044448
+        - [Viewing GST Cess](article_1111042807.md) — article_1111042807
+        - [Overriding GST Tax Details](article_1111043125.md) — article_1111043125
+        - [Printing GST-Compliant Invoices Using the India Invoice PDF/HTML Template](article_1111043332.md) — article_1111043332
+      - [Exporting Goods and Services under India GST](section_1551757255.md) — section_1551757255
+        - [Setting Up LUT or Bond Details](section_1551842148.md) — section_1551842148
+        - [Generating Journal Entries for Export Automatically](section_1551842185.md) — section_1551842185
+      - [E-Way Bill for India](section_1548723858.md) — section_1548723858
+        - [Setting Up E-Way Bill](article_0625050120.md) — article_0625050120
+        - [Entering E-Way Bill Details on Transactions](section_1548726283.md) — section_1548726283
+          - [India E-Way Bill Fields](section_1111053842.md) — section_1111053842
+        - [Generating E-Way Bill](section_1548901121.md) — section_1548901121
+        - [Generating the E-Way Bill File](article_1111054857.md) — article_1111054857
+        - [Submitting the E-Way Bill File to the E-Way Bill Portal](article_1111054901.md) — article_1111054901
+        - [Updating EBN and E-Way Bill Date Value on Transactions](article_1111054908.md) — article_1111054908
+        - [Updating E-Way Bill Details on Transactions](article_1111054904.md) — article_1111054904
+      - [Creating Statutory Adjustment Journals](section_1550110256.md) — section_1550110256
+    - [Electronic Invoicing for India](section_160007282193.md) — section_160007282193
+      - [Prerequisites of India Electronic Invoicing](article_1112032439.md) — article_1112032439
+      - [Setting Up India Electronic Invoicing](section_160083885810.md) — section_160083885810
+        - [Assigning E-Document Templates and Sending Methods to Subsidiaries](section_160083892441.md) — section_160083892441
+        - [Assigning E-Document Packages to Customers and Vendors](section_160069757680.md) — section_160069757680
+        - [Adding Owner IDs in Subsidiary Records](section_160084097159.md) — section_160084097159
+        - [Connect NetSuite with GST Suvidha Providers](section_160069534329.md) — section_160069534329
+        - [Customize and Activate E-Way Bill by IRN Template](article_1114034850.md) — article_1114034850
+      - [Working with India E-Invoicing Features](section_160069533362.md) — section_160069533362
+        - [Generating E-Documents](article_1114110327.md) — article_1114110327
+        - [Sending E-Documents for Certification](section_160069535598.md) — section_160069535598
+        - [Sending Certified E-Documents to Customers or Vendors](section_160069536348.md) — section_160069536348
+        - [Generating, Certifying, and Sending India E-Documents in Bulk](section_160069587392.md) — section_160069587392
+      - [India Electronic Invoice Processing Errors](section_160007552071.md) — section_160007552071
+      - [India Electronic Invoicing Templates](section_160007721039.md) — section_160007721039
+        - [Credit Memo](section_160196451208.md) — section_160196451208
+        - [Vendor Credit or Bill Credit](section_160196452588.md) — section_160196452588
+        - [Invoice and Cash Sale](section_160196454533.md) — section_160196454533
+    - [Sending Customized Notifications](article_1219033453.md) — article_1219033453
+      - [Enabling the Customized Notification Feature](section_1219034746.md) — section_1219034746
+        - [Creating Notification Scenarios](section_1219035525.md) — section_1219035525
+        - [Assigning Custom Notifications for GST Rules and LUT Bond and Details](section_1219050842.md) — section_1219050842
+    - [Voiding Transactions for India](article_0921033005.md) — article_0921033005
+    - [Generating Invoices with QR Codes for India](article_0925010949.md) — article_0925010949
+    - [Application of Exchange Rate in Tax Calculation](article_0226115243.md) — article_0226115243
+    - [GST Application on Intercompany and Intracompany Stock Transfers](article_0715041407.md) — article_0715041407
+    - [Uninstalling the India Localization SuiteTax Engine](article_0220055125.md) — article_0220055125
+  - [India Localization SuiteTax Reports](section_1543360158.md) — section_1543360158
+    - [India Localization SuiteTax Reports Limitations](article_1208124707.md) — article_1208124707
+    - [India Localization SuiteTax Reports Prerequisites](article_0105120241.md) — article_0105120241
+    - [Installing the India Localization SuiteTax Reports SuiteApp](section_1536795895.md) — section_1536795895
+    - [Setting Up India Localization SuiteTax Reports](section_1541462230.md) — section_1541462230
+    - [India Localization SuiteTax Reports Roles and Permissions](article_0105123121.md) — article_0105123121
+    - [Tax Deduction at Source (TDS) Reports](section_1536799170.md) — section_1536799170
+      - [Generating TDS Tax Reports](section_156393229436.md) — section_156393229436
+      - [Viewing and Exporting TDS Tax Reports](section_156393234451.md) — section_156393234451
+      - [Filing TDS Returns](section_156393238552.md) — section_156393238552
+    - [India Goods and Services Tax (GST) Reports](section_1537512426.md) — section_1537512426
+      - [GSTR-1](section_0105080453.md) — section_0105080453
+      - [GSTR-3B](section_0105102305.md) — section_0105102305
+      - [GST ANX-1](section_0105104652.md) — section_0105104652
+      - [GST Purchase Register Without Cess](section_0105104918.md) — section_0105104918
+      - [GSTR-9](section_0105105130.md) — section_0105105130
+        - [GSTR9 4 Outward](section_1208075625.md) — section_1208075625
+        - [GSTR9 5 Outward](section_1208075632.md) — section_1208075632
+        - [GSTR9 6 ITC Availed](section_1208075638.md) — section_1208075638
+        - [GSTR9 17 HSN Outward](section_1208075645.md) — section_1208075645
+        - [GSTR9 18 HSN Inward](section_1208075938.md) — section_1208075938
+      - [Generating India GST Reports](section_156384353246.md) — section_156384353246
+      - [Viewing and Exporting India GST Reports](section_156384355710.md) — section_156384355710
+      - [Filing India GST Returns](section_156384452605.md) — section_156384452605
+    - [India Localization SuiteTax Reports Saved Searches](article_66131413209.md) — article_66131413209

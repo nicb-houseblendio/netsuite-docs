@@ -1,0 +1,24 @@
+{
+  "branch": "eu-data-act",
+  "generatedAt": null,
+  "pages": {
+    "preface_5121120779": {
+      "path": "corpus/eu-data-act/preface_5121120779.md",
+      "title": "EU Data Act",
+      "type": "preface",
+      "breadcrumb": "Additional Resources > EU Data Act",
+      "parent": "set_N3859054",
+      "category": "additional-resources",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/preface_5121120779.html",
+      "etag": "\"413141fcc03827721e8b6067065dcf5b:1786980406.346604\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:41.484Z",
+      "sha256": "70e8452558becda6bd0159db7cf4287c2a5f83d07acdf35468bdbbaabf185027",
+      "bytes": 3273,
+      "anchors": 2,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

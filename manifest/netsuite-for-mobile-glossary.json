@@ -1,0 +1,60 @@
+{
+  "branch": "netsuite-for-mobile-glossary",
+  "generatedAt": null,
+  "pages": {
+    "chapter_1556006042": {
+      "path": "corpus/netsuite-for-mobile-glossary/chapter_1556006042.md",
+      "title": "NetSuite for Mobile Glossary",
+      "type": "chapter",
+      "breadcrumb": "NetSuite for Mobile > NetSuite for Mobile Glossary",
+      "parent": "book_1556538966",
+      "category": "netsuite-for-mobile",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_1556006042.html",
+      "etag": "\"c3e8a022cca20afe7464f62edfe319e9:1786980390.541458\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:28.236Z",
+      "sha256": "06258072e23c8183ec7865f40f2a5bea093e7a4e3c1d236ccc2cd2a914caba97",
+      "bytes": 1192,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_158581482645": {
+      "path": "corpus/netsuite-for-mobile-glossary/section_158581482645.md",
+      "title": "Mobile Icons Glossary",
+      "type": "section",
+      "breadcrumb": "NetSuite for Mobile > NetSuite for Mobile Glossary > Mobile Icons Glossary",
+      "parent": "chapter_1556006042",
+      "category": "netsuite-for-mobile",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_158581482645.html",
+      "etag": "\"6991e5dad7b6aee8cc48e76dc8feb107:1786980535.017789\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:28.632Z",
+      "sha256": "6e9043ea08c75f6e5d98ce811b31d25ec7ca1c5900ce3723220340548d8e92f2",
+      "bytes": 6512,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_1553696109": {
+      "path": "corpus/netsuite-for-mobile-glossary/section_1553696109.md",
+      "title": "Mobile Supported Record Types",
+      "type": "section",
+      "breadcrumb": "NetSuite for Mobile > NetSuite for Mobile Glossary > Mobile Supported Record Types",
+      "parent": "chapter_1556006042",
+      "category": "netsuite-for-mobile",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_1553696109.html",
+      "etag": "\"90ad95a600584e63ebf25d36876f2393:1786980504.84532\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:28.811Z",
+      "sha256": "6a2f1d34dab3675e3d4e18b627930b86cb71e1eb1d17ae1651b947fc4e2986b8",
+      "bytes": 2498,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

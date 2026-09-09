@@ -1,0 +1,17 @@
+# Former Brazil Localization
+
+Former Brazil Localization (9 pages): Former Brazil Localization
+
+## Chapters
+- [Former Brazil Localization](chapter_N3952562.md): Important: The Former Brazil Localization SuiteApp isn't compatible with the SuiteTax feature.
+  - [Former Brazil Localization Overview](section_4658913680.md): The Former Brazil Localization SuiteApp provides a fundamental layer of localization for companies doing business in Brazil by enhancing company, subsidiary, entity, and transaction records in NetSuite.
+  - [Adding Brazil Tax IDs to the Company Information Page and Subsidiary Records (Former Brazil Localization SuiteApp)](section_4658922937.md): Adding Brazil tax IDs requires the Administrator or a role with access permission to the tax IDs.
+  - [Adding Brazil Tax IDs to Customer and Vendor Records (Former Brazil Localization SuiteApp)](section_4658923217.md): Adding Brazil tax IDs to customer and vendor records can be done by standard NetSuite roles and custom roles that have permission to create and access entity records.
+  - [Setting Up Items for Brazil (Former Brazil Localization SuiteApp)](section_4658923476.md): For industrialized products produced in Brazil or imported, tax rates vary based on MCN, CFOP, item origin, and item usage.
+  - [Using Item CFOP Codes on Transactions for Brazil (Former Brazil Localization SuiteApp)](section_4658927855.md): On Brazil transactions, the CFOP code is required for all inventory, non-inventory, item group, kit/package, and other charge items included in the transaction.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch former-brazil-localization

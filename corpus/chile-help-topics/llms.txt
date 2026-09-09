@@ -1,0 +1,16 @@
+# Chile Help Topics
+
+Chile Help Topics (16 pages): Chile Help Topics
+
+## Chapters
+- [Chile Help Topics](article_8151402336.md): Overview The following help topics provide information about NetSuite features that are specific to companies doing business in Chile.
+  - [Chile Terminology](article_0703033654.md): The following table defines the terms used in NetSuite to support Chile-specific business processes: | BCI | Banco de Crédito e inversiones (Bank of Credit and Investments).
+  - [Setting Up Chile-specific Preferences](article_0703034654.md): In NetSuite, set up your company and personal user preferences that are specific to doing business in Chile.
+  - [Chile Tax Topics](article_0704011014.md): The Chile Localization SuiteApp provides custom fields, records, validations, and other customizations for Chilean businesses to comply with tax in Chile.
+  - [Chile Localization](article_7101947784.md): To use the Chile Localization SuiteApp, read the following topics: - Chile Localization SuiteApp Installation(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch chile-help-topics

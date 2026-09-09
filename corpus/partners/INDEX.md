@@ -1,0 +1,44 @@
+# Partners
+
+40 pages, category: Marketing, Sales Force Automation, and Partners
+
+- [Partners](book_N1166406.md) — book_N1166406
+  - [Managing Partners](chapter_N1166465.md) — chapter_N1166465
+    - [Creating a Partner Record](section_N1166599.md) — section_N1166599
+    - [Setting Up the Multi-Partner Management Feature](section_N1167284.md) — section_N1167284
+      - [Associating Partners With Customers and Transactions](section_N1167413.md) — section_N1167413
+      - [Overassignment and Adjustment Partners](section_N1167592.md) — section_N1167592
+    - [The Partner Center Role](section_N1167882.md) — section_N1167882
+    - [The Advanced Partner Center](section_N1168130.md) — section_N1168130
+    - [Assigning the Advanced Partner Center Role](section_N1168834.md) — section_N1168834
+    - [Mass Updating Partners](section_3733144631.md) — section_3733144631
+  - [Partner Commissions & Royalties](chapter_N1169123.md) — chapter_N1169123
+    - [Setting Up a Partner for Commission](section_N1169829.md) — section_N1169829
+    - [Split Partner Commission](section_N1169933.md) — section_N1169933
+    - [Partner Commission Schedules](section_N1170114.md) — section_N1170114
+      - [Choosing the Basis of the Commission](section_N1170168.md) — section_N1170168
+      - [Determining Commission Categorization and Eligibility](section_0513020459.md) — section_0513020459
+      - [Creating a Commission Matrix](section_0513021302.md) — section_0513021302
+    - [Partner Commission Plans](section_N1170924.md) — section_N1170924
+      - [Creating a Partner Commission Plan](section_N1171112.md) — section_N1171112
+      - [Assigning Partners to a Commission Plan](section_N1171354.md) — section_N1171354
+    - [Authorizing Partner Commission](section_N1171542.md) — section_N1171542
+      - [Authorizing Partner Commission in Bulk](section_N1171714.md) — section_N1171714
+      - [Authorizing Individual Partner Commissions](section_N1171932.md) — section_N1171932
+    - [Viewing the Status of Authorized Partner Commissions](section_3801365103.md) — section_3801365103
+    - [Approving Partner Commission](section_N1173679.md) — section_N1173679
+    - [Partner Commission Reports](section_N1173883.md) — section_N1173883
+      - [Partner Commission Overview Report](section_N1174043.md) — section_N1174043
+      - [Partner Commissions Pending Authorization Summary Report](section_N1174671.md) — section_N1174671
+      - [Partner Commissions Pending Authorization Detail Report](section_N1174868.md) — section_N1174868
+      - [Authorized Partner Commission Summary Report](section_N1175063.md) — section_N1175063
+      - [Authorized Partner Commission Detail Report](section_N1175260.md) — section_N1175260
+      - [Paid Partner Commission Summary Report](section_N1175456.md) — section_N1175456
+      - [Paid Partner Commission Detail Report](section_N1176079.md) — section_N1176079
+  - [Partner Reports](chapter_N1176274.md) — chapter_N1176274
+    - [Partner Activity Summary Report](section_N1176399.md) — section_N1176399
+    - [Partner Activity Detail Report](section_N1176610.md) — section_N1176610
+    - [Sales by Partner Summary Report](section_N1176809.md) — section_N1176809
+    - [Sales by Partner Detail Report](section_N1177028.md) — section_N1177028
+    - [Customers by Partner Summary Report](section_N1177243.md) — section_N1177243
+    - [Customers by Partner Detail Report](section_N1177450.md) — section_N1177450

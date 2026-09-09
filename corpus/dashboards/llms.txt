@@ -1,0 +1,13 @@
+# Dashboards
+
+Dashboards (119 pages): SuiteAnalytics
+
+## Chapters
+- [SuiteAnalytics](set_N576235.md): - Dashboards(https://docs.
+  - [Dashboards](book_N576313.md): - Dashboards Overview(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch dashboards

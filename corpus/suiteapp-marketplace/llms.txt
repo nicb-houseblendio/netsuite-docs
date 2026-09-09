@@ -1,0 +1,14 @@
+# SuiteApp Marketplace
+
+SuiteApp Marketplace (9 pages): SuiteApp Marketplace
+
+## Chapters
+- [SuiteApp Marketplace](book_1540487155.md): - SuiteApp Marketplace in NetSuite(https://docs.
+  - [SuiteApp Marketplace in NetSuite](chapter_1539797981.md): Review the following video to learn how to install your first SuiteApp using the SuiteApp Marketplace: <a id="kalturaplayer316"</a The SuiteApp Marketplace is a location in NetSuite where you can find and install SuiteApps created using the SuiteCloud Development Framework (also referred to as SDF SuiteApps), and SuiteApp bundles created using SuiteBundler.
+  - [SuiteApp Installation](chapter_1540236668.md): From the SuiteApp Marketplace, you can install any SuiteApp that's shared to your account and supports your NetSuite account version.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suiteapp-marketplace

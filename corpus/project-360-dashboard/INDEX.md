@@ -1,0 +1,53 @@
+# Project 360 Dashboard
+
+49 pages, category: Projects
+
+- [Project 360 Dashboard](article_164121701696.md) — article_164121701696
+  - [Setting Up Project 360 Dashboard SuiteApp](section_164397374490.md) — section_164397374490
+    - [Prerequisites for Project 360 Dashboard SuiteApp](section_164121414085.md) — section_164121414085
+    - [Installing the Project 360 Dashboard SuiteApp](section_164121442480.md) — section_164121442480
+    - [Roles and Permissions for Project 360 Dashboard](section_164121661883.md) — section_164121661883
+    - [Setting Up Project 360 Dashboard Portlets](section_164397387391.md) — section_164397387391
+      - [Project Portfolio Portlets Set Up](subsect_164406906774.md) — subsect_164406906774
+      - [Project Overview Portlets Set Up](subsect_164406910923.md) — subsect_164406910923
+      - [Resource Planning Portlets Set Up](subsect_164406912729.md) — subsect_164406912729
+      - [Budget and EAC Portlets Set Up](subsect_164406915678.md) — subsect_164406915678
+      - [Billing and Revenue Portlets Set Up](subsect_164406917899.md) — subsect_164406917899
+      - [Financial Portlets Set Up](subsect_164406923100.md) — subsect_164406923100
+  - [Accessing Project 360 Dashboard](section_0517061639.md) — section_0517061639
+  - [Access Levels for Project 360 Dashboard](section_0427123552.md) — section_0427123552
+  - [Project 360 Dashboard Pages and Portlets](section_164122031425.md) — section_164122031425
+    - [Project 360 Dashboard Preference Page](subsect_43064642098.md) — subsect_43064642098
+    - [Common Portlets in Project 360 Dashboard](subsect_164135677431.md) — subsect_164135677431
+      - [Project Information Portlet](subsect_164123252448.md) — subsect_164123252448
+      - [Reminders Portlet](subsect_164129943811.md) — subsect_164129943811
+      - [Take Action Portlet](subsect_164129742004.md) — subsect_164129742004
+    - [Project Portfolio](section_164122038093.md) — section_164122038093
+      - [My Project Portfolio Portlet](section_164247872902.md) — section_164247872902
+      - [Assigning a Project Manager to a Project](subsect_164129479872.md) — subsect_164129479872
+      - [Criteria for the Overall Status of a Project](subsect_165052296973.md) — subsect_165052296973
+    - [Project Overview](section_164122041362.md) — section_164122041362
+      - [Key Performance Indicators Portlet](section_164181902071.md) — section_164181902071
+      - [Primary Information Portlet](section_164172496159.md) — section_164172496159
+      - [Team Details Portlet](section_164172498959.md) — section_164172498959
+      - [Project Documents Portlet](section_164172499937.md) — section_164172499937
+      - [Client Contact Portlet](section_164172501620.md) — section_164172501620
+    - [Resource Planning](section_164122042826.md) — section_164122042826
+      - [Gantt Chart Portlet](section_164171520654.md) — section_164171520654
+      - [Resource Allocation Chart/Grid Portlet](section_164171527631.md) — section_164171527631
+      - [Milestones Portlet](section_164171538694.md) — section_164171538694
+      - [Timesheet Tracking Portlet](section_164171563334.md) — section_164171563334
+      - [Actual Hours vs. Planned Hours by Resources Portlet](section_164172026923.md) — section_164172026923
+    - [Budget and EAC](section_164122044326.md) — section_164122044326
+      - [Budget Portlet](section_164172047267.md) — section_164172047267
+      - [Budget vs. Actuals by WBS Portlet](section_164172041094.md) — section_164172041094
+      - [Budget vs. EAC by WBS Portlet](section_164510066800.md) — section_164510066800
+    - [Billing and Revenue](section_164122046180.md) — section_164122046180
+      - [Client Invoice Details Portlet](section_164172049039.md) — section_164172049039
+      - [Client Contact Portlet](section_164172060238.md) — section_164172060238
+    - [Financial](section_164122047407.md) — section_164122047407
+      - [Client Invoices Portlet](section_164247223913.md) — section_164247223913
+      - [Project Profitability Portlet](section_164172062051.md) — section_164172062051
+      - [Profitability Report Portlet](section_164172068374.md) — section_164172068374
+  - [Error Messages in Project 360 Dashboard SuiteApp](section_164122057793.md) — section_164122057793
+  - [Project 360 Dashboard Limitations and Best Practices](section_164252378090.md) — section_164252378090

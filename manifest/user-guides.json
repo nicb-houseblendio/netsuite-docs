@@ -1,0 +1,24 @@
+{
+  "branch": "user-guides",
+  "generatedAt": null,
+  "pages": {
+    "preface_3710621755": {
+      "path": "corpus/user-guides/preface_3710621755.md",
+      "title": "User Guides",
+      "type": "preface",
+      "breadcrumb": "Additional Resources > User Guides",
+      "parent": "set_N3859054",
+      "category": "additional-resources",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/preface_3710621755.html",
+      "etag": "\"2167574cb42307fb8323552d23a9068b:1786980406.047106\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:40.069Z",
+      "sha256": "ed2a16512b12a99f6b3128291f544c00346a78c8e35ecf25d99cd674c340bce2",
+      "bytes": 30038,
+      "anchors": 31,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

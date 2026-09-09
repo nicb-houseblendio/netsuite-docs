@@ -1,0 +1,42 @@
+{
+  "branch": "netsuite-features-that-use-ai",
+  "generatedAt": null,
+  "pages": {
+    "book_5131850092": {
+      "path": "corpus/netsuite-features-that-use-ai/book_5131850092.md",
+      "title": "Artificial Intelligence in NetSuite",
+      "type": "book",
+      "breadcrumb": "Artificial Intelligence in NetSuite",
+      "parent": null,
+      "category": "artificial-intelligence-in-netsuite",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/book_5131850092.html",
+      "etag": "\"a94353f3f71d28501c74cba0f24b7ede:1786980353.381771\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:02:01.672Z",
+      "sha256": "ea29c42a44e93a1303d70e7e259bf8ff69261e5cde1a76a9ab35bab0aeb576f3",
+      "bytes": 835,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "article_5101751849": {
+      "path": "corpus/netsuite-features-that-use-ai/article_5101751849.md",
+      "title": "NetSuite Features That Use AI",
+      "type": "article",
+      "breadcrumb": "Artificial Intelligence in NetSuite > NetSuite Features That Use AI",
+      "parent": "book_5131850092",
+      "category": "artificial-intelligence-in-netsuite",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_5101751849.html",
+      "etag": "\"8b058478fdeba3e6838e4389155e9ce6:1786980330.477705\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:02:01.925Z",
+      "sha256": "2e63507401a818ba4da2275a7e2b7e49dd140d714ba0303d82b8ec564bc646ac",
+      "bytes": 11377,
+      "anchors": 7,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

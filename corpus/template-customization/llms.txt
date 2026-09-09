@@ -1,0 +1,16 @@
+# Template Customization
+
+Template Customization (135 pages): Template Customization
+
+## Chapters
+- [Template Customization](book_5164527716.md): - Advanced PDF/HTML Templates(https://docs.
+  - [Advanced PDF/HTML Templates](chapter_4453550706.md): Advanced PDF/HTML Templates let administrators and users with the Advanced PDF/HTML Templates permission create and control the printed and emailed versions of NetSuite transactions with more flexibility than basic layouts.
+  - [Advanced Templates Reference](SBADVTemplates.md): This reference chapter outlines the fields and sublists that are available in advanced PDF/HTML templates.
+  - [Scriptable Templates](section_3775087812.md): You can create dynamic scriptable templates for email marketing campaigns and system email.
+  - [Basic Printing Layouts](chapter_4453552264.md): Basic printing layouts include Transaction Form HTML Layouts and Transaction Form PDF Layouts.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch template-customization

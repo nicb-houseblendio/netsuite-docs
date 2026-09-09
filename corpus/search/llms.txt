@@ -1,0 +1,19 @@
+# Search
+
+Search (156 pages): Search
+
+## Chapters
+- [Search](book_N634623.md): - Search Overview(https://docs.
+  - [Search Overview](chapter_N635877.md): Searches in NetSuite <a id="svg1"</a svg\1 .
+  - [Global Search](article_8124535945.md): The NetSuite global search feature enables you to find records anywhere in your account data.
+  - [Quick Searches](chapter_N636398.md): You may want to quickly find a specific record to review or update its details.
+  - [Simple and Advanced Searches](chapter_N643948.md): Note: You can use SuiteAnalytics Workbook to query your NetSuite data using the analytics data source, which offers advanced query capabilities.
+  - [Saved Searches](chapter_N675442.md): Note: For information specific to Not-for-Profit (NFP), see Non-Profit Financial Management(https://docs.
+  - [Formulas in Searches](article_5143710889.md): Note: You can use SuiteAnalytics Workbook to query your NetSuite data using the analytics data source, which offers advanced query capabilities.
+  - [Mass Updates](article_1103335211.md): Note: You can use SuiteAnalytics Workbook to query your NetSuite data using the analytics data source, which offers advanced query capabilities.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch search

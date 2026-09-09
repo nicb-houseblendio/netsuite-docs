@@ -1,0 +1,13 @@
+# NetSuite CPQ Overview
+
+NetSuite CPQ Overview (2 pages): NetSuite CPQ
+
+## Chapters
+- [NetSuite CPQ](book_6185324445.md): - NetSuite CPQ Overview(https://docs.
+  - [NetSuite CPQ Overview](article_1154831163.md): NetSuite CPQ (Configure, Price, Quote) is a sales solution that helps you automate, accelerate, and increase accuracy in the process of configuring, quoting, and ordering complex products and services based on your business logic.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-cpq-overview

@@ -1,0 +1,28 @@
+# Manufacturing
+
+Manufacturing (414 pages): Manufacturing
+
+## Chapters
+- [Manufacturing](book_1506002637.md): - Manufacturing Overview(https://docs.
+  - [Manufacturing Overview](chapter_1506100009.md): Manufacturing processes help organizations create finished goods from raw or semi-finished materials using some combination of labor and machinery.
+  - [Assembly Items](chapter_N2319010.md): An assembly item is an inventory item made up of several components, but identified as a single item.
+  - [Assembly Work Orders](chapter_N2328390.md): When you enable the Work Orders feature, you can use assembly work orders for your assembly items.
+  - [Supply 360](article_6162726284.md): The Supply 360 SuiteApp analyzes component shortages across work orders based on the selected location and date filters.
+  - [Available To Build](article_7162547625.md): The Available To Build (ATB) SuiteApp helps manufacturers see how many assemblies and kits they can make with their current on-hand inventory.
+  - [Advanced Bill of Materials](chapter_1501506444.md): A Bill of Materials (BOM) lists the quantities of raw materials, assemblies, sub-components, and parts you need to manufacture a product.
+  - [Bill of Materials Member Control for Assembly Items](chapter_N2332509.md): Important: With the release of NetSuite 2023.
+  - [Manufacturing Work In Process (WIP)](chapter_N2335392.md): Manufacturers often use work orders to assemble the materials needed to produce an item.
+  - [Manufacturing Routing](chapter_N2341076.md): Manufacturing Routing and Work Center lets you schedule and record manufacturing operational activities against a work order that requires multiple employees, or work centers.
+  - [Manufacturing Scheduler](article_5212015722.md): The Manufacturing Scheduler SuiteApp offers a graphical interface, enabling you to efficiently oversee and manage operational tasks assigned to a work center.
+  - [Outsourced Manufacturing](chapter_157833700001.md): Outsourced Manufacturing helps customers manage their subcontracted manufacturing processes by purchasing outsourced assembly production from vendors.
+  - [Manufacturing Preferences Overview](chapter_159112534056.md): Important: NetSuite 2020.
+  - [SuiteAnalytics Manufacturing Workbook](chapter_1549896702.md): SuiteAnalytics Workbook offers many workbook and dataset templates, each with predefined source data, criteria, pivot tables, and charts.
+  - [Advanced Manufacturing](preface_1506521222.md): - Advanced Manufacturing Overview(https://docs.
+  - [Manufacturing Mobile](part_158644016906.md): - Manufacturing Mobile Overview(https://docs.
+  - [Engineering Change Order](chapter_1531288763.md): The Engineering Change Order feature is included in the Supply Chain Management SuiteApp starting version 4.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch manufacturing

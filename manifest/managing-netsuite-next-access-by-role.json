@@ -1,0 +1,42 @@
+{
+  "branch": "managing-netsuite-next-access-by-role",
+  "generatedAt": null,
+  "pages": {
+    "T_article_6105821113_1": {
+      "path": "corpus/managing-netsuite-next-access-by-role/T_article_6105821113_1.md",
+      "title": "Managing NetSuite Next Access by Role",
+      "type": "T",
+      "breadcrumb": "NetSuite Next > Managing NetSuite Next Access by Role",
+      "parent": "book_1140422123",
+      "category": "netsuite-next",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/T_article_6105821113_1.html",
+      "etag": "\"eeeac694cd7a53ccd3b2054065fc7894:1786980198.752032\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:56:19.961Z",
+      "sha256": "2bf2f4819195c6b1dee7ac6e83e6984bb0ff735c0e79d5d259abf3a99c17b841",
+      "bytes": 2016,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "T_article_0804110002_1": {
+      "path": "corpus/managing-netsuite-next-access-by-role/T_article_0804110002_1.md",
+      "title": "Managing NetSuite Next Access",
+      "type": "T",
+      "breadcrumb": "NetSuite Next > Managing NetSuite Next Access by Role > Managing NetSuite Next Access",
+      "parent": "T_article_6105821113_1",
+      "category": "netsuite-next",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/T_article_0804110002_1.html",
+      "etag": "\"cdcec1706748af343d4b92218859ccc4:1786980198.656283\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:56:20.036Z",
+      "sha256": "b9b7ddbff2824ed78745c606b6893ef5928619475349ce643a685350f86089bd",
+      "bytes": 948,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

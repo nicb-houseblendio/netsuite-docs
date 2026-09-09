@@ -1,0 +1,19 @@
+# Statistical Accounting
+
+Statistical Accounting (26 pages): Statistical Accounting
+
+## Chapters
+- [Statistical Accounting](preface_3842166657.md): - Using Statistical Accounts(https://docs.
+  - [Statistical Accounting Overview](chapter_3842142868.md): The Statistical Accounts feature enables your financial team to track non-monetary data and then use that information on reports and income statements.
+  - [Using Statistical Accounts](chapter_3841945149.md): The Statistical Accounts feature, part of the Advanced Financial module, enables your financial team to track non-monetary data and then use that information about reports and income statements.
+  - [Working with Statistical Journal Entries](chapter_3860895028.md): Statistical journal entries are used with statistical accounts to make single-sided transactions by class, department, and location.
+  - [Auto-Generating Statistical Journal Entries](chapter_3866806005.md): Statistical journal entries are used with statistical accounts to make single-sided transactions by class, department, and location.
+  - [Working with Allocation Schedules Weighted by the Balance of a Statistical Account](chapter_3866895958.md): If you have enabled the Statistical Accounts and Dynamic Allocation features (Setup Company Enable Features Accounting under Advanced Features), you can assign any statistical account to any allocation schedule.
+  - [Monitoring the Balance of a Statistical Account](chapter_3872865480.md): NetSuite provides several methods that you can use to monitor the balance of your statistical accounts.
+  - [Running Financial Reports and Income Statements](chapter_3872892889.md): If you have enabled the Statistical Accounts feature (Setup Company Enable Features Accounting under Advanced Features), you can customize your financial reports and income statements to include data from your statistical accounts.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch statistical-accounting

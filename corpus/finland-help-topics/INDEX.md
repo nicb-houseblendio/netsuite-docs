@@ -1,0 +1,58 @@
+# Finland Help Topics
+
+54 pages, category: Country-Specific Features
+
+- [Finland Help Topics](chapter_157849439820.md) — chapter_157849439820
+  - [Finland Account Setup](section_157856386594.md) — section_157856386594
+  - [Setting Up Finland-specific Preferences](section_157857294185.md) — section_157857294185
+  - [Finland-specific SuiteApps](section_160673174480.md) — section_160673174480
+    - [Finland Localization](article_159231068822.md) — article_159231068822
+      - [Prerequisites](section_159428651177.md) — section_159428651177
+      - [Installing the Finland Localization SuiteApp](section_159229906965.md) — section_159229906965
+      - [Create Localization Settings Record](article_1006123045.md) — article_1006123045
+      - [Create Country-Specific Localization Settings Record](article_1006123204.md) — article_1006123204
+      - [Finland Localization Feature Availability](section_159231048767.md) — section_159231048767
+        - [Automatic EU Tax Code Selection for EC sales](section_159255710501.md) — section_159255710501
+          - [Setup](section_159255714617.md) — section_159255714617
+            - [Creating a Dummy Tax Code](section_159255717088.md) — section_159255717088
+            - [Creating a New Entry in Localization Settings Record](section_159255720050.md) — section_159255720050
+            - [Setting EC-DUMMY-FI Tax Code on Foreign Customers Records](section_159255722210.md) — section_159255722210
+            - [Setting Item VAT Type of Nature](section_159255726692.md) — section_159255726692
+          - [Guideline](section_159255728996.md) — section_159255728996
+        - [Invoicing](section_159342164674.md) — section_159342164674
+          - [Reference Number Calculation](section_159342165694.md) — section_159342165694
+          - [Country-Specific Invoice Layout](section_159342166873.md) — section_159342166873
+          - [VAT Detailed Summary](section_159342169763.md) — section_159342169763
+        - [Automatic Selection of Mandatory Classifications](section_159255910285.md) — section_159255910285
+          - [Accounting Preferences](section_159256164094.md) — section_159256164094
+          - [Global Settings](section_159257016477.md) — section_159257016477
+          - [Subsidiary Specific Settings](section_159257030555.md) — section_159257030555
+          - [Script Deployment](section_159257037761.md) — section_159257037761
+        - [Statutory Reporting Templates](section_159257361279.md) — section_159257361279
+        - [Payment Templates](section_159257314838.md) — section_159257314838
+        - [Stock Variance Posting](article_159359362064.md) — article_159359362064
+          - [Setup](section_159359363313.md) — section_159359363313
+          - [Guideline](section_159359367170.md) — section_159359367170
+    - [Finland Tax Reports](article_2134443141.md) — article_2134443141
+      - [Finland Tax Reports Overview](article_042201450910.md) — article_042201450910
+      - [Finland Tax Reports Limitations](article_042202372810.md) — article_042202372810
+      - [Supported Languages in Finland Tax Reports](article_042201562810.md) — article_042201562810
+      - [Setting Up And Installing Finland Tax Reports](article_042201452210.md) — article_042201452210
+      - [Finland VAT Return](article_042201461110.md) — article_042201461110
+      - [Finland VAT Return Tax Codes](article_042201455610.md) — article_042201455610
+      - [Generating Finland VAT Return](article_042201462210.md) — article_042201462210
+      - [Viewing Finland VAT Return](article_042201531810.md) — article_042201531810
+        - [Report Content](section_85173530011.md) — section_85173530011
+      - [Exporting and Submitting Finland VAT Return](article_042201533010.md) — article_042201533010
+        - [Report Numbering](section_052111155010.md) — section_052111155010
+  - [Finland Tax Topics](section_157858109755.md) — section_157858109755
+    - [Finland Tax Codes](section_N1888692.md) — section_N1888692
+    - [Finland VAT Report](section_N1889688.md) — section_N1889688
+      - [What goes into each box - Finland VAT Report](section_1525745962.md) — section_1525745962
+    - [EU Sales List for Finland](section_N1889930.md) — section_N1889930
+    - [Intrastat Report for Finland](section_1504769975.md) — section_1504769975
+      - [Finland Intrastat Report Fields](section_1108050955.md) — section_1108050955
+      - [Finland Intrastat Report for Dispatches and Arrivals](section_1108054522.md) — section_1108054522
+      - [Generating the Finland Intrastat Report](section_1109071557.md) — section_1109071557
+      - [Exporting the Finland Intrastat Report](section_1109073138.md) — section_1109073138
+      - [Nature of Transaction Codes for Finland](section_164379451309.md) — section_164379451309

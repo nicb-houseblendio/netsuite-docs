@@ -1,0 +1,157 @@
+# Marketing
+
+153 pages, category: Marketing, Sales Force Automation, and Partners
+
+- [Marketing, Sales Force Automation, and Partners](set_N973142.md) — set_N973142
+  - [Marketing](book_N973201.md) — book_N973201
+    - [Marketing Automation Overview](chapter_N973384.md) — chapter_N973384
+    - [Capturing Leads](chapter_N973827.md) — chapter_N973827
+      - [Lead Sources](section_N975884.md) — section_N975884
+      - [Online Customer Forms](section_N976289.md) — section_N976289
+        - [Creating an Online Customer Form](section_N976686.md) — section_N976686
+        - [Using Online Customer Forms for Contacts](section_N979259.md) — section_N979259
+        - [Online Form Templates](section_N981889.md) — section_N981889
+          - [HTML Files for Online Form Templates](section_1009112643.md) — section_1009112643
+          - [Uploading an Online Form Template](bridgehead_N984108.md) — bridgehead_N984108
+          - [Creating an Online Form Template Record](bridgehead_N984310.md) — bridgehead_N984310
+      - [Passing Parameters Through URLs](section_N979468.md) — section_N979468
+        - [Custom Field Parameters](bridgehead_N981425.md) — bridgehead_N981425
+        - [Passing Parameters from Third Party Sites](bridgehead_N981510.md) — bridgehead_N981510
+        - [Tips for Passing Parameters Through URLs](section_N981583.md) — section_N981583
+      - [Tracking Lead Sources for Web Store Visitors](section_N981823.md) — section_N981823
+      - [Lead Reports and Analysis](section_N984746.md) — section_N984746
+        - [Lead Source Reports](section_N984856.md) — section_N984856
+    - [Campaign Overview](chapter_N984967.md) — chapter_N984967
+    - [Managing Campaigns](chapter_N985526.md) — chapter_N985526
+      - [Campaign Checklist](section_N985597.md) — section_N985597
+      - [Campaign Categories](section_N985787.md) — section_N985787
+      - [Creating a Campaign Record](section_N986170.md) — section_N986170
+        - [Scheduling Campaign Events](section_N986732.md) — section_N986732
+        - [Adding Paid Search Keyword Information to Campaigns](section_N987245.md) — section_N987245
+        - [Campaign Notes and Files](section_N987446.md) — section_N987446
+      - [Campaign Events](section_N987776.md) — section_N987776
+        - [Campaign Channels](section_N987856.md) — section_N987856
+        - [Campaign Event Status](section_N989330.md) — section_N989330
+        - [Initiating Campaign Events](section_N989408.md) — section_N989408
+      - [Creating Target Groups for Campaigns](section_N991148.md) — section_N991148
+        - [Marketing to Contacts](section_N991575.md) — section_N991575
+      - [Associating a Customer With a Campaign](section_N991789.md) — section_N991789
+      - [Associating a Transaction With a Campaign](section_N991927.md) — section_N991927
+      - [Tracking Campaign Lead Generation](section_N992223.md) — section_N992223
+      - [Sales Campaigns](section_N989510.md) — section_N989510
+      - [Campaign Calendar](section_N992275.md) — section_N992275
+      - [Campaign Metrics](section_N990085.md) — section_N990085
+        - [Tracking Campaign Revenue](section_N990329.md) — section_N990329
+        - [Tracking Campaign Responses](section_N990539.md) — section_N990539
+        - [Bounced Email](section_N990874.md) — section_N990874
+        - [Mail Merge vs. Email Campaigns](section_N991127.md) — section_N991127
+      - [Tips for Campaigns](section_N992384.md) — section_N992384
+    - [Email Marketing Campaigns](chapter_N992514.md) — chapter_N992514
+      - [Email Best Practices](section_N993117.md) — section_N993117
+        - [Five Golden Rules for Outbound Email](subsect_38164605548.md) — subsect_38164605548
+        - [DomainKeys Identified Mail (DKIM) and Email Domains](bridgehead_N993153.md) — bridgehead_N993153
+        - [Domain-based Message Authentication, Reporting and Conformance (DMARC)](bridgehead_4820737714.md) — bridgehead_4820737714
+        - [Sender Policy Framework (SPF)](bridgehead_4820740297.md) — bridgehead_4820740297
+      - [Optimizing Email Campaigns](section_N993465.md) — section_N993465
+      - [Subscription Management](section_N994827.md) — section_N994827
+        - [Setting Up Campaign Subscriptions](section_N995376.md) — section_N995376
+        - [How Customers Opt In to Marketing Campaigns](section_N995569.md) — section_N995569
+        - [Opt-In Email](section_N995837.md) — section_N995837
+        - [Sending Subscription Messages](section_N996083.md) — section_N996083
+        - [Campaign Subscription Categories](section_N996344.md) — section_N996344
+      - [Campaign Email Domains](section_N996559.md) — section_N996559
+      - [Creating a Campaign Email Address Record](section_N1000747.md) — section_N1000747
+      - [Marketing Templates](section_N1001061.md) — section_N1001061
+      - [Email Marketing Templates](section_N1001310.md) — section_N1001310
+      - [Creating an Email Marketing Campaign](section_N1002625.md) — section_N1002625
+      - [Creating Email Campaigns Using the Campaign Assistant](section_4059292634.md) — section_4059292634
+      - [Lead Nurturing Campaigns](section_N1003092.md) — section_N1003092
+        - [Configuring Your Lead Nurturing Workflow](section_N1003300.md) — section_N1003300
+        - [Creating a Lead Nurturing Campaign](section_N1003501.md) — section_N1003501
+      - [Sending Newsletters Through Email Campaigns](section_N1003698.md) — section_N1003698
+      - [Marketing Test Cells](section_N1003925.md) — section_N1003925
+      - [Attaching Files to Email Campaigns](section_N1004674.md) — section_N1004674
+      - [Using the Sent Email List](section_156569944168.md) — section_156569944168
+        - [Sent Email List Permission and Saved Search](section_156891400929.md) — section_156891400929
+      - [Managing Bounced Email](section_3869562023.md) — section_3869562023
+        - [Troubleshoot Undelivered Email](section_1510053052.md) — section_1510053052
+        - [Undelivered Emails Saved Search](bridgehead_1489004543.md) — bridgehead_1489004543
+        - [Invalid Email Address Notification](section_3884409162.md) — section_3884409162
+        - [Mass Unsubscribing Entities with Bounced Email Addresses](section_3884410046.md) — section_3884410046
+        - [Viewing the Bounced Email Address List](section_3884410517.md) — section_3884410517
+          - [Creating Groups Based On Campaign Response Count](section_4056072989.md) — section_4056072989
+      - [Working with Email Templates](section_N514744.md) — section_N514744
+        - [Creating New Email Templates](section_N515055.md) — section_N515055
+        - [Creating Email Template Categories](section_4534668235.md) — section_4534668235
+        - [System-Automated Template Categories](section_1486473513.md) — section_1486473513
+        - [Customizing Templates for System-Automated Email](section_N515295.md) — section_N515295
+        - [Including URLs in Email Templates](section_4713557156.md) — section_4713557156
+        - [Using CRMSDK Tags](section_N515605.md) — section_N515605
+      - [Working with Mail Merge](section_N523426.md) — section_N523426
+        - [Merging Email](section_N524089.md) — section_N524089
+        - [Merging Letters](section_N525062.md) — section_N525062
+        - [Viewing Bulk Merge History](section_4230927265.md) — section_4230927265
+        - [Using Letter Templates](section_N525773.md) — section_N525773
+          - [Downloading the Sample Data Source File For Letter Templates](section_4235215298.md) — section_4235215298
+          - [Using Letter Templates in Microsoft Word](section_4235216905.md) — section_4235216905
+          - [Creating a Letter Template Record](section_4236825559.md) — section_4236825559
+        - [Merging Faxes](section_N527062.md) — section_N527062
+        - [Using Fax Templates](section_N529539.md) — section_N529539
+        - [Merging PDFs](section_N530117.md) — section_N530117
+        - [Using PDF Templates](section_N530499.md) — section_N530499
+    - [Keyword Campaigns](chapter_N1004769.md) — chapter_N1004769
+      - [Enabling Auto-Generated Numbers for Campaigns](section_0916110751.md) — section_0916110751
+      - [Creating Keyword Campaigns in Bulk](section_N1005080.md) — section_N1005080
+      - [Importing Keyword Campaigns](section_N1005411.md) — section_N1005411
+      - [Naming Keyword Campaigns](section_N1005796.md) — section_N1005796
+      - [Exporting Keywords](section_N1006031.md) — section_N1006031
+      - [Submitting Your Paid Search Proposal](section_N1006227.md) — section_N1006227
+      - [Campaign Families](section_N1006480.md) — section_N1006480
+    - [Upsell Manager](chapter_N1006631.md) — chapter_N1006631
+      - [Using the Upsell Manager Wizard](section_N1008542.md) — section_N1008542
+      - [Upselling From Customer Records](section_N1009337.md) — section_N1009337
+      - [Upselling on Transactions](section_N1009585.md) — section_N1009585
+      - [Upsell Preferences](section_N1009768.md) — section_N1009768
+      - [Limits on Upsell Manager Data](section_N1010009.md) — section_N1010009
+      - [Product Affinity Analysis in Search](section_N1010162.md) — section_N1010162
+    - [Intelligent Recommendations](section_158073815739.md) — section_158073815739
+      - [Account Requirements for Intelligent Item Recommendations](section_163578367374.md) — section_163578367374
+      - [Recommendation Scenarios and Blocklists](section_162185434700.md) — section_162185434700
+        - [Create a Blocklist](section_163301044483.md) — section_163301044483
+        - [Create a Recommendation Scenario](section_163310757567.md) — section_163310757567
+        - [View Recommendations Live Preview](section_163310777912.md) — section_163310777912
+      - [Add Recommended Items to Sales Orders, Estimates, and Opportunities](section_165021068175.md) — section_165021068175
+      - [Intelligent Item Recommendations: CRM Conversion Analytics](article_1216045155.md) — article_1216045155
+        - [Intelligent Item Recommendations: CRM Conversion Dataset](article_1216052249.md) — article_1216052249
+        - [Intelligent Item Recommendations: CRM Conversion Workbook](article_1216051919.md) — article_1216051919
+      - [Manage Intelligent Item Recommendations Preferences](section_14183702358.md) — section_14183702358
+    - [Promotional URLs](chapter_N1016228.md) — chapter_N1016228
+    - [Customer Surveys](chapter_N1033486.md) — chapter_N1033486
+      - [Creating a Custom Record Type for a Customer Survey](section_N1033645.md) — section_N1033645
+      - [Building an Online Form for a Customer Survey](section_N1034071.md) — section_N1034071
+      - [Creating the Link to a Customer Survey](section_N1034442.md) — section_N1034442
+      - [Sending Out a Customer Survey](section_N1035006.md) — section_N1035006
+    - [Marketing Reports](chapter_N1010316.md) — chapter_N1010316
+      - [Campaign ROI Analysis Summary Report](section_N1010554.md) — section_N1010554
+      - [Campaign ROI Analysis Detail Report](section_N1012423.md) — section_N1012423
+      - [Campaign Response Summary Report](section_N1012638.md) — section_N1012638
+      - [Campaign Response Detail Report](section_N1012922.md) — section_N1012922
+      - [Campaign Clickthrough Summary Report](section_4054301175.md) — section_4054301175
+      - [Campaign Clickthrough Detail Report](section_4054301176.md) — section_4054301176
+      - [Lead Source Analysis Summary Report](section_N1013185.md) — section_N1013185
+      - [Lead Source Analysis Detail Report](section_N1013472.md) — section_N1013472
+      - [Gross Lead Source Analysis Summary Report](section_N1013755.md) — section_N1013755
+      - [Gross Lead Source Analysis Detail Report](section_N1014030.md) — section_N1014030
+      - [Sales by Lead Source Summary Report](section_N1014305.md) — section_N1014305
+      - [Sales by Lead Source Detail Report](section_N1015085.md) — section_N1015085
+      - [Leads by Paid Keyword Summary Report](section_N1015319.md) — section_N1015319
+      - [Leads by Paid Keyword Detail Report](section_N1015534.md) — section_N1015534
+      - [Sales by Paid Keyword Summary Report](section_N1015767.md) — section_N1015767
+      - [Sales by Paid Keyword Detail Report](section_N1015994.md) — section_N1015994
+    - [Setting Up Marketing](chapter_N1017289.md) — chapter_N1017289
+      - [Marketing Preferences](section_N1017620.md) — section_N1017620
+      - [Campaign Audiences](section_N1018420.md) — section_N1018420
+      - [Campaign Verticals](section_N1018615.md) — section_N1018615
+      - [Campaign Search Engines](section_N1018748.md) — section_N1018748
+      - [Campaign Channels](section_N1018882.md) — section_N1018882
+      - [Campaign Offers](section_N1019075.md) — section_N1019075

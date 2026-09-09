@@ -1,0 +1,42 @@
+# Israel Help Topics
+
+38 pages, category: Country-Specific Features
+
+- [Israel Help Topics](article_4121410501.md) — article_4121410501
+  - [Israel Account Setup](article_1018021142.md) — article_1018021142
+  - [Setting Up Israel-specific Preferences](article_1018024547.md) — article_1018024547
+  - [Israel-specific SuiteApps](article_0319043607.md) — article_0319043607
+    - [Israel Localization](article_162375098341.md) — article_162375098341
+      - [Prerequisites for Installing the Israel Localization SuiteApp](section_162426970875.md) — section_162426970875
+      - [Installing the Israel Localization SuiteApp](section_162427084879.md) — section_162427084879
+      - [Setting Up the Israel Localization SuiteApp](section_162427169305.md) — section_162427169305
+      - [Tax Setup for Israel Localization](section_162427311509.md) — section_162427311509
+      - [Israel Tax Codes](section_162427366954.md) — section_162427366954
+      - [IL Currency Exchange Rates & Manual BOI Rate Updates](article_0512040638.md) — article_0512040638
+      - [Update Custom Preferences](section_162427735220.md) — section_162427735220
+      - [Vendor Set Up for Israel Localization](section_162427760444.md) — section_162427760444
+      - [Customer Setup for Israel Localization](section_162427831899.md) — section_162427831899
+      - [Features](section_162427851237.md) — section_162427851237
+      - [Invoice Statuses for Israeli Invoices](section_162435219991.md) — section_162435219991
+      - [Israel Self-Invoice](section_162435371246.md) — section_162435371246
+      - [Self-Invoice for Foreign Vendor](section_162435521493.md) — section_162435521493
+      - [VAT Reports](section_162444673843.md) — section_162444673843
+      - [Credit Card Transactions](article_0324013127.md) — article_0324013127
+      - [Withholding Tax Reports](section_162444691738.md) — section_162444691738
+      - [Withholding Tax on a Journal Entry](section_162444819019.md) — section_162444819019
+      - [Guidelines for MASAV EFT Payments](section_162444859855.md) — section_162444859855
+      - [Creating Export Bill and Airway Bill (AWB)](section_162444952366.md) — section_162444952366
+      - [Payment to Israeli Employees for Expenses](section_162445034006.md) — section_162445034006
+      - [SHAAM Import and Export File](section_162445107290.md) — section_162445107290
+      - [Salary File Import from Shiklulit](article_0524110026.md) — article_0524110026
+        - [Setting Up Salary File Import](article_0602114508.md) — article_0602114508
+        - [Importing Your Salary File](article_0602115108.md) — article_0602115108
+      - [Reports](section_162445172966.md) — section_162445172966
+    - [Israel Electronic Invoicing](article_4101031035.md) — article_4101031035
+      - [Israel Electronic Invoicing Overview](article_0305045126.md) — article_0305045126
+      - [Israel Electronic Invoicing Installation](article_0305050303.md) — article_0305050303
+        - [Prerequisites for Installing the Israel Electronic Invoicing SuiteApp](article_0305050625.md) — article_0305050625
+        - [Installing the Israel Electronic Invoicing SuiteApp](article_0305051305.md) — article_0305051305
+      - [Israel Electronic Invoicing Features](article_0313033254.md) — article_0313033254
+      - [Israel Electronic Invoicing Troubleshooting](article_0425025942.md) — article_0425025942
+      - [Israel Electronic Invoicing SuiteApp Limitations and Best Practices](article_0305051520.md) — article_0305051520

@@ -1,0 +1,15 @@
+# Israel Help Topics
+
+Israel Help Topics (38 pages): Israel Help Topics
+
+## Chapters
+- [Israel Help Topics](article_4121410501.md): The following help topics provide information about NetSuite features that are specific for companies doing business in Israel.
+  - [Israel Account Setup](article_1018021142.md): Setting up an account for an organization doing business in Israel usually requires enabling several features and installing some additional SuiteApps.
+  - [Setting Up Israel-specific Preferences](article_1018024547.md): To set up your NetSuite account according to Israel-specific preferences, you must adjust your NetSuite company settings.
+  - [Israel-specific SuiteApps](article_0319043607.md): The following Israel-specific SuiteApps are available: - Israel Localization(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch israel-help-topics

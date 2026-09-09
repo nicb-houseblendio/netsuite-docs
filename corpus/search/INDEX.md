@@ -1,0 +1,160 @@
+# Search
+
+156 pages, category: SuiteAnalytics
+
+- [Search](book_N634623.md) — book_N634623
+  - [Search Overview](chapter_N635877.md) — chapter_N635877
+    - [Searchable Record Types](section_N644265.md) — section_N644265
+    - [Permissions for Searches](section_N664557.md) — section_N664557
+  - [Global Search](article_8124535945.md) — article_8124535945
+    - [Global Search Overview](section_161899349589.md) — section_161899349589
+    - [How to Use Global Search](section_0713121656.md) — section_0713121656
+    - [Tips for Effective Global Searches](section_N637092.md) — section_N637092
+      - [Global Search by Email Address](section_N637807.md) — section_N637807
+      - [Global Search by IP Address](section_N639465.md) — section_N639465
+      - [Global Search by Document Number](section_1554367380.md) — section_1554367380
+    - [Global Search Prefixes](section_N639669.md) — section_N639669
+    - [Including Custom Fields in Global Search](section_N640579.md) — section_N640579
+    - [Inline Editing of Global Search Results](section_N641270.md) — section_N641270
+    - [User Preferences for Global Search](section_N642323.md) — section_N642323
+    - [Notes about Global Search Auto Suggest](section_N642700.md) — section_N642700
+  - [Quick Searches](chapter_N636398.md) — chapter_N636398
+    - [Quick Find](section_N643277.md) — section_N643277
+    - [Quick Search Portlet](section_N643459.md) — section_N643459
+      - [Customizing Quick Search Results](section_4615880073.md) — section_4615880073
+        - [Using the Search Customization Page](bridgehead_N640928.md) — bridgehead_N640928
+        - [Setting a Saved Search to be Used as Preferred Search Results](bridgehead_N641032.md) — bridgehead_N641032
+    - [Finding Invoices, Bills, Orders, and Other Transactions](section_4637520815.md) — section_4637520815
+  - [Simple and Advanced Searches](chapter_N643948.md) — chapter_N643948
+    - [Defining a Simple Search](section_N645582.md) — section_N645582
+      - [Tips for Defining Simple Search Filters](section_N645835.md) — section_N645835
+    - [Defining an Advanced Search](section_N646177.md) — section_N646177
+      - [Advanced Search Criteria Filters](section_N646477.md) — section_N646477
+        - [Defining Standard Search Filters](section_N646693.md) — section_N646693
+          - [Defining Preferred Vendor Filter for Item Search in OneWorld Account with Multiple Vendors Feature Enabled](bridgehead_3843005387.md) — bridgehead_3843005387
+          - [Defining On Hand and Location On Hand Filters for Item Searches](bridgehead_48152202824.md) — bridgehead_48152202824
+          - [Limitations on Search Filters](article_1215053044.md) — article_1215053044
+        - [Using Encrypted Fields in Searches](bridgehead_4528687638.md) — bridgehead_4528687638
+        - [Using Expressions in Search Criteria](section_N647582.md) — section_N647582
+        - [Main Line in Transaction Search Criteria](section_4459563851.md) — section_4459563851
+        - [Summary Search Filters](section_N647835.md) — section_N647835
+      - [Search Results Display Options](section_N648053.md) — section_N648053
+        - [Selecting Fields to Display in Search Results](section_N648349.md) — section_N648349
+        - [Entering Custom Labels for Search Results Columns](section_N648659.md) — section_N648659
+        - [Defining Summary Types to Roll Up Search Results](section_N648820.md) — section_N648820
+        - [Using When Ordered By Field for Search Results](section_N649095.md) — section_N649095
+        - [Showing Totals in Search Results](section_N649366.md) — section_N649366
+        - [Applying Functions to Search Results Columns](section_N649633.md) — section_N649633
+        - [Defining Order and Overall Formatting for Search Results](section_N651604.md) — section_N651604
+          - [Overriding User Role Restrictions for Search Results](section_160795034394.md) — section_160795034394
+          - [Displaying the Number of Rows in List Segments](section_160795058206.md) — section_160795058206
+          - [Defining a Maximum Number of Search Results](section_160795069140.md) — section_160795069140
+          - [Defining the Drill Down Fields](section_160795091460.md) — section_160795091460
+      - [Related Records Fields Available for Advanced Searches](section_N651952.md) — section_N651952
+      - [Searching by File Attachments](section_N658802.md) — section_N658802
+      - [Summary Types for Search Results](section_N659258.md) — section_N659258
+        - [Summary Type Descriptions](section_N659383.md) — section_N659383
+        - [Summary Type Example Screenshots](section_N659760.md) — section_N659760
+    - [Exporting Search Results](section_N663983.md) — section_N663983
+      - [Known Excel Limitations when Exporting Search Results](bridgehead_3849040081.md) — bridgehead_3849040081
+    - [Emailing Search Results](section_N664260.md) — section_N664260
+    - [Popup Searches](section_N664782.md) — section_N664782
+    - [Personalizing a Search Form](section_N666183.md) — section_N666183
+      - [Adding Personalized Search Forms to NetSuite Pages](section_N666481.md) — section_N666481
+  - [Saved Searches](chapter_N675442.md) — chapter_N675442
+    - [Defining a Saved Search](section_N676039.md) — section_N676039
+      - [Selecting Available Filters for Saved Searches](section_N678025.md) — section_N678025
+        - [Limitations for Filters Displayed in the Filter Region](bridgehead_4504549997.md) — bridgehead_4504549997
+      - [Defining Audiences for Saved Searches](section_N678294.md) — section_N678294
+      - [Making Saved Searches Public](bridgehead_N678471.md) — bridgehead_N678471
+      - [Highlighting Search Results](section_N678573.md) — section_N678573
+      - [Marking a Search Inactive](section_4098463669.md) — section_4098463669
+      - [Editing or Deleting a Saved Search](section_N679137.md) — section_N679137
+      - [Using a Saved Search as a View](section_N679407.md) — section_N679407
+        - [Defining a Saved Search as a Preferred View](bridgehead_N679598.md) — bridgehead_N679598
+      - [Defining a Saved Search as Preferred Results](section_N679861.md) — section_N679861
+      - [Defining a Saved Search as a Preferred Search Form](section_N680007.md) — section_N680007
+      - [Using a Saved Search as a Reminder](section_N680807.md) — section_N680807
+      - [Using Saved Searches for Customer Center Lists](section_3842991795.md) — section_3842991795
+      - [Change of Sign for Expense Account Amounts in Transaction Saved Searches](section_3891485192.md) — section_3891485192
+      - [Integer Number Fields in Searches](article_0220051223.md) — article_0220051223
+    - [Saved Search Email](section_N680983.md) — section_N680983
+      - [Enabling Saved Search Scheduled Email](section_N681274.md) — section_N681274
+        - [Scheduled Search Email Limitations](bridgehead_4595124408.md) — bridgehead_4595124408
+      - [Canceling Scheduled Saved Search Emails When No Results](section_N681801.md) — section_N681801
+      - [Enabling Saved Search Email Alerts](section_N681962.md) — section_N681962
+        - [Adding the Same Field Multiple Times to a Saved Search](bridgehead_4219327968.md) — bridgehead_4219327968
+        - [Email Alerts Limitations](bridgehead_4595149852.md) — bridgehead_4595149852
+      - [Types of Saved Searches Available for Alerts](section_N682531.md) — section_N682531
+      - [Setting User Preferences to Receive Saved Search Alerts](section_N682720.md) — section_N682720
+      - [Defining the Sender for Saved Search Email](section_N684160.md) — section_N684160
+      - [Defining Recipients for Saved Search Email](section_N684570.md) — section_N684570
+      - [Customizing Saved Search Email Content](section_N684976.md) — section_N684976
+        - [Enabling Multi-Row Results for Email Alerts](section_N685250.md) — section_N685250
+      - [Sending Summarized vs. Single-Record Results](section_N685536.md) — section_N685536
+    - [Accessing a Saved Search](section_N685689.md) — section_N685689
+      - [Using the Saved Searches List](section_N687459.md) — section_N687459
+      - [Administrator Access to Other Users' Saved Searches](section_N687899.md) — section_N687899
+    - [Audit Trail for Saved Searches, Reports and Schedules](section_N688127.md) — section_N688127
+      - [Audit Trail Subtab](section_N688186.md) — section_N688186
+      - [Audit Trail Search](section_N688379.md) — section_N688379
+      - [Auditing Changes to Saved Searches](section_N688421.md) — section_N688421
+      - [Auditing Saved Search Execution](section_N688494.md) — section_N688494
+    - [Translations for Saved Searches](section_N688780.md) — section_N688780
+      - [Adding Translations for Saved Search Titles](article_1215090050.md) — article_1215090050
+      - [Adding Translations for Saved Search Column Headings](article_1215090222.md) — article_1215090222
+      - [Adding Translations for Saved Search Highlighting](article_1215090415.md) — article_1215090415
+      - [Adding Translations for Saved Search Filters](article_1215090501.md) — article_1215090501
+    - [Displaying Saved Search Results on Your Dashboard](section_N689267.md) — section_N689267
+      - [Creating Shortcuts to Saved Search Results](section_N690347.md) — section_N690347
+      - [Displaying Saved Search Results in Dashboard Portlets](section_N690632.md) — section_N690632
+      - [Displaying Multiple Saved Searches on Your Home Page](section_N690950.md) — section_N690950
+        - [Setting Up a Custom Tab for a Standard Page](bridgehead_N691141.md) — bridgehead_N691141
+        - [Creating a New Custom Tab](bridgehead_N691191.md) — bridgehead_N691191
+    - [Persisting Search Results](article_1029112142.md) — article_1029112142
+    - [Saved Search Examples](section_N691341.md) — section_N691341
+      - [Creating Saved Searches for Bin Numbers](section_N691650.md) — section_N691650
+      - [Creating Saved Searches for System Notes](section_N691977.md) — section_N691977
+      - [Creating Saved Searches for User Notes](section_N692249.md) — section_N692249
+      - [Creating Saved Searches for Messages on Records](section_N692421.md) — section_N692421
+      - [Creating a Campaign Response Search](section_N695495.md) — section_N695495
+      - [Creating an Average Items Per Order Search](section_N696025.md) — section_N696025
+      - [Creating a Web Orders Search](section_N696361.md) — section_N696361
+      - [Creating a Daily Inventory Additions Search](section_N696584.md) — section_N696584
+      - [Creating a Search for Customers with No Recent Activity](section_N697145.md) — section_N697145
+      - [Creating a Search for Contacts with Customer Center Access](section_N697424.md) — section_N697424
+      - [Creating a Search Email Alert for Leads Created through Online Forms](section_N697510.md) — section_N697510
+      - [Creating a Search Email Alert for De-escalated Cases](section_N698142.md) — section_N698142
+      - [Creating a Search for Shopping Cart Information](section_1488214494.md) — section_1488214494
+  - [Formulas in Searches](article_5143710889.md) — article_5143710889
+    - [Using a Custom Formula Field in a Search](section_N660895.md) — section_N660895
+    - [Using a Formula in Search Criteria](section_N661053.md) — section_N661053
+    - [Using a Formula in Search Results](section_N661334.md) — section_N661334
+    - [Using Formula Tags in Search Results](section_4054298146.md) — section_4054298146
+    - [Evaluating Code in Saved Searches Using Formula(HTML) Fields](article_0403035152.md) — article_0403035152
+    - [Search Formula Examples and Tips](section_N662868.md) — section_N662868
+      - [Including Line Numbers in Transaction Searches](bridgehead_N662963.md) — bridgehead_N662963
+      - [Referencing Field IDs](bridgehead_N663130.md) — bridgehead_N663130
+      - [Avoiding Divide By Zero Errors](bridgehead_N663159.md) — bridgehead_N663159
+      - [Using Joined Search Field Values](bridgehead_N663183.md) — bridgehead_N663183
+      - [Retrieving the Day of the Week for a Date on a Custom Record](bridgehead_N663243.md) — bridgehead_N663243
+      - [Displaying the Percentage Variance between Custom Record Values](bridgehead_N663290.md) — bridgehead_N663290
+      - [Calculating Days Remaining Until Task Complete](bridgehead_N663340.md) — bridgehead_N663340
+      - [Displaying Multiplier from Cost to Base Price for Items](bridgehead_N663389.md) — bridgehead_N663389
+      - [Comparing Summed Amounts Across Two Fiscal Years for Transactions](bridgehead_N663440.md) — bridgehead_N663440
+      - [Finding the Most Recent Record Updater](bridgehead_N663659.md) — bridgehead_N663659
+      - [Calculating Days a Sale Is In Effect](bridgehead_N663716.md) — bridgehead_N663716
+      - [Referencing System Notes Records](bridgehead_N663783.md) — bridgehead_N663783
+      - [Calculating Time Taken to Approve Orders](bridgehead_N663826.md) — bridgehead_N663826
+    - [SQL Expressions](section_N2833020.md) — section_N2833020
+  - [Mass Updates](article_1103335211.md) — article_1103335211
+    - [Defining a Mass Update](section_N667342.md) — section_N667342
+    - [Entering Formulas for a Mass Update](section_N668091.md) — section_N668091
+    - [Scheduling a Mass Update](section_N668529.md) — section_N668529
+    - [Translations for Mass Updates](section_N668849.md) — section_N668849
+      - [Adding Translations for the Mass Update Action Title](subsect_162203532153.md) — subsect_162203532153
+      - [Adding Translations for Mass Update Column Headings](subsect_162203436576.md) — subsect_162203436576
+    - [Example Mass Update](section_N669099.md) — section_N669099
+    - [Available Mass Updates](section_N669340.md) — section_N669340
+    - [Mass Updates of Global Subscription Status](section_N672926.md) — section_N672926
+    - [Performing Mass Deletes](section_4098351672.md) — section_4098351672

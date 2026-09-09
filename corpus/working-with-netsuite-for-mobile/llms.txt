@@ -1,0 +1,26 @@
+# Working with NetSuite for Mobile
+
+Working with NetSuite for Mobile (74 pages): Working with NetSuite for Mobile
+
+## Chapters
+- [Working with NetSuite for Mobile](chapter_1554101840.md): The following sections cover tasks that NetSuite for Mobile enables you to perform.
+  - [NetSuite for Mobile Login Options](section_1554101855.md): Logging in to the app does not affect any NetSuite session you may have open in a browser.
+  - [Changing Roles in NetSuite for Mobile](section_1554106630.md): You can select roles with the Mobile Device Access permission enabled as follows.
+  - [NetSuite for Mobile Expense Reporting](section_1554107695.md): If you have the necessary permissions, My Dashboard includes the My Expenses portlet by default.
+  - [Expense Reporting Access Levels](article_164154627723.md): Your expense reporting capabilities depend on your access level.
+  - [NetSuite for Mobile Time Tracking](section_1554297914.md): NetSuite for Mobile enables you to perform time tracking tasks from your mobile device.
+  - [NetSuite for Mobile Dashboards](section_1553858494.md): NetSuite for Mobile enables you to configure and use all web dashboards.
+  - [NetSuite for Mobile Calendar](section_156258892134.md): The Calendar feature lets you create and accept new activities, and customize your calendar view based on an entity, group, or resource.
+  - [NetSuite for Mobile Record Management](section_1554466775.md): The types of records you can view and edit depends on the role with which you log in.
+  - [NetSuite for Mobile Sublist Management](section_1554718735.md): When you view a record, a predefined selection of sublists displays below the summary view.
+  - [Tracking Calls with Phone Call Logging in NetSuite for iOS](section_4120642128.md): Note: Please note this feature is unavailable on Android due to API restrictions enforced by Google.
+  - [Viewing Customer Activity Logs in NetSuite for Mobile](section_0407104423.md): NetSuite for Mobile enables you to view recent activities related to a customer such as calls, events, invoices, and other interactions.
+  - [Creating and Attaching Notes to Customer Records in NetSuite for iOS](section_0801012604.md): NetSuite for iOS enables you to attach notes to customer records.
+  - [My Approvals in NetSuite for Mobile](section_1554194643.md): The My Approvals portlet provides a reminder of any outstanding expenses, purchase orders, time entries, and time sheets awaiting your authorization.
+  - [Accessing Saved Searches in the App](section_1554465419.md): If you add the Custom Searches portlet to your Home dashboard in a browser session, it also appears on your app's Home dashboard.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch working-with-netsuite-for-mobile

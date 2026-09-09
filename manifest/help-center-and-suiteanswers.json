@@ -1,0 +1,24 @@
+{
+  "branch": "help-center-and-suiteanswers",
+  "generatedAt": null,
+  "pages": {
+    "article_161660354999": {
+      "path": "corpus/help-center-and-suiteanswers/article_161660354999.md",
+      "title": "Help Center and SuiteAnswers",
+      "type": "article",
+      "breadcrumb": "Videos > Help Center and SuiteAnswers",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_161660354999.html",
+      "etag": "\"d405f9bfc232fedddeafd9446b07e2b1:1786980303.709129\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:36.763Z",
+      "sha256": "379fd8363c0a487b2f2f37bfcbafd87c5854a5a4825cedb0ecc217a6c2523e81",
+      "bytes": 697,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

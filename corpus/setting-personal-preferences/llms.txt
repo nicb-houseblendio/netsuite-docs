@@ -1,0 +1,20 @@
+# Setting Personal Preferences
+
+Setting Personal Preferences (13 pages): Setting Personal Preferences
+
+## Chapters
+- [Setting Personal Preferences](chapter_N475297.md): <a id="kalturaplayer32"</a This section of NetSuite Basics describes the preferences that are available to you as a NetSuite user.
+  - [General Personal Preferences](section_N475661.md): In the General subtab, you can set such preferences as a nickname, language, date and time formatting, warnings and notifications, and other.
+  - [Personal Preferences for Appearance](section_N479574.md): In the Appearance subtab, you can set preferences such as color theme, fonts, chart theme, centers and dashboards, and other.
+  - [Personal Preferences for Transactions](section_N480873.md): In the Transactions subtab, you can set preferences such as auto fill transactions, transaction warnings, printing, transaction email attachment, and other.
+  - [Analytics Personal Preferences](section_N481482.md): In the Analytics subtab, you can set preferences such as report by period, default bank account, search, PDF orientation and font size, CSV export, and other.
+  - [Personal Preferences for Activities](section_N482375.md): Set your personal preferences before you start working with your calendar, and activities such as phone calls and tasks.
+  - [Personal Preferences for Alerts](section_N483440.md): In the Alerts subtab, you can set preferences such as time for an alert email, email address, and other.
+  - [Personal Preferences for Telephony](section_N484162.md): In the Telephony subtab, you can set preferences such as telephony option, TAPI device, and other.
+  - [Personal Preferences for Restricting Views](section_N484545.md): Click the Restrict View subtab of the Set Preferences page to limit your access to information for the specific class, location, department, or subsidiary you select.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch setting-personal-preferences

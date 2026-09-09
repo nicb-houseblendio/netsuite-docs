@@ -1,0 +1,13 @@
+# Get Your Account Ready for NetSuite Next
+
+Get Your Account Ready for NetSuite Next (7 pages): NetSuite Next
+
+## Chapters
+- [NetSuite Next](book_1140422123.md): - Get Your Account Ready for NetSuite Next(https://docs.
+  - [Get Your Account Ready for NetSuite Next](T_article_6130909911_1.md): Note: This topic describes functionality available in NetSuite Next.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch get-your-account-ready-for-netsuite-next

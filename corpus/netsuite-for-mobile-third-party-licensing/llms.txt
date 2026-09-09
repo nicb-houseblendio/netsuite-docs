@@ -1,0 +1,12 @@
+# NetSuite for Mobile Third Party Licensing
+
+NetSuite for Mobile Third Party Licensing (1 pages): NetSuite for Mobile Third Party Licensing
+
+## Chapters
+- [NetSuite for Mobile Third Party Licensing](article_5132938215.md): A NetSuite for Mobile implementation can include software governed by licenses from third parties ('Third Party Software' and 'Third Party License').
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-for-mobile-third-party-licensing

@@ -1,0 +1,12 @@
+# SuiteCloud
+
+SuiteCloud (1 pages): SuiteCloud
+
+## Chapters
+- [SuiteCloud](article_65114903717.md): This section of videos shows how to use the SuiteCloud platform to customize NetSuite for your organization.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitecloud

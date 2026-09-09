@@ -1,0 +1,13 @@
+# Social Impact Starter Edition
+
+Social Impact Starter Edition (6 pages): Social Impact Starter Edition
+
+## Chapters
+- [Social Impact Starter Edition](chapter_1547838483.md): Social Impact Starter Edition includes NFP Financials and the Non-Profit financial metrics.
+  - [Social Impact Starter Edition Roles and Dashboards](section_1547838504.md): Note: After installing the Customization bundle, contact your NetSuite account manager for the customization of roles and dashboards.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch social-impact-starter-edition

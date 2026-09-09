@@ -1,0 +1,15 @@
+# Taxation
+
+Taxation (537 pages): Taxation
+
+## Chapters
+- [Taxation](set_N1791082.md): - Legacy Tax(https://docs.
+  - [Legacy Tax](preface_3710626699.md): Note: The topics in this section cover the legacy tax solution in NetSuite.
+  - [SuiteTax](preface_1496364245.md): SuiteTax is NetSuite's next-generation tax environment.
+  - [Tax Reporting Framework](chapter_1528262949.md): Tax Reporting Framework is a SuiteApp developed by NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch taxation

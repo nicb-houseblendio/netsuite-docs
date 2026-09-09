@@ -1,0 +1,12 @@
+# Artificial Intelligence
+
+Artificial Intelligence (1 pages): Artificial Intelligence
+
+## Chapters
+- [Artificial Intelligence](article_120159309.md): To learn more about how you can use NetSuite AI features, watch the following videos.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch artificial-intelligence

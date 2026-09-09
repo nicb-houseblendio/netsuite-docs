@@ -1,0 +1,17 @@
+# Troubleshooting Performance Issues
+
+Troubleshooting Performance Issues (6 pages): Troubleshooting Performance Issues
+
+## Chapters
+- [Troubleshooting Performance Issues](chapter_4381204850.md): This section provides some commonly used tips for optimizing and troubleshooting NetSuite performance.
+  - [Troubleshooting Network Performance](section_0824033849.md): Network performance is measured as the time it takes for data to travel from a server at NetSuite to your computer.
+  - [Troubleshooting Client Performance](section_N574405.md): Client performance refers to how long it takes for your computer to display a page.
+  - [Identifying Browser Performance Issues](section_0825025054.md): Performance issue could be caused by the browser you're using.
+  - [Gathering Performance Details](section_48151513026.md): To help users identify performance issues, you can ask them to double-click the Oracle NetSuite logo in the upper-left corner of any page in the NetSuite application to display the Performance Details window.
+  - [Copying Performance Details](article_1030024032.md): To copy performance details into a support case: 1.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch troubleshooting-performance-issues

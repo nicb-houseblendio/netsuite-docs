@@ -1,0 +1,42 @@
+# Working with Your Calendar and Activities
+
+38 pages, category: NetSuite Basics
+
+- [Working with Your Calendar and Activities](chapter_N499702.md) — chapter_N499702
+  - [Using Your Calendar](section_N499943.md) — section_N499943
+    - [Setting Your Calendar Time Zone](section_N500123.md) — section_N500123
+    - [Setting Calendar Preferences](section_N500263.md) — section_N500263
+    - [Sharing Your Calendar with iCal-Compatible Devices and Applications](section_3930228959.md) — section_3930228959
+      - [Android Devices and Google Calendar](section_163654882012.md) — section_163654882012
+      - [Microsoft Outlook](section_163654885790.md) — section_163654885790
+      - [macOS Devices](section_163654890692.md) — section_163654890692
+    - [Navigating Your Calendar](section_N500710.md) — section_N500710
+    - [Synchronizing Your Calendar](section_N501027.md) — section_N501027
+  - [Working with Events](section_N501214.md) — section_N501214
+    - [Scheduling Events](section_N501467.md) — section_N501467
+      - [Creating a New Event Record](section_N501988.md) — section_N501988
+      - [Using the Event Scheduler Portlet](section_N502460.md) — section_N502460
+      - [Event Scheduling Notes](section_N502623.md) — section_N502623
+    - [Sending Event Invitations](section_N502840.md) — section_N502840
+    - [Setting Up Recurring Events](section_N503084.md) — section_N503084
+    - [Using Resource Records on Events](section_N503366.md) — section_N503366
+      - [Creating a Resource](section_N503484.md) — section_N503484
+      - [Setting Calendar Preferences for a Resource](bridgehead_N503598.md) — bridgehead_N503598
+      - [Reserving Resources for Events](section_N503835.md) — section_N503835
+    - [Tracking Time for Events](section_N503967.md) — section_N503967
+    - [Responding to Event Invitations](section_N504722.md) — section_N504722
+    - [Setting Up Event Reminders](section_N505146.md) — section_N505146
+      - [Setting Up Event Reminders when Creating or Editing Events](section_N505393.md) — section_N505393
+      - [Setting Up Event Reminders when Responding to Event Invitations](section_N505528.md) — section_N505528
+    - [Canceling or Deleting Events](section_N505666.md) — section_N505666
+      - [Canceling Events](section_N505886.md) — section_N505886
+      - [Deleting an Event](section_N506152.md) — section_N506152
+    - [Searching Event Records](section_1559218597.md) — section_1559218597
+  - [Working with CRM Tasks](section_N506499.md) — section_N506499
+    - [Creating CRM Task Records](section_N508608.md) — section_N508608
+    - [Tracking Time on CRM Tasks](section_N509136.md) — section_N509136
+    - [Tasks and Project Tasks Portlets on Your Dashboard](section_N509646.md) — section_N509646
+  - [Working with Phone Calls](section_N509876.md) — section_N509876
+    - [Making Calls From NetSuite](section_N511709.md) — section_N511709
+    - [Scheduling or Logging Phone Calls](section_N510059.md) — section_N510059
+    - [Tracking Time on Phone Calls](section_N510416.md) — section_N510416

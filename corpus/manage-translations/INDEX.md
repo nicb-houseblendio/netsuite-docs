@@ -1,0 +1,47 @@
+# Manage Translations
+
+43 pages, category: Globalization
+
+- [Globalization](preface_8154319431.md) — preface_8154319431
+  - [Manage Translations](article_158572305264.md) — article_158572305264
+    - [Translation Collections Overview](section_1544566748.md) — section_1544566748
+      - [Translation Collections Prerequisites](subsect_1545225670.md) — subsect_1545225670
+      - [General Settings](article_160681434004.md) — article_160681434004
+    - [Managing Translation Collections](article_161581766777.md) — article_161581766777
+      - [Exporting a Translation Collection](section_1544396546.md) — section_1544396546
+      - [Importing Translations into a Translation Collection](section_1544396501.md) — section_1544396501
+      - [Downloading a Translation Collection into XML](section_156386821893.md) — section_156386821893
+    - [Manage Translations Page Strings Subtab](article_161581819893.md) — article_161581819893
+      - [Working with Translation Collection Strings](section_1544553733.md) — section_1544553733
+      - [Translation String Types](section_159964449985.md) — section_159964449985
+      - [Adding Strings to Translation Collections](subsect_1544553758.md) — subsect_1544553758
+      - [Modifying Translation Collection Strings](subsect_1544553776.md) — subsect_1544553776
+      - [Deleting Strings from a Translation Collection](subsect_1544553800.md) — subsect_1544553800
+      - [String Hierarchy and Translation String Linking](article_159238895117.md) — article_159238895117
+      - [Mass Update of Translation Strings](article_161788146154.md) — article_161788146154
+    - [Exporting and Importing Translation Strings from the Strings Subtab](subsect_161226847768.md) — subsect_161226847768
+      - [Best Practice for Exporting and Importing Strings From Translatable Fields](article_163991252667.md) — article_163991252667
+    - [Manage Translations Page Import Jobs Subtab](article_161581826154.md) — article_161581826154
+    - [Translation Statistics](subsect_157468097685.md) — subsect_157468097685
+    - [Filtering of Translation Strings](article_161581730535.md) — article_161581730535
+      - [Scoped View of Translation Strings](subsect_161840093230.md) — subsect_161840093230
+      - [Location ID and Filtering by Location ID](article_164000035146.md) — article_164000035146
+    - [Including Translation Collections in Bundles](section_156535273717.md) — section_156535273717
+    - [Locking Translation Collections](article_164000274073.md) — article_164000274073
+    - [Consistency Management](article_161788096297.md) — article_161788096297
+    - [Usage of Translations in SuiteScript](article_162149581091.md) — article_162149581091
+      - [Using Translation Collections with SuiteScript](section_1544396587.md) — section_1544396587
+      - [Translation API in SuiteScript 2.0](article_161822748722.md) — article_161822748722
+      - [Translations in Advanced Printouts](article_162149624819.md) — article_162149624819
+    - [SuiteApp Translatability Support](article_158572327037.md) — article_158572327037
+      - [Translation Support for SuiteCloud Development Framework](article_158572346302.md) — article_158572346302
+      - [Management of Translation Strings Distributed Through SDF](article_159600026747.md) — article_159600026747
+    - [Uniqueness Constraints and Length Restrictions in Translatable Fields](article_0729010159.md) — article_0729010159
+    - [Best Practices for Working with Translations](article_159663531968.md) — article_159663531968
+    - [Examples of Customizations Affected by Terminological Changes](article_162022516642.md) — article_162022516642
+    - [List of Topics](article_160681430937.md) — article_160681430937
+    - [SuiteAnalytics](article_160681488648.md) — article_160681488648
+    - [UI-Based Customizations](article_160681540497.md) — article_160681540497
+    - [SuiteCloud Customizations](article_160682060837.md) — article_160682060837
+    - [Commerce](article_160682257253.md) — article_160682257253
+    - [Country-Specific Help](article_160682404117.md) — article_160682404117

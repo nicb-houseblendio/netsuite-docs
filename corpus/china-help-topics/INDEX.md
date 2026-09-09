@@ -1,0 +1,55 @@
+# China Help Topics
+
+51 pages, category: Country-Specific Features
+
+- [China Help Topics](section_4198421197.md) — section_4198421197
+  - [China Terminology](section_61132322037.md) — section_61132322037
+  - [Setting Up China Localization](section_1524030372.md) — section_1524030372
+    - [Installing China Localization](section_164499038294.md) — section_164499038294
+    - [Installing China Localization In Accounts With Suitetax](section_165164238938.md) — section_165164238938
+      - [Validating Your China VAT And Nexus Settings In Accounts With SuiteTax](section_0621031518.md) — section_0621031518
+    - [Known Limitations of NetSuite China Localization](section_1524030849.md) — section_1524030849
+    - [Setting Up General Company Preferences](section_159901413526.md) — section_159901413526
+    - [Setting Up Custom Transaction Forms for China](section_160751082499.md) — section_160751082499
+    - [Setting up China-Specific Chart of Accounts](section_1524030982.md) — section_1524030982
+    - [Using Chinese Accounting Periods](section_1524032709.md) — section_1524032709
+    - [Setting up China Cash Flow Item for Chart of Accounts](section_1524033569.md) — section_1524033569
+    - [Setting Up China Cash Flow Item for Inventory Items](section_1524033699.md) — section_1524033699
+      - [China Cash Flow Item Classification](section_1524034299.md) — section_1524034299
+    - [Setting Up China Cash Flow Item for Subsidiary](section_1552981384.md) — section_1552981384
+    - [Customizing China Cash Flow Item](section_160991734309.md) — section_160991734309
+    - [Toggling China Cash Flow Item Fields as Mandatory](section_1535683679.md) — section_1535683679
+    - [Setting the China Max VAT Invoice Amount](section_1524034456.md) — section_1524034456
+    - [Setting Up China Item Models for Inventory Items](section_1524035256.md) — section_1524035256
+    - [Setting Up China Bank Account Name](section_1524036005.md) — section_1524036005
+    - [Setting China VAT Taxpayer Types](section_1524036303.md) — section_1524036303
+    - [Customizing Creator, Poster, and Approver in China Voucher Printing Report](section_1524037166.md) — section_1524037166
+    - [Enabling or Disabling China Localization Features](section_1535958706.md) — section_1535958706
+    - [Enabling and Configuring China Golden Tax System Integration](section_1553559863.md) — section_1553559863
+      - [China Golden Tax System Integration API Overview](section_1553240589.md) — section_1553240589
+    - [Roles and Permissions in China Localization](section_1536221688.md) — section_1536221688
+  - [Override VAT Invoice Type](section_1524038850.md) — section_1524038850
+  - [Override China Cash Flow Item](section_1524039505.md) — section_1524039505
+    - [Guidelines for Working with China Cash Flow Item in Journal Entries](section_1524041152.md) — section_1524041152
+  - [Processing Red-Letter Invoices](section_1524042810.md) — section_1524042810
+  - [Generating China Voucher Printing Report](section_1524044318.md) — section_1524044318
+  - [Generating the China Voucher List](section_1544494013.md) — section_1544494013
+    - [Setting Up Preferences for China Voucher List](section_1544668945.md) — section_1544668945
+  - [Generating China VAT Transactions](section_1524045813.md) — section_1524045813
+    - [Guidelines for Generating China VAT Transactions](section_1524046523.md) — section_1524046523
+    - [Using Sales Lists in China VAT Invoices](section_1524047078.md) — section_1524047078
+    - [Override China VAT Split Rule](section_1524047457.md) — section_1524047457
+    - [Merging China VAT Transactions](section_1527660084.md) — section_1527660084
+  - [Importing VAT Transactions from the China Golden Tax System](section_1524050168.md) — section_1524050168
+  - [Viewing Transaction Status for Issuing VAT Invoices](section_1524050477.md) — section_1524050477
+  - [Financial Reports for China](section_1524051032.md) — section_1524051032
+    - [China Balance Sheet Report](section_1524051146.md) — section_1524051146
+      - [Customizing the China Balance Sheet Report](section_1524051871.md) — section_1524051871
+    - [China Cash Flow Statement Report](section_1524052340.md) — section_1524052340
+      - [Validating Transactions in the China Cash Flow Statement Report](section_1524053524.md) — section_1524053524
+      - [Cash Flow Item Default Logic For China Cash Flow Values In Transactions](section_1524053754.md) — section_1524053754
+    - [China Income Statement Report](section_1524054339.md) — section_1524054339
+      - [Customizing China Income Statement Report](section_1524054844.md) — section_1524054844
+    - [China Account Balance Report](section_1536115766.md) — section_1536115766
+    - [China Subledger Report](section_1536188448.md) — section_1536188448
+    - [China Cash & Bank Journal Ledger Report](section_1536193809.md) — section_1536193809

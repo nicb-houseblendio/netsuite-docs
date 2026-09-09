@@ -1,0 +1,14 @@
+# Records Catalog
+
+Records Catalog (9 pages): Records Catalog
+
+## Chapters
+- [Records Catalog](book_159368199162.md): - Records Catalog Overview(https://docs.
+  - [Records Catalog Overview](article_159367781370.md): The Records Catalog is a contextual reference tool that describes the NetSuite model structure and behavior.
+  - [Navigating the Records Catalog](article_159367848537.md): The Records Catalog is available for all users with the Records Catalog permission.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch records-catalog

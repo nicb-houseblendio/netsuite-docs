@@ -1,0 +1,13 @@
+# SuiteCloud Developer Assistant
+
+SuiteCloud Developer Assistant (13 pages): SuiteCloud Developer Assistant
+
+## Chapters
+- [SuiteCloud Developer Assistant](book_9144606645.md): - SuiteCloud Developer Assistant Guide(https://docs.
+  - [SuiteCloud Developer Assistant Guide](article_1171315103.md): SuiteCloud Developer Assistant is an AI-powered coding assistant designed for SuiteCloud developers.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitecloud-developer-assistant

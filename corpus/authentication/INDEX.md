@@ -1,0 +1,221 @@
+# Authentication
+
+217 pages, category: Account Administration
+
+- [Authentication](book_4299752196.md) — book_4299752196
+  - [Authentication Overview](chapter_4369651411.md) — chapter_4369651411
+    - [Mandatory Two-Factor Authentication (2FA) for NetSuite Access](section_1532968056.md) — section_1532968056
+    - [Preparing for Token-based Authentication (TBA) End of Support](section_0525020842.md) — section_0525020842
+      - [What to Do to Prepare for the End of Support](section_0525022007.md) — section_0525022007
+      - [Identify the Target OAuth 2.0 Approach per Integration](section_0525032151.md) — section_0525032151
+      - [Migrate to OAuth 2.0 and Test the Results](section_0525032420.md) — section_0525032420
+  - [Password Requirements and Policies in NetSuite](chapter_4713604654.md) — chapter_4713604654
+    - [NetSuite Password Requirements](section_N250541.md) — section_N250541
+      - [Password Settings That Can Be Modified](section_1534873888.md) — section_1534873888
+      - [System-Defined Password Requirements](section_1534872487.md) — section_1534872487
+    - [PCI Compliance Password Requirements](section_N3448313.md) — section_N3448313
+    - [User Access Reset Tool](section_156442554498.md) — section_156442554498
+    - [Password Reset Tips for Administrators](section_1512656886.md) — section_1512656886
+    - [Password Changes Are Logged in System Notes on Entity Records](section_156587964668.md) — section_156587964668
+  - [Session Management in NetSuite](chapter_1487089954.md) — chapter_1487089954
+    - [Types of NetSuite Sessions](section_1534882804.md) — section_1534882804
+    - [User Interface (UI) Sessions](section_1534882691.md) — section_1534882691
+    - [Simultaneous Access to More than One NetSuite Account Type](section_1534881956.md) — section_1534881956
+    - [The Offline Notification in the UI](section_1553261297.md) — section_1553261297
+    - [Setting Up Simultaneous Access to Multiple NetSuite Sessions](section_67135625265.md) — section_67135625265
+  - [NetSuite Login Pages](chapter_4713598867.md) — chapter_4713598867
+    - [Types of Login Pages for Your NetSuite Account](section_1504012590.md) — section_1504012590
+    - [Creating Custom Pages for Login to Your NetSuite Account](section_4706661761.md) — section_4706661761
+    - [Customizing Login and Logout Behavior](section_4731758175.md) — section_4731758175
+    - [Choose Role Page](section_160258520220.md) — section_160258520220
+    - [NetSuite Login Pages and iFrame Prohibition](section_4151915976.md) — section_4151915976
+    - [Login Notification](section_56135727646.md) — section_56135727646
+  - [Passkeys](article_6150020794.md) — article_6150020794
+  - [Enabling and Creating IP Address Rules](chapter_4726612641.md) — chapter_4726612641
+    - [Enable the IP Address Rules Feature](section_1535043532.md) — section_1535043532
+    - [Create Company IP Address Rules](section_1535041652.md) — section_1535041652
+    - [Create Individual IP Address Rules](section_1535041428.md) — section_1535041428
+    - [Create Roles without IP Address Restrictions](section_1535041237.md) — section_1535041237
+    - [Review or Search for Access Restrictions](section_1535040855.md) — section_1535040855
+  - [Token-based Authentication (TBA)](chapter_4247329078.md) — chapter_4247329078
+    - [Token-based Authentication (TBA) Tasks for Administrators](section_156347874292.md) — section_156347874292
+      - [Getting Started with Token-based Authentication](section_4247337262.md) — section_4247337262
+        - [Enable the Token-based Authentication Feature](bridgehead_4253254429.md) — bridgehead_4253254429
+        - [Set Up Token-based Authentication Roles](bridgehead_4248124361.md) — bridgehead_4248124361
+        - [Assign Users to Token-based Authentication Roles](bridgehead_4249025340.md) — bridgehead_4249025340
+        - [Create Integration Records for Applications to Use TBA](bridgehead_4249032125.md) — bridgehead_4249032125
+          - [Enabling an Existing Application to Use Token-based Authentication](section_4639959018.md) — section_4639959018
+      - [Manage TBA Tokens in the NetSuite UI](section_4254975694.md) — section_4254975694
+        - [Access Token Management - Create and Assign a TBA Token](bridgehead_4254081947.md) — bridgehead_4254081947
+        - [User Access Token - Create a TBA Token](bridgehead_4254083671.md) — bridgehead_4254083671
+        - [Viewing, Editing, Creating, and Revoking TBA Tokens](bridgehead_4249078810.md) — bridgehead_4249078810
+        - [Using the TBA Access Token Search Page](section_1550260317.md) — section_1550260317
+    - [Token-based Authentication (TBA) for Integration Application Developers](section_156347873375.md) — section_156347873375
+      - [The Three-Step TBA Authorization Flow](section_156337186044.md) — section_156337186044
+        - [Step One Obtain An Unauthorized Request Token](section_156338994830.md) — section_156338994830
+        - [Step Two Authorize the Request Token](section_156536698849.md) — section_156536698849
+        - [Step Three Exchange the Request Token for an Access Token](section_156537025868.md) — section_156537025868
+        - [Specifications for Signature Construction for the TBA Authorization Flow](section_157651396916.md) — section_157651396916
+        - [Generating the Signature for the TBA Authorization Flow](section_157652798351.md) — section_157652798351
+          - [Constructing the Signature for Step One of the TBA Authorization Flow](section_157652390285.md) — section_157652390285
+          - [Constructing the Signature for Step Three of the TBA Authorization Flow](section_157652573296.md) — section_157652573296
+      - [The IssueToken Endpoint](section_156337184796.md) — section_156337184796
+        - [Required 2FA, the IssueToken Endpoint, and nlauth_otp](section_1546447142.md) — section_1546447142
+        - [The NLAuth Authorization Header in TBA](section_1549405961.md) — section_1549405961
+    - [Token-based Authentication (TBA) for Users](section_158618788810.md) — section_158618788810
+    - [Troubleshoot Token-based Authentication (TBA)](section_4254972257.md) — section_4254972257
+      - [TBA and the Login Audit Trail](section_1534941538.md) — section_1534941538
+        - [Error Messages for RESTlets, SOAP Web Services, and REST Web Services](subsect_156935170194.md) — subsect_156935170194
+        - [Error Messages for the TBA Authorization Flow](subsect_156934879823.md) — subsect_156934879823
+      - [The Signature for Web Services and RESTlets](section_1534941088.md) — section_1534941088
+      - [The Authorization Headers](section_1534941295.md) — section_1534941295
+      - [The RESTlet Base String](section_1534939551.md) — section_1534939551
+    - [Token-based Authentication and RESTlets](section_4254801119.md) — section_4254801119
+    - [Token-based Authentication and Web Services](section_4381113277.md) — section_4381113277
+    - [Token-based Authentication and SuiteAnalytics Connect](section_163240582544.md) — section_163240582544
+  - [OAuth 2.0](chapter_157769826287.md) — chapter_157769826287
+    - [OAuth 2.0 Tasks for Administrators](section_157771171166.md) — section_157771171166
+      - [Getting Started with OAuth 2.0](section_157771281570.md) — section_157771281570
+        - [Enable the OAuth 2.0 Feature](section_157771482304.md) — section_157771482304
+        - [Set Up OAuth 2.0 Roles](section_157771510070.md) — section_157771510070
+        - [Assign Users to OAuth 2.0 Roles](section_157771650112.md) — section_157771650112
+        - [Create Integration Records for Applications to Use OAuth 2.0](section_157771733782.md) — section_157771733782
+          - [Enabling an Application to Use OAuth 2.0](section_157771863841.md) — section_157771863841
+      - [Managing OAuth 2.0 Authorized Applications](section_157771979135.md) — section_157771979135
+        - [Viewing and Revoking OAuth 2.0 Authorized Applications](section_157960925955.md) — section_157960925955
+      - [OAuth 2.0 Client Credentials Setup](section_162686838198.md) — section_162686838198
+        - [Certificate Conditions](subsect_162755332391.md) — subsect_162755332391
+    - [OAuth 2.0 for Integration Application Developers](section_157780218434.md) — section_157780218434
+      - [OAuth 2.0 Authorization Code Grant Flow](section_158074210415.md) — section_158074210415
+        - [Step One GET Request to the Authorization Endpoint](section_158081944642.md) — section_158081944642
+        - [Step Two POST Request to the Token Endpoint](section_158081952044.md) — section_158081952044
+        - [Refresh Token POST Request to the Token Endpoint](section_158082518856.md) — section_158082518856
+        - [POST Request to the Revoke Token Endpoint](section_161071224088.md) — section_161071224088
+        - [Integration Record and Prompt Parameter Combinations](section_162626471013.md) — section_162626471013
+      - [OAuth 2.0 Client Credentials Flow](section_162730264820.md) — section_162730264820
+        - [POST Request to the Token Endpoint and the Access Token Response](section_162755359851.md) — section_162755359851
+        - [The Request Token Structure](section_162790605110.md) — section_162790605110
+      - [OAuth 2.0 Client Credentials Certificate Rotation Endpoint](article_92130837826.md) — article_92130837826
+        - [GET Request to Obtain the List of Certificates](article_11111634165.md) — article_11111634165
+        - [POST Request to Set Up a New Certificate](article_0209112025.md) — article_0209112025
+        - [POST request to revoke a certificate](article_0209112818.md) — article_0209112818
+      - [OAuth 2.0 Access and Refresh Token Structure](section_158255317571.md) — section_158255317571
+    - [Troubleshooting OAuth 2.0](section_157780265265.md) — section_157780265265
+      - [Authorization Code Grant Flow Errors](section_158521803235.md) — section_158521803235
+        - [Authorization Errors in Step One](subsect_158521823069.md) — subsect_158521823069
+        - [Response Errors in Step Two and in the Refresh Token Response](subsect_158521832417.md) — subsect_158521832417
+        - [RESTlets and REST Web Services Authentication Errors](subsect_158521885412.md) — subsect_158521885412
+      - [OAuth 2.0 and the Login Audit Trail](section_158323851171.md) — section_158323851171
+        - [RESTlets and REST Web Services Error Messages in the Login Audit Trail](subsect_158324637123.md) — subsect_158324637123
+        - [Authorization Code Grant Flow Error Messages in the Login Audit Trail](subsect_158711892221.md) — subsect_158711892221
+        - [The Refresh Token Request Error Messages in the Login Audit Trail](subsect_158711928134.md) — subsect_158711928134
+      - [OAuth 2.0 Authorization Header Examples](section_158332610742.md) — section_158332610742
+    - [OAuth 2.0 for RESTlets](section_157780293862.md) — section_157780293862
+    - [OAuth 2.0 for REST Web Services](section_157780312610.md) — section_157780312610
+  - [Two-Factor Authentication (2FA)](chapter_N327688.md) — chapter_N327688
+    - [Managing Two-Factor Authentication](bridgehead_N327761.md) — bridgehead_N327761
+    - [Designate Two-Factor Authentication Roles](section_N328126.md) — section_N328126
+    - [Users and Trusted Devices for Two-Factor Authentication](section_4702272427.md) — section_4702272427
+    - [2FA in the NetSuite Application](section_4410552915.md) — section_4410552915
+      - [Reset a User's 2FA Settings](bridgehead_4411215982.md) — bridgehead_4411215982
+    - [Two-Factor Authentication with a Passkey](article_0625124149.md) — article_0625124149
+  - [Device ID Authentication](chapter_4369653050.md) — chapter_4369653050
+    - [Device ID and the SCIS SuiteApp](section_4404543878.md) — section_4404543878
+    - [Managing Devices on the List of devices Page](section_4404535818.md) — section_4404535818
+    - [The Device Record](section_4369658183.md) — section_4369658183
+    - [Creating Device Records Manually](section_4392944965.md) — section_4392944965
+  - [NetSuite as OIDC Provider](chapter_160077062690.md) — chapter_160077062690
+    - [NetSuite as OIDC Provider Tasks for Administrators](section_160855144486.md) — section_160855144486
+      - [Getting Started with NetSuite as OIDC Provider](section_160855172780.md) — section_160855172780
+        - [Enable the NetSuite as OIDC Provider Feature](section_160077233201.md) — section_160077233201
+        - [Add OIDC Provider Setup Permission to Roles](section_160855187652.md) — section_160855187652
+        - [Assign Users to Roles with the OIDC Provider Setup Permission](section_160855273282.md) — section_160855273282
+        - [Create Integration Records for Applications that Use NetSuite as OIDC Provider for Outbound Single Sign-on](section_160855288663.md) — section_160855288663
+        - [Configure NetSuite as OIDC Provider](section_160855299656.md) — section_160855299656
+      - [Managing OAuth 2.0 Authorized Applications](section_160855309644.md) — section_160855309644
+    - [NetSuite as OIDC Provider for Integration Application Developers](section_160855370280.md) — section_160855370280
+      - [OAuth 2.0 Authorization Code Grant Flow](section_160855520475.md) — section_160855520475
+        - [Step One GET Request to the Authorization Endpoint](section_160855585734.md) — section_160855585734
+        - [Step Two POST Request to the Token Endpoint](section_160855590788.md) — section_160855590788
+        - [Refresh Token POST Request to the Token Endpoint](section_160855594402.md) — section_160855594402
+        - [Request to the Logout Endpoint](section_161192337588.md) — section_161192337588
+        - [Integration Record and Prompt Parameter Combinations](section_162877225089.md) — section_162877225089
+      - [OAuth 2.0 Token Structure and Certificate Rotation](section_161235023782.md) — section_161235023782
+    - [Troubleshooting NetSuite as OIDC Provider](section_160855417570.md) — section_160855417570
+      - [Authorization Code Grant Flow Errors](section_161243690371.md) — section_161243690371
+        - [Authorization Errors in Step One](subsect_161252455245.md) — subsect_161252455245
+        - [Response Errors in Step Two and in the Refresh Token Response](subsect_161252460252.md) — subsect_161252460252
+      - [NetSuite as OIDC Provider and the Login Audit Trail](section_161243804050.md) — section_161243804050
+        - [Authorization Code Grant Flow Error Messages in the Login Audit Trail](subsect_161252543690.md) — subsect_161252543690
+        - [Refresh Token Request Error Messages in the Login Audit Trail](subsect_161252550131.md) — subsect_161252550131
+  - [SAML Single Sign-on](chapter_N3825119.md) — chapter_N3825119
+    - [Complete Preliminary Steps in NetSuite for SAML SSO](section_N3825373.md) — section_N3825373
+      - [Enable the SAML Single Sign-on Feature](subsect_1520718734.md) — subsect_1520718734
+      - [Add SAML Single Sign-on Permissions to Roles](section_N3827316.md) — section_N3827316
+        - [SAML SSO Access for Center Roles](bridgehead_N3827410.md) — bridgehead_N3827410
+        - [SAML SSO Permissions](subsect_1518196382.md) — subsect_1518196382
+        - [SAML SSO Permission Limitations](bridgehead_N3827426.md) — bridgehead_N3827426
+      - [Assign SAML Roles to Users](subsect_1520719084.md) — subsect_1520719084
+      - [Prepare to Provide NetSuite SP Metadata to Your IdP](subsect_1520724744.md) — subsect_1520724744
+    - [Configure NetSuite with Your Identity Provider](section_1520724227.md) — section_1520724227
+    - [Complete the SAML Setup Page](section_N3826794.md) — section_N3826794
+    - [Update Identity Provider Information in NetSuite](section_1518814069.md) — section_1518814069
+    - [IdP Metadata and SAML Attributes](section_1520894757.md) — section_1520894757
+      - [IdP Requirements](subsect_1520897527.md) — subsect_1520897527
+        - [Supported Encryption and Signature Options](bridgehead_4774157332.md) — bridgehead_4774157332
+        - [Extract an Encryption Certificate or Signing Certificate from the SP Metadata File](subsect_1525368686.md) — subsect_1525368686
+        - [Mapping of SAML Attributes](subsect_1518817923.md) — subsect_1518817923
+        - [SAML Attribute Statements](subsect_1518813066.md) — subsect_1518813066
+      - [SAML Response Example](subsect_1518211824.md) — subsect_1518211824
+    - [Interactions with NetSuite Using SAML](section_1520981877.md) — section_1520981877
+    - [SAML SSO in Multiple NetSuite Account Types](bridgehead_4430963939.md) — bridgehead_4430963939
+      - [Set Up and Configure SAML SSO in More Than One Account](subsect_1510866606.md) — subsect_1510866606
+      - [Enable SAML in Multiple NetSuite Account Types](subsect_1516796571.md) — subsect_1516796571
+        - [Redefine the IdP Configuration](subsect_161961180156.md) — subsect_161961180156
+        - [Upload an existing IdP metadata file to All New Accounts](subsect_161961185571.md) — subsect_161961185571
+    - [NetSuite SAML Certificate References](bridgehead_3715154860.md) — bridgehead_3715154860
+    - [Remove SAML Access to NetSuite](section_N3827717.md) — section_N3827717
+    - [SAML SSO FAQ](section_1541168340.md) — section_1541168340
+      - [SAML SSO and Sandbox Accounts](subsect_1519246080.md) — subsect_1519246080
+      - [Technical Questions about SAML](subsect_1541170641.md) — subsect_1541170641
+  - [OpenID Connect (OIDC) Single Sign-on](chapter_156399873235.md) — chapter_156399873235
+    - [Register NetSuite with Your OpenID Connect Provider](section_156477805451.md) — section_156477805451
+    - [Enable the OpenID Connect (OIDC) Single Sign-on Feature in NetSuite](section_156399898626.md) — section_156399898626
+    - [Configure OpenID Connect (OIDC) in NetSuite](section_156503115372.md) — section_156503115372
+    - [Customize Roles for OpenID Connect](section_156503101193.md) — section_156503101193
+    - [OpenID Connect Permissions](section_156503088100.md) — section_156503088100
+    - [Assign the OpenID Connect Single Sign-on Role to Users](section_156503080375.md) — section_156503080375
+    - [User Access to NetSuite with OpenID Connect](section_156399919135.md) — section_156399919135
+    - [Remove OpenID Connect Access to NetSuite](section_156399923739.md) — section_156399923739
+    - [Troubleshoot OIDC](section_158025750790.md) — section_158025750790
+      - [OIDC Error Messages That May Be Encountered During Setup](subsect_158032058622.md) — subsect_158032058622
+      - [OIDC Error Messages Users May Encounter](subsect_158031974255.md) — subsect_158031974255
+      - [Resolving the Login Access Has Been Disabled Error](subsect_158039667024.md) — subsect_158039667024
+  - [Digital Signing](chapter_1542656608.md) — chapter_1542656608
+    - [Uploading Digital Certificates](section_1542656620.md) — section_1542656620
+      - [Access to Digital Certificates](subsect_1547501301.md) — subsect_1547501301
+    - [Locking and Restricting Certificates](section_161964252762.md) — section_161964252762
+  - [SSH Keys for SFTP](chapter_1558548485.md) — chapter_1558548485
+    - [Access to SSH Keys](section_161964200881.md) — section_161964200881
+    - [Uploading Private SSH Keys](section_1558548493.md) — section_1558548493
+    - [Locking and Restricting SSH Keys](section_162273124049.md) — section_162273124049
+  - [Secrets Management](article_160216486846.md) — article_160216486846
+    - [Supported SuiteScript 2.x modules](section_160216528415.md) — section_160216528415
+    - [Creating Secrets](section_160216498405.md) — section_160216498405
+    - [Filtering Secrets](section_160216499842.md) — section_160216499842
+    - [Managing Secrets](section_160216501258.md) — section_160216501258
+    - [Access to Secrets](section_160337298977.md) — section_160337298977
+    - [Code Sample](section_160216636819.md) — section_160216636819
+  - [RESTlet Authentication](chapter_1529417663.md) — chapter_1529417663
+    - [Authentication for RESTlets](section_N2971402.md) — section_N2971402
+    - [Setting up Token-based Authentication for a RESTlet integration](section_1530099787.md) — section_1530099787
+      - [Using TBA for RESTlet Authentication (OAuth)](section_4624454249.md) — section_4624454249
+        - [TBA Setup Requirements](section_4636903496.md) — section_4636903496
+        - [Example OAuth Header](section_4635758034.md) — section_4635758034
+    - [Setting up OAuth 2.0 for a RESTlet Integration](section_158263562006.md) — section_158263562006
+      - [Using OAuth 2.0 for RESTlet Authentication](section_158272429269.md) — section_158272429269
+    - [Using User Credentials for RESTlet Authentication](section_4623992425.md) — section_4623992425
+    - [Tracking RESTlet Calls Made with TBA and OAuth 2.0](section_4567507062.md) — section_4567507062
+      - [Blocking an Application](section_4639959077.md) — section_4639959077
+      - [Using the RESTlets Execution Log](section_4639542510.md) — section_4639542510
+  - [Issue Token and Revoke Token REST Services for Token-based Authentication](chapter_157017286140.md) — chapter_157017286140

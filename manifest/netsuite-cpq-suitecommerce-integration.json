@@ -1,0 +1,24 @@
+{
+  "branch": "netsuite-cpq-suitecommerce-integration",
+  "generatedAt": null,
+  "pages": {
+    "article_25182351521": {
+      "path": "corpus/netsuite-cpq-suitecommerce-integration/article_25182351521.md",
+      "title": "NetSuite CPQ SuiteCommerce Integration",
+      "type": "article",
+      "breadcrumb": "NetSuite CPQ > NetSuite CPQ SuiteCommerce Integration",
+      "parent": "book_6185324445",
+      "category": "netsuite-cpq",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_25182351521.html",
+      "etag": "\"cd2ef7cff158322805f0b244bfe77849:1786980323.720034\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:40:20.340Z",
+      "sha256": "91d757da0930692d97882b0524f51e29604426a65f0eda3cd96676d95106aaa5",
+      "bytes": 15225,
+      "anchors": 8,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

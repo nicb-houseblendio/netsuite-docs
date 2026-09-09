@@ -1,0 +1,24 @@
+{
+  "branch": "netsuite-next-faq",
+  "generatedAt": null,
+  "pages": {
+    "article_7130219835": {
+      "path": "corpus/netsuite-next-faq/article_7130219835.md",
+      "title": "NetSuite Next FAQ",
+      "type": "article",
+      "breadcrumb": "NetSuite Next > NetSuite Next FAQ",
+      "parent": "book_1140422123",
+      "category": "netsuite-next",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_7130219835.html",
+      "etag": "\"0cecaddbbb773858eec899b56fb87306:1786980333.3635\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:56:21.348Z",
+      "sha256": "b3c249594cb8c719ed752336a9566ec146b4ab2dd5c5b73f6f77355c970bfae4",
+      "bytes": 8230,
+      "anchors": 6,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

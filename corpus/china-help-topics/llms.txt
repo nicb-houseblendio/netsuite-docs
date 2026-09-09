@@ -1,0 +1,23 @@
+# China Help Topics
+
+China Help Topics (51 pages): China Help Topics
+
+## Chapters
+- [China Help Topics](section_4198421197.md): Overview The following help topics provide information about NetSuite features that are specific to companies doing business in China.
+  - [China Terminology](section_61132322037.md): The following table defines the terms used in NetSuite to support China-specific business processes and SuiteApps: | Term | Definition | | --- | --- | | China Cash Flow Item 中国现金流量表项 | The values used in Accounts Payable and Accounts Receivable transactions.
+  - [Setting Up China Localization](section_1524030372.md): China Localization in NetSuite is provided through the China Localization SuiteApp.
+  - [Override VAT Invoice Type](section_1524038850.md): Note: This feature requires the China Localization SuiteApp.
+  - [Override China Cash Flow Item](section_1524039505.md): Note: This feature requires the China Localization SuiteApp.
+  - [Processing Red-Letter Invoices](section_1524042810.md): Note: This feature requires the China Localization SuiteApp.
+  - [Generating China Voucher Printing Report](section_1524044318.md): Note: This feature requires the China Localization SuiteApp.
+  - [Generating the China Voucher List](section_1544494013.md): Overview The China Voucher List feature provides the following: - Lets you create voucher lists for printing, including details like general ledger (GL) accounts and numbers, document numbers, class, location, and departments.
+  - [Generating China VAT Transactions](section_1524045813.md): Note: This feature requires the China Localization SuiteApp.
+  - [Importing VAT Transactions from the China Golden Tax System](section_1524050168.md): Note: This feature requires the China Localization SuiteApp.
+  - [Viewing Transaction Status for Issuing VAT Invoices](section_1524050477.md): Note: This feature requires the China Localization SuiteApp.
+  - [Financial Reports for China](section_1524051032.md): Note: This feature requires the China Localization SuiteApp.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch china-help-topics

@@ -1,0 +1,20 @@
+# Labor Expense Allocation
+
+Labor Expense Allocation (19 pages): Labor Expense Allocation
+
+## Chapters
+- [Labor Expense Allocation](article_159118277665.md): You can use the Labor Expense Allocation SuiteApp to allocate payroll costs to target programs or functional areas that benefit.
+  - [Installing the Labor Expense Allocation SuiteApp](section_159118326236.md): This section includes the prerequisites and instructions for installing the Labor Expense Allocation SuiteApp.
+  - [Roles and Permissions for Labor Expense Allocation](section_164929901591.md): The following permissions are required to use the Labor Expense Allocation SuiteApp.
+  - [Setting Up Labor Expense Allocation](section_159118758771.md): To set up Labor Expense Allocation, perform the following tasks: 1.
+  - [Using Labor Expense Allocation with SuitePeople U.S. Payroll](section_164758876046.md): The Labor Expense Allocation SuiteApp lets you allocate labor expenses by employee transactions linked to payroll data from the SuitePeople U.
+  - [Managing Labor Expense Allocation Periods](section_159127182919.md): Labor expense allocation periods track labor expense allocations posted to a GL period.
+  - [Employee Timesheets](section_159127196924.md): Employee timesheets are usually entered and managed in the Time Tracking or Employee Weekly Timesheet features in NetSuite.
+  - [Processing Labor Expense Allocation Periods](section_159134040854.md): After you have entered the timesheets and labor expense allocation periods, process the timesheets.
+  - [Approving Labor Expense Allocation Transactions](section_159134783984.md): After timesheets are processed, the SuiteApp automatically creates labor expense allocation transactions based on the custom segments picked in the Labor Expense Allocation Preferences page.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch labor-expense-allocation

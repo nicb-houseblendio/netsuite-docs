@@ -1,0 +1,18 @@
+# Release Notes
+
+Release Notes (102 pages): Release Notes
+
+## Chapters
+- [Release Notes](book_N3865324.md): - NetSuite Version 2026.
+  - [NetSuite Version 2026.2](chapter_N3944673.md): NetSuite Version 2026.
+  - [NetSuite 2026.2 Release Notes](article_72152418635.md): Revision Date: August 17, 2026 Important: This document summarizes the changes to NetSuite between 2026.
+  - [Monthly Minor Release Notes](article_8174941789.md): This page lists the enhancements included in each month's minor release for NetSuite 2026.
+  - [NetSuite SuiteApps Release Notes](section_N3945762.md): NetSuite 2026.
+  - [SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced Release Notes](chapter_4410490401.md): The following information lists the features and updates associated with SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced.
+  - [NetSuite 2026.2 Translated Release Notes](chapter_N3894663.md): PDF files of the 2026.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch release-notes

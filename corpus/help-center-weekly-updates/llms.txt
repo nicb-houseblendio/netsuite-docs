@@ -1,0 +1,12 @@
+# Help Center Weekly Updates
+
+Help Center Weekly Updates (1 pages): Help Center Weekly Updates
+
+## Chapters
+- [Help Center Weekly Updates](chapter_3798389663.md): This version of help includes updates to reflect new features added for NetSuite 2026.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch help-center-weekly-updates

@@ -1,0 +1,60 @@
+{
+  "branch": "glossary",
+  "generatedAt": null,
+  "pages": {
+    "book_N3928385": {
+      "path": "corpus/glossary/book_N3928385.md",
+      "title": "Glossary",
+      "type": "book",
+      "breadcrumb": "Additional Resources > Glossary",
+      "parent": "set_N3859054",
+      "category": "additional-resources",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/book_N3928385.html",
+      "etag": "\"d512a00d3c58c2caf2f2067f68d8f21e:1786980354.068651\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:44.270Z",
+      "sha256": "398263ced425794bd938b9b95f0430232d5c7e75561b5fa7845bf9282f813bf4",
+      "bytes": 324,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "chapter_3794468027": {
+      "path": "corpus/glossary/chapter_3794468027.md",
+      "title": "Glossary",
+      "type": "chapter",
+      "breadcrumb": "Additional Resources > Glossary > Glossary",
+      "parent": "book_N3928385",
+      "category": "additional-resources",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_3794468027.html",
+      "etag": "\"ff1cb2699d5ae52535cf51c0533d11ba:1786980393.642312\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:44.672Z",
+      "sha256": "3af1023b263f513405049af6bd36d963b7ce61643d8ff13275e54dfd97acdab4",
+      "bytes": 123918,
+      "anchors": 53,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "article_159531755298": {
+      "path": "corpus/glossary/article_159531755298.md",
+      "title": "Area-Specific Glossaries",
+      "type": "article",
+      "breadcrumb": "Additional Resources > Glossary > Area-Specific Glossaries",
+      "parent": "book_N3928385",
+      "category": "additional-resources",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_159531755298.html",
+      "etag": "\"c5fac269c8e755d6e7630fa73fc91d19:1786980289.071883\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:44.826Z",
+      "sha256": "5f24746c3d497c45e9d9c98edb994182a57e28d8a1c4da7c324e97733da39df3",
+      "bytes": 2317,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

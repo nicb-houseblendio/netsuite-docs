@@ -1,0 +1,35 @@
+# SaaS Metric Reporting
+
+SaaS Metric Reporting (82 pages): SaaS Metric Reporting
+
+## Chapters
+- [SaaS Metric Reporting](book_132508596.md): - SaaS Metric Reporting Overview(https://docs.
+  - [SaaS Metric Reporting Overview](article_6160057721.md): SaaS Metric Reporting uses the most common metric impacts for software as a service (SaaS) revenue reporting.
+  - [SaaS Metric Reporting Setup Tasks](article_4135652613.md): To use the SaaS Metric Reporting feature, you need to complete the following actions: - Enable SaaS Metric Reporting - Create items for SaaS Metric Reporting - Start SaaS Metric Tracking - Review the Criteria for Automatic Creation of Analytical Impact Records Related Topics - Enabling SaaS Metric Reporting(https://docs.
+  - [Enabling SaaS Metric Reporting](article_4141614984.md): You'll need Administrator permission to enable and use SaaS Metric Reporting.
+  - [Creating Items for SaaS Metric Reporting](article_8142859620.md): You can use SaaS metric reporting for the following item types with subtype = For Sale, Resale: - Inventory Item - Non-inventory item - Service - Kit/Package - Marix Items For instructions, see Creating Item Records(https://docs.
+  - [Impact Subcategory Record for SaaS Metric Reporting](article_6161310886.md): The impact subcategory is a refined level of reporting changes to recurring revenue.
+  - [SaaS Metric Tracking](article_5162432206.md): SaaS Metric Reporting automatically generates the new, upsell, downsell, and churn impacts for tracked items across transactions and subscriptions.
+  - [Analytical Impact Record for SaaS Metric Reporting](article_83140559381.md): When you track SaaS metrics for an item in NetSuite, certain source records can automatically generate Analytical Impact records to support unified SaaS Metric Reporting.
+  - [Adjusting Analytical Impact Values](article_6151003455.md): Sometimes you'll need to make adjustments to the impact amount or change its category.
+  - [Deleting Analytical Impact or SaaS Metric Records](article_7153032891.md): In NetSuite, analytical impact and SaaS metric records may be automatically deleted under certain conditions.
+  - [Statuses Preventing Analytical Impact Creation](article_1161722127.md): NetSuite won't create analytical impact records for transactions or subscriptions in the following statuses, even for historical records.
+  - [Acquisition Date for Customer Cohort in SaaS Metric Reporting](article_2145337308.md): The Acquisition Date field on the Financial subtab of the Customer record enhances SaaS metric reporting and supports customer cohort analysis.
+  - [Custom Terms and Partial Month Calculations](article_9160154627.md): This article explains how NetSuite calculates custom terms for subscriptions or transactions that don't start and end exactly on month boundaries.
+  - [SaaS Metric Record for SaaS Metric Reporting](article_3114848375.md): The SaaS Metric record is created nightly using the bulk processing framework and is used for reporting.
+  - [Finding SaaS Metric Records](article_150351788.md): SaaS Metric Reporting brings together data from various sources, turning transactional amounts into consistent recurring values.
+  - [Renaming SaaS Metric Records](article_2150557242.md): You can rename any SaaS Metric record.
+  - [Creating Datasets for SaaS Metric Reporting](article_3143219934.md): You can create separate datasets for both SaaS Metrics and Analytical Impacts.
+  - [Updating Transactions and SaaS Metric Reporting](article_2150423235.md): When you make changes to an existing transaction, NetSuite automatically updates all related analytical impact values and SaaS Metric figures, like Monthly Recurring Revenue (MMR).
+  - [Stand-alone Transactions in SaaS Metric Reporting](article_122737677.md): The Stand-alone Transaction use case tracks the impact of isolated transactions on your SaaS metrics, including new sales, upsells, downsells, churn, and renewals.
+  - [Billing Schedules in SaaS Metric Reporting](article_8122420966.md): Billing schedules help define how and when customers are billed for SaaS products across various sales activities such as new contracts, renewals, upsells, and more.
+  - [Contract Renewals in SaaS Metric Reporting](article_4122558626.md): One of the key capabilities of SaaS Metric Reporting is analyzing contract renewals and categorizing them for improved metrics and forecasting.
+  - [Subscription Billing in SaaS Metric Reporting](article_6122637447.md): Subscription Billing automates and manages customer subscriptions, ensuring accurate SaaS metrics for contract changes, renewals, upsells, downsells, and churn events.
+  - [Historical Imports in SaaS Metric Reporting](article_8123417423.md): NetSuite SaaS Metrics Reporting supports the import of legacy or external subscription data using historical imports.
+  - [Subscription Metrics](article_1215935976.md): The Subscription Metrics SuiteApp helps you track and understand recurring revenue performance in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch saas-metric-reporting

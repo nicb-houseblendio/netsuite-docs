@@ -1,0 +1,27 @@
+# Project Management
+
+Project Management (221 pages): Project Management
+
+## Chapters
+- [Project Management](part_3746040281.md): - Using Project Management(https://docs.
+  - [Using Project Management](chapter_N1179876.md): With Project Management, you get everything from the basic Projects feature, and more.
+  - [Project Tasks](section_N1192913.md): When you use the Project Management feature, you can create project task records to track the activities you need to finish.
+  - [Project Task Manager](chapter_N1214895.md): The Project Task Manager gives you a visual interface that shows all your project resources and tasks in one place, so you can make sure that project tasks are being staffed effectively.
+  - [Working with Resources in Project Management](section_N1187445.md): People you assign to work on a project are called project resources.
+  - [Resource Allocations](chapter_3746701142.md): Important: For information about the availability of Resource Allocations, please contact your account representative.
+  - [Managing Time and Expenses for Project Resources](section_N1190979.md): To estimate project costs accurately, you need to be able to accurately capture resource time entries for utilization and productivity on projects and assess how that time figures into each project.
+  - [Tracking and Managing Projects](section_N1201734.md): - Project Dashboard(https://docs.
+  - [Project Billing](section_N1204906.md): NetSuite gives you flexible options for project billing.
+  - [Job Costing and Project Budgeting](chapter_3748436271.md): Important: For information about the availability of Job Costing and Project Budgeting, please contact your account representative.
+  - [Project Management Reports](section_N1207852.md): You can run the following reports to help assess and manage your projects.
+  - [Purchase to Project](chapter_160223473105.md): The Purchase to Project SuiteApp lets project managers create and manage purchase transactions related to projects and project tasks.
+  - [Project Risk Forecast](chapter_158926773024.md): The Project Risk Forecast SuiteApp lets project managers monitor the health of projects and categorize them into risk levels.
+  - [Invoice Presentation Template](article_164129342142.md): The Invoice Presentation Template (IPT) SuiteApp provides project-based businesses the flexibility to present data in multiple formats using invoice presentation templates.
+  - [Project Classification](article_9130222781.md): The Project Classification SuiteApp enables organizations to associate their projects with financial segments such as Project Classification Department, Project Classification Class, and Project Classification Location.
+  - [Project Cost-to-Cost Percent Complete](article_1101144282.md): The Project Cost-to-Cost Percent Complete SuiteApp is a cost-based percent complete approach to recognize revenue on projects.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch project-management

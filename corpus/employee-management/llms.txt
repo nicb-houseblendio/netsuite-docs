@@ -1,0 +1,12 @@
+# Employee Management
+
+Employee Management (1 pages): Employee Management
+
+## Chapters
+- [Employee Management](article_161718113403.md): To learn more about how you can use NetSuite for employee management, watch the following videos.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch employee-management

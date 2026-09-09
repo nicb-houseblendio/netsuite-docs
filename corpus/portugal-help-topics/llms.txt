@@ -1,0 +1,17 @@
+# Portugal Help Topics
+
+Portugal Help Topics (63 pages): Portugal Help Topics
+
+## Chapters
+- [Portugal Help Topics](article_161010578494.md): Overview The following help topics provide information about NetSuite features that are specific to companies doing business in Portugal.
+  - [Portugal Account Setup](section_161011563345.md): Setting up an account for an organization doing business in Portugal requires enabling several features and installing additional SuiteApps.
+  - [Setting Up Portugal-Specific Preferences](section_161011601159.md): To setup your NetSuite account according to Portugal-specific preferences, you must adjust your NetSuite Company, and Subsidiary settings.
+  - [Setting Up Portugal Account for PT SAF-T Compliance](section_161011605047.md): In addition to the general Portugal account setup, you must also enable some features and perform mappings specifically to ensure that the PT SAF-T file contains the complete required information in the correct formats.
+  - [Portugal-Specific SuiteApps](section_161011674283.md): - Portugal Localization(https://docs.
+  - [Portugal Tax Topics In Accounts Without SuiteTax](section_161044164894.md): In Portugal, all invoicing software must be certified by the Portuguese tax authority DGCI, as mandated by Decree nº 363/2010 of the 23rd June Series I nº 120, and by Circular Letter Nº: 50 000/2012.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch portugal-help-topics

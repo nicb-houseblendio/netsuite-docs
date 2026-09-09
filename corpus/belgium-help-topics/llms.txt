@@ -1,0 +1,16 @@
+# Belgium Help Topics
+
+Belgium Help Topics (59 pages): Belgium Help Topics
+
+## Chapters
+- [Belgium Help Topics](chapter_156024393244.md): Overview The following Help topics provide information about NetSuite features that are specific to companies doing business in Belgium.
+  - [Belgium Account Setup](section_156587331080.md): Setting up a NetSuite account for a company doing business in Belgium requires enabling several features and installing additional SuiteApps.
+  - [Setting Up Belgium-Specific Preferences](section_156587333461.md): To set up your NetSuite account so that it's tailored to Belgian business requirements, you must adjust the Company, and Subsidiary settings.
+  - [Belgium-Specific SuiteApps](section_158583533321.md): - Belgium Localization(https://docs.
+  - [Belgium Tax Topics In Accounts Without SuiteTax](section_156742725505.md): If you have a Belgium subsidiary and nexus and you have the International Tax Reports SuiteApp installed in your NetSuite account, you can generate the Belgium VAT Return in English, Dutch, or French.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch belgium-help-topics

@@ -1,0 +1,24 @@
+# Inventory Management
+
+Inventory Management (609 pages): Inventory Management
+
+## Chapters
+- [Inventory Management](book_N2249433.md): - Inventory Management Overview(https://docs.
+  - [Inventory Management Overview](article_161970666917.md): Managing your inventory is one of the most important tasks of running your business.
+  - [Inventory Management Setup](chapter_N2249539.md): To begin your setup, you must enable the required features for inventory, location, and orders.
+  - [Basic Inventory Management](chapter_N2250682.md): This section describes the basic processes and tasks for inventory management.
+  - [Advanced Inventory Management](chapter_N2285050.md): You can use the Advanced Inventory Management (AIM) feature to automate demand-based inventory replenishment.
+  - [Consigned Inventory Management](article_94502112.md): The Consigned Inventory Management feature enables you to track inventory levels and costs of your vendor consigned items.
+  - [Inventory Reporting](chapter_N2353200.md): NetSuite reports are a powerful tool you can use to assess inventory at all stages of your inventory workflow.
+  - [Inventory SuiteAnalytics Workbooks](chapter_156708335167.md): SuiteAnalytics offers inventory dataset and workbook templates with predefined source data and criteria.
+  - [Warranty and Repairs Management SuiteApp](chapter_3938292477.md): Warranty and Repairs Management lets you register item warranties and handle warranty claims.
+  - [Quality Management](part_1510239273.md): - Quality Management Overview(https://docs.
+  - [Auto Assign UPC](chapter_158373836991.md): Overview The Auto Assign UPC SuiteApp streamlines UPC management for inventory and assembly items in NetSuite.
+  - [Smart Count](article_83123952246.md): Overview The Smart Count SuiteApp enables real-time inventory counts during business hours, so operations continue uninterrupted.
+  - [Item 360 Dashboard](article_2145345562.md): The Item 360 Dashboard SuiteApp provides a real-time and concise overview of an item's current status.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch inventory-management

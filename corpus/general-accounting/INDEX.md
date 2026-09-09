@@ -1,0 +1,477 @@
+# General Accounting
+
+473 pages, category: Accounting
+
+- [Accounting](set_N1379402.md) — set_N1379402
+  - [General Accounting](preface_3710627041.md) — preface_3710627041
+    - [NetSuite Accounting Overview](chapter_N1379709.md) — chapter_N1379709
+    - [Accounting Features and Preferences](chapter_N1383640.md) — chapter_N1383640
+      - [Accounting-Related Features](section_N1383904.md) — section_N1383904
+      - [Accounting Preferences](section_N1384948.md) — section_N1384948
+        - [General Accounting Preferences](section_N1385293.md) — section_N1385293
+        - [Items/Transactions Accounting Preferences](section_N1387022.md) — section_N1387022
+        - [Order Management Accounting Preferences](section_N1388149.md) — section_N1388149
+        - [Projects Accounting Preferences](section_3769284587.md) — section_3769284587
+        - [Time & Expenses Accounting Preferences](section_N1391368.md) — section_N1391368
+        - [Approval Routing Accounting Preferences](section_N1391689.md) — section_N1391689
+        - [Accounting Books Accounting Preferences](section_158452244498.md) — section_158452244498
+        - [Balancing Segments Preferences](section_157973602247.md) — section_157973602247
+      - [Setting Up Accounting Lists](section_N1391837.md) — section_N1391837
+      - [Setting Up Employee Related Lists](section_N1394576.md) — section_N1394576
+    - [Currency Management](chapter_N1395057.md) — chapter_N1395057
+      - [Multiple Currencies](section_N1395463.md) — section_N1395463
+        - [Enabling the Multiple Currencies Feature](section_N1395677.md) — section_N1395677
+        - [Creating Currency Records](section_N1395911.md) — section_N1395911
+          - [Viewing and Editing Currency Records](section_1543618833.md) — section_1543618833
+          - [Currency Decimal Precision](section_N1397831.md) — section_N1397831
+          - [Customizing Currency Formats](bridgehead_N1396253.md) — bridgehead_N1396253
+          - [Currency Record Fields for Currency Exchange Rate Integration](section_1543620005.md) — section_1543620005
+        - [Setting a Base Currency](section_N1397082.md) — section_N1397082
+        - [Assigning Currencies to Entities](section_N1397405.md) — section_N1397405
+          - [Balance Information for Entities with Multiple Currencies](bridgehead_N1400109.md) — bridgehead_N1400109
+          - [Duplicate Entity Records with Different Primary Currencies](bridgehead_N1400329.md) — bridgehead_N1400329
+          - [Customers and Multiple Currencies](section_N1398493.md) — section_N1398493
+            - [Currency on Customer Transactions](bridgehead_N1398658.md) — bridgehead_N1398658
+            - [Item Sales Prices and Currency](bridgehead_N1398871.md) — bridgehead_N1398871
+            - [Website Customers and Multiple Currencies](bridgehead_N1400282.md) — bridgehead_N1400282
+          - [Vendors and Multiple Currencies](section_N1400742.md) — section_N1400742
+            - [Currency on Vendor Transactions](bridgehead_N1400935.md) — bridgehead_N1400935
+            - [Item Purchase Prices and Currency](bridgehead_N1401098.md) — bridgehead_N1401098
+      - [Currency Exchange Rates](section_N1401566.md) — section_N1401566
+        - [Currency Exchange Rates List Page](subsect_1527609411.md) — subsect_1527609411
+          - [Adding Rates to the Currency Exchange Rates List](section_N1401868.md) — section_N1401868
+          - [Updating Rates in the Currency Exchange Rates List](section_N1403894.md) — section_N1403894
+          - [Currency Exchange Rate History](section_157289920531.md) — section_157289920531
+        - [Currency Exchange Rate Types](section_157289938740.md) — section_157289938740
+          - [Enabling Currency Exchange Rate Types](section_157290068930.md) — section_157290068930
+          - [Adding a Currency Exchange Rate Type](section_157290069932.md) — section_157290069932
+          - [Viewing and Editing Currency Exchange Rate Types](section_157289947204.md) — section_157289947204
+        - [Currency Exchange Rate Integration](section_N1404429.md) — section_N1404429
+          - [Enabling the Currency Exchange Rate Integration Feature](section_4322310757.md) — section_4322310757
+          - [Integrated Exchange Rate Providers](bridgehead_4320491322.md) — bridgehead_4320491322
+          - [Methods for Obtaining Exchange Rates](bridgehead_4322231734.md) — bridgehead_4322231734
+          - [Anchor Currencies](bridgehead_4322232861.md) — bridgehead_4322232861
+        - [Setting Exchange Rates Directly on Transactions](section_N1404249.md) — section_N1404249
+      - [Consolidated Exchange Rates](section_N1404834.md) — section_N1404834
+        - [Consolidated Exchange Rates vs. Currency Exchange Rates](section_N1405239.md) — section_N1405239
+        - [Consolidated Exchange Rate Types](section_N1405625.md) — section_N1405625
+        - [Viewing Consolidated Exchange Rates](section_N1405950.md) — section_N1405950
+        - [Editing Consolidated Exchange Rates](section_N1406714.md) — section_N1406714
+        - [Calculating Consolidated Exchange Rates Automatically](section_N1406908.md) — section_N1406908
+          - [Consolidated Exchange Rate Automatic Calculation Example](section_N1407165.md) — section_N1407165
+        - [Consolidated Exchange Rates on Reports](section_N1407782.md) — section_N1407782
+        - [Search for Consolidated Exchange Rates](section_N1408952.md) — section_N1408952
+        - [Consolidated Exchange Rate Types for Transaction Searches](section_N1409190.md) — section_N1409190
+      - [Foreign Currency Revaluation](section_N1409370.md) — section_N1409370
+        - [Currency Revaluation Transactions](section_1550016096.md) — section_1550016096
+        - [Accounting for Fluctuation in Exchange Rates for Closed Transactions](section_N1425038.md) — section_N1425038
+          - [Applied Payments and Realized Gain/Loss](section_N1425327.md) — section_N1425327
+            - [Variance Calculations for Realized Gain and Loss](bridgehead_4279828767.md) — bridgehead_4279828767
+            - [Posting Periods and Transaction Dates for Realized Gain and Loss](bridgehead_1550020494.md) — bridgehead_1550020494
+            - [Effect of Voiding Applied Payments](section_1556144790.md) — section_1556144790
+          - [Rounding Gain/Loss](bridgehead_4030214366.md) — bridgehead_4030214366
+            - [Rounding Gain/Loss Using Different Exchange Rates](section_1551910359.md) — section_1551910359
+            - [Rounding Gain/Loss Using the Same Exchange Rate](bridgehead_4587403197.md) — bridgehead_4587403197
+          - [Realized Exchange Rate Gains and Losses Report](section_N1425486.md) — section_N1425486
+          - [Examples for the Realized Exchange Rate Gains and Losses Report](section_N1425819.md) — section_N1425819
+            - [Example with Same Period but Different Rates](bridgehead_N1425933.md) — bridgehead_N1425933
+            - [Example with Different Periods and Different Rates](bridgehead_N1427520.md) — bridgehead_N1427520
+            - [Example of Credit Memo in a Different Period with a Different Rate](bridgehead_N1428017.md) — bridgehead_N1428017
+        - [Revaluation of Open Currency Balances](section_N1428662.md) — section_N1428662
+          - [Types of Accounts That Can Be Revalued](section_N1428933.md) — section_N1428933
+            - [Residual Base Currency Balances and Base Currency Adjustments](bridgehead_N1429248.md) — bridgehead_N1429248
+            - [Base Currency Adjustment Example](bridgehead_N1429362.md) — bridgehead_N1429362
+          - [Generating Revaluations](section_N1430227.md) — section_N1430227
+            - [Foreign Currency Revaluation for Multiple Subsidiaries](bridgehead_4169300609.md) — bridgehead_4169300609
+            - [Classifications and Currency Revaluation](bridgehead_N1430408.md) — bridgehead_N1430408
+            - [Viewing Revaluation Results](bridgehead_N1430727.md) — bridgehead_N1430727
+            - [Revaluation Record Details](section_N1430933.md) — section_N1430933
+          - [Unrealized Exchange Rate Gains and Losses Report](section_N1437432.md) — section_N1437432
+          - [Revaluation Examples](section_N1431203.md) — section_N1431203
+            - [Revaluation of Invoice with No Payments](bridgehead_N1431303.md) — bridgehead_N1431303
+            - [Revaluation of Invoice with Partial Payment](bridgehead_N1431690.md) — bridgehead_N1431690
+            - [Revaluation in Reopened Periods](bridgehead_N1432098.md) — bridgehead_N1432098
+            - [Revaluation of Advanced Intercompany Journal Entry](bridgehead_N1436722.md) — bridgehead_N1436722
+        - [Foreign Currency Variance Mapping](section_4818126540.md) — section_4818126540
+          - [Defining Foreign Currency Variance Posting Rules](section_1510697395.md) — section_1510697395
+          - [Foreign Currency Variance Posting Rules List](section_4818972102.md) — section_4818972102
+          - [Prioritizing Foreign Currency Variance Posting Rules](section_1510962600.md) — section_1510962600
+          - [Transactions Voided After Posting Rules Change](section_1514922794.md) — section_1514922794
+          - [Impact of Foreign Currency Variance Posting Rules on Foreign Exchange Revaluation Reports](bridgehead_4819097874.md) — bridgehead_4819097874
+    - [Chart of Accounts Management](chapter_N1439850.md) — chapter_N1439850
+      - [Feature-Specific, System-Generated Accounts](bridgehead_4078513386.md) — bridgehead_4078513386
+      - [Chart of Account Numbering](section_N1440268.md) — section_N1440268
+      - [Creating Accounts](section_N1440518.md) — section_N1440518
+        - [Editing an Account](section_4641794885.md) — section_4641794885
+      - [Account Types](section_3947502870.md) — section_3947502870
+      - [Entering Opening Balances](section_N1441761.md) — section_N1441761
+      - [Setting Up Historical Balances in OneWorld](section_N1442160.md) — section_N1442160
+      - [Viewing the Chart of Accounts](section_N1442506.md) — section_N1442506
+      - [Making Changes to Accounts](section_N1442743.md) — section_N1442743
+        - [Changing Names of General Ledger Accounts](section_N1442914.md) — section_N1442914
+        - [Adding or Changing Account Numbers](section_N1443085.md) — section_N1443085
+        - [Merging Accounts](section_N1443248.md) — section_N1443248
+        - [Deleting Accounts and Making Accounts Inactive](section_N1444958.md) — section_N1444958
+    - [Accounting Period Management](chapter_N1445226.md) — chapter_N1445226
+      - [Accounting Period Setup](section_N1445585.md) — section_N1445585
+        - [Manage Accounting Periods Page](section_N1445839.md) — section_N1445839
+        - [Setting Up Accounting Periods for a Year](section_N1446183.md) — section_N1446183
+        - [Setting Up Single Accounting Periods](section_N1446470.md) — section_N1446470
+        - [Editing an Accounting Period](section_N1446881.md) — section_N1446881
+        - [Accounting Period Deletion Restrictions](section_N1448709.md) — section_N1448709
+        - [Viewing the Status of Accounting Period Changes](section_N1449023.md) — section_N1449023
+      - [Fiscal Calendars](section_N1449211.md) — section_N1449211
+        - [Enabling Multiple Calendars](section_N1449485.md) — section_N1449485
+        - [Creating a Fiscal Calendar](section_N1449559.md) — section_N1449559
+          - [Editing a Fiscal Calendar](bridgehead_N1449653.md) — bridgehead_N1449653
+          - [Assigning Fiscal Calendars](bridgehead_N1449741.md) — bridgehead_N1449741
+          - [Moving Subsidiaries to a New Fiscal Year](bridgehead_N1449790.md) — bridgehead_N1449790
+        - [Setting Up Accounting Periods for a Full Year for Subsidiaries](section_N1449871.md) — section_N1449871
+        - [Setting Up Single Accounting Periods for Subsidiaries](section_N1449971.md) — section_N1449971
+        - [Adjustment Periods](section_N1450241.md) — section_N1450241
+        - [Restriction and Automation Rules Governing Accounting Period Changes](section_N1450765.md) — section_N1450765
+        - [Multiple Calendars with Other NetSuite Features](section_N1450943.md) — section_N1450943
+        - [Searching Fiscal Calendars](bridgehead_4193640975.md) — bridgehead_4193640975
+      - [GL Audit Numbering](section_3735573963.md) — section_3735573963
+        - [GL Audit Numbering and Other Features](section_4805163325.md) — section_4805163325
+        - [Enabling GL Audit Numbering and Setting Preferences](section_4805169812.md) — section_4805169812
+        - [Reviewing Transactions Before Running a Numbering Sequence](section_4805237500.md) — section_4805237500
+        - [Running GL Audit Numbering Sequences](section_4805209975.md) — section_4805209975
+        - [Setting Up a GL Audit Numbering Sequence](section_4805169254.md) — section_4805169254
+        - [Viewing the GL Audit Numbering Status](section_4805236073.md) — section_4805236073
+        - [Viewing GL Audit Numbering Sequences](section_4805236232.md) — section_4805236232
+        - [Reports and Saved Searches](section_4805346546.md) — section_4805346546
+        - [GL Impact Locking](section_4725785967.md) — section_4725785967
+      - [Rules for Future Accounting Periods](section_N1451349.md) — section_N1451349
+        - [Setting the Enable Accounting Period Window Preference](section_N1451595.md) — section_N1451595
+        - [Locking and Unlocking Accounting Periods](section_N1451780.md) — section_N1451780
+        - [Locking Accounting Periods in NetSuite OneWorld](section_N1452163.md) — section_N1452163
+      - [Accounting Period Close](section_N1452509.md) — section_N1452509
+        - [Non-Posting Transactions in Locked and Closed Periods](section_N1452887.md) — section_N1452887
+        - [Using the Period Close Checklist](section_N1455781.md) — section_N1455781
+        - [Inventory Tasks on the Period Close Checklist](section_N1456591.md) — section_N1456591
+        - [Unlocking Period Transactions](section_N1457300.md) — section_N1457300
+        - [Reopening a Closed Period](section_N1457543.md) — section_N1457543
+      - [Year-End Closing](section_N1457773.md) — section_N1457773
+      - [Reporting by Accounting Period](section_N1458661.md) — section_N1458661
+        - [Running Reports for Subsidiaries with Different Accounting Periods](section_N1458877.md) — section_N1458877
+      - [Searching by Accounting Period](section_N1459178.md) — section_N1459178
+      - [Locking Transactions](section_N560870.md) — section_N560870
+    - [Intelligent Close Manager](article_6092808306.md) — article_6092808306
+      - [Intelligent Close Manager Overview](article_7202210350.md) — article_7202210350
+      - [Intelligent Close Manager Roles and Permissions](article_5202659816.md) — article_5202659816
+      - [Enabling the Intelligent Close Manager Feature](article_7203104321.md) — article_7203104321
+      - [Using the Intelligent Close Manager Dashboard Portlet](article_3203353024.md) — article_3203353024
+      - [Mapping Tasks and KPIs to Features and Preferences](article_203743279.md) — article_203743279
+      - [KPIs in the Intelligent Close Manager Portlet](article_3205250261.md) — article_3205250261
+      - [Estimated Impact and Task Criteria in the Intelligent Close Manager](article_173730006.md) — article_173730006
+      - [Generating Close Manager Insights](article_2144137227.md) — article_2144137227
+      - [Close Manager Task Record Overview](article_9095712283.md) — article_9095712283
+        - [Creating Close Manager Tasks](article_122942573.md) — article_122942573
+        - [Viewing and Editing Close Manager Task Records](article_2120056461.md) — article_2120056461
+    - [General Ledger Impact of Transactions](chapter_N1459499.md) — chapter_N1459499
+      - [GL Impact Page](section_N1481077.md) — section_N1481077
+        - [Printing the GL Impact for a Transaction](subsect_156215822877.md) — subsect_156215822877
+        - [Tax Lines on the GL Impact Page](bridgehead_3872526349.md) — bridgehead_3872526349
+      - [Sales Transaction GL Impact](section_N1459773.md) — section_N1459773
+      - [Customer Transaction GL Impact](section_N1460914.md) — section_N1460914
+      - [Vendor/Purchase Transaction GL Impact](section_N1461991.md) — section_N1461991
+      - [Cost of Goods Sold (COGS) GL Impact](section_N1464868.md) — section_N1464868
+      - [Bank Transaction GL Impact](section_N1465926.md) — section_N1465926
+      - [General Ledger Tracking in Transaction System Notes](section_N556628.md) — section_N556628
+    - [Journal Entries](chapter_N1468455.md) — chapter_N1468455
+      - [Journal Entries Overview](section_N1468996.md) — section_N1468996
+        - [Specialized Types of Journal Entries](bridgehead_1494510597.md) — bridgehead_1494510597
+        - [Manual Journal Entry Creation](bridgehead_N1469070.md) — bridgehead_N1469070
+        - [Journal Entry Approval](bridgehead_N1469122.md) — bridgehead_N1469122
+        - [Journal Entry Reversal](bridgehead_N1469193.md) — bridgehead_N1469193
+      - [Journal Entry Preferences](section_N1469391.md) — section_N1469391
+        - [Void Transactions Using Reversing Journals Preference](bridgehead_N1469460.md) — bridgehead_N1469460
+        - [Reversing Journal Entry Accounting Preference](section_1497536981.md) — section_1497536981
+        - [Require Approvals on Journal Entries Preference](bridgehead_N1469586.md) — bridgehead_N1469586
+        - [Use Journal Entry Approval Routing](bridgehead_4643680489.md) — bridgehead_4643680489
+        - [Class, Department, Location Journal Entry Preferences](bridgehead_N1469649.md) — bridgehead_N1469649
+        - [Revenue Recognition Journal Entry Preference](bridgehead_4041556974.md) — bridgehead_4041556974
+      - [Making Journal Entries](section_N1469880.md) — section_N1469880
+        - [Entering General Journal Transactions](section_163165275262.md) — section_163165275262
+        - [Generating Insights on Journal Entries](article_0217080256.md) — article_0217080256
+        - [Modifying Journal Entries](section_1494522995.md) — section_1494522995
+        - [Deleting Journal Entries](section_3759800870.md) — section_3759800870
+        - [Preventing Duplicate Entity Type Occurrences](section_1114034136.md) — section_1114034136
+        - [GL Impact Rounding on Journal Entries](article_0207021124.md) — article_0207021124
+      - [Journal Entry Approval Overview](section_N1471271.md) — section_N1471271
+        - [Approving Journal Entries](section_163164516146.md) — section_163164516146
+        - [Using SuiteFlow for Journal Entry Approvals](section_4643662034.md) — section_4643662034
+          - [Enabling Workflows for Journal Entry Approval](procedure_4791365580.md) — procedure_4791365580
+          - [Designing and Deploying a Workflow Using SuiteFlow](bridgehead_4791364971.md) — bridgehead_4791364971
+      - [Reversing Journal Entries](section_N1471552.md) — section_N1471552
+      - [Viewing Journal Entries](section_N1472027.md) — section_N1472027
+      - [Printing Journal Entries](section_N1472381.md) — section_N1472381
+        - [Standard Journal Entry PDF/HTML Template for Printing Journal Entries](section_1496148016.md) — section_1496148016
+          - [Data Sources](bridgehead_1496860305.md) — bridgehead_1496860305
+          - [Enabling the Advanced PDF/HTML Templates Feature](bridgehead_1496243531.md) — bridgehead_1496243531
+          - [Standard Journal Entry PDF/HTML Template Customization](bridgehead_1496163955.md) — bridgehead_1496163955
+          - [Printing a Single Journal Entry or Multiple Journal Entries](bridgehead_1496245488.md) — bridgehead_1496245488
+        - [Printing a List of Journal Entries](section_1496148411.md) — section_1496148411
+      - [Importing a Journal Entry](section_N1472877.md) — section_N1472877
+      - [Journal Entries in OneWorld](section_N1475513.md) — section_N1475513
+        - [System-Generated Journals for Payments](section_1528216938.md) — section_1528216938
+        - [Elimination Journal Entries](section_N1475762.md) — section_N1475762
+        - [Making Advanced Intercompany Journal Entries](section_4803443925.md) — section_4803443925
+        - [Making Intercompany Journal Entries](section_N1475891.md) — section_N1475891
+          - [Example of Intercompany Journal Entries](section_N1476520.md) — section_N1476520
+        - [Enabling Intercompany Time and Expenses](section_N1476983.md) — section_N1476983
+          - [Intercompany Clearing Account](section_N1477786.md) — section_N1477786
+          - [Creating Intercompany Adjustments for Time and Expenses](section_N1478200.md) — section_N1478200
+          - [Example Intercompany Adjustment Scenario](section_N1478633.md) — section_N1478633
+      - [Bad Debt Overview](section_N1481280.md) — section_N1481280
+        - [Allowance for Bad Debts](bridgehead_4279824892.md) — bridgehead_4279824892
+        - [Creating a Journal Entry to Write Off Bad Debt](bridgehead_N1481347.md) — bridgehead_N1481347
+        - [Accepting a Customer Payment to Write Off Bad Debt](bridgehead_N1481661.md) — bridgehead_N1481661
+      - [Writing Off Customer Overpayments](section_N1483085.md) — section_N1483085
+        - [Applying a Journal Entry to an Overpayment](section_163156802058.md) — section_163156802058
+      - [Expense Allocation Overview](section_N1483457.md) — section_N1483457
+        - [Creating Expense Allocation Schedules](section_N1483674.md) — section_N1483674
+        - [Creating Expense Allocation Journal Entries](section_N1484411.md) — section_N1484411
+        - [Creating Intercompany Allocation Schedules](section_N1484654.md) — section_N1484654
+        - [Viewing the Details of Allocation Schedules](section_3869578910.md) — section_3869578910
+        - [Expense Allocation Assignment to Projects and Entities](section_N1485952.md) — section_N1485952
+        - [Creating an Allocation Batch](section_3867806074.md) — section_3867806074
+          - [Modifying Allocation Batches](section_3868728670.md) — section_3868728670
+          - [Deleting Allocation Batches](section_3868732557.md) — section_3868732557
+          - [Viewing the Details of Allocation Batches](section_3868734332.md) — section_3868734332
+          - [Viewing the Status of an Allocation Batch](section_3868735111.md) — section_3868735111
+      - [Period End Journal Entries](section_1531269686.md) — section_1531269686
+        - [Setup for Period End Journal Entries](section_1513119320.md) — section_1513119320
+          - [Enabling the Period End Journal Entries Feature](section_1513209294.md) — section_1513209294
+          - [Custom Fields and Segments on Period End Journals](section_1530139422.md) — section_1530139422
+          - [Roles and Permissions for Period End Journal Entries](section_1513971989.md) — section_1513971989
+          - [Configuring Auto-Numbering for Period End Journals](section_1520278508.md) — section_1520278508
+        - [Period End Journal Creation Process](section_1513210898.md) — section_1513210898
+          - [Creating Period End Journals from the Period Close Checklist](section_1515352794.md) — section_1515352794
+            - [Create All Journals](subsect_1546893211.md) — subsect_1546893211
+            - [Select Period End Journal Processes](subsect_1546893248.md) — subsect_1546893248
+            - [Rerunning Create Period End Journals Steps](subsect_1516118375.md) — subsect_1516118375
+            - [Adjustment Periods and Period End Journals](section_1532710812.md) — section_1532710812
+          - [Viewing Period End Journals](section_1515375368.md) — section_1515375368
+          - [Editing Period End Journals](section_1515522387.md) — section_1515522387
+          - [Deleting Period End Journals](section_1515522612.md) — section_1515522612
+          - [Field Reference for Period End Journals](section_1515353072.md) — section_1515353072
+            - [Period End Journal Header Fields](subsect_1516233151.md) — subsect_1516233151
+            - [Period End Journal Line Fields](subsect_1516233710.md) — subsect_1516233710
+            - [Period End Journal Detail Pages](section_1516406861.md) — section_1516406861
+              - [Consolidated Activity Detail](subsect_1516403985.md) — subsect_1516403985
+              - [Consolidated Rate Change Detail](subsect_1516404123.md) — subsect_1516404123
+              - [Income Statement Closing Detail](subsect_1516404404.md) — subsect_1516404404
+              - [Balance Sheet Closing Detail](subsect_1531160351.md) — subsect_1531160351
+          - [Historical Balances Journals](section_1515362210.md) — section_1515362210
+        - [Financial Reports with Period End Journals](section_1513210940.md) — section_1513210940
+          - [Period End Mode for Reports](section_1531245902.md) — section_1531245902
+          - [Post Closing Trial Balance Report](section_1531245926.md) — section_1531245926
+        - [Search for Period End Journals](section_1515096790.md) — section_1515096790
+      - [Balancing Segments and Journals](section_157358611227.md) — section_157358611227
+        - [Setup for Balancing Segments](section_1547627423.md) — section_1547627423
+          - [Enabling the Balancing Segments Feature](subsect_1547638463.md) — subsect_1547638463
+          - [Creating a Balancing Segment](subsect_1547638483.md) — subsect_1547638483
+          - [Configuring Intersegment Accounts](section_157247561203.md) — section_157247561203
+          - [Reversing Balancing Segment Intersegment Lines](section_159281288387.md) — section_159281288387
+          - [Transaction Line Segmentation on Payment Transactions](section_159281234403.md) — section_159281234403
+          - [Roles and Permissions for Balancing Segments](section_157419996408.md) — section_157419996408
+        - [Workflow for Balancing Segments](section_1549364089.md) — section_1549364089
+        - [Adding a Balancing Segment Value to a Transaction](section_157420059902.md) — section_157420059902
+        - [Balancing Transactions by Segment](section_1549372293.md) — section_1549372293
+          - [Example of Balancing Segments](section_1549364109.md) — section_1549364109
+        - [Viewing Balancing Journals](section_1549379328.md) — section_1549379328
+        - [Deleting Balancing Journals](section_156568289807.md) — section_156568289807
+        - [Transactions Balanced by Segments](section_157420717529.md) — section_157420717529
+        - [Reports That Display Balanced Segments](section_157420725002.md) — section_157420725002
+    - [Exception Management](article_141738648.md) — article_141738648
+      - [Exception Management Overview](article_5094345081.md) — article_5094345081
+      - [Exception Management Roles and Permissions](article_3094229201.md) — article_3094229201
+      - [Setting Up Exception Management](article_3094159663.md) — article_3094159663
+      - [Using the Exception Management Preferences](article_8092047163.md) — article_8092047163
+      - [Using the Exception Management Dashboard Portlet](article_2152024103.md) — article_2152024103
+      - [Managing Exceptions](article_8125518353.md) — article_8125518353
+        - [Identifying Exceptions](article_2134530542.md) — article_2134530542
+        - [Resolving Exceptions](article_9134702056.md) — article_9134702056
+        - [Changing the Resolution of an Exception](article_8140336974.md) — article_8140336974
+      - [Working With Exception Management in Sandbox Accounts](article_33817101.md) — article_33817101
+      - [Exception Management Frequently Asked Questions](article_8094314772.md) — article_8094314772
+    - [Budgets](preface_1523373090.md) — preface_1523373090
+      - [Budgets in NetSuite](chapter_N1503165.md) — chapter_N1503165
+        - [Setting Up a Budget](section_N1503407.md) — section_N1503407
+          - [Editing an Existing Budget in NetSuite](bridgehead_3795169800.md) — bridgehead_3795169800
+        - [Copying a Budget](section_N1505228.md) — section_N1505228
+        - [Importing a Budget](section_N1505717.md) — section_N1505717
+        - [Multiple Budgets and Budget Categories](section_N1506174.md) — section_N1506174
+        - [Budget-Related Reports](section_158801165026.md) — section_158801165026
+        - [Subsidiary Budgets in OneWorld](section_N1506361.md) — section_N1506361
+          - [Subsidiary Budgeting Scenario](section_N1506662.md) — section_N1506662
+          - [Creating Budget Categories for Local Subsidiary Budgeting](section_N1506823.md) — section_N1506823
+          - [Setting Up a Subsidiary Budget](section_N1507295.md) — section_N1507295
+          - [Guidelines for Copying a Subsidiary Budget](section_N1507638.md) — section_N1507638
+          - [CSV Import for Subsidiary Budgets](section_N1508163.md) — section_N1508163
+          - [Budget Exchange Rates](section_N1508302.md) — section_N1508302
+            - [Editing Budget Exchange Rates](bridgehead_N1508439.md) — bridgehead_N1508439
+            - [Search for Budget Exchange Rates](bridgehead_N1508542.md) — bridgehead_N1508542
+        - [Budgets for Secondary Accounting Books](section_1545224080.md) — section_1545224080
+    - [Account Registers](chapter_N1508800.md) — chapter_N1508800
+      - [Viewing Account Registers](section_N1509014.md) — section_N1509014
+        - [Account Register Footer Options](section_N1509237.md) — section_N1509237
+        - [Marking Transactions Cleared on Registers](section_N1511055.md) — section_N1511055
+        - [Printing Account Registers](section_N1511259.md) — section_N1511259
+        - [Emailing Account Registers](section_N1511442.md) — section_N1511442
+        - [Exporting Account Registers](section_N1511672.md) — section_N1511672
+        - [Controlling Access to Account Registers](section_164810963247.md) — section_164810963247
+      - [Available Account Registers](section_N1511955.md) — section_N1511955
+        - [Accounts Payable (A/P) Account Register](section_N1512361.md) — section_N1512361
+        - [Accounts Receivable (A/R) Account Register](section_N1512589.md) — section_N1512589
+        - [Bank Account Register](section_N1512829.md) — section_N1512829
+        - [Cost of Goods Sold Account Register](section_N1514305.md) — section_N1514305
+        - [Credit Card Account Register](section_N1514513.md) — section_N1514513
+        - [Deferred Expense Account Register](section_N1514701.md) — section_N1514701
+        - [Deferred Revenue Account Register](section_N1514906.md) — section_N1514906
+        - [Equity Account Register](section_N1515112.md) — section_N1515112
+        - [Fixed Asset Account Register](section_N1515479.md) — section_N1515479
+        - [Expense Account Register](section_N1515295.md) — section_N1515295
+        - [Income Account Register](section_N1515666.md) — section_N1515666
+        - [Long Term Liability Account Register](section_N1515850.md) — section_N1515850
+        - [Non-Posting Account Registers](section_N1516033.md) — section_N1516033
+        - [Other Asset Account Register](section_N1517602.md) — section_N1517602
+        - [Other Current Asset Account Register](section_N1517786.md) — section_N1517786
+        - [Other Current Liability Account Register](section_N1517969.md) — section_N1517969
+        - [Other Expense Account Register](section_N1518153.md) — section_N1518153
+        - [Other Income Account Register](section_N1518336.md) — section_N1518336
+        - [Unbilled Receivable Account Register](section_N1518520.md) — section_N1518520
+        - [Statistical Account Register](section_3872900576.md) — section_3872900576
+      - [Register Reports](section_N1518725.md) — section_N1518725
+    - [Accounting-Related Reports](chapter_N1519116.md) — chapter_N1519116
+      - [Financial Reports](section_N1520496.md) — section_N1520496
+        - [General Ledger Report](section_N1520771.md) — section_N1520771
+        - [Trial Balance Report](section_N1520986.md) — section_N1520986
+          - [Generating an Insight on a Trial Balance](article_0217075051.md) — article_0217075051
+        - [Account Detail Report](section_N1522428.md) — section_N1522428
+        - [GL Audit Numbering Report](section_3739913944.md) — section_3739913944
+      - [Labor Costs Report](article_0811090910.md) — article_0811090910
+      - [Labor Costs and Revenue Report](article_0811092002.md) — article_0811092002
+      - [Payroll Mappings to Labor Cost Categories](article_0811092835.md) — article_0811092835
+      - [Purchases Reports](section_N1527235.md) — section_N1527235
+        - [Open Purchase Orders Report Insights](article_0303113105.md) — article_0303113105
+        - [Purchase by Vendor Summary Report](section_N1527523.md) — section_N1527523
+        - [Purchase by Vendor Detail Report](section_N1527792.md) — section_N1527792
+        - [Purchase by Item Summary Report](section_N1528061.md) — section_N1528061
+        - [Purchase by Item Detail Report](section_N1528384.md) — section_N1528384
+        - [Purchase Order Register Report](section_N1528721.md) — section_N1528721
+        - [Open Purchase Orders Report](section_N1529021.md) — section_N1529021
+      - [Payables Reports](section_N1529262.md) — section_N1529262
+        - [A/P Aging Summary Report](section_N1529519.md) — section_N1529519
+        - [A/P Aging Detail Report](section_N1529840.md) — section_N1529840
+        - [A/P Register Report](section_N1530244.md) — section_N1530244
+        - [A/P Payment History by Bill Report](section_N1530532.md) — section_N1530532
+        - [A/P Payment History by Payment Report](section_N1530820.md) — section_N1530820
+        - [Open Bills Report](section_0610105114.md) — section_0610105114
+      - [Receivables Reports](section_N1531120.md) — section_N1531120
+        - [A/R Aging Summary Report](section_N1531392.md) — section_N1531392
+        - [A/R Aging Detail Report](section_N1532837.md) — section_N1532837
+        - [A/R Register Report](section_N1533154.md) — section_N1533154
+        - [A/R Payment History by Invoice](section_N1533442.md) — section_N1533442
+        - [A/R Payment History by Payment Report](section_N1533726.md) — section_N1533726
+        - [Receivables by Customer Report](section_N1534014.md) — section_N1534014
+    - [Account Matching Report SuiteApp](article_9110129486.md) — article_9110129486
+      - [Account Matching Report Terminology](article_0421120005.md) — article_0421120005
+      - [Account Matching Report Prerequisites](article_0421120951.md) — article_0421120951
+      - [Installing the Account Matching Report SuiteApp](article_0421121639.md) — article_0421121639
+      - [Account Matching Report Roles and Permissions](article_0421122232.md) — article_0421122232
+      - [Using the Account Matching Report SuiteApp](article_0421122607.md) — article_0421122607
+        - [Generating the Account Matching Report](article_0421122801.md) — article_0421122801
+        - [Account Matching Report Components](article_0421124530.md) — article_0421124530
+        - [Matching Transactions Manually](article_0421011453.md) — article_0421011453
+        - [Exporting the Account Matching Report](article_0422100344.md) — article_0422100344
+      - [Account Matching Report Considerations](article_0422113934.md) — article_0422113934
+    - [Sequential Liability SuiteApp](chapter_158408768320.md) — chapter_158408768320
+      - [Prerequisites for Sequential Liability](section_158089332041.md) — section_158089332041
+      - [Installing Sequential Liability](section_158045845357.md) — section_158045845357
+      - [Sequential Liability Terms and Definitions](section_157421385494.md) — section_157421385494
+      - [Setting up Sequential Liability](section_158166144259.md) — section_158166144259
+        - [Tips for Setting Up Sequential Liability](section_158080151368.md) — section_158080151368
+        - [Sequential Liability Roles and Permissions](section_157950453113.md) — section_157950453113
+        - [Sequential Liability Workflow](section_157474815023.md) — section_157474815023
+        - [Associating Vendor Bills and Vendor Credits to a Project](section_158071367737.md) — section_158071367737
+        - [Associating Customer Invoices and Credit Memos to a Project](section_158278781626.md) — section_158278781626
+      - [Using Sequential Liability](section_157474800707.md) — section_157474800707
+        - [Viewing the Project A/P - A/R Summary](section_157474805242.md) — section_157474805242
+        - [Navigating the Project A/P - A/R Summary Page](section_158339885730.md) — section_158339885730
+        - [Viewing the Project A/P - A/R Details](section_157948518283.md) — section_157948518283
+        - [Navigating the Project A/P - A/R Details Page](section_158339893998.md) — section_158339893998
+        - [Viewing A/P - A/R Details from the Project Record](section_158806212164.md) — section_158806212164
+        - [Setting Up the Sequential Liability Custom Portlet](section_159073822857.md) — section_159073822857
+      - [Sequential Liability Best Practices and Limitations](section_159307224281.md) — section_159307224281
+    - [Sales Return Accounting](article_158953443894.md) — article_158953443894
+      - [Installing Sales Return Accounting](section_55185805256.md) — section_55185805256
+      - [Enabling Required Features for Sales Return Accounting](section_158883623806.md) — section_158883623806
+      - [Sales Return Accounting Roles and Permissions](section_158883933942.md) — section_158883933942
+      - [Configuring Sales Return Accounting Custom GL Plug-in](section_158884927178.md) — section_158884927178
+      - [Creating Sales Returns Account Mapping](section_158885225324.md) — section_158885225324
+      - [Creating GL Entry for Sales Returns](section_158893025068.md) — section_158893025068
+    - [SuiteApprovals SuiteApp](chapter_161589014381.md) — chapter_161589014381
+      - [SuiteApprovals Terminology](section_95074055417.md) — section_95074055417
+      - [Prerequisites for SuiteApprovals](section_0531103942.md) — section_0531103942
+        - [Enabling Prerequisite Features for SuiteApprovals](bridgehead_1504484325.md) — bridgehead_1504484325
+        - [Setting Up Prerequisites for Supported Record Types](bridgehead_1556694406.md) — bridgehead_1556694406
+      - [Installing the SuiteApprovals SuiteApp](section_1504484281.md) — section_1504484281
+      - [Setting Up SuiteApprovals](section_1504506687.md) — section_1504506687
+        - [Creating or Customizing Roles for SuiteApprovals](bridgehead_1504492890.md) — bridgehead_1504492890
+        - [Guidelines for SuiteApprovals Scripts](bridgehead_162022228360.md) — bridgehead_162022228360
+        - [Setting Up Script Deployment for Record Types](bridgehead_1544003700.md) — bridgehead_1544003700
+        - [Enabling Draft Status for Record Types](section_0603023548.md) — section_0603023548
+        - [Setting Employee Approval Information](bridgehead_1504578604.md) — bridgehead_1504578604
+        - [Setting Approvers' Access to Subsidiaries for SuiteApprovals](bridgehead_157062113959.md) — bridgehead_157062113959
+        - [Setting Up Access to Vendor Bills from the Employee Center](bridgehead_159298760873.md) — bridgehead_159298760873
+        - [Setting Up Approvers](section_0603041931.md) — section_0603041931
+          - [Setting Up Project Approvers](bridgehead_161901163237.md) — bridgehead_161901163237
+          - [Setting Up Department Approvers](bridgehead_1505991819.md) — bridgehead_1505991819
+          - [Setting Up Group Approvers](bridgehead_1505994437.md) — bridgehead_1505994437
+          - [Setting Up Role Approvers](bridgehead_1505997760.md) — bridgehead_1505997760
+          - [Setting Up Final Approvers](bridgehead_1544011761.md) — bridgehead_1544011761
+      - [Defining Approval Rules](section_0530023802.md) — section_0530023802
+        - [Approval Rule Basic Information Fields](bridgehead_1556709181.md) — bridgehead_1556709181
+        - [Approval Rule Setting Fields](section_0929073838.md) — section_0929073838
+        - [Preparing to Create Approval Rules](bridgehead_1506000658.md) — bridgehead_1506000658
+        - [Vendor Bill Exception Criteria](bridgehead_163170722170.md) — bridgehead_163170722170
+        - [Creating Approval Rules](bridgehead_1505999631.md) — bridgehead_1505999631
+          - [Entering Basic Information](section_5122951727.md) — section_5122951727
+          - [Defining Approval Routing Settings](section_2132718543.md) — section_2132718543
+          - [Defining Record Locking and Reapproval Settings](section_53132710234.md) — section_53132710234
+          - [Creating Your First Approval Rule](section_90132659089.md) — section_90132659089
+        - [Copying or Editing Approval Rules](section_0602031537.md) — section_0602031537
+      - [SuiteApprovals Approval Workflow States](section_0602080723.md) — section_0602080723
+      - [SuiteApprovals Portlets](bridgehead_163473807761.md) — bridgehead_163473807761
+        - [Records for Approval Portlet](subsect_163712760407.md) — subsect_163712760407
+        - [SuiteApprovals Reminders Portlet](subsect_163712761302.md) — subsect_163712761302
+      - [SuiteApprovals Email Notifications Guide](bridgehead_1506068856.md) — bridgehead_1506068856
+      - [Automatic Approvals](bridgehead_1544019693.md) — bridgehead_1544019693
+      - [Project-Based Approvals](bridgehead_161901405388.md) — bridgehead_161901405388
+      - [Managing Approvals with SuiteApprovals](section_0602040221.md) — section_0602040221
+        - [Submitting Records for Approval](bridgehead_165162641182.md) — bridgehead_165162641182
+        - [Approving or Rejecting Records Using SuiteApprovals](section_0603083352.md) — section_0603083352
+        - [Approving Vendor Bills with SuiteApprovals](bridgehead_159298783117.md) — bridgehead_159298783117
+        - [Managing Records as a Final Approver](bridgehead_1544019472.md) — bridgehead_1544019472
+          - [Updating the Approval Information of a Record](section_0618104556.md) — section_0618104556
+        - [Delegating Approvals with SuiteApprovals](bridgehead_1506060872.md) — bridgehead_1506060872
+        - [Resubmitting Records for Approval](bridgehead_1506060896.md) — bridgehead_1506060896
+        - [Viewing Approval History](bridgehead_1506060854.md) — bridgehead_1506060854
+      - [Email Approvals](bridgehead_160327734183.md) — bridgehead_160327734183
+        - [Prerequisites for Email Approvals](bridgehead_160327492834.md) — bridgehead_160327492834
+          - [Enabling the Email Capture Plug-in for Email Approvals](section_40114848667.md) — section_40114848667
+          - [Setting Up Email Approval Preferences](section_1011095507.md) — section_1011095507
+        - [Setting Up Script Deployment for Email Approval](bridgehead_160327705595.md) — bridgehead_160327705595
+        - [Providing Access to Email Approval Log](bridgehead_160327944051.md) — bridgehead_160327944051
+        - [Creating Approval Rules for Email Approval Logs](bridgehead_160327953691.md) — bridgehead_160327953691
+        - [Best Practices for SuiteApprovals Email Responses](bridgehead_160328390111.md) — bridgehead_160328390111
+        - [Approving or Rejecting Records Through Email Approval](bridgehead_160327947350.md) — bridgehead_160327947350
+        - [Managing the Email Approval Log](bridgehead_160327960347.md) — bridgehead_160327960347
+          - [Email Approval Log Fields](section_9112917849.md) — section_9112917849
+          - [Reviewing the Email Approval Log](section_32114339690.md) — section_32114339690
+          - [Email Approval Log Cleanup](bridgehead_160327963356.md) — bridgehead_160327963356
+      - [FAQ: SuiteApprovals](section_1103113206.md) — section_1103113206
+      - [SuiteApprovals Considerations](section_0806110833.md) — section_0806110833

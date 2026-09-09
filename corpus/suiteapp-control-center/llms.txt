@@ -1,0 +1,18 @@
+# SuiteApp Control Center
+
+SuiteApp Control Center (33 pages): SuiteApp Control Center
+
+## Chapters
+- [SuiteApp Control Center](book_1557425073.md): - SuiteApp Control Center Overview(https://docs.
+  - [SuiteApp Control Center Overview](chapter_1526582942.md): SuiteApp Control Center is a single place to define and manage your SuiteApp distribution process.
+  - [Control Center REST API Endpoints](article_2085345571.md): SuiteApp Control Center REST API endpoints provide a streamlined way for SuiteApp publishers to manage and monitor SuiteApp versions.
+  - [SDF SuiteApp Creation and Listing Access](chapter_1525985358.md): The SuiteApp definition lets you set properties and control the availability of your SuiteApp for users.
+  - [SuiteApp Versions](chapter_1526582725.md): A SuiteApp version is a specific version of your SuiteApp.
+  - [Terms of Service](article_6141238491.md): You can add terms of service (ToS) to your SuiteApp and choose to require users to accept them before installing the SuiteApp.
+  - [SDF SuiteApp Installation and Upgrade](chapter_1562265717.md): Your users can install any SuiteApp if it's shared to their accounts and supports their NetSuite account version.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suiteapp-control-center

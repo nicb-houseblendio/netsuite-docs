@@ -1,0 +1,139 @@
+# Template Customization
+
+135 pages, category: SuiteCloud Platform
+
+- [Template Customization](book_5164527716.md) — book_5164527716
+  - [Advanced PDF/HTML Templates](chapter_4453550706.md) — chapter_4453550706
+    - [Using Advanced Template Formatting Programmatically](bridgehead_N2862762.md) — bridgehead_N2862762
+    - [Account-Specific Domains in Advanced Printing Templates](subsect_159560197793.md) — subsect_159560197793
+    - [Enabling the Advanced PDF/HTML Templates Feature](section_N2862977.md) — section_N2862977
+    - [Reviewing Available Advanced Templates](section_N2863143.md) — section_N2863143
+    - [Advanced PDF/HTML Multi-Currency Statement Templates](section_4364689607.md) — section_4364689607
+    - [Setting Custom Forms to Use Advanced Templates](section_N2863334.md) — section_N2863334
+    - [Advanced Templates Customization in the Template Editor](section_N2863632.md) — section_N2863632
+      - [Viewing an Advanced Template in the Template Editor](subsect_163731932934.md) — subsect_163731932934
+      - [Template Setup Window](subsect_163731943719.md) — subsect_163731943719
+      - [Previewing Advanced PDF/HTML Templates](section_4351543215.md) — section_4351543215
+      - [Saving an Advanced Template](section_156580675374.md) — section_156580675374
+      - [Error Messages in Advanced Templates](section_1499441399.md) — section_1499441399
+      - [WYSIWYG Editing in the Template Editor](section_4454197641.md) — section_4454197641
+        - [Template Editor Toolbar](section_1506352236.md) — section_1506352236
+        - [Adding and Removing Fields in Advanced Templates](section_N2864695.md) — section_N2864695
+          - [Adding a Field to an Advanced Template](subsect_163732036124.md) — subsect_163732036124
+          - [Adding and Removing Currency Symbols in Advanced Template Fields](subsect_163732053152.md) — subsect_163732053152
+          - [Removing a Field from an Advanced Template](subsect_163732067128.md) — subsect_163732067128
+        - [Adding and Formatting Text in Advanced Templates](section_N2865176.md) — section_N2865176
+        - [Adding Tables to Advanced Templates](section_N2865736.md) — section_N2865736
+        - [Including Images in Advanced Templates](section_3957689146.md) — section_3957689146
+      - [Source Code Editing in the Template Editor](section_4454200103.md) — section_4454200103
+        - [Source Code Editing to Customize Advanced Templates](section_4454208098.md) — section_4454208098
+          - [BFO Elements in Advanced Templates](subsect_163732124124.md) — subsect_163732124124
+          - [Using FreeMarker to Include NetSuite Data in Advanced Templates](subsect_163732171457.md) — subsect_163732171457
+          - [BFO and FreeMarker: Differences from HTML 4 Specification](subsect_163732214401.md) — subsect_163732214401
+        - [Syntax for Advanced Template Fields](section_N2864199.md) — section_N2864199
+          - [Entering a Field Manually to an Advanced Template](subsect_163585848784.md) — subsect_163585848784
+          - [Syntax for Body Fields](subsect_163585859063.md) — subsect_163585859063
+          - [Syntax for Sublist Fields](subsect_163585866237.md) — subsect_163585866237
+          - [Syntax for Address Subrecords](subsect_163585869493.md) — subsect_163585869493
+          - [Syntax for Fields from Joined Records and Searches](subsect_163585876245.md) — subsect_163585876245
+          - [FreeMarker Formatting Method](subsect_156624108232.md) — subsect_156624108232
+          - [Updating a Statement Template to Support Multiple Currencies](subsect_163585881724.md) — subsect_163585881724
+          - [File Cabinet FreeMarker Directive](subsect_156630695265.md) — subsect_156630695265
+        - [Setting a Template to Use a Font Unavailable in NetSuite](section_4549515329.md) — section_4549515329
+        - [Adding Files to Advanced PDF Templates](article_0414122450.md) — article_0414122450
+        - [Languages for Printed Forms that Use Advanced Templates](bridgehead_3963046048.md) — bridgehead_3963046048
+        - [Adding Translated Content in Advanced Printouts](section_156623786181.md) — section_156623786181
+        - [Adding Striping to Line Items in Advanced Templates](section_N2866065.md) — section_N2866065
+        - [Adding Page Breaks to Tables](bridgehead_4418819945.md) — bridgehead_4418819945
+        - [Printing Subsidiary Logo on Advanced Templates](section_4407559296.md) — section_4407559296
+        - [Adding Apply Sublist to Check Templates](section_4824042035.md) — section_4824042035
+        - [Using FreeMarker to Work with Hidden Fields Used in Advanced Templates](section_156752233995.md) — section_156752233995
+        - [Adding Bar Codes in Advanced Templates](section_3950986185.md) — section_3950986185
+          - [Generating Custom Bar Codes in Advanced Templates](section_N2868543.md) — section_N2868543
+        - [XML Formatting in Advanced PDF/HTML Templates](section_158204583926.md) — section_158204583926
+    - [Scripting with Advanced Templates](section_1533138530.md) — section_1533138530
+      - [Using Custom Data Sources for Advanced Printing](section_4508822143.md) — section_4508822143
+        - [Example of Using Custom Data Sources for Advanced Printing](section_4837143251.md) — section_4837143251
+      - [Using SuiteScript for Transaction Records](section_4453706706.md) — section_4453706706
+      - [Using SuiteScript to Apply Advanced Templates to Non-Transaction Records](section_4259402776.md) — section_4259402776
+      - [Using SuiteScript 2.x to Combine Multiple Data Sources in One Advanced Template](section_1546876737.md) — section_1546876737
+    - [Changing the Script ID of a Custom Template](section_1515580300.md) — section_1515580300
+    - [Advanced Templates for Printing Saved Search Results](section_4823423235.md) — section_4823423235
+    - [Advanced Templates Support for Company Printing Preferences](section_3950986508.md) — section_3950986508
+    - [FAQs for Advanced Printing](section_159984373188.md) — section_159984373188
+  - [Advanced Templates Reference](SBADVTemplates.md) — SBADVTemplates
+    - [Standard Sales Order PDF/HTML Template](SBADVTemplates_4105119165.md) — SBADVTemplates_4105119165
+    - [Standard Invoice PDF/HTML Template](SBADVTemplates_3058901257.md) — SBADVTemplates_3058901257
+    - [Standard Purchase PDF/HTML Template](SBADVTemplates_661787690.md) — SBADVTemplates_661787690
+    - [Standard Quote PDF/HTML Template](SBADVTemplates_3270959045.md) — SBADVTemplates_3270959045
+    - [Standard Cash Refund PDF/HTML Template](SBADVTemplates_1461471189.md) — SBADVTemplates_1461471189
+    - [Standard Cash Sale PDF/HTML Template](SBADVTemplates_1190729318.md) — SBADVTemplates_1190729318
+    - [Standard Return Authorization PDF/HTML Template](SBADVTemplates_3548896445.md) — SBADVTemplates_3548896445
+    - [Standard Picking Ticket PDF/HTML Template](SBADVTemplates_3948773230.md) — SBADVTemplates_3948773230
+    - [Standard Payment Voucher PDF/HTML Template](SBADVTemplates_4194588922.md) — SBADVTemplates_4194588922
+    - [Standard Credit Memo PDF/HTML Template](SBADVTemplates_3586342189.md) — SBADVTemplates_3586342189
+    - [Standard Customer Deposit PDF/HTML Template](SBADVTemplates_253014937.md) — SBADVTemplates_253014937
+    - [Standard Check PDF/HTML Template](SBADVTemplates_3377692491.md) — SBADVTemplates_3377692491
+    - [Standard UK Check PDF/HTML Template](SBADVTemplates_1196970862.md) — SBADVTemplates_1196970862
+    - [Standard US Voucher Check PDF/HTML Template](SBADVTemplates_2058632916.md) — SBADVTemplates_2058632916
+    - [Standard UK Voucher Check PDF/HTML Template](SBADVTemplates_1816397804.md) — SBADVTemplates_1816397804
+    - [Standard AU Voucher Check PDF/HTML Template](SBADVTemplates_2930696014.md) — SBADVTemplates_2930696014
+    - [Standard US Vendor Payment PDF/HTML Template](SBADVTemplates_3193957394.md) — SBADVTemplates_3193957394
+    - [Standard UK Vendor Payment PDF/HTML Template](SBADVTemplates_2521539765.md) — SBADVTemplates_2521539765
+    - [Standard AU Vendor Payment PDF/HTML Template](SBADVTemplates_2924580009.md) — SBADVTemplates_2924580009
+    - [Standard Paycheck PDF/HTML Template](SBADVTemplates_2964586030.md) — SBADVTemplates_2964586030
+    - [Standard Bill of Materials PDF/HTML Template](SBADVTemplates_3572568957.md) — SBADVTemplates_3572568957
+    - [Standard Shipping Label PDF/HTML Template](SBADVTemplates_4257968533.md) — SBADVTemplates_4257968533
+    - [Standard Customer Payment PDF/HTML Template](SBADVTemplates_1694374320.md) — SBADVTemplates_1694374320
+    - [Standard Mailing Label PDF/HTML Template](SBADVTemplates_375926209.md) — SBADVTemplates_375926209
+    - [Standard Item Label PDF/HTML Template](SBADVTemplates_1965473176.md) — SBADVTemplates_1965473176
+    - [Standard Statement PDF/HTML Template](SBADVTemplates_1863265063.md) — SBADVTemplates_1863265063
+    - [Standard Price List PDF/HTML Template](SBADVTemplates_2850813928.md) — SBADVTemplates_2850813928
+    - [Standard Multi-currency Statement Template](SBADVTemplates_485923307.md) — SBADVTemplates_485923307
+    - [Standard Expense Report PDF/HTML Template](SBADVTemplates_4103444790.md) — SBADVTemplates_4103444790
+    - [Standard Sales Order PDF/HTML Template (SuiteTax)](SBADVTemplates_3817827843.md) — SBADVTemplates_3817827843
+    - [Standard Invoice PDF/HTML Template (SuiteTax)](SBADVTemplates_85934086.md) — SBADVTemplates_85934086
+    - [Standard Purchase PDF/HTML Template (SuiteTax)](SBADVTemplates_2821420917.md) — SBADVTemplates_2821420917
+    - [Standard Quote PDF/HTML Template (SuiteTax)](SBADVTemplates_1507104168.md) — SBADVTemplates_1507104168
+    - [Standard Cash Refund PDF/HTML Template (SuiteTax)](SBADVTemplates_1467026524.md) — SBADVTemplates_1467026524
+    - [Standard Cash Sale PDF/HTML Template (SuiteTax)](SBADVTemplates_2443381528.md) — SBADVTemplates_2443381528
+    - [Standard Return Authorization PDF/HTML Template (SuiteTax)](SBADVTemplates_2323080518.md) — SBADVTemplates_2323080518
+    - [Standard Credit Memo PDF/HTML Template (SuiteTax)](SBADVTemplates_464110030.md) — SBADVTemplates_464110030
+    - [Standard Packing Slip PDF/HTML Template](SBADVTemplates_1124176509.md) — SBADVTemplates_1124176509
+    - [Standard Journal Entry PDF/HTML Template](SBADVTemplates_4164870873.md) — SBADVTemplates_4164870873
+    - [Standard Period End Journal PDF/HTML Template](SBADVTemplates_284379731.md) — SBADVTemplates_284379731
+  - [Scriptable Templates](section_3775087812.md) — section_3775087812
+    - [HTML and FreeMarker for Scriptable Templates](section_1556902584.md) — section_1556902584
+      - [FreeMarker Data Model](bridgehead_3784766932.md) — bridgehead_3784766932
+      - [FreeMarker Syntax](bridgehead_3785741842.md) — bridgehead_3785741842
+      - [Inserting Subtemplates into Templates](bridgehead_3867023782.md) — bridgehead_3867023782
+      - [Creating Scriptable Templates](bridgehead_3774378212.md) — bridgehead_3774378212
+    - [Synthetic Fields for Scriptable Templates](section_3784028533.md) — section_3784028533
+      - [Personal and Company Preferences in Scriptable Templates](subsect_1556744566.md) — subsect_1556744566
+      - [Customer Record Synthetic Fields](subsect_1556744681.md) — subsect_1556744681
+      - [Subsidiary Record Synthetic Fields](subsect_1556744750.md) — subsect_1556744750
+      - [Sales Rep Fields](subsect_1556744782.md) — subsect_1556744782
+      - [Subscription Category Fields](subsect_1556745071.md) — subsect_1556745071
+      - [Subscription Center Synthetic Fields](subsect_159964880996.md) — subsect_159964880996
+      - [Support Case Notification Synthetic Fields](subsect_1556745160.md) — subsect_1556745160
+      - [Issue Notification Synthetic Fields](subsect_1556745229.md) — subsect_1556745229
+      - [Online Form Notification Synthetic Fields](subsect_1556745328.md) — subsect_1556745328
+      - [Campaign and Sales Campaign Email Template Synthetic Fields](subsect_1556745405.md) — subsect_1556745405
+      - [User Fields](subsect_1556743749.md) — subsect_1556743749
+      - [Case Record Fields](subsect_1556743638.md) — subsect_1556743638
+      - [Web Site Notification Fields](subsect_1556745453.md) — subsect_1556745453
+      - [Web Site Record Fields](subsect_1556740735.md) — subsect_1556740735
+      - [Sales Order Record Fields](subsect_1556742223.md) — subsect_1556742223
+      - [Cash Sale Record Fields](subsect_1556742769.md) — subsect_1556742769
+      - [Item Fulfillment Record Fields](subsect_1556742876.md) — subsect_1556742876
+    - [Sample Scriptable Templates](section_3784030063.md) — section_3784030063
+    - [Converting CRMSDK Templates to Scriptable Templates](section_4038074365.md) — section_4038074365
+  - [Basic Printing Layouts](chapter_4453552264.md) — chapter_4453552264
+    - [Customizing Transaction Form PDF Layouts](section_N2869660.md) — section_N2869660
+      - [Defining Custom Elements](section_N2871444.md) — section_N2871444
+      - [Configuring Borders and Placement](section_N2870073.md) — section_N2870073
+      - [Formatting Label Text](section_N2870892.md) — section_N2870892
+      - [Formatting Data Text](section_N2871160.md) — section_N2871160
+      - [Using a Standard #10 Window Envelope With Transactions](section_N2872151.md) — section_N2872151
+    - [Transaction Form HTML Layouts](section_N2873464.md) — section_N2873464
+    - [Totals Transaction Form Layouts](section_N2873768.md) — section_N2873768

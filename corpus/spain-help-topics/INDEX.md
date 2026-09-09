@@ -1,0 +1,111 @@
+# Spain Help Topics
+
+107 pages, category: Country-Specific Features
+
+- [Spain Help Topics](article_6120204857.md) — article_6120204857
+  - [Functional Areas](bridgehead_71094120219.md) — bridgehead_71094120219
+    - [Accounting](bridgehead_21085132367.md) — bridgehead_21085132367
+    - [Taxation Features For Accounts Without SuiteTax](bridgehead_26101727171.md) — bridgehead_26101727171
+    - [Taxation Features For Accounts With SuiteTax](bridgehead_49092358354.md) — bridgehead_49092358354
+    - [Payments](bridgehead_35092806045.md) — bridgehead_35092806045
+    - [Banking](bridgehead_35083346081.md) — bridgehead_35083346081
+  - [Spain Account Setup](section_51100738391.md) — section_51100738391
+  - [Setting Up Spain-Specific Preferences](section_24083751829.md) — section_24083751829
+  - [Spain-Specific SuiteApps](article_1016090111.md) — article_1016090111
+    - [Spain Localization](article_2111427100.md) — article_2111427100
+      - [Spain Localization Overview](section_0805111549.md) — section_0805111549
+      - [Prerequisites for Installing the Spain Localization SuiteApp](section_0808031724.md) — section_0808031724
+      - [Installing the Spain Localization SuiteApp](section_0808031820.md) — section_0808031820
+      - [Required Setup for Using the Spain Localization SuiteApp](article_1202013450.md) — article_1202013450
+        - [Required Account Settings](section_0525024235.md) — section_0525024235
+          - [Setting the Reporting Frequency for Spain VAT Reports](subsect_32143832368.md) — subsect_32143832368
+          - [Setting Up Accounting Periods for a Year](subsect_51093302594.md) — subsect_51093302594
+          - [Assigning Tax Item Type for your Transactions with Item Records](subsect_88082846157.md) — subsect_88082846157
+        - [Required Subsidiary Settings](section_0504092724.md) — section_0504092724
+          - [Setting Spain as the Country of Your Subsidiary](subsect_46131952631.md) — subsect_46131952631
+          - [Adding a Nexus to Your Spanish Subsidiary](subsect_48132040227.md) — subsect_48132040227
+          - [Setting the Tax Registration Number for Your Spanish Subsidiary](subsect_72132104883.md) — subsect_72132104883
+          - [Setting the Contact Information for Your Spanish Subsidiary](subsect_73132229706.md) — subsect_73132229706
+          - [Setting the Name for Your Spanish Subsidiary](subsect_66132323505.md) — subsect_66132323505
+          - [Setting Activities for Your Spanish Subsidiary](subsect_31132441151.md) — subsect_31132441151
+          - [Setting Your Subsidiary Currency to EUR](subsect_0408041700.md) — subsect_0408041700
+        - [Required Customer/Vendor Settings](section_0504112620.md) — section_0504112620
+          - [Setting the Customer/Vendor Tax Registration Information](subsect_66132554550.md) — subsect_66132554550
+          - [Setting the Customer/Vendor Address](subsect_3132623267.md) — subsect_3132623267
+          - [Setting the Tax Registration Number and Nexus for your Customer/Vendor](article_0210094116.md) — article_0210094116
+        - [Required Import and Export Settings](section_0603023557.md) — section_0603023557
+          - [Creating a Vendor Record to Report Your DUA Invoices](subsect_0603023639.md) — subsect_0603023639
+          - [Inserting a Tax Compliance Text to Your Import and Export Invoices](subsect_0603023924.md) — subsect_0603023924
+          - [Updating Tax Codes for Import and Export Tax Transaction Types](subsect_0603024035.md) — subsect_0603024035
+        - [Required OSS for Spain Settings](article_1104122352.md) — article_1104122352
+          - [Adding the OSS Union Scheme to Your Spain Subsidiary](subsect_1104030247.md) — subsect_1104030247
+      - [Optional Setup for Using the Spain Localization SuiteApp](article_0923121518.md) — article_0923121518
+        - [Setting the Approval Status on Transactions](article_0923125544.md) — article_0923125544
+        - [Setting the Maximum Entries in Dropdown Preference](article_0629124048.md) — article_0629124048
+      - [Roles with Access to Spain Localization Features](section_0815105041.md) — section_0815105041
+      - [Generating Spain VAT Reports in the Spain Localization SuiteApp](section_0815012915.md) — section_0815012915
+        - [Resolving Errors in Generating Spain VAT Report Files](article_0831031353.md) — article_0831031353
+        - [Resolving Errors in Generating Modelo 303 Report File](article_1130110950.md) — article_1130110950
+        - [Resolving Errors in Generating Modelo 349 Report File](article_1130111538.md) — article_1130111538
+        - [Resolving Errors in Generating Modelo 390 Report File](article_0512113532.md) — article_0512113532
+        - [Resolving Errors in Generating Modelo 347 Report File](article_57112337194.md) — article_57112337194
+        - [Resolving Errors in Uploading Reports to the AEAT Online Portal](article_0920100817.md) — article_0920100817
+      - [Spain VAT Report Preview](article_1115031520.md) — article_1115031520
+      - [Exporting Spain VAT Report Files in a TXT Format](article_0913044438.md) — article_0913044438
+      - [Manual Update of Spain VAT Reports Submission Status](article_0719101138.md) — article_0719101138
+      - [Modelo 303 Report Configuration](article_1205110907.md) — article_1205110907
+      - [Modelo 390 Report Configuration](article_0403022647.md) — article_0403022647
+      - [Known Limitations of the Spain VAT Reports Provided by the Spain Localization SuiteApp](article_0907071308.md) — article_0907071308
+      - [Sourcing Strategy: Modelo 303, Modelo 349, Modelo 390, and Modelo 347](article_0525091839.md) — article_0525091839
+      - [Modelo 303 - What Goes into Each Box](article_0831031501.md) — article_0831031501
+      - [Modelo 349 - What Goes into Each Box](article_1130112532.md) — article_1130112532
+      - [Modelo 390 - What Goes into Each Box](article_0403101051.md) — article_0403101051
+      - [Modelo 347 - What Goes into Each Box](article_56121025458.md) — article_56121025458
+      - [Spain-Specific Financial Reports](article_0510065253.md) — article_0510065253
+        - [Financial Reports on the Saved Reports Tab](subsect_49141134879.md) — subsect_49141134879
+        - [Spain-Specific Workbook and Datasets](article_0510013648.md) — article_0510013648
+      - [SII - Immediate Supply of Information](article_0718090242.md) — article_0718090242
+        - [SII - Transaction Record Information](article_1114102907.md) — article_1114102907
+        - [SII Reporting Submission Status Types](subsect_18120244135.md) — subsect_18120244135
+        - [SII - AEAT Response](article_1115024329.md) — article_1115024329
+          - [Accessing SII - AEAT Response Page](subsect_93140621431.md) — subsect_93140621431
+          - [SII - Uploading AEAT Response Files](subsect_74142521475.md) — subsect_74142521475
+          - [AEAT Submissions Information](subsect_78131227195.md) — subsect_78131227195
+        - [Resolving Errors in Uploading XML Files on the SII - AEAT Response Page](article_0216123932.md) — article_0216123932
+        - [SII - Registration/Correction: Issued Invoice](article_1114102240.md) — article_1114102240
+        - [SII - Registration/Correction: Received Invoice](article_1114102546.md) — article_1114102546
+      - [Submitting Generated SII Reports to AEAT](article_1015091430.md) — article_1015091430
+        - [Prerequisites for Submitting SII Reports to AEAT](article_1022012552.md) — article_1022012552
+        - [Manual Submission of SII Reports to AEAT](article_1022012701.md) — article_1022012701
+        - [Automated Submission of SII Reports to AEAT](article_1022012821.md) — article_1022012821
+        - [Resolving Errors in Submitting SII Reports to AEAT](article_1022012914.md) — article_1022012914
+      - [Reporting Import and Export Transactions in Spain Reports](article_0530091115.md) — article_0530091115
+      - [Spain Tax Codes](article_0916013503.md) — article_0916013503
+      - [Spain Terminology](article_0621103010.md) — article_0621103010
+      - [Customization of Spain VAT Reports](article_0511122611.md) — article_0511122611
+        - [General Structure of Spain VAT Reports](article_0114033554.md) — article_0114033554
+        - [Modelo 303](section_0511010426.md) — section_0511010426
+        - [Modelo 349](section_0511011954.md) — section_0511011954
+        - [Modelo 390](section_98132131988.md) — section_98132131988
+        - [Modelo 347](article_0115104341.md) — article_0115104341
+        - [SII Reports](article_0115092026.md) — article_0115092026
+      - [Electronic Invoicing Features for Spain](article_0310020239.md) — article_0310020239
+  - [Spain Payment Formats](section_0628112629.md) — section_0628112629
+    - [Setting Up Company Bank Records in Spain](section_N1652248.md) — section_N1652248
+    - [Setting Up Bank Records of Vendors in Spain](section_N1655361.md) — section_N1655361
+    - [Setting Up Bank Records of Employees in Spain](section_N1655708.md) — section_N1655708
+    - [Setting Up Bank Records of Customers in Spain](section_N1656048.md) — section_N1656048
+    - [Setting Up Bank Records of Partners in Spain](section_3851246006.md) — section_3851246006
+  - [Spain Tax Topics For Accounts Without SuiteTax](section_0628121941.md) — section_0628121941
+    - [Spain Tax Codes](section_N1999320.md) — section_N1999320
+    - [Spain VAT Report](section_N2001072.md) — section_N2001072
+      - [What goes into each box - Spain VAT report](section_N2001334.md) — section_N2001334
+    - [Spain Online VAT Register](section_1496817614.md) — section_1496817614
+      - [Additional Fields for Spain VAT Register Information](section_1496818056.md) — section_1496818056
+      - [List of XML Fields for Spain Online VAT Reports](section_1517195876.md) — section_1517195876
+      - [Generating and Submitting the Spain VAT Register Information](section_1496818111.md) — section_1496818111
+      - [Viewing Transactions Generated for Spain Online VAT Register Reports](section_1496818141.md) — section_1496818141
+      - [Viewing the Status of Submitted Transactions](section_1499318665.md) — section_1499318665
+      - [Excluding Transactions from Spain Online VAT Register Reports](section_1511329005.md) — section_1511329005
+      - [Tracking Nondeductible Input Tax for Spain Online VAT Register Reports](section_1511332164.md) — section_1511332164
+    - [EU Sales List for Spain](section_N2004312.md) — section_N2004312

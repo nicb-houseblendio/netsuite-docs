@@ -1,0 +1,185 @@
+---
+id: "section_N1665332"
+type: "section"
+title: "Processing Bills and Expenses in Batches"
+branch: "payment-processing"
+category: "order-management"
+breadcrumb: "Order Management > Payment Processing > Payment Processing Options > Electronic Bank Payments > Processing Payments > Processing Bills and Expenses > Processing Bills and Expenses in Batches"
+parent: "section_N1665255"
+source: "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1665332.html"
+anchors: ["subsect_0722032903"]
+sha256: "500bb35db7bed23c2956c4f0761b98a94765f112d8418c0b9bcb1b3adabadf02"
+---
+
+If you have an active Electronic Bank Payments license, the Electronic Bank Payments SuiteApp enables you to group outstanding bills in batches for review and processing. A payment batch is a collection of outstanding vendor bills, employee expenses, and partner and employee commissions that are assembled automatically for a bank account that you set up in the Electronic Bank Payments SuiteApp. For information about setting up bank accounts for use with Electronic Bank Payments, see [Setting Up Bank Records](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1590309.html).
+
+For OneWorld accounts, if you want to process payments for a vendor's secondary subsidiary, be sure that your role has access to that secondary subsidiary. For more information, see [Setting Up Roles and Permissions](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/bridgehead_N1586829.html). Be sure to align a Class, Department, and Location to the correct subsidiary, if you are using these features. When processing payments, you can only select a class, department, or location assigned to subsidiaries that you have access to.
+
+For more information, see [Customizing or Creating NetSuite Roles](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N285937.html). For more information about multiple subsidiaries, see [Assigning Subsidiaries to a Vendor](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_4180576581.html).
+
+Payment batches for a bank account are created when you enable the **Process Bills Automatically** option on the bank details of that account. All outstanding bills that match the company bank criteria are automatically added in to batches. To set up the batch creation schedule, see [Setting Schedules for Payment Batches](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1673790.html).
+
+Important:
+
+Make sure that all payees included in the transactions for the batch are still active to avoid errors during payment file creation.
+
+When a payment batch is created, the currently selected accounts payable, on the company bank record, is used during processing. Any change to the accounts payable is applied only to new payment batches. Existing batches are still processed using the previously selected accounts payable.
+
+Note:
+
+You can process payment transactions for a bank account manually if you do not enable the Process Bills Automatically option. For more information, see [Manually Processing Bills and Expenses](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1666511.html).
+
+![Example of a Payment Batch List portlet showing 3 lines.](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/img/OrderManagement/PaymentProcessing/electronicpayments_paymentbatchportlet.png)
+
+You can view transactions in the payment batches from the Payment Batch Processing portlet. From the portlet, click the bank account for which the payment batch is created. The payment batch list displays information for each batch, including its statuses:
+
+-   **Open** - this status indicates that the batch has been created and is pending for review.
+    
+-   **Pending Approval** - this status indicates that the batch has been modified and is pending for approval.
+    
+-   **Updating** - this status indicates that the records are updating during a batch creation.
+    
+-   **Submitted** - this status indicates that the batch has been submitted for processing.
+    
+
+Additional bills are added whenever a payment batch is refreshed either manually or automatically per payment schedule. A batch is automatically closed when it reaches the threshold for the number of payment transactions. For more information, see [Adding the Payment Batch Processing Portlet](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1666182.html).
+
+Note:
+
+The maximum number of transactions per batch is 5,000 or less, depending on the custom template setup.
+
+Important:
+
+Payment batches that uses custom templates or standard payment format not within the account's country of operation, will not be processed when the license expires or the NetSuite SuiteApps License Client SutieApp is uninstalled.
+
+When a transaction is included in a batch, the **Batch Information** subtab is enabled on its record. On this subtab, batches are listed with the batch ID and name. The sample screenshot shows batch information about a vendor bill record.
+
+![Location of the Batch Information subtab.](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/img/OrderManagement/PaymentProcessing/batchTab.png)
+
+#### To refresh payment batches manually:
+
+1.  Go to Payments > Payment Processing > Payment Batch List.
+    
+2.  Select the bank account.
+    
+3.  On the **Open** subtab, click **Refresh Batch** to create new payment batches or add new bills to open batches.
+    
+4.  The Payment File Administration page is displayed, with the **File Processed?** field indicating the progress of the batch processing. Click **Refresh** to update the batch processing status.
+    
+
+Using Refresh batch, you can create new payment batches or add new bills to open the batches. You cannot remove the existing transactions using refresh batch but you can manually update the batch.
+
+#### To manually update the batch:
+
+1.  Go to Payments > Payment Processing > Payment Batch List.
+    
+2.  Click **Edit** on a batch.
+    
+3.  Clear the transactions that you want to remove.
+    
+4.  Click **Save**.
+    
+
+#### To submit payment batches for payment processing
+
+1.  Go to Payments > Payment Processing > Payment Batch List.
+    
+2.  Select the bank account.
+    
+3.  Select a payment batch from the list on the **Open** subtab.
+    
+    Note:
+    
+    When updating payment batches in bulk, you can add information directly in the **EFT File Reference Note** and **Aggregate by Payee** columns of the **Open** subtab. You can perform this process instead of adding the same information by editing a batch on the Bill Payment Batch page from the **Pending Approval** subtab.
+    
+    Important:
+    
+    On the Bill Payment Batch page, the list of transactions are displayed on the **Select Transactions** tab. The list doesn't include bills placed on payment hold. For more information, see [Managing Payment Holds](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1570238.html).
+    
+4.  Edit the payment batch:
+    
+    | Date to be processed | By default, this field displays the date when the batch is first created. Specify the date when the bank should process the payment transactions. Note: This field is not automatically updated to the current date when an existing batch is refreshed to add more transactions. |
+    | --- | --- |
+    | Posting period | Select the accounting period to which the payment transactions are posted. |
+    | EFT file reference note | Enter a note to display in the header portion of the generated EFT file. |
+    | Aggregate by Payee | Check this box if you want to group payments of a particular payee into a single payment file. You can aggregate payments further by selecting another aggregation method in the **And** field. Payment transactions are aggregated into a single payment format using the selected aggregate method, after they are aggregated by payee. Important: To check or clear the **Aggregate by Payee** box by default, go to Payments > Setup > Electronic Payments Preferences, click the General Preference subtab, and then check or clear the **Aggregate By Payee (Batch)** box. Note: This option is required to process batch payments with discounts or credits. |
+    | Department | Select the department for payments made under this bank account. |
+    | Class | Select the class for payments made under this bank account. |
+    | Location | Select the location for payments made under this bank account. |
+    
+    Note:
+    
+    For each category, you can set up to 50,000 classes, departments or locations. Setting up more than 50,000 for each category may slow down the loading of the dropdown list of categories.
+    
+    After the payment transactions are processed, the created payment records show the department, class, and location values, depending on the aggregation settings:
+    
+    -   If the **Aggregate by Payee** option is enabled, the payment records show the department, class, or location entered in the payment batch, regardless of the department, class, and location values of the individual payment transactions.
+        
+    -   If the **Aggregate by Payee** option is enabled, and an aggregate by either department, class, or location is used as a second-level aggregation method, the payment records show the department, class, or location of the payment transactions instead of the values entered in the payment batch.
+        
+    -   If the **Aggregate by Payee** option is disabled, the payment records show the department, class, and location values of the payment transactions instead of the values specified in the payment batch.
+        
+    
+    Additionally, the payment records can use the department, class, and location values of the payment transactions based on the Allow Per-Line Departments, Allow Per-Line Classes, and Allow Per-Line Location settings saved in Accounting Preferences:
+    
+    -   If any of the allow per-line options are enabled, the payment records show the department, class, and location values entered in the payment batch.
+        
+    -   If any of the allow per-line options are disabled, the payment records show the department, class, and location values of the payment transactions.
+        
+    
+    For more information about NetSuite accounting preferences, see [Accounting Preferences](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1384948.html).
+    
+    To approve, reject, or edit payment batches, see [Approving, Rejecting, or Editing Payment Batches](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_3826904294.html).
+    
+    If **Vendor Payments** box is checked for Approval Routing (Setup > Accounting > Accounting Preferences > Approval Routing), you will not be able to edit and submit the payment batch for processing or approval.
+    
+5.  On the **Transactions** subtab, in the **Pay** column, check the box for each payment transaction that you want to process. To automatically mark transactions for payment, enable the **Mark by Default** preference on the company bank record.
+    
+    Note:
+    
+    Term or early settlement discounts are automatically applied to bills if they are processed within the discount date. In this case, the **Payment Amount** field shows the discounted amount.
+    
+    Important:
+    
+    If you enabled the Hide Transaction option, all applicable transactions are automatically selected for processing but are not displayed on the form. The Number of Transactions and Total Payment Amount fields are automatically updated even when the transactions are hidden. To display the **Name** column, go to Payments > Setup > Electronic Payments Preferences, click the **General Preference** subtab, and check the **Include Name in Transaction List** box.
+    
+    The **Amount for Approval** field displays the highest single or combined total amount among all transactions within the payment batch. The value is based on the approval type selection in the company bank details:
+    
+    -   **Bill Payment** - With this approval type, the amount for approval displays the value of the bill with the highest total amount in the payment batch.
+        
+    -   **Vendor Payment** - With this approval type, the amount for approval displays the value of transactions for the vendor with the highest combined total amount in the payment batch.
+        
+    -   **Batch Payment** - With this approval type, the amount for approval displays the combined total amount of all transactions in the payment batch.
+        
+    
+    Note:
+    
+    When approving a payment batch, you can view the company bank details to verify that the amount for approval has exceeded the payment limit. For more information, see [Setting Up Approval Routing for Payment Batches](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_3824128426.html).
+    
+6.  Click the **Exchange Rates** subtab, and change the values in the **Exchange Rate** field if you want to use an exchange rate that is different from the Currency Exchange Rates set up in your NetSuite account. For more information, see [Currency Management](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_N1395057.html).
+    
+7.  Click **Save & Submit** to save the updated list of bills and submit the payment batch for processing.
+    
+    Note:
+    
+    If Approval Routing is enabled and the batch exceeds the payment limit, the batch is not processed until it has been approved. You can view the payment limit in the company bank details.
+    
+
+## Send Reminders for Batches in Pending Approval Status {#subsect_0722032903}
+
+You can send reminder emails to the approvers using the **Send Reminder** button on the Bill Payment Batch and Global Bill Payment Batch pages for batches in Pending Approval status. You must have the batch viewing permissions to view the **Send Reminder** button.
+
+Note:
+
+The reminder emails are triggered and sent only to the primary employee set as approver at that level.
+
+### Related Topics
+
+-   [Processing Payments](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1665126.html)
+-   [Processing Bills and Expenses](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1665255.html)
+-   [Setting Schedules for Payment Batches](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1673790.html)
+-   [Adding the Payment Batch Processing Portlet](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1666182.html)
+-   [Manually Processing Bills and Expenses](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N1666511.html)
+-   [Manually Processing Bills and Expenses from Primary or Secondary Banks](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_164300395411.html)
+
+[General Notices](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_N000004.html)

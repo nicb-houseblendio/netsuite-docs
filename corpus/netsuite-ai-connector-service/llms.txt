@@ -1,0 +1,19 @@
+# NetSuite AI Connector Service
+
+NetSuite AI Connector Service (60 pages): NetSuite AI Connector Service
+
+## Chapters
+- [NetSuite AI Connector Service](article_7200233106.md): NetSuite gives you the option to use an external AI client to complete some of your tasks.
+  - [Get Started with the NetSuite AI Connector Service](article_3200541651.md): NetSuite has adopted the Model Context Protocol (MCP), which boosts its integration capabilities and enables secure interactions between AI models and data systems.
+  - [Associated Risks, Controls, and Mitigation Strategies](article_9002708453.md): Although AI agents and large language models (LLMs) offer significant benefits, their use can introduce additional risks to organizations.
+  - [Creating Custom Tools for the NetSuite AI Connector Service](article_162020236.md): By building custom tools, you can automate tasks and extend NetSuite's capabilities.
+  - [MCP Standard Tools SuiteApp](article_143403258.md): The MCP Standard Tools SuiteApp is designed for use with the NetSuite AI Connector Service(https://docs.
+  - [NetSuite AI Connector Service Companion SuiteApp](article_9091153093.md): The NetSuite AI Connector Service Companion SuiteApp provides a centralized repository of enterprise-grade AI prompts designed specifically for NetSuite users.
+  - [MCP Sample Tools](article_8204806622.md): Important: As of September 2025, the MCP Sample Tools SuiteApp is no longer available for new installations.
+  - [NetSuite AI Connector Service FAQ](article_4160616848.md): Here you can find the answers to the most common questions about the NetSuite AI Connector Service.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-ai-connector-service

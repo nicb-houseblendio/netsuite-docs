@@ -1,0 +1,12 @@
+# NetSuite Next FAQ
+
+NetSuite Next FAQ (1 pages): NetSuite Next FAQ
+
+## Chapters
+- [NetSuite Next FAQ](article_7130219835.md): Note: This topic describes functionality available in NetSuite Next.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-next-faq

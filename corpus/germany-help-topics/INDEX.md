@@ -1,0 +1,98 @@
+# Germany Help Topics
+
+94 pages, category: Country-Specific Features
+
+- [Germany Help Topics](section_4169634910.md) — section_4169634910
+  - [Functional Areas](bridgehead_160156190769.md) — bridgehead_160156190769
+    - [Accounting](bridgehead_1554723518.md) — bridgehead_1554723518
+    - [Taxation (Non-SuiteTax)](bridgehead_160162478333.md) — bridgehead_160162478333
+    - [Taxation (SuiteTax)](bridgehead_160162598725.md) — bridgehead_160162598725
+    - [Payments](bridgehead_160162965367.md) — bridgehead_160162965367
+    - [Bank Reconciliation](bridgehead_160163124401.md) — bridgehead_160163124401
+    - [SuiteCommerce](bridgehead_1554726124.md) — bridgehead_1554726124
+  - [Germany Account Setup](section_1554726737.md) — section_1554726737
+  - [Setting Up Germany-Specific Preferences Page](section_1554726820.md) — section_1554726820
+  - [Germany-specific SuiteApps](section_158529777788.md) — section_158529777788
+    - [DATEV Connector Role](article_1111106676.md) — article_1111106676
+      - [DATEV Connector Role Overview](article_0820114509.md) — article_0820114509
+      - [Installing the DATEV Connector Role SuiteApp](article_0820114550.md) — article_0820114550
+    - [Deferred VAT Recognition](section_1538549103.md) — section_1538549103
+      - [Prerequisites for Installing the Deferred VAT Recognition SuiteApp](section_158514644158.md) — section_158514644158
+      - [Installing the Deferred VAT Recognition SuiteApp](section_158514615093.md) — section_158514615093
+      - [Setting Up Tax Types for Deferred VAT](section_1538549929.md) — section_1538549929
+      - [Setting Up Tax Code for German Deferred VAT](section_1538633996.md) — section_1538633996
+      - [Creating Deferred VAT Recognition Journal Entries](section_1538634021.md) — section_1538634021
+      - [Viewing Deferred VAT Process Status](section_1538634105.md) — section_1538634105
+      - [Viewing Journal Entries Created For Deferred VAT Recognition](section_1539167097.md) — section_1539167097
+      - [Roles and Permissions for Deferred VAT Recognition](section_1538702043.md) — section_1538702043
+      - [Known Limitations of Deferred VAT Recognition](section_1538635759.md) — section_1538635759
+    - [Germany Central Bank Reports](chapter_1554457663.md) — chapter_1554457663
+      - [Germany Central Bank Reports Overview](section_1554457679.md) — section_1554457679
+      - [Prerequisites for Installing Germany Central Bank Reports](section_1554457686.md) — section_1554457686
+      - [Installing Germany Central Bank Reports](section_1554457733.md) — section_1554457733
+      - [Setting Permissions For Germany Central Bank Reports](section_1554457739.md) — section_1554457739
+      - [Assigning Central Bank Reports Transaction Codes](section_156984297293.md) — section_156984297293
+      - [Using the Central Bank Reports Dashboard](section_156984301928.md) — section_156984301928
+        - [Search Results Columns](bridgehead_156993147121.md) — bridgehead_156993147121
+        - [Viewing and Exporting Reports](bridgehead_156993154162.md) — bridgehead_156993154162
+      - [Adjusting Germany Central Bank Reports Settings](section_156984304797.md) — section_156984304797
+    - [Germany Localization](chapter_1541684540.md) — chapter_1541684540
+      - [Germany Localization Overview](section_1541684591.md) — section_1541684591
+      - [Prerequisites for Installing Germany Localization](section_1541684635.md) — section_1541684635
+      - [Installing Germany Localization](section_1541684686.md) — section_1541684686
+      - [NetSuite Certificates for Germany](article_0627125206.md) — article_0627125206
+      - [Required Setup for Using the Germany Localization SuiteApp](article_0318082514.md) — article_0318082514
+        - [Setting the Region of Your German Subsidiary](subsect_0318082707.md) — subsect_0318082707
+        - [Setting the Region of Your German Company](subsect_0318082729.md) — subsect_0318082729
+      - [Setting Permissions to Use the German Chart of Accounts and Financial Statements](section_1541684711.md) — section_1541684711
+      - [Germany Charts of Accounts](section_1541684823.md) — section_1541684823
+      - [Creating and Editing Transactions with Germany Localization Installed](section_1541684891.md) — section_1541684891
+      - [Germany Deferred VAT](article_080210192510.md) — article_080210192510
+      - [Germany Advanced PDF/HTML Templates](article_080409462410.md) — article_080409462410
+      - [Germany Financial Statements](section_1541685047.md) — section_1541685047
+        - [Installing Germany Financial Statements](bridgehead_1556532904.md) — bridgehead_1556532904
+        - [Net Amount Calculation Method](bridgehead_1552038537.md) — bridgehead_1552038537
+        - [Displaying Germany Financial Statements](bridgehead_1556532687.md) — bridgehead_1556532687
+        - [Germany Balance Sheets](bridgehead_1541685099.md) — bridgehead_1541685099
+        - [Germany Income Statements](bridgehead_1541685200.md) — bridgehead_1541685200
+        - [German Trial Balance](bridgehead_157017917022.md) — bridgehead_157017917022
+        - [Filters Available for Germany Financial Statements](bridgehead_1541685236.md) — bridgehead_1541685236
+        - [Displaying Consolidated Balance Sheets](bridgehead_1541685348.md) — bridgehead_1541685348
+      - [Germany Electronic Bank Payments](section_1554985535.md) — section_1554985535
+        - [Setting Up Company Bank Records in Germany](section_N1614550.md) — section_N1614550
+        - [Setting Up Bank Records of Vendors in Germany](section_N1616705.md) — section_N1616705
+        - [Setting Up Bank Records of Employees in Germany](section_N1617036.md) — section_N1617036
+        - [Setting Up Bank Records of Customers in Germany](section_N1617359.md) — section_N1617359
+        - [Setting Up Bank Records of Partners in Germany](section_3851207772.md) — section_3851207772
+      - [Germany Tax Reports (SuiteTax)](section_157252936767.md) — section_157252936767
+      - [Germany Recapitulative Statement (EU Sales List)](section_165399151339.md) — section_165399151339
+      - [Germany Intrastat](section_165398796860.md) — section_165398796860
+        - [Germany Intrastat - Dispatches](subsect_165398724087.md) — subsect_165398724087
+        - [Germany Intrastat - Arrivals](subsect_165398728989.md) — subsect_165398728989
+        - [Net Mass Requirement in Germany Intrastat](subsect_165415676480.md) — subsect_165415676480
+        - [Germany Code of Region of Origin/Destination](subsect_157113218357.md) — subsect_157113218357
+        - [Germany Nature of Transaction Code](subsect_157165025958.md) — subsect_157165025958
+      - [Germany Periodic VAT Return - USt 1A](section_156775791511.md) — section_156775791511
+      - [Germany Yearly VAT Report - USt 2A (v2023)](article_0121103232.md) — article_0121103232
+      - [Germany Yearly VAT Report - USt 2A (v2025)](article_2083542392.md) — article_2083542392
+      - [Germany Audit Files: GoBD Data Extract](section_1539585682.md) — section_1539585682
+      - [Electronic Invoicing Features for Germany](article_0310044508.md) — article_0310044508
+  - [Germany Tax Topics For Accounts Without SuiteTax](section_1554981475.md) — section_1554981475
+    - [Germany Tax Codes](section_N1897828.md) — section_N1897828
+    - [Germany VAT Report](section_N1899458.md) — section_N1899458
+      - [What goes into each box - Germany Monthly/Quarterly VAT report](section_N1899865.md) — section_N1899865
+      - [What goes into each box - Germany Annual VAT Declaration](section_N1905036.md) — section_N1905036
+    - [Setting Up Tax Filing for Germany](section_N1917361.md) — section_N1917361
+    - [Submission of VAT Returns in Germany](section_N1917621.md) — section_N1917621
+      - [Preparing and Submitting your Germany VAT Return](bridgehead_N1917670.md) — bridgehead_N1917670
+      - [Installing ElsterTransit](subsect_161483882046.md) — subsect_161483882046
+      - [Generating an XML File of your Germany VAT Report](bridgehead_N1917880.md) — bridgehead_N1917880
+      - [Submitting the German Tax Return to Elster](bridgehead_N1918013.md) — bridgehead_N1918013
+    - [Recapitulative Statement (EU Sales List) for Germany](section_N1918495.md) — section_N1918495
+    - [Intrastat Report for Germany](section_4149981058.md) — section_4149981058
+      - [Germany Intrastat Report Fields](section_164380122380.md) — section_164380122380
+      - [Germany Intrastat Report for Dispatches and Arrivals](section_164380248613.md) — section_164380248613
+      - [Generating the Germany Intrastat Report](section_164380299176.md) — section_164380299176
+      - [Exporting the Germany Intrastat Report](section_164380364524.md) — section_164380364524
+      - [Nature of Transaction Codes for Germany](section_164439123518.md) — section_164439123518
+    - [Germany GoBD Data Export](section_3838969498.md) — section_3838969498

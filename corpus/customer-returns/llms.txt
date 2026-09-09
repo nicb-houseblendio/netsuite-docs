@@ -1,0 +1,15 @@
+# Customer Returns
+
+Customer Returns (31 pages): Customer Returns
+
+## Chapters
+- [Customer Returns](preface_4738412727.md): Customer returns are managed by two distinct processes: - Customer return management - tracking information about items that customers return to you.
+  - [Customer Return Management](section_N1302852.md): Customer return management is the process of tracking information about items that customers return to you.
+  - [Customer Credits and Refunds](section_N1310987.md): After you receive an item on a return, you can credit the customer in the amount they paid for the item.
+  - [Return Authorization from Case](chapter_156816514645.md): To get started with the Return Authorization from Case SuiteApp, see the following topics: - Return Authorization from Case Overview(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch customer-returns

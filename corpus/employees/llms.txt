@@ -1,0 +1,13 @@
+# Employees
+
+Employees (726 pages): Employee Management
+
+## Chapters
+- [Employee Management](set_N894004.md): - Employees(https://docs.
+  - [Employees](preface_3714104131.md): NetSuite provides you with the tools that you need to manage your employees.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch employees

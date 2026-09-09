@@ -1,0 +1,16 @@
+# Norway Help Topics
+
+Norway Help Topics (44 pages): Norway Help Topics
+
+## Chapters
+- [Norway Help Topics](chapter_157907863207.md): Overview The following help topics provide information about NetSuite features that are specific to companies doing business in Norway.
+  - [Norway Account Setup](section_157916579884.md): Setting up an account for an organization doing business in Norway usually requires enabling several features and installing some additional SuiteApps.
+  - [Setting Up Norway-specific Preferences](section_157926246071.md): To set up your NetSuite account according to Norway-specific preferences, you must adjust your NetSuite company and subsidiary settings Note: Make sure that your NetSuite role has the appropriate permissions to set up company preferences specific to Norway.
+  - [Norway-specific SuiteApps](section_159170441050.md): The following Norway-specific SuiteApps are currently available: - Norway Localization(https://docs.
+  - [Norway Tax Topics For Accounts Without SuiteTax](section_157926586299.md): If you have a Norway subsidiary and nexus, you can generate the Norway VAT Return if you have the International Tax Reports and Norway Tax Reports SuiteApp.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch norway-help-topics

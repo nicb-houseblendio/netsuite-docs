@@ -1,0 +1,13 @@
+# Setting Up Case Management
+
+Setting Up Case Management (50 pages): Support Management
+
+## Chapters
+- [Support Management](book_N2420978.md): - Setting Up Case Management(https://docs.
+  - [Setting Up Case Management](chapter_N2421072.md): To set up and handle support cases, you should first create case types and case origin types to organize your cases.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch setting-up-case-management

@@ -1,0 +1,17 @@
+# Expense Commitments and Budget Validation
+
+Expense Commitments and Budget Validation (17 pages): Expense Commitments and Budget Validation
+
+## Chapters
+- [Expense Commitments and Budget Validation](article_161794419548.md): Organizations need the capability to budget and report expenses by account and segment.
+  - [Installing Expense Commitments and Budget Validation](section_161794434442.md): This section includes the prerequisites and instructions for installing the Expense Commitments and Budget Validation SuiteApp.
+  - [Roles and Permission for Expense Commitments and Budget Validation](section_0526111532.md): You'll need the following permissions to use the Expense Commitments and Budget Validation SuiteApp.
+  - [Setting Up Expense Commitments and Budget Validation](section_161794549995.md): To set up Expense Commitments and Budget Validation, perform the following tasks: 1.
+  - [Creating a Custom Budget in Expense Commitments and Budget Validation](section_161794951983.md): Create a custom budget for a combination of budgeting year, segments, and account.
+  - [Using Budget Validation in Transactions](section_161795080563.md): Budget validation works with the following transactions: - Purchase orders - Vendor bills - Purchase requests (for the Employee Center role) The following budget validation fields appear in the following transaction pages: - Budget Date - Shows the start date of the budget period.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch expense-commitments-and-budget-validation

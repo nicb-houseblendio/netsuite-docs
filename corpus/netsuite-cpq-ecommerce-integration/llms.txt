@@ -1,0 +1,14 @@
+# NetSuite CPQ Ecommerce Integration
+
+NetSuite CPQ Ecommerce Integration (5 pages): NetSuite CPQ Ecommerce Integration
+
+## Chapters
+- [NetSuite CPQ Ecommerce Integration](article_3102531504.md): Note: Install NetSuite CPQ Configurator to use NetSuite CPQ Ecommerce Integration.
+  - [Testing and Debugging the Conversion into Configured Items](article_1165654492.md): Before writing the server-side script to start the conversion into configured items, you can test and debug the process.
+  - [Converting Transaction Line Items into Configured Items with a Single Scheduled Script Call](article_4121707492.md): When converting transaction line items into configured items using NetSuite CPQ Ecommerce Integration, you should process as much line items as possible in a single call to the SuiteApp scheduled script (CPQE-SC-BCL script, ID customscript\cpqe\sc\bcl) for better performance.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-cpq-ecommerce-integration

@@ -1,0 +1,18 @@
+# Spain Help Topics
+
+Spain Help Topics (107 pages): Spain Help Topics
+
+## Chapters
+- [Spain Help Topics](article_6120204857.md): Overview The following help topics provide information about NetSuite features that are specific to companies doing business in Spain.
+  - [Functional Areas](bridgehead_71094120219.md): Spanish users can activate and get access to different features from the following functional areas.
+  - [Spain Account Setup](section_51100738391.md): Setting up an account for an organization doing business in Spain requires enabling several features and installing additional SuiteApps.
+  - [Setting Up Spain-Specific Preferences](section_24083751829.md): To setup your NetSuite account according to Spain-specific preferences, you must adjust your NetSuite Company, and Subsidiary settings.
+  - [Spain-Specific SuiteApps](article_1016090111.md): - Spain Localization(https://docs.
+  - [Spain Payment Formats](section_0628112629.md): The Electronic Bank Payments SuiteApp lets businesses in Spain to pay vendor bills and employee expenses by generating payment files using the AEB-Norma 34 specifications of the Spanish Banking Association and SEPA Credit Transfer of HSBC.
+  - [Spain Tax Topics For Accounts Without SuiteTax](section_0628121941.md): If you have a Spain subsidiary and nexus and you have the International Tax Reports SuiteApp installed in your NetSuite account, you can generate the Modelo 303 Value Added Tax Return for Spain, in English or Spanish.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch spain-help-topics

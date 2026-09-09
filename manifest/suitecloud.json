@@ -1,0 +1,24 @@
+{
+  "branch": "suitecloud",
+  "generatedAt": null,
+  "pages": {
+    "article_65114903717": {
+      "path": "corpus/suitecloud/article_65114903717.md",
+      "title": "SuiteCloud",
+      "type": "article",
+      "breadcrumb": "Videos > SuiteCloud",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_65114903717.html",
+      "etag": "\"687660007e4234d8d578c608b928130e:1786980335.174107\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:39.198Z",
+      "sha256": "f8f0161f64e5ad8cd45f6d36ce730badc7b54f46b6a52c0bfc3379ac3c54e6f1",
+      "bytes": 10416,
+      "anchors": 12,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

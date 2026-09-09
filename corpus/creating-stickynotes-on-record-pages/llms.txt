@@ -1,0 +1,15 @@
+# Creating StickyNotes on Record Pages
+
+Creating StickyNotes on Record Pages (9 pages): Creating StickyNotes on Record Pages
+
+## Chapters
+- [Creating StickyNotes on Record Pages](chapter_4344189507.md): The StickyNotes SuiteApp lets you add notes to record pages and keep track of your notes and others' replies.
+  - [Installing StickyNotes](section_4084991689.md): Prerequisite Before you install the StickyNotes SuiteApp, go to Setup Company Enable Features.
+  - [Configuring StickyNotes](section_4084992363.md): Read the following topics for information about how you can configure StickyNotes: - Setting Account-Level StickyNotes Preferences(https://docs.
+  - [Using StickyNotes](section_4084993071.md): The StickyNotes toolbar shows up at the top of a record page when it's enabled.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch creating-stickynotes-on-record-pages

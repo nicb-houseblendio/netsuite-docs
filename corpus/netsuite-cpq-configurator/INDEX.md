@@ -1,0 +1,156 @@
+# NetSuite CPQ Configurator
+
+152 pages, category: NetSuite CPQ
+
+- [NetSuite CPQ Configurator](article_7121343557.md) — article_7121343557
+  - [Updated Labels for User Interface Elements](article_1193859108.md) — article_1193859108
+  - [NetSuite CPQ Configurator Setup](article_9124208079.md) — article_9124208079
+    - [Configuring Items from the Customer Center](article_1031105723.md) — article_1031105723
+  - [NetSuite CPQ Configurator Products](article_6124716984.md) — article_6124716984
+    - [Previewing Products](subsect_0613111324.md) — subsect_0613111324
+    - [Assigning Base Items to Products](subsect_0703012812.md) — subsect_0703012812
+    - [Defining a Product to Edit Configured Items](subsect_0803122043.md) — subsect_0803122043
+    - [Creating Product Categories](subsect_0731022406.md) — subsect_0731022406
+    - [Exporting Products](subsect_0703031853.md) — subsect_0703031853
+    - [Importing Products](subsect_0203091006.md) — subsect_0203091006
+    - [Inactivating Products](subsect_0207070409.md) — subsect_0207070409
+    - [Deleting Products](subsect_0207061057.md) — subsect_0207061057
+    - [Replacing Deleted or Inactive Products](section_1217052753.md) — section_1217052753
+    - [Launching the Configurable Items Page from Third-party Websites](article_0116112524.md) — article_0116112524
+    - [Working with Product Configurations](article_7160254146.md) — article_7160254146
+  - [Working with Product Building Blocks](subsect_0926032123.md) — subsect_0926032123
+    - [Activating or Hiding Building Blocks with Rules](article_4124359628.md) — article_4124359628
+    - [Working with the Product User Interface](article_1191132661.md) — article_1191132661
+      - [Gathering Information with Questions and Answers](article_1110827049.md) — article_1110827049
+        - [Working with Questions](section_0212121552.md) — section_0212121552
+        - [Working with Answers](section_0212124147.md) — section_0212124147
+        - [Working with Question and Answer Rules](section_0212123707.md) — section_0212123707
+        - [Working with Specific Question and Answer Types](section_0726121124.md) — section_0726121124
+        - [Working with Popup Table and Popup List Answers](article_5101314863.md) — article_5101314863
+          - [Completing Questions or Answers Dynamically from Popup Tables or Lists Selections](section_0217125902.md) — section_0217125902
+        - [Storing Answer Options in Tables](article_5102306887.md) — article_5102306887
+          - [Creating Static Tables](subsect_0608041318.md) — subsect_0608041318
+          - [Creating CSV Tables](subsect_0608041841.md) — subsect_0608041841
+          - [Creating Dynamic Tables](subsect_0608041943.md) — subsect_0608041943
+          - [Creating Tables Using Functions](subsect_0608042053.md) — subsect_0608042053
+        - [Obtaining Answer Data with Resolve Expressions](article_2144102668.md) — article_2144102668
+      - [Organizing Questions into Tabs and Groups](article_0155926195.md) — article_0155926195
+      - [Displaying Validation Messages on the User Interface](article_2144413823.md) — article_2144413823
+      - [Displaying Preview Images of the Configurable Item](article_4144942951.md) — article_4144942951
+      - [Creating Favorite And Default Configurations](article_5170907894.md) — article_5170907894
+      - [Changing the Product Interface Look and Feel](article_6145652659.md) — article_6145652659
+      - [Translating Custom Labels for Product Interface Elements](article_4150848249.md) — article_4150848249
+    - [Calculating the Final Pricing for the Configurable Item](article_5155430879.md) — article_5155430879
+    - [Including Additional Items Related to the Configurable Item](article_5155412660.md) — article_5155412660
+    - [Creating Work Orders for Configured Items](article_8155327253.md) — article_8155327253
+      - [Defining Materials for the Configurable Item](article_7143710234.md) — article_7143710234
+      - [Defining Routing Steps to Build the Configurable Item](article_4143750867.md) — article_4143750867
+      - [Creating Work Orders for Configured Items Using Scripts](article_9141308324.md) — article_9141308324
+      - [Testing and Debugging Work Orders for Configured Items](article_2192043620.md) — article_2192043620
+    - [Creating Items Required by the Configuration](article_7115625340.md) — article_7115625340
+      - [Working with Item Creation Records](section_0320010832.md) — section_0320010832
+      - [Assigning Item Creation Records to Materials, Additional Items, or Products](section_16154642987.md) — section_16154642987
+      - [Working with Assemblies on Item Creation Records](section_26154717376.md) — section_26154717376
+    - [Creating Records Required by the Configuration](article_2131623448.md) — article_2131623448
+      - [Working with Creation Records](section_0508015540.md) — section_0508015540
+    - [Setting Transaction Body and Line Fields Based on Configuration Data](article_8153202018.md) — article_8153202018
+    - [Including Additional Conditions in Rules and Actions with Predefined Answers](article_8171845565.md) — article_8171845565
+    - [Working with Configurable Subscriptions](article_6142737243.md) — article_6142737243
+      - [Implementing Prerequisites](section_0120030221.md) — section_0120030221
+      - [Creating a Standard Subscription Plan](section_0120030010.md) — section_0120030010
+      - [Creating a Configurable Subscription Plan](section_0120025603.md) — section_0120025603
+      - [Creating a Configurable Subscription](section_0120024826.md) — section_0120024826
+      - [Associating the Subscription with the Subscription Plan Line](section_0120024244.md) — section_0120024244
+    - [Customizing Products with Scripts Using Action Records and Functions](article_4131356210.md) — article_4131356210
+      - [Implementing Client-Side and Server-Side Actions](section_0614025623.md) — section_0614025623
+      - [Code Examples](section_0614031816.md) — section_0614031816
+      - [Optimizing Server-Side Actions](article_4102439180.md) — article_4102439180
+    - [List of Functions](section_37154604037.md) — section_37154604037
+      - [addBreakoutItem()](article_1153835662.md) — article_1153835662
+      - [addLink()](article_3155530531.md) — article_3155530531
+      - [addMaterial()](article_1160612154.md) — article_1160612154
+      - [addMessageListener()](article_4162014972.md) — article_4162014972
+      - [addRuleset()](article_6162445614.md) — article_6162445614
+      - [ajax()](article_7162844418.md) — article_7162844418
+      - [changeRuleset()](article_4163335978.md) — article_4163335978
+      - [closeConfig()](article_7164135102.md) — article_7164135102
+      - [copyRecord()](article_7164422088.md) — article_7164422088
+      - [createEvent()](article_2164733370.md) — article_2164733370
+      - [createRecord()](article_6165011367.md) — article_6165011367
+      - [createRecords()](article_5165225876.md) — article_5165225876
+      - [createTable()](article_2165432131.md) — article_2165432131
+      - [customizeUI()](article_3172221476.md) — article_3172221476
+      - [deleteEvent()](article_5172520553.md) — article_5172520553
+      - [deleteFile()](article_3172700525.md) — article_3172700525
+      - [deleteRecord()](article_6172932212.md) — article_6172932212
+      - [evalRule()](article_2173151766.md) — article_2173151766
+      - [findList()](article_2173344354.md) — article_2173344354
+      - [getAnswerCode()](article_1173551426.md) — article_1173551426
+      - [getAnswerDesc()](article_6173820073.md) — article_6173820073
+      - [getAnswerLabel()](article_174005368.md) — article_174005368
+      - [getAnswerName()](article_9174708056.md) — article_9174708056
+      - [getAnswers()](article_4174842459.md) — article_4174842459
+      - [getAnswersCodes()](article_7175120300.md) — article_7175120300
+      - [getAnswerVariable()](article_6180305847.md) — article_6180305847
+      - [getContextVariable()](article_8180509341.md) — article_8180509341
+      - [getData()](article_8180721958.md) — article_8180721958
+      - [getEvent()](article_180927184.md) — article_180927184
+      - [getEvents()](article_3181141105.md) — article_3181141105
+      - [getFieldOptions()](article_2181535007.md) — article_2181535007
+      - [getFromExternal()](article_2181837626.md) — article_2181837626
+      - [getItemPrice()](article_182045044.md) — article_182045044
+      - [getLineNum()](article_8182225951.md) — article_8182225951
+      - [getMovDate()](article_5182413552.md) — article_5182413552
+      - [getOrderData()](article_182548877.md) — article_182548877
+      - [getOrderField()](article_8182718596.md) — article_8182718596
+      - [getOrderItems()](article_3182852409.md) — article_3182852409
+      - [getOrderSublist()](article_6183050904.md) — article_6183050904
+      - [getParsedValue()](article_9170658202.md) — article_9170658202
+      - [getProgress()](article_9183230423.md) — article_9183230423
+      - [getQTable()](article_4183456003.md) — article_4183456003
+      - [getRemainingUnits()](article_4183713346.md) — article_4183713346
+      - [getRuleset()](article_7184118091.md) — article_7184118091
+      - [getTable()](article_2184321442.md) — article_2184321442
+      - [getValue()](article_5184741807.md) — article_5184741807
+      - [hasAnswer()](article_4184916554.md) — article_4184916554
+      - [hideMessage()](article_5185100751.md) — article_5185100751
+      - [hideModal()](article_5185250250.md) — article_5185250250
+      - [isAnswered()](article_5185424425.md) — article_5185424425
+      - [loadConfig()](article_185720045.md) — article_185720045
+      - [loadFavorite()](article_6185937486.md) — article_6185937486
+      - [loadFile()](article_191116605.md) — article_191116605
+      - [loadListKeyValue()](article_3191746832.md) — article_3191746832
+      - [loadListWithArray()](article_8191926929.md) — article_8191926929
+      - [nresolve()](article_9192121586.md) — article_9192121586
+      - [priceMatrix()](article_6192854478.md) — article_6192854478
+      - [processItemCreations()](article_6192511646.md) — article_6192511646
+      - [processRecordCreations()](article_1192649884.md) — article_1192649884
+      - [queryParent()](article_9092809822.md) — article_9092809822
+      - [readFiles()](article_7093009966.md) — article_7093009966
+      - [recalcRulesets()](article_2093206517.md) — article_2093206517
+      - [removeLink()](article_5093403486.md) — article_5093403486
+      - [renderView()](article_3093531085.md) — article_3093531085
+      - [reset()](article_2093631714.md) — article_2093631714
+      - [resetTab()](article_1094011586.md) — article_1094011586
+      - [resolve()](article_94221244.md) — article_94221244
+      - [restartAction()](article_6094413371.md) — article_6094413371
+      - [runAction()](article_4094548260.md) — article_4094548260
+      - [runSavedSearch()](article_1094720845.md) — article_1094720845
+      - [saveFile()](article_8094854361.md) — article_8094854361
+      - [scopeApply()](article_95029128.md) — article_95029128
+      - [scopeRefresh()](article_4095224108.md) — article_4095224108
+      - [sendMessage()](article_2095409183.md) — article_2095409183
+      - [setAnswer()](article_4095619236.md) — article_4095619236
+      - [setFormattedValue()](article_170912974.md) — article_170912974
+      - [setPicklistColumn()](article_9100142059.md) — article_9100142059
+      - [setTab()](article_8100420788.md) — article_8100420788
+      - [setValue()](article_4100619012.md) — article_4100619012
+      - [showAudit()](article_4100803147.md) — article_4100803147
+      - [showMessage()](article_5100946165.md) — article_5100946165
+      - [showModal()](article_1101121458.md) — article_1101121458
+      - [showPicklistModal()](article_9101300107.md) — article_9101300107
+      - [sresolve()](article_9101528882.md) — article_9101528882
+      - [startConfig()](article_7101941729.md) — article_7101941729
+      - [submitConfig()](article_5102139129.md) — article_5102139129
+      - [updateRecordFields()](article_7102318325.md) — article_7102318325
+  - [Configuring Items From Transactions](article_5085131325.md) — article_5085131325

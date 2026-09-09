@@ -1,0 +1,12 @@
+# EU Data Act
+
+EU Data Act (1 pages): EU Data Act
+
+## Chapters
+- [EU Data Act](preface_5121120779.md): The EU Data Act is a law aimed at enhancing the data economy and promoting a competitive data market within the European Union by making data more accessible and usable.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch eu-data-act

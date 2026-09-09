@@ -1,0 +1,67 @@
+# Netherlands Help Topics
+
+63 pages, category: Country-Specific Features
+
+- [Netherlands Help Topics](section_4452525786.md) — section_4452525786
+  - [Netherlands Terminology](section_0403020241.md) — section_0403020241
+  - [Netherlands Account Setup](section_1549424762.md) — section_1549424762
+  - [Setting Up Netherlands-Specific Preferences](section_1549425210.md) — section_1549425210
+    - [Reporting Work-Related Mileage for Netherlands Companies](article_1025094420.md) — article_1025094420
+      - [Generating the Netherlands WRM Report](section_1025100848.md) — section_1025100848
+  - [Netherlands-Specific SuiteApp](section_158590914273.md) — section_158590914273
+    - [Netherlands Localization](section_157537910220.md) — section_157537910220
+      - [Netherlands Localization Overview](section_157537916440.md) — section_157537916440
+        - [Supported Languages in Netherlands Localization SuiteApp](section_163585042825.md) — section_163585042825
+      - [Prerequisites for Installing the Netherlands Localization SuiteApp](section_157538006365.md) — section_157538006365
+      - [Installing the Netherlands Localization SuiteApp](section_157538030132.md) — section_157538030132
+      - [Netherlands SuiteTax-Based Reports](section_157589567322.md) — section_157589567322
+        - [Netherlands Periodic VAT Return OB69](section_156775966230.md) — section_156775966230
+        - [Netherlands Intrastat](section_159913315292.md) — section_159913315292
+          - [Net Mass Requirement in Netherlands Intrastat](section_163905409580.md) — section_163905409580
+        - [Netherlands EC Sales List](section_159913612875.md) — section_159913612875
+      - [Netherlands XAF](article_1020025216.md) — article_1020025216
+        - [Netherlands XAF Data Source](section_1021101109.md) — section_1021101109
+          - [XAF Header and Company Information](section_1021103640.md) — section_1021103640
+          - [XAF Customer and Vendor Information](section_1021111045.md) — section_1021111045
+          - [XAF General Ledger Information](section_1021015127.md) — section_1021015127
+          - [XAF VAT Codes Information](section_1021023523.md) — section_1021023523
+          - [XAF Accounting Periods Information](section_1021024142.md) — section_1021024142
+          - [XAF Opening Balances Information](section_1024093953.md) — section_1024093953
+          - [XAF Transactions Information](section_1024100202.md) — section_1024100202
+        - [Resolving Failure to Generate the Netherlands XAF](section_1021102456.md) — section_1021102456
+      - [Generating Netherlands Tax Reports](article_1021101424.md) — article_1021101424
+      - [Netherlands Work-Related Costs Report](section_164456567442.md) — section_164456567442
+        - [Configuring the Work-Related Costs Report](section_164456607235.md) — section_164456607235
+          - [WKR Calculation Terms](section_164456697988.md) — section_164456697988
+          - [WKR Categories](section_164456733169.md) — section_164456733169
+          - [WKR Reporting Permissions](section_164456834245.md) — section_164456834245
+            - [Note About Access to the Netherlands WKR Pages](section_0907012014.md) — section_0907012014
+          - [WKR Report Formatting and Optimization](section_164458112171.md) — section_164458112171
+        - [Viewing the Work-Related Costs Report](section_164458162252.md) — section_164458162252
+          - [Sources of Nontaxable Categories in the WKR Report](section_164458271493.md) — section_164458271493
+          - [Displaying the WKR Report in a Specific Fiscal Calendar](article_0619015859.md) — article_0619015859
+        - [Assigning Accounts, Items, and Expense Categories to WKR](section_164458361603.md) — section_164458361603
+        - [Setting the WKR Category of a Transaction Line](section_164458561201.md) — section_164458561201
+        - [WKR Budget Calculation](section_164482997453.md) — section_164482997453
+          - [Residual Budget Calculation in WKR](section_164483988388.md) — section_164483988388
+          - [Final Levy Calculation in WKR](section_164484570339.md) — section_164484570339
+        - [Fiscal Salary Computation in WKR](section_164484602507.md) — section_164484602507
+        - [Mechanics of WKR Forecasting](section_164484693052.md) — section_164484693052
+      - [Netherlands Payment Formats](section_N1636146.md) — section_N1636146
+        - [Setting Up Company Bank Records in the Netherlands](section_N1636511.md) — section_N1636511
+        - [Setting Up Bank Records of Vendors in the Netherlands](section_N1638884.md) — section_N1638884
+        - [Setting Up Bank Records of Employees in the Netherlands](section_N1639339.md) — section_N1639339
+        - [Setting Up Bank Records of Customers in the Netherlands](section_N1639791.md) — section_N1639791
+        - [Setting Up Bank Records of Partners in the Netherlands](section_3851230281.md) — section_3851230281
+        - [Netherlands Entity Bank Details](section_159921152297.md) — section_159921152297
+      - [Netherlands E-filling](article_0325104253.md) — article_0325104253
+  - [Netherlands Tax Topics In Accounts Without SuiteTax](chapter_N1942820.md) — chapter_N1942820
+    - [Netherlands Tax Codes](section_N1942969.md) — section_N1942969
+    - [Netherlands VAT Report](section_N1944310.md) — section_N1944310
+      - [What goes into each box - Netherlands VAT report](section_N1944574.md) — section_N1944574
+    - [EU Sales List for Netherlands](section_N1947306.md) — section_N1947306
+    - [Intrastat Report for Netherlands](section_1503450407.md) — section_1503450407
+      - [Netherlands Intrastat Report Fields](section_165283577901.md) — section_165283577901
+      - [Netherlands Intrastat Report for Dispatches and Arrivals](section_165283726421.md) — section_165283726421
+      - [Generating the Netherlands Intrastat Report](section_165283883303.md) — section_165283883303
+      - [Exporting the Netherlands Intrastat Report](section_165283919785.md) — section_165283919785

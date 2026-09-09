@@ -1,0 +1,22 @@
+# System Management
+
+System Management (325 pages): System Management
+
+## Chapters
+- [System Management](set_15034673.md): - Domains(https://docs.
+  - [Domains](chapter_N2478982.md): A domain is the physical location on a web server where your website lives.
+  - [Site Configuration](preface_1519255560.md): Commerce websites let you configure common properties and modify application behavior for a specific domain using the NetSuite UI, instead of having to customize the source code.
+  - [Caching](chapter_4258784614.md): You can make your website faster and cut down page load times by caching data and site assets.
+  - [Application Performance Management (APM) for Commerce](preface_160194769185.md): Note: This topic applies to SuiteCommerce and the 2020.
+  - [Multi-Site](preface_1520357713.md): Depending on your license agreement, you can run multiple websites on the same NetSuite account.
+  - [SuiteCommerce Integrations](preface_1520357629.md): Integrating Commerce web stores with other NetSuite applications lets you take advantage of extra features they offer, such as: - NetSuite web store account access for shoppers directly from your existing website, no extra login needed - Automated marketing features, like post-purchase campaigns, on your web store - Access to NetSuite features for brick and mortar stores - Creation of content pages and content areas on your website See the following topics for more information about integration: - Single Sign-on Integration with External Websites(https://docs.
+  - [Site Security](preface_1520357867.md): Site security features let you monitor changes made to your Commerce website and protect it from unauthorized access.
+  - [Site Performance](book_163839054087.md): - Common Causes of Site Performance Issues(https://docs.
+  - [Website Deletion and Inactivation](section_1559227298.md): If a website is no longer required, you may want to remove it.
+  - [SSP Applications](preface_1521816133.md): You can create SuiteScript Server Page (SSP) applications to add custom application to your web store.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch system-management

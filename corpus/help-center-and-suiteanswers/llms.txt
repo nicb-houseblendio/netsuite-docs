@@ -1,0 +1,12 @@
+# Help Center and SuiteAnswers
+
+Help Center and SuiteAnswers (1 pages): Help Center and SuiteAnswers
+
+## Chapters
+- [Help Center and SuiteAnswers](article_161660354999.md): Watch the videos below to learn how to navigate the Help Center and SuiteAnswers and find the resources you need.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch help-center-and-suiteanswers

@@ -1,0 +1,22 @@
+# Field Service Management Administration
+
+Field Service Management Administration (106 pages): Field Service Management Administration
+
+## Chapters
+- [Field Service Management Administration](article_5115759468.md): Administrators manage Field Service Management (FSM) in NetSuite so operations managers, schedulers, and technicians can rely on it day to day.
+  - [Key FSM Administration Areas](article_0326120405.md): Key areas of FSM administration include: - Enablement and Prerequisites(subsect0326121235) - Roles, Permissions, and User Access(subsect0326121323) - Schedule Board(subsect0326121342) - FSM Mobile Support(subsect0326121358) - Notifications and Communications(subsect0326121429) - Reporting and Monitoring(subsect0326121450) - Ongoing FSM Maintenance and Governance(subsect0326121516) Enablement and Prerequisites FSM enablement and prerequisites cover initial setup tasks, such as: - Installing the FSM SuiteApp (Bundle ID: 570821) - Confirming your account's license count is correct - Creating the custom records and fields that your business requires for its FSM operations Example use cases: - Confirm the supported browser and device baseline before troubleshooting anything else.
+  - [Field Service Management Terminology](article_0326120431.md): These definitions reflect how the terms are used in Field Service Management (FSM).
+  - [Installing the Field Service Management SuiteApp](article_0408073906.md): The Field Service Management (FSM) SuiteApp is a paid and managed SuiteApp.
+  - [Field Service Management Configuration](article_0729040307.md): Field Service Management (FSM) configuration includes core product configuration and custom configuration.
+  - [Maintaining Field Service Navigation After SuiteApp Updates](section_0820095649.md): After updating the Field Service Management (FSM) SuiteApp, it's important to review your customizations to make sure you still have access to Scheduler and Mobile features.
+  - [Field Service Management Mobile App Icons](article_0220040550.md): | Icon | ID | | --- | --- | | !
+  - [Color Coding](article_0220040719.md): Color coding lets Scheduler users visualize event data.
+  - [Compatibility and Expected Behaviors](article_0325034317.md): If you encounter a behavior that you feel is unexpected, compare it against this list to confirm your suspicion before escalating it to the appropriate support channel.
+  - [Field Service NetSuite Features](article_8113021740.md): Field Service NetSuite features are the ones you'll mostly use in the NetSuite UI, not in the Field Service Management (FSM) Schedule Board or FSM Mobile.
+  - [Field Service Records](article_8152540923.md): Field Service Management (FSM) uses a mix of field service custom records and standard NetSuite records.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch field-service-management-administration

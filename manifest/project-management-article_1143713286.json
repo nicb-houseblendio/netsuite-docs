@@ -1,0 +1,24 @@
+{
+  "branch": "project-management-article_1143713286",
+  "generatedAt": null,
+  "pages": {
+    "article_1143713286": {
+      "path": "corpus/project-management-article_1143713286/article_1143713286.md",
+      "title": "Project Management",
+      "type": "article",
+      "breadcrumb": "Videos > Project Management",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_1143713286.html",
+      "etag": "\"e720133c5b85643f5a1d441f085f10cb:1786980277.384937\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:38.514Z",
+      "sha256": "c0cc7332cc9b34a999e1085469d4c21caf0a1df5f73cf0830efc77dccf137cd6",
+      "bytes": 613,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

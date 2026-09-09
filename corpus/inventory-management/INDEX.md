@@ -1,0 +1,613 @@
+# Inventory Management
+
+609 pages, category: SCM (Supply Chain Management)
+
+- [Inventory Management](book_N2249433.md) — book_N2249433
+  - [Inventory Management Overview](article_161970666917.md) — article_161970666917
+  - [Inventory Management Setup](chapter_N2249539.md) — chapter_N2249539
+    - [Enabling Features for Inventory Management](section_161963741628.md) — section_161963741628
+    - [Inventory Setup with Locations and Multi-Locations](section_N2252794.md) — section_N2252794
+    - [Distributing Inventory](section_N2304534.md) — section_N2304534
+      - [Simple Inventory Distribution](section_N2304987.md) — section_N2304987
+      - [Manual Inventory Distribution](section_N2305248.md) — section_N2305248
+    - [Converting Non-Inventory Items to Inventory Items](section_N2258046.md) — section_N2258046
+    - [Setting the Inventory Level Warnings Preference](section_N2254698.md) — section_N2254698
+    - [Non-Available Inventory Settings for Locations](section_N2307648.md) — section_N2307648
+    - [Configuring Per-Line Locations for Transactions](section_162024160153.md) — section_162024160153
+  - [Basic Inventory Management](chapter_N2250682.md) — chapter_N2250682
+    - [Inventory Workflow](section_N2251098.md) — section_N2251098
+    - [Inventory Management with Locations](section_162100850596.md) — section_162100850596
+    - [Setting a Location on a Transaction](section_N2269436.md) — section_N2269436
+      - [Customizing a Form for Line-item Locations](section_N2270130.md) — section_N2270130
+    - [Multi-Location Inventory](section_N2303574.md) — section_N2303574
+      - [Item Settings and Stock Levels for Multi-Locations](section_N2305626.md) — section_N2305626
+      - [Returned-Item Costing Using Multi-Location Inventory](section_N2307937.md) — section_N2307937
+    - [Advanced Item Location Configuration](section_1503666392.md) — section_1503666392
+      - [Enabling Advanced Item Location Configuration](section_1503666486.md) — section_1503666486
+      - [Using Advanced Item Location Configuration](section_1504107263.md) — section_1504107263
+      - [Working with Item Location Attributes](section_1504109154.md) — section_1504109154
+      - [Duplicate Item Attributes from a Single Location](section_1504113971.md) — section_1504113971
+      - [Duplicate Item Attributes from Multiple Locations](section_1504117030.md) — section_1504117030
+      - [Edit Item Location Attributes](section_1504117247.md) — section_1504117247
+    - [Assessing Stock Levels](section_N2262573.md) — section_N2262573
+    - [Reviewing Negative Inventory](section_N2268458.md) — section_N2268458
+    - [Inventory Adjustments](section_N2259648.md) — section_N2259648
+      - [Entering an Inventory Adjustment](section_161981111273.md) — section_161981111273
+      - [Creating an Inventory Worksheet](section_161981128590.md) — section_161981128590
+    - [Inventory Sales and Fulfillment](section_N2281204.md) — section_N2281204
+      - [Selling Inventory](section_N2281482.md) — section_N2281482
+      - [Fulfilling Inventory](section_N2281951.md) — section_N2281951
+      - [Handling Backorders](section_N2263962.md) — section_N2263962
+      - [Avoiding Underwater Inventory](section_N2264208.md) — section_N2264208
+    - [Reallocating Items](section_N2263567.md) — section_N2263567
+    - [Inventory Count](section_N2296970.md) — section_N2296970
+      - [Setting Up Inventory Count](section_N2297156.md) — section_N2297156
+      - [Setting Up Item Records for Inventory Count](section_N2297481.md) — section_N2297481
+      - [Creating Calculated Inventory Counts](section_N2298951.md) — section_N2298951
+      - [Creating Manual Inventory Counts](section_N2299331.md) — section_N2299331
+      - [Working with an Inventory Count](section_N2299731.md) — section_N2299731
+    - [Bin Management](section_N2270284.md) — section_N2270284
+      - [Basic Bin Management](section_N2271509.md) — section_N2271509
+      - [Advanced Bin / Numbered Inventory Management](section_N2271791.md) — section_N2271791
+      - [Enabling Bin Management Features](section_N2273046.md) — section_N2273046
+      - [Bin Management by Location](section_4713998969.md) — section_4713998969
+      - [Setting Bin Preferences](section_N2273755.md) — section_N2273755
+      - [Creating Bin Records](section_N2274082.md) — section_N2274082
+      - [Setting Up Item Records for Bins](section_N2274433.md) — section_N2274433
+      - [Printing Bin Putaway Worksheets](section_N2275156.md) — section_N2275156
+      - [Updating Bin Putaway Worksheets](section_N2277819.md) — section_N2277819
+      - [Entering Inventory Details on Transactions or Records](section_0326021504.md) — section_0326021504
+      - [Bin Transfers](section_N2278346.md) — section_N2278346
+      - [Disabling Use Bins Settings and Features](section_0512092419.md) — section_0512092419
+    - [Inventory Status](section_1515696627.md) — section_1515696627
+      - [Setting Up Inventory Status](section_1518031931.md) — section_1518031931
+      - [Creating Inventory Status Records](section_1498074763.md) — section_1498074763
+      - [Changing the Inventory Status Associated With Items](section_1515699503.md) — section_1515699503
+      - [Inventory Allocation Based on Status](section_1517948058.md) — section_1517948058
+      - [Tracking Inventory Balances By Status](section_1515699529.md) — section_1515699529
+        - [Inventory Status on Item Records](section_1518564201.md) — section_1518564201
+        - [Inventory Balance Search](section_1518564230.md) — section_1518564230
+        - [Inventory Detail Search](section_1518565583.md) — section_1518565583
+    - [Transferring Inventory](section_N2308202.md) — section_N2308202
+      - [Basic Inventory Transfers](section_4660882963.md) — section_4660882963
+      - [Inventory Transfer Orders](section_N2308766.md) — section_N2308766
+      - [In-Transit Ownership](section_4813066512.md) — section_4813066512
+      - [Searches, Reports, and Reminders for Transfer Orders](section_N2309511.md) — section_N2309511
+      - [Setting Transfer Order Preferences](section_N2310077.md) — section_N2310077
+      - [Entering a Transfer Order](section_N2310933.md) — section_N2310933
+      - [Approving Transfer Orders](section_N2311649.md) — section_N2311649
+      - [Fulfilling Transfer Orders](section_N2312176.md) — section_N2312176
+      - [Pick, Pack, and Ship with Transfer Orders](section_N2312623.md) — section_N2312623
+      - [Receiving Fulfilled Transfer Orders](section_N2312912.md) — section_N2312912
+      - [Customizing Transfer Orders](section_N2313259.md) — section_N2313259
+      - [Intercompany Inventory Transfers - Non-Arm's Length](section_N2313577.md) — section_N2313577
+      - [Closing Transfer Orders](section_N2316558.md) — section_N2316558
+      - [Inventory Replenishment and Withdrawal](section_N2317004.md) — section_N2317004
+      - [Replenish Location by Inventory Transfer](section_4666984549.md) — section_4666984549
+      - [Replenish Location by Transfer Order](section_4666985845.md) — section_4666985845
+      - [Withdrawing Inventory](section_4667027605.md) — section_4667027605
+      - [Intercompany Cross-Subsidiary Fulfillment](section_1515621767.md) — section_1515621767
+      - [Enabling Intercompany Cross-Subsidiary Fulfillment](section_1515703010.md) — section_1515703010
+      - [Creating a Global Inventory Relationship Record](section_1515704248.md) — section_1515704248
+      - [Processing Sales and Returns Using Intercompany Cross-Subsidiary Fulfillment](section_1515704287.md) — section_1515704287
+    - [Warehouse Processing](section_N2317586.md) — section_N2317586
+  - [Advanced Inventory Management](chapter_N2285050.md) — chapter_N2285050
+    - [Enabling the Advanced Inventory Management Feature](article_162488513759.md) — article_162488513759
+    - [Inventory and Assembly Item Support](subsect_162212992098.md) — subsect_162212992098
+    - [Advanced Inventory Management FAQ](section_4401903074.md) — section_4401903074
+    - [Allocate High Sales Order Volume](section_1002093407.md) — section_1002093407
+    - [Setting Up Advanced Inventory Management](section_N2285514.md) — section_N2285514
+      - [Inventory Management Preferences](article_162488535703.md) — article_162488535703
+      - [Lead Time and Safety Stock Per Location](section_N2286205.md) — section_N2286205
+    - [Inventory Optimization](article_1155215810.md) — article_1155215810
+      - [Inventory Optimization Workflow](article_80201400957.md) — article_80201400957
+      - [Enabling Inventory Optimization](article_2201400988.md) — article_2201400988
+      - [Setting Inventory Optimization Preferences](article_46201401068.md) — article_46201401068
+        - [Inventory Optimization Preferences](article_0702084957.md) — article_0702084957
+      - [Inventory Optimization Segments](article_85201401162.md) — article_85201401162
+        - [Editing an Inventory Optimization Segment](article_0702044406.md) — article_0702044406
+      - [Including Items in Inventory Optimization](article_58201401242.md) — article_58201401242
+      - [Calculating Inventory Segmentation](article_47201401336.md) — article_47201401336
+        - [Inventory Segmentation Calculation Process](article_0702090533.md) — article_0702090533
+      - [Calculating Inventory Levels](article_55201401397.md) — article_55201401397
+        - [Inventory Level Calculation Process](article_0702090645.md) — article_0702090645
+      - [Inventory Optimization Calculations](article_0702045810.md) — article_0702045810
+    - [Demand Planning](section_N2286970.md) — section_N2286970
+      - [Setting Up Demand Planning](section_N2288536.md) — section_N2288536
+        - [Time Fences](section_3848058018.md) — section_3848058018
+          - [Demand Time Fences](bridgehead_3848105396.md) — bridgehead_3848105396
+          - [Planning Time Fence](bridgehead_3848105838.md) — bridgehead_3848105838
+          - [Setting Time Fence Preferences](bridgehead_3848149573.md) — bridgehead_3848149573
+            - [Time Fences on Item Records](bridgehead_3848149941.md) — bridgehead_3848149941
+      - [Demand Planning on Item Records](section_N2289082.md) — section_N2289082
+        - [Specifying the Replenishment Method on Item Records](article_162497068568.md) — article_162497068568
+        - [Setting up an Item Record for Demand Planning](article_162497087298.md) — article_162497087298
+        - [Mass Update and CSV Import With Demand Planning](article_162497117874.md) — article_162497117874
+        - [Forecast Consumption Examples](section_1495718329.md) — section_1495718329
+      - [Calculating Item Demand](section_N2290234.md) — section_N2290234
+      - [Monitoring the Demand Plan Status](section_N2291615.md) — section_N2291615
+      - [Viewing, Editing, and Deleting a Demand Plan](section_N2291961.md) — section_N2291961
+      - [Manually Entering an Item Demand Plan](section_N2292418.md) — section_N2292418
+      - [Creating Item Supply Plans](section_N2293372.md) — section_N2293372
+      - [Monitoring the Supply Plan Status](section_N2293790.md) — section_N2293790
+      - [Viewing, Editing, and Deleting a Supply Plan](section_N2294140.md) — section_N2294140
+      - [Manually Entering an Item Supply Plan](section_N2294552.md) — section_N2294552
+      - [Creating Orders from Supply Plans](section_N2294794.md) — section_N2294794
+      - [Reporting on Demand Planning](section_N2295256.md) — section_N2295256
+        - [Gross Requirements Inquiry](section_N2295603.md) — section_N2295603
+      - [Distribution and Demand Planning](section_N2296427.md) — section_N2296427
+      - [Demand Planning and Inventory Allocation](section_3740808760.md) — section_3740808760
+        - [Enabling Features for Enhanced Allocation](bridgehead_3767662519.md) — bridgehead_3767662519
+        - [Setting Inventory Allocation Preferences](section_3765927337.md) — section_3765927337
+        - [Setting Customer Commitment Priorities](section_3765931093.md) — section_3765931093
+        - [Committing Orders](section_3765928460.md) — section_3765928460
+          - [Avoiding Quantity Mismatches when Committing Numbered Inventory](subsect_96151731732.md) — subsect_96151731732
+            - [Common Scenarios Affecting Numbered Inventory](article_71145905686.md) — article_71145905686
+          - [Item Reallocation and the Calculation Examples](bridgehead_3784990209.md) — bridgehead_3784990209
+          - [Reallocate Open Quantities to Recommit Items for Fulfillment](bridgehead_3788727177.md) — bridgehead_3788727177
+          - [Item Commitment Transaction Ordering Set to Order by Order Priority](bridgehead_3788722269.md) — bridgehead_3788722269
+          - [Creating Commit Orders Schedule](bridgehead_4713119268.md) — bridgehead_4713119268
+      - [Planning Action Messages](section_3865354301.md) — section_3865354301
+        - [Setting Up Reschedule Out Messages](article_162557605659.md) — article_162557605659
+        - [Setting Up Reschedule In Messages](bridgehead_3866071366.md) — bridgehead_3866071366
+    - [Distribution Resource Planning](section_4049498070.md) — section_4049498070
+      - [Setting Up Distribution Resource Planning](section_4049500343.md) — section_4049500343
+      - [Creating a Distribution Category](section_4049501123.md) — section_4049501123
+      - [Creating a Distribution Network](section_4049501559.md) — section_4049501559
+      - [Creating a Bill of Distribution](section_4049502244.md) — section_4049502244
+      - [Associating Distribution Categories](section_4049502746.md) — section_4049502746
+      - [Generate Supply Plans Using DRP](section_4060580900.md) — section_4060580900
+    - [Supply Planning](section_159171867422.md) — section_159171867422
+      - [Supply Planning Overview](section_159172025754.md) — section_159172025754
+      - [Setting Up Supply Planning](section_159172130393.md) — section_159172130393
+        - [Setting Supply Planning Parameters](section_159172238892.md) — section_159172238892
+        - [Supply Planning Prerequisites](section_159172352717.md) — section_159172352717
+          - [Creating Planning Item Categories to an Item](subsect_161944790139.md) — subsect_161944790139
+          - [Planning Repository](section_159172389289.md) — section_159172389289
+            - [Creating a Refresh Planning Repository Schedule](subsect_161002332440.md) — subsect_161002332440
+            - [Viewing the Planning Repository Event Log](subsect_161944806118.md) — subsect_161944806118
+          - [Supply Planning Process](section_159172577944.md) — section_159172577944
+            - [Creating Planning Item Groups](subsect_161944820656.md) — subsect_161944820656
+            - [Creating Planning Rule Groups](subsect_161944833572.md) — subsect_161944833572
+        - [Upgrade Supply Planning to Material Requirements Planning and Master Production Schedule](article_161780033921.md) — article_161780033921
+          - [Enabling Supply Planning Features](section_161780351051.md) — section_161780351051
+          - [Setting Supply Planning Preferences](section_161780386422.md) — section_161780386422
+          - [Setting Up Required Items](section_161780391764.md) — section_161780391764
+          - [Setting Up Optional Items](section_162456163592.md) — section_162456163592
+          - [Defining Demand Definitions](section_162456169323.md) — section_162456169323
+          - [Setting Up Distribution Resource Planning](section_161780450691.md) — section_161780450691
+          - [Supply Planning Parameters](section_161780477064.md) — section_161780477064
+        - [Creating a Supply Planning Definition and Schedule](section_159180786193.md) — section_159180786193
+          - [Launch a Supply Plan](article_0411122451.md) — article_0411122451
+          - [Supply Planning Event Log](section_159180936306.md) — section_159180936306
+      - [Supply Planning Workbench](section_159187932855.md) — section_159187932855
+        - [Creating a Planning Workbench View](article_164313117883.md) — article_164313117883
+        - [Creating a Preferred Vendor Saved Search](article_164313580137.md) — article_164313580137
+          - [Filtering the Workbench by Preferred Vendor](article_164313660615.md) — article_164313660615
+        - [Workbench Interface](section_159188342265.md) — section_159188342265
+          - [Working With the Action Tab](subsect_161945453190.md) — subsect_161945453190
+          - [Exception Tab](subsect_161945460414.md) — subsect_161945460414
+          - [Working With the Supply Tab](subsect_161945464537.md) — subsect_161945464537
+            - [Integrating Action Messages](subsect_161945469305.md) — subsect_161945469305
+          - [Creating or Editing a Planned Order](subsect_161945475641.md) — subsect_161945475641
+          - [Demand Tab](subsect_161945479788.md) — subsect_161945479788
+            - [Pegging](subsect_161945494764.md) — subsect_161945494764
+            - [Results Summary](subsect_161945484151.md) — subsect_161945484151
+            - [Date Based View](subsect_161945489902.md) — subsect_161945489902
+        - [Change Orders](section_159190685327.md) — section_159190685327
+          - [Creating a Change Order](article_162669769740.md) — article_162669769740
+          - [Implementing and Approving a Change Order](article_162669792941.md) — article_162669792941
+      - [SuiteAnalytics Supply Planning Workbooks](article_0730021103.md) — article_0730021103
+        - [Pegging Analysis Dataset](article_0730021554.md) — article_0730021554
+        - [Pegging Analysis (Demand View) Workbook](article_0730023051.md) — article_0730023051
+        - [Pegging Analysis (Supply View) Workbook](article_0730024237.md) — article_0730024237
+      - [Supply Planning Glossary](section_163664509886.md) — section_163664509886
+    - [Supply Allocation](section_156424975823.md) — section_156424975823
+      - [Supply Allocation Setup](section_157073605250.md) — section_157073605250
+        - [Enabling Supply Allocation](section_156425077511.md) — section_156425077511
+        - [Enabling Blanket Purchase Orders and Inbound Shipments](section_161255093411.md) — section_161255093411
+        - [Setting Demand Preferences for Supply Allocation](section_156425133807.md) — section_156425133807
+        - [Setting Supply Preferences for Supply Allocation](section_157236067310.md) — section_157236067310
+        - [Setting Up Location Records for Supply Allocation](section_156468469490.md) — section_156468469490
+        - [Setting Up Item Records for Supply Allocation](section_157236245634.md) — section_157236245634
+        - [Setting Up Inventory Status Records for Supply Allocation](section_157236254323.md) — section_157236254323
+        - [Setting Up Order Reservations](section_161176983725.md) — section_161176983725
+        - [Enabling Sales Channels](section_161348620247.md) — section_161348620247
+        - [Enabling Inbound Shipment for Supply Allocation](section_159128098535.md) — section_159128098535
+      - [Supply Allocation Management](section_156425243912.md) — section_156425243912
+        - [Creating Allocation Strategies](section_156433189079.md) — section_156433189079
+          - [Allocation Strategy Examples](section_157183368194.md) — section_157183368194
+        - [Creating Order Allocation Schedules](section_156425280048.md) — section_156425280048
+        - [Applying Allocation Strategies to Order Lines](section_156518444628.md) — section_156518444628
+        - [Setting Supply Required By Dates on Order Lines](section_156639322112.md) — section_156639322112
+        - [Supply Allocation Calculations](section_156556825274.md) — section_156556825274
+          - [Expected Receipt Date Calculation on Transfer Orders](article_0818060812.md) — article_0818060812
+        - [Supply Allocation Exceptions](section_156518739289.md) — section_156518739289
+        - [Supply Allocation Exceptions Management](section_159181096597.md) — section_159181096597
+          - [Setting up Access to Reallocate Order Items](subsect_161945617198.md) — subsect_161945617198
+          - [Creating Reallocate Recommendations](section_159181173584.md) — section_159181173584
+        - [Optimizing Fill Rate](section_159250069550.md) — section_159250069550
+        - [Allocating Supply to Order Demand](section_156632657442.md) — section_156632657442
+        - [Inbound Shipment in Supply Allocation](section_159171219251.md) — section_159171219251
+          - [Viewing Allocated Demand on an Inbound Shipment](article_162730846305.md) — article_162730846305
+          - [Finding Inbound Shipment as an Allocated Supply](article_162730869670.md) — article_162730869670
+          - [Inbound Shipment Example](section_159171354002.md) — section_159171354002
+        - [Supply Allocation Order Management](section_161221008116.md) — section_161221008116
+          - [Order Management Dashboard](section_161727869331.md) — section_161727869331
+          - [Earliest Item Availability](section_162755810967.md) — section_162755810967
+          - [Order Reservations](section_161727922012.md) — section_161727922012
+          - [Defining a Sales Channel Allocation](section_161462576172.md) — section_161462576172
+          - [Order Management Process with Sales Channels](section_161349098866.md) — section_161349098866
+      - [SuiteAnalytics Supply Chain Workbook](section_161400142423.md) — section_161400142423
+        - [Supply Chain Dataset](section_161426322690.md) — section_161426322690
+        - [Supply Chain Workbook](section_161426386076.md) — section_161426386076
+      - [FEFO Lot Assignments](article_161009052865.md) — article_161009052865
+        - [Setting Up FEFO Lot Assignments](section_160257014257.md) — section_160257014257
+          - [Installing FEFO Lot Assignments](section_160638997107.md) — section_160638997107
+          - [Creating or Customizing Roles and Permissions to Use FEFO Lot Assignments](section_160257044240.md) — section_160257044240
+          - [Adding Center Category and Center Types](section_160257350504.md) — section_160257350504
+          - [Prerequisites for Using FEFO Lot Assignments](section_160257387010.md) — section_160257387010
+          - [FEFO Lot Assignments Preferences](section_164230551465.md) — section_164230551465
+        - [Commit and Assign Lots](section_164221857556.md) — section_164221857556
+          - [Creating FEFO Shelf Life Groups](section_160257422910.md) — section_160257422910
+          - [Creating Commit Groups](section_160257433064.md) — section_160257433064
+          - [Assigning Commit Groups and FEFO Shelf Life Groups to Items](section_160257449374.md) — section_160257449374
+          - [Creating FEFO Customer Shelf Life Groups](section_160257469553.md) — section_160257469553
+          - [Setting Minimum Fulfillment Percentage for a Customer](section_164741088359.md) — section_164741088359
+          - [Lot Assignments Script](section_160258037286.md) — section_160258037286
+          - [Adding Lot Assignments Manually](section_160258539345.md) — section_160258539345
+          - [Removing Lot Assignments](section_160258657668.md) — section_160258657668
+          - [Impact of Modifying Sales Orders on FEFO Lot Assignments](section_160258457456.md) — section_160258457456
+          - [Guidelines for Importing Sales Orders Using CSV Files](section_160258530693.md) — section_160258530693
+        - [Assigning Lots on Order Fulfillment](section_164222866570.md) — section_164222866570
+          - [Assigning and Fulfilling Orders from the Assign and Fulfill Orders Page](section_164230421011.md) — section_164230421011
+          - [Assigning and Fulfilling Order from the Sales Order](section_164233286669.md) — section_164233286669
+          - [Assigning and Fulfilling Orders Using CSV File Import](section_164230429221.md) — section_164230429221
+          - [Assigning and Fulfilling Orders Using Web Services Integration](section_164612751031.md) — section_164612751031
+        - [Importing Cash Sale Transactions and Assigning Lots](section_164259347800.md) — section_164259347800
+        - [Reporting Errors](section_164258805258.md) — section_164258805258
+        - [FEFO Lot Assignments and the Static Route Management SuiteApp](section_160264997361.md) — section_160264997361
+    - [Available to Promise](section_N2300269.md) — section_N2300269
+      - [Available to Promise in Demand Planning](section_0929025924.md) — section_0929025924
+      - [Available to Promise in Supply Allocation](section_0929033400.md) — section_0929033400
+        - [Earliest Item Availability for Kit Items in Supply Allocation](article_0820050802.md) — article_0820050802
+      - [Enabling Available to Promise](section_N2300611.md) — section_N2300611
+      - [Available to Promise Methods](section_N2301636.md) — section_N2301636
+      - [Checking Item Availability](section_N2302738.md) — section_N2302738
+        - [Checking Item Availability on Transactions](section_163052274836.md) — section_163052274836
+        - [Checking Item Availability on the Check Item Availability Page](section_163052295624.md) — section_163052295624
+      - [Available to Promise Earliest Availability](section_159250317916.md) — section_159250317916
+        - [Enabling Supply Allocation and the Earliest Available Popup Window](article_162790924668.md) — article_162790924668
+        - [Calculating Earliest Availability on Sales Orders](article_162790954761.md) — article_162790954761
+        - [Assigning a Location Based on Automatic Location Assignment](bridgehead_161228335336.md) — bridgehead_161228335336
+    - [Supply Chain Control Tower](section_1519947103.md) — section_1519947103
+      - [Set Up the Supply Chain Control Tower Feature](section_1519948134.md) — section_1519948134
+        - [Enabling the Supply Chain Control Tower Features](procedure_1522773669.md) — procedure_1522773669
+        - [Setting Supply Chain Control Tower Preferences](bridgehead_1520040136.md) — bridgehead_1520040136
+        - [Defining Auto Generated Numbering in Snapshot Simulations](bridgehead_161219567483.md) — bridgehead_161219567483
+        - [Set up Supply Chain Control Tower on Location Records](bridgehead_1520040297.md) — bridgehead_1520040297
+        - [Set up Inventory and Item Records for Supply Chain Control Tower](bridgehead_1520517258.md) — bridgehead_1520517258
+      - [Generating a Supply Chain Snapshot](section_1519948506.md) — section_1519948506
+        - [Manually Creating a Supply Chain Snapshot Simulation](bridgehead_160987480296.md) — bridgehead_160987480296
+        - [Generating Supply Chain Snapshots From Item Records](article_162816537147.md) — article_162816537147
+          - [Supply Chain Snapshot Allocated Demand and Allocated Demand](article_164184657238.md) — article_164184657238
+        - [Using Blanket Purchase Orders and Inbound Shipments on Supply Chain Snapshots](bridgehead_161229691881.md) — bridgehead_161229691881
+          - [Approving a Blanket Purchase Order](article_162816759920.md) — article_162816759920
+          - [Editing or Viewing the Approved Blanket Purchase Order](article_162816774821.md) — article_162816774821
+          - [Displaying an Inbound Shipment From a Purchase Order](article_162816786490.md) — article_162816786490
+      - [Customizing a Snapshot Form](section_1547669335.md) — section_1547669335
+        - [Excluding Predicted Risks](subsect_161946178452.md) — subsect_161946178452
+        - [Setting Vendor-Specific Risk Confidence Settings](subsect_161946181059.md) — subsect_161946181059
+      - [Predicted Risks Portlet](section_157243901564.md) — section_157243901564
+        - [Reviewing Predicted Risks](article_162825714872.md) — article_162825714872
+        - [Working With the Predicted Risks Portlet](section_160699811704.md) — section_160699811704
+        - [The Model Creation Process](section_160693718076.md) — section_160693718076
+          - [Scheduling Supply Chain Snapshots](section_160699766113.md) — section_160699766113
+        - [Vendor Purchase Orders Overview](section_160693844866.md) — section_160693844866
+        - [Manually Entering Predicted Risks](section_160693928436.md) — section_160693928436
+        - [Adding a Snapshot Simulation](section_160694250167.md) — section_160694250167
+      - [Vendor Delivery Performance](section_162922440050.md) — section_162922440050
+        - [Vendor Performance History](article_164184393324.md) — article_164184393324
+        - [Vendor Delivery Performance Scores](article_164184485298.md) — article_164184485298
+    - [Supply Chain Management SuiteApp](section_3837065612.md) — section_3837065612
+      - [Supply Chain Management SuiteApp Prerequisites](section_0403044129.md) — section_0403044129
+      - [Installing the Supply Chain Management SuiteApp](section_4258666051.md) — section_4258666051
+      - [Setting Up the Supply Chain Management SuiteApp](section_4083532361.md) — section_4083532361
+        - [Supply Chain Management Roles and Permissions](bridgehead_3836204551.md) — bridgehead_3836204551
+        - [Setting Up Supply Chain Preferences](bridgehead_3836204990.md) — bridgehead_3836204990
+        - [Setting Up the Script Deployment Schedule for Supply Chain Management](bridgehead_3847647390.md) — bridgehead_3847647390
+      - [Printing Supply Chain Management Reports](section_4083535108.md) — section_4083535108
+        - [Inventory Count Sheet](bridgehead_3836205846.md) — bridgehead_3836205846
+        - [Daily Shipment Detail Report](bridgehead_4083560088.md) — bridgehead_4083560088
+        - [Manufacturing Dispatch List](bridgehead_4083560935.md) — bridgehead_4083560935
+        - [Manufacturing Traveler](bridgehead_4083561088.md) — bridgehead_4083561088
+        - [Viewing the Form Printing Status](bridgehead_3836205962.md) — bridgehead_3836205962
+      - [Supply Chain Management Limitations](bridgehead_3836204856.md) — bridgehead_3836204856
+  - [Consigned Inventory Management](article_94502112.md) — article_94502112
+    - [Consigned Inventory Management Setup](section_0218102533.md) — section_0218102533
+      - [Enabling Consigned Inventory Management](section_0218102627.md) — section_0218102627
+      - [Setting Default Account Preferences for Consigned Items](section_0218104008.md) — section_0218104008
+      - [Setting Up Consigned Inventory per Item](section_0218104904.md) — section_0218104904
+      - [Creating Consigned Inventory Statuses](section_0218110128.md) — section_0218110128
+      - [Disabling Consigned Inventory Management](section_0218110516.md) — section_0218110516
+    - [Purchasing and Receiving Consigned Inventory](section_0218113017.md) — section_0218113017
+      - [Creating Purchase Contracts for Consigned Inventory](section_0218113933.md) — section_0218113933
+      - [Creating Bulk Orders for Consigned Inventory](section_0218114304.md) — section_0218114304
+      - [Creating Purchase Orders for Consigned Items](section_0218114705.md) — section_0218114705
+      - [Receiving Consigned Inventory](section_0218125433.md) — section_0218125433
+      - [Returning Consigned Inventory to Vendors](section_0218125957.md) — section_0218125957
+      - [Generating Vendor Bills for Consigned Inventory](section_0218010249.md) — section_0218010249
+    - [Consigned Inventory Adjustments](section_0218010438.md) — section_0218010438
+    - [Consigned Inventory Counts](section_0327125707.md) — section_0327125707
+    - [Transferring Consigned Inventory](section_0218010714.md) — section_0218010714
+    - [Selling and Fulfilling Consigned Inventory](section_0218011109.md) — section_0218011109
+    - [Generating Consignment Consumption Reports](article_0305112108.md) — article_0305112108
+    - [Journal Accounts for Vendor Consigned Inventory](article_0317081004.md) — article_0317081004
+  - [Inventory Reporting](chapter_N2353200.md) — chapter_N2353200
+    - [Viewing the Stock Ledger](section_4521145431.md) — section_4521145431
+      - [Stock Ledger Report Insights](article_0206033806.md) — article_0206033806
+    - [Inventory Level Assessments with Reports](section_N2354076.md) — section_N2354076
+    - [How Kits and Kit Parts Affect Quantities Displayed in Reports](section_N2354244.md) — section_N2354244
+    - [Physical Inventory Worksheet](section_N2354418.md) — section_N2354418
+    - [Current Inventory Snapshot Report](section_N2355248.md) — section_N2355248
+    - [Inventory Back Order Report](section_N2355658.md) — section_N2355658
+      - [Inventory Back Order Report Insights](article_0303111830.md) — article_0303111830
+    - [Inventory Activity Detail Report](section_N2355966.md) — section_N2355966
+      - [Inventory Activity Detail Report Insights](article_0205052048.md) — article_0205052048
+    - [Items Pending Fulfillment Report](section_N2356254.md) — section_N2356254
+    - [Inventory Turnover Report](section_N2356560.md) — section_N2356560
+    - [Demand History by Item Report](section_N2356898.md) — section_N2356898
+    - [Item Demand Plan by Item Report](section_N2357062.md) — section_N2357062
+    - [Item Demand Forecast vs. Actual Report](section_N2357186.md) — section_N2357186
+    - [Inventory Value Assessments with Reports](section_N2358468.md) — section_N2358468
+    - [Inventory Profitability Report](section_N2358569.md) — section_N2358569
+    - [Inventory Valuation Summary Report](section_N2358933.md) — section_N2358933
+    - [Inventory Valuation Detail Report](section_N2359248.md) — section_N2359248
+    - [Inventory Revenue Report](section_N2359520.md) — section_N2359520
+    - [Inventory Revenue Detail Report](section_N2359826.md) — section_N2359826
+  - [Inventory SuiteAnalytics Workbooks](chapter_156708335167.md) — chapter_156708335167
+    - [Inventory Dataset Templates](section_158219102920.md) — section_158219102920
+      - [Consignment Purchases Dataset](article_0305093945.md) — article_0305093945
+      - [Inventory Optimization Results Dataset](article_0807045507.md) — article_0807045507
+      - [Warehouse Inventory: Counts & Adjustments Dataset](section_158227786021.md) — section_158227786021
+      - [Warehouse Inventory: Inbound Dataset](section_158227853293.md) — section_158227853293
+      - [Warehouse Inventory: Outbound Dataset](section_158227939638.md) — section_158227939638
+      - [Pick Task Inventory Balance Dataset](section_0927091139.md) — section_0927091139
+    - [Inventory Workbook Templates](section_156708364339.md) — section_156708364339
+      - [Consignment Purchases Workbook](article_0305095907.md) — article_0305095907
+      - [Inventory Optimization Results Workbook](article_0807050821.md) — article_0807050821
+      - [Warehouse Inventory: Counts & Adjustments Workbook](section_156708518969.md) — section_156708518969
+      - [Warehouse Inventory: Inbound Workbook](section_156708489689.md) — section_156708489689
+      - [Warehouse Inventory: Outbound Workbook](section_156708607969.md) — section_156708607969
+    - [Customizing Inventory SuiteAnalytics Workbooks](section_156708798705.md) — section_156708798705
+  - [Warranty and Repairs Management SuiteApp](chapter_3938292477.md) — chapter_3938292477
+    - [Warranty and Repairs Management Setup](section_3938292683.md) — section_3938292683
+      - [Enabling Required Features for Warranty and Repairs Management](bridgehead_3938301917.md) — bridgehead_3938301917
+      - [Installing Warranty and Repairs Management SuiteApp](bridgehead_4389357787.md) — bridgehead_4389357787
+      - [Configuring Roles and Permissions for Warranty and Repairs Management](bridgehead_3938300864.md) — bridgehead_3938300864
+      - [Adding Warranty and Repairs Management Custom Fields to Forms](article_1117084929.md) — article_1117084929
+    - [Warranty Preferences and Item Setup](section_3938299291.md) — section_3938299291
+      - [Setting Warranty Preferences](section_4389382197.md) — section_4389382197
+      - [Defining Warranty Terms](section_4389387184.md) — section_4389387184
+      - [Defining Failure Reasons](section_4389392385.md) — section_4389392385
+      - [Creating Repaired Items](section_4389393717.md) — section_4389393717
+      - [Setting Warranty Information on Items](section_4389395959.md) — section_4389395959
+    - [Warranty Registration](section_3938315832.md) — section_3938315832
+      - [Generating a Warranty Registration](section_4391652419.md) — section_4391652419
+      - [Creating a Manual Warranty Registration](section_4391653003.md) — section_4391653003
+      - [Importing Warranty Registration Details](section_4391653401.md) — section_4391653401
+      - [Editing a Warranty Registration](section_4391653646.md) — section_4391653646
+      - [Edit Mode Actions for Warranty Registrations](subsect_0819105202.md) — subsect_0819105202
+      - [Best Practices for Importing Warranty Registration Details](bridgehead_4391714795.md) — bridgehead_4391714795
+      - [Best Practices for Updating Invoices With Warranty Records](bridgehead_4391666174.md) — bridgehead_4391666174
+    - [Warranty Claims](section_3938319263.md) — section_3938319263
+      - [Creating a Warranty Claim](section_4391750423.md) — section_4391750423
+      - [Editing a Warranty Claim](section_4391752716.md) — section_4391752716
+      - [Voiding or Deleting a Warranty Claim](subsect_0819022034.md) — subsect_0819022034
+    - [Return Authorizations for Warranty Claims](section_4391752984.md) — section_4391752984
+      - [Creating Return Authorizations for Warranty Claims](section_4391869751.md) — section_4391869751
+      - [Viewing Related Warranty Claim Records](bridgehead_3938321665.md) — bridgehead_3938321665
+      - [Approving Return Authorizations for Warranty Claims](bridgehead_3938324114.md) — bridgehead_3938324114
+      - [Creating Item Receipts from Warranty Return Authorizations](section_4391872321.md) — section_4391872321
+    - [Managing Refund, Repair, and Replacement Claims](section_4391753773.md) — section_4391753773
+      - [Creating a Credit Memo for a Refund Claim](bridgehead_3938325774.md) — bridgehead_3938325774
+      - [Creating a Sales Order for a Replacement Claim](bridgehead_3938326430.md) — bridgehead_3938326430
+      - [Creating a Sales Order for a Repair Claim](bridgehead_3938327650.md) — bridgehead_3938327650
+    - [Warranty and Repairs Management Considerations](bridgehead_4389346541.md) — bridgehead_4389346541
+  - [Quality Management](part_1510239273.md) — part_1510239273
+    - [Quality Management Overview](chapter_1501602139.md) — chapter_1501602139
+      - [The Quality Tab](article_0718100342.md) — article_0718100342
+    - [Quality Management Administration](chapter_158403489694.md) — chapter_158403489694
+      - [Quality Management Roles](section_158403724627.md) — section_158403724627
+      - [Quality Process Flow](section_158403788313.md) — section_158403788313
+      - [Quality Management Prerequisites](section_1528995922.md) — section_1528995922
+      - [Customizing Quality Management Workflows](section_1524583615.md) — section_1524583615
+        - [The Quality Inspection Queue](section_158627331439.md) — section_158627331439
+        - [Quality Workflows](section_158627382429.md) — section_158627382429
+          - [Receipt Quarantines Workflows](section_0711042151.md) — section_0711042151
+            - [Enhanced Receipt Quarantine Workflow](article_0713044724.md) — article_0713044724
+          - [Setting up Enhanced Receipt Quarantine v1 and v2](article_1130082908.md) — article_1130082908
+      - [Quality Management Connect](section_159594269535.md) — section_159594269535
+      - [NetSuite Plugins](section_158627748777.md) — section_158627748777
+      - [Quality Management REST API](section_1540583465.md) — section_1540583465
+        - [Quality Management Bundle Integration](section_160130227515.md) — section_160130227515
+    - [Quality Management User Guide](chapter_1503070323.md) — chapter_1503070323
+      - [Quality Management Glossary](chapter_1498594076.md) — chapter_1498594076
+      - [Quality Management Best Practices](article_0715122351.md) — article_0715122351
+      - [Quality Inspections](section_1525966493.md) — section_1525966493
+        - [Configure Quality Inspections](section_0516021140.md) — section_0516021140
+          - [Creating a Quality Inspection](section_0516021348.md) — section_0516021348
+          - [Assigning a Quality Inspection](article_0718021703.md) — article_0718021703
+          - [Viewing a Quality Inspection](section_0516021737.md) — section_0516021737
+          - [Copying a Quality Inspection](section_158628281148.md) — section_158628281148
+        - [Data Fields](section_158628113027.md) — section_158628113027
+          - [Creating a Data Field](section_0516024831.md) — section_0516024831
+          - [Editing a Data Field](section_0516024837.md) — section_0516024837
+        - [Inspection Standards](section_158628215275.md) — section_158628215275
+          - [Creating an Inspection Standard](article_0519075414.md) — article_0519075414
+          - [Editing an Inspection Standard](article_0519075551.md) — article_0519075551
+        - [Pass Fail Criteria](section_158628252147.md) — section_158628252147
+          - [Creating a Pass Fail Criteria](article_0519081048.md) — article_0519081048
+          - [Viewing a Pass Fail Criteria Status](article_0519081318.md) — article_0519081318
+          - [Pass Fail Conformance Checks](article_0519081350.md) — article_0519081350
+          - [Pass Fail Conformance Checks Examples](article_0519084301.md) — article_0519084301
+        - [Pass Fail Plug-in](section_163588392756.md) — section_163588392756
+          - [Creating a Pass Fail Plug-in Implementation](article_0519082745.md) — article_0519082745
+          - [Enabling a Pass Fail Plug-in](article_0519082750.md) — article_0519082750
+          - [Viewing the Inspection Execution Log](article_0519082753.md) — article_0519082753
+        - [Statistical Sampling](article_0221101910.md) — article_0221101910
+          - [Statistical Sampling Roles](article_0221102527.md) — article_0221102527
+          - [The Statistical Sampling Workflow](article_0221103218.md) — article_0221103218
+            - [Defect Counting Methods](article_1210114925.md) — article_1210114925
+      - [Quality Specifications](section_1525966601.md) — section_1525966601
+        - [Configure Quality Specifications](article_0609082613.md) — article_0609082613
+          - [Creating a Quality Specification](article_0609082617.md) — article_0609082617
+          - [Assigning a Quality Inspection to a Specification](article_0609082642.md) — article_0609082642
+          - [Creating an Item Inspection Standard](article_0609082646.md) — article_0609082646
+          - [Viewing a Quality Specification](article_0609082648.md) — article_0609082648
+          - [Reviewing a Specification Context Record](article_0609082650.md) — article_0609082650
+          - [Adding a Specification Conformance Rule](article_0609082652.md) — article_0609082652
+        - [Specification Contexts](section_158628526174.md) — section_158628526174
+          - [Creating a Specification Context](article_0520024952.md) — article_0520024952
+      - [On-Demand Quality Inspection Queues](article_164133074791.md) — article_164133074791
+        - [Ad Hoc Inspection Queues](article_164133114727.md) — article_164133114727
+          - [Creating an Ad Hoc Inspection Queue With a Transaction Reference](article_164133124036.md) — article_164133124036
+          - [Creating an Ad Hoc Inspection Queue Without a Transaction Reference](article_164133132194.md) — article_164133132194
+          - [Setting up Scheduled Inspections](article_0124032206.md) — article_0124032206
+          - [Viewing an Ad Hoc Inspection Queue](article_164133139592.md) — article_164133139592
+          - [Viewing an Ad Hoc Inspection Queue Error Message](article_164555063269.md) — article_164555063269
+      - [Quality Management Triggers](article_0609085939.md) — article_0609085939
+        - [Fulfillment Trigger](article_0609090004.md) — article_0609090004
+        - [Item Receipt Trigger for Outsourced Items](section_0313015320.md) — section_0313015320
+      - [Quality Management Saved Searches](article_164133163593.md) — article_164133163593
+        - [Configuring the Location for a Quality Management Saved Search](article_164555268619.md) — article_164555268619
+        - [Configuring the Quality Inspection Field for a Quality Management Saved Search](article_164555291558.md) — article_164555291558
+      - [Quality Management Workflows](article_164133175329.md) — article_164133175329
+        - [Configuring the Recipient Address for a Quality Management Workflow](article_164555366404.md) — article_164555366404
+        - [Configuring the Enhanced Receipt Quarantines Workflow](article_0712050051.md) — article_0712050051
+        - [Enhanced Receipt Return Authorization Workflow](article_0222101726.md) — article_0222101726
+      - [Store Quality Management Images](section_1525966687.md) — section_1525966687
+        - [Setting Up Quality Management File Storage](article_0617012017.md) — article_0617012017
+        - [Store Quality Management Image Files](article_0617012021.md) — article_0617012021
+        - [Data Fields for Quality Management Images](article_0617012028.md) — article_0617012028
+      - [Resetting Transaction Count](section_1525966741.md) — section_1525966741
+      - [Certificate of Analysis (COA)](section_163274330949.md) — section_163274330949
+        - [Defining a Certificate of Analysis (COA) Field](section_163595953790.md) — section_163595953790
+        - [Defining a Customer Certificate of Analysis (COA) Attribute](section_163312019274.md) — section_163312019274
+        - [Custom Certificate of Analysis (COA) Template](section_163596667659.md) — section_163596667659
+          - [Creating a Custom Saved Search for COA](section_163613570909.md) — section_163613570909
+          - [Defining a COA Active Saved Search](section_163614224680.md) — section_163614224680
+          - [Creating a Custom COA Template](section_163613701612.md) — section_163613701612
+          - [Adding a COA Template](section_163613710675.md) — section_163613710675
+        - [Defining a Certificate of Analysis (COA) Report Path](section_163596942484.md) — section_163596942484
+        - [Defining an Item Fulfillment Status Parameter](section_163312110262.md) — section_163312110262
+        - [Viewing a Generated Certificate of Analysis (COA) Report](section_163603188956.md) — section_163603188956
+      - [Derived Fields](section_163274428926.md) — section_163274428926
+        - [Defining a Derived Field](section_163673314644.md) — section_163673314644
+        - [Derived Field Plug-in Implementation](section_163346884060.md) — section_163346884060
+          - [Viewing a Plug-in Implementation Script Example](section_163673863498.md) — section_163673863498
+          - [Creating a Derived Field Plug-in Implementation Script](section_163673865977.md) — section_163673865977
+          - [Creating a Derived Field Plug-in Implementation](section_163673867897.md) — section_163673867897
+          - [Updating the Derived Field Plug-in Script ID](section_163673869563.md) — section_163673869563
+        - [Derived Fields Tablet Interaction](section_163673318396.md) — section_163673318396
+        - [Derived Field Evaluation](section_163338333671.md) — section_163338333671
+          - [Viewing the Derived Field Plug-in Implementation Status](section_163708825766.md) — section_163708825766
+          - [Accessing the Derived Field Plug-in Failure Log](section_163700554575.md) — section_163700554575
+      - [Configure Quality Management Preferences](section_163708622240.md) — section_163708622240
+        - [Inspection Data Reporting](article_0717033806.md) — article_0717033806
+        - [Email Recipients for a Derived Field Plug-in Implementation Failure](section_163708713800.md) — section_163708713800
+        - [Configuring Sample Row Threshold for CSV](section_163708719556.md) — section_163708719556
+        - [Lot Specific Sample Rate Calculation](article_0711124410.md) — article_0711124410
+        - [Enabling Auto-Calculate Sampling Summary Fields](article_1209032840.md) — article_1209032840
+      - [Quality Management Mobile Data Collection](chapter_1503422114.md) — chapter_1503422114
+        - [Set Up the Quality Management Tablet Interface](article_0721074416.md) — article_0721074416
+          - [Access the Quality Management Tablet Interface](article_0721074016.md) — article_0721074016
+          - [Configuring a Custom Search in the Quality Management Tablet Interface](article_0721074114.md) — article_0721074114
+          - [Assigning a Quality Inspection in the Quality Management Tablet Interface](article_0721074151.md) — article_0721074151
+        - [Quality Management Tablet Data Collection](section_158628698888.md) — section_158628698888
+          - [Quality Management Tablet Requirements](article_0721082642.md) — article_0721082642
+          - [Collecting Quality Data with a Tablet](article_0721082658.md) — article_0721082658
+          - [Capturing Images in the Quality Management Tablet Interface](section_158636363449.md) — section_158636363449
+          - [Alert on Missing Inspections for Lot and Serial Items](article_0711013125.md) — article_0711013125
+          - [Inventory Details](article_0221095932.md) — article_0221095932
+          - [Operation Details](article_91101601019.md) — article_91101601019
+          - [Managing Tablet Settings](article_0722025556.md) — article_0722025556
+        - [Quality Specifications in the Quality Management Tablet Interface](article_0721074948.md) — article_0721074948
+          - [Quality Specification Collapsible Panes](article_0722031856.md) — article_0722031856
+          - [Searching for a Quality Inspection](article_0722025448.md) — article_0722025448
+          - [Filtering a Quality Specification Queue](article_0722025553.md) — article_0722025553
+        - [Quality Inspection Sampling for CSV](section_159343551243.md) — section_159343551243
+          - [Uploading Data Using CSV in the Quality Management Tablet Interface](article_0722033003.md) — article_0722033003
+      - [Quality Management Reports](chapter_1495134914.md) — chapter_1495134914
+        - [Reviewing a Quality Specification](article_0721075445.md) — article_0721075445
+        - [Reviewing a Quality Inspection Queue](article_0721075514.md) — article_0721075514
+  - [Auto Assign UPC](chapter_158373836991.md) — chapter_158373836991
+    - [Setting Up Auto Assign UPC](section_158573839837.md) — section_158573839837
+    - [Working with Auto Assign UPC](section_158590007619.md) — section_158590007619
+      - [Setting Custom Auto Assign UPC Preferences](section_159300061789.md) — section_159300061789
+      - [Creating or Importing UPCs](section_158747055932.md) — section_158747055932
+      - [Assigning UPCs](section_158753744894.md) — section_158753744894
+      - [Updating Item Records Using Mass Update](section_158772452129.md) — section_158772452129
+      - [Removing UPCs](section_158753778335.md) — section_158753778335
+      - [Managing UPCs](section_1230045859.md) — section_1230045859
+      - [Automating UPC Assignment and Retirement](section_158753804968.md) — section_158753804968
+    - [Monitoring UPCs and Disabling Automatic Assignment](section_158737099515.md) — section_158737099515
+  - [Smart Count](article_83123952246.md) — article_83123952246
+    - [Smart Count Supported Languages](section_10123024982.md) — section_10123024982
+    - [Installing the Smart Count SuiteApp](section_29113559384.md) — section_29113559384
+      - [Prerequisites for Installing Smart Count](article_1222013733.md) — article_1222013733
+      - [Installing the Smart Count SuiteApp](section_0620114413.md) — section_0620114413
+    - [Smart Count Roles and Permissions](section_0620115020.md) — section_0620115020
+      - [Permissions Required for Smart Count Roles](article_1222015531.md) — article_1222015531
+      - [Providing Access for Custom Smart Count Roles](article_1222015535.md) — article_1222015535
+    - [Setting Up Smart Count Preferences](section_46154957887.md) — section_46154957887
+      - [Company Level Preferences](article_1222025654.md) — article_1222025654
+      - [Item Level Preferences](article_1222025701.md) — article_1222025701
+      - [Bin and Inventory Status Preferences](article_1222025707.md) — article_1222025707
+    - [Working with Smart Count SuiteApp](article_1222054411.md) — article_1222054411
+      - [Creating and Managing Count Configurations](section_0620044529.md) — section_0620044529
+        - [Creating Saved Searches for Task Lists](article_1222041311.md) — article_1222041311
+        - [Creating Custom Count Configurations](article_1222041316.md) — article_1222041316
+        - [Managing Count Configuration Records](article_1222053002.md) — article_1222053002
+      - [Performing Inventory Count on Mobile Devices](section_49120505206.md) — section_49120505206
+        - [Performing Directed Inventory Counts](article_1222055631.md) — article_1222055631
+        - [Performing Spot (Nondirected) Inventory Counts](article_1222055643.md) — article_1222055643
+        - [Completing Count for All Items](article_1223052902.md) — article_1223052902
+        - [Managing Directed and Spot Inventory Counts](article_1222062601.md) — article_1222062601
+        - [GS1 Barcode Scanning for Inventory Counts](article_1222055829.md) — article_1222055829
+      - [Viewing Counted Items](article_1222055736.md) — article_1222055736
+      - [Viewing Item Count Records](section_0620044719.md) — section_0620044719
+        - [System-Generated Comments](section_0701030107.md) — section_0701030107
+      - [Working with Smart Count Review](section_0620044825.md) — section_0620044825
+        - [Optimizing Performance of the Smart Count Review Page](article_1224052807.md) — article_1224052807
+        - [Filtering Data Using Primary and Advanced Filters](article_1224052816.md) — article_1224052816
+        - [Analyzing Data with KPIs and Reports](article_1224052811.md) — article_1224052811
+        - [Approving, Rejecting, or Recounting Item Counts](article_1224053132.md) — article_1224053132
+          - [Serialized and Lot Numbered Items](section_1226123334.md) — section_1226123334
+          - [Considerations Before Approving Item Counts](section_1224075415.md) — section_1224075415
+      - [Working with Smart Count Dashboard](section_0620060615.md) — section_0620060615
+        - [Optimizing Performance of Smart Count Dashboard](article_1224100513.md) — article_1224100513
+        - [Smart Count Dashboard Portlets Overview](article_1224100517.md) — article_1224100517
+    - [Item Count Features](section_2145847230.md) — section_2145847230
+    - [Item Count Scenarios](section_0701030012.md) — section_0701030012
+      - [GS1 Bar Code Scan Scenarios](article_1224111212.md) — article_1224111212
+    - [Smart Count Scripts](section_0701030138.md) — section_0701030138
+    - [Smart Count Saved Searches](section_0701030155.md) — section_0701030155
+    - [Smart Count Error Messages](article_0816013247.md) — article_0816013247
+    - [Uninstalling the Smart Count SuiteApp](section_0701030216.md) — section_0701030216
+  - [Item 360 Dashboard](article_2145345562.md) — article_2145345562
+    - [Installing Item 360 Dashboard](section_1121012616.md) — section_1121012616
+      - [Prerequisites for Installing Item 360 Dashboard](section_1205054332.md) — section_1205054332
+      - [Required Features and Permissions for Portlets](section_1205054426.md) — section_1205054426
+      - [Supported Browsers for Item 360 Dashboard](section_1205054614.md) — section_1205054614
+      - [Creating or Customizing Roles and Permissions to Use Item 360 Dashboard](section_1205054659.md) — section_1205054659
+    - [Creating Criteria Configuration for Item 360 Dashboard](section_1121030646.md) — section_1121030646
+    - [Item Alerts Dashboard](section_1121041335.md) — section_1121041335
+    - [Item 360 Dashboard Portlets](section_1121042611.md) — section_1121042611
+      - [Item Overview Page](section_1121042940.md) — section_1121042940
+      - [Inventory Page](section_1121043715.md) — section_1121043715
+      - [Purchasing Page](section_1121061509.md) — section_1121061509
+      - [Manufacturing Page](section_1121062316.md) — section_1121062316
+      - [Sales Page](section_1121062915.md) — section_1121062915
+    - [Quality Page](section_0213063822.md) — section_0213063822
+    - [Error Messages for Item 360 Dashboard](section_1122012331.md) — section_1122012331

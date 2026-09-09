@@ -1,0 +1,60 @@
+{
+  "branch": "netsuite-for-mobile-version-history",
+  "generatedAt": null,
+  "pages": {
+    "chapter_1556005541": {
+      "path": "corpus/netsuite-for-mobile-version-history/chapter_1556005541.md",
+      "title": "NetSuite for Mobile Version History",
+      "type": "chapter",
+      "breadcrumb": "NetSuite for Mobile > NetSuite for Mobile Version History",
+      "parent": "book_1556538966",
+      "category": "netsuite-for-mobile",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_1556005541.html",
+      "etag": "\"41483ed6c3e66adb3c8d711f6b1c98af:1786980390.664346\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:32.530Z",
+      "sha256": "a6c05cf12e0bdbadf4c83b9af07fc356d7f3d9d8926a15e3aae0b7ddbb398388",
+      "bytes": 1696,
+      "anchors": 2,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_156215310455": {
+      "path": "corpus/netsuite-for-mobile-version-history/section_156215310455.md",
+      "title": "NetSuite for iOS Version History",
+      "type": "section",
+      "breadcrumb": "NetSuite for Mobile > NetSuite for Mobile Version History > NetSuite for iOS Version History",
+      "parent": "chapter_1556005541",
+      "category": "netsuite-for-mobile",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_156215310455.html",
+      "etag": "\"96de4902a3acffcea95f2d0581f5c8a4:1786980513.894453\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:32.879Z",
+      "sha256": "8054e17359d926abf66b13b09b746d4bfb1a9c69b3986afc78925a9fcd27407e",
+      "bytes": 9291,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_156214622093": {
+      "path": "corpus/netsuite-for-mobile-version-history/section_156214622093.md",
+      "title": "NetSuite for Android Version History",
+      "type": "section",
+      "breadcrumb": "NetSuite for Mobile > NetSuite for Mobile Version History > NetSuite for Android Version History",
+      "parent": "chapter_1556005541",
+      "category": "netsuite-for-mobile",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_156214622093.html",
+      "etag": "\"71e5cfbc138e8088dc0b88d1c86ab48d:1786980513.883052\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:33.102Z",
+      "sha256": "43f84de44f4a2c51337968c9f546b78271fe7f81cf46800d1cdc092a7e4626ed",
+      "bytes": 4766,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

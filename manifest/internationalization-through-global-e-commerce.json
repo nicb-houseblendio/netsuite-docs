@@ -1,0 +1,24 @@
+{
+  "branch": "internationalization-through-global-e-commerce",
+  "generatedAt": null,
+  "pages": {
+    "article_9212740579": {
+      "path": "corpus/internationalization-through-global-e-commerce/article_9212740579.md",
+      "title": "Internationalization through Global E-commerce",
+      "type": "article",
+      "breadcrumb": "Globalization > Internationalization through Global E-commerce",
+      "parent": "preface_8154319431",
+      "category": "globalization",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_9212740579.html",
+      "etag": "\"1e4614e8b4ac5f20635babc33b427dbb:1786980351.34459\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:02:47.016Z",
+      "sha256": "6493e10f44a377fc2460fb2ac7fcd312e52d887824de40b03a70454a33ef2e26",
+      "bytes": 18099,
+      "anchors": 18,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

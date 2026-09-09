@@ -1,0 +1,88 @@
+# Overdue Balances and Collections
+
+84 pages, category: Order Management
+
+- [Overdue Balances and Collections](section_N1302093.md) — section_N1302093
+  - [Collections](chapter_4418080075.md) — chapter_4418080075
+    - [Sending Collection Letters in Bulk](section_N1302167.md) — section_N1302167
+    - [Sending Individual Collection Letters](section_N1302583.md) — section_N1302583
+    - [Viewing Overdue Balances on the Customer Dashboard](section_N1302769.md) — section_N1302769
+  - [Dunning](chapter_4022915403.md) — chapter_4022915403
+    - [Dunning Overview](section_4026576646.md) — section_4026576646
+      - [Understanding Dunning Terminology](section_4461950338.md) — section_4461950338
+      - [Understanding Customer Level Dunning, Invoice Level Dunning and Invoice Group Level Dunning](section_4461925173.md) — section_4461925173
+        - [Differences between Customer Dunning, Invoice Dunning and Invoice Group Dunning](bridgehead_4461928263.md) — bridgehead_4461928263
+        - [Customer Level Dunning](bridgehead_4461930563.md) — bridgehead_4461930563
+        - [Invoice Level Dunning](bridgehead_4461935950.md) — bridgehead_4461935950
+        - [Invoice Group Level Dunning](bridgehead_161890201974.md) — bridgehead_161890201974
+      - [Considerations When Setting Up the Dunning Letters SuiteApp](section_4623471031.md) — section_4623471031
+        - [Dunning Strategy](bridgehead_4628424921.md) — bridgehead_4628424921
+        - [Dunning Letter Formats](bridgehead_4628435843.md) — bridgehead_4628435843
+        - [Dunning Roles](section_4429887110.md) — section_4429887110
+      - [Dunning Setup Assistant](article_0305104324.md) — article_0305104324
+      - [Dunning Limitations and Best Practices](section_4133530766.md) — section_4133530766
+    - [Enabling Dunning](section_4054122965.md) — section_4054122965
+      - [Prerequisites for Dunning](section_4054153286.md) — section_4054153286
+    - [Dunning Setup Tasks](section_4110284101.md) — section_4110284101
+    - [Customizing Roles to Use the Dunning Features](section_4047177447.md) — section_4047177447
+      - [Granting Dunning Director Permissions to a Custom Role](bridgehead_4417033138.md) — bridgehead_4417033138
+      - [Granting Dunning Manager Permissions to a Custom Role](bridgehead_4417049248.md) — bridgehead_4417049248
+    - [Using the Dunning Tab](section_4041778393.md) — section_4041778393
+    - [Scheduling the Dunning Evaluation Workflow](section_4024837036.md) — section_4024837036
+    - [Configuring Subsidiaries for Dunning](section_4114440269.md) — section_4114440269
+    - [Setting Up Dunning Procedures](section_4022915244.md) — section_4022915244
+    - [Understanding Dunning Letter Templates](section_4022915731.md) — section_4022915731
+      - [Best Practices for Creating and Using Dunning Templates](bridgehead_4575046427.md) — bridgehead_4575046427
+      - [Customizing Dunning Letter Templates](section_4623428365.md) — section_4623428365
+        - [Customizing the Sample Dunning Template Files](bridgehead_4623430750.md) — bridgehead_4623430750
+          - [Customizing the List of Invoices in the Dunning Template File](bridgehead_4623437136.md) — bridgehead_4623437136
+      - [Creating Dunning Letter Email Templates](section_4417696173.md) — section_4417696173
+      - [Creating Dunning Letter PDF Templates](section_4417694364.md) — section_4417694364
+        - [File Naming Guidelines for Dunning PDF Templates](section_4047159633.md) — section_4047159633
+        - [Creating the Dunning PDF Header Template](section_4047161315.md) — section_4047161315
+        - [Creating the Dunning PDF Footer Template](section_4047162299.md) — section_4047162299
+        - [Creating the Dunning PDF Body Template](section_4047163765.md) — section_4047163765
+      - [Identifying Invoice Fields for Inclusion in Dunning Templates](section_1510896823.md) — section_1510896823
+      - [Including Fields from the Transaction Saved Search in Dunning Templates](section_4047174635.md) — section_4047174635
+      - [Including Information from NetSuite Records in Dunning Templates](section_4047173203.md) — section_4047173203
+      - [Creating Dunning Template Records](section_4047158704.md) — section_4047158704
+        - [Supported Languages for Dunning](bridgehead_4575052821.md) — bridgehead_4575052821
+        - [Selecting a Default Language on a Dunning Template Record](bridgehead_4575061015.md) — bridgehead_4575061015
+        - [Creating a Multi-Language Dunning Template Record](bridgehead_4575070980.md) — bridgehead_4575070980
+        - [Creating a Single Language Dunning Template Record](bridgehead_4575071613.md) — bridgehead_4575071613
+        - [Creating a Dunning Template Record](bridgehead_4575072229.md) — bridgehead_4575072229
+    - [Understanding Dunning Levels](section_4114402923.md) — section_4114402923
+    - [Creating Dunning Level Rules](section_4043761763.md) — section_4043761763
+    - [Creating Dunning Procedures](section_4023009552.md) — section_4023009552
+    - [Defining Dunning Selection Criteria](section_4043764102.md) — section_4043764102
+    - [Specifying the Basis for Determining the Dunning Level](section_4114421067.md) — section_4114421067
+    - [Adding Dunning Levels to a Dunning Procedure](section_4043763417.md) — section_4043763417
+    - [Setting the Priority Order of Dunning Procedures](section_4043762880.md) — section_4043762880
+    - [Assigning Dunning Procedures](section_4026415283.md) — section_4026415283
+      - [Assigning a Dunning Procedure to a Customer](section_4023045916.md) — section_4023045916
+        - [Assigning a Dunning Procedure Automatically Upon Customer Record Creation](section_4047180017.md) — section_4047180017
+        - [Assigning a Dunning Procedure to a Customer Manually or Semiautomatically](section_4047179418.md) — section_4047179418
+      - [Assigning a Dunning Procedure to an Invoice](section_4026508278.md) — section_4026508278
+        - [Assigning a Dunning Procedure Automatically Upon Invoice Record Creation](section_4047181734.md) — section_4047181734
+        - [Assigning a Dunning Procedure to an Invoice Manually](section_4047181293.md) — section_4047181293
+      - [Assigning a Dunning Procedure to an Invoice Group](section_161890395901.md) — section_161890395901
+        - [Assigning a Dunning Procedure to an Invoice Group Automatically](section_161890610063.md) — section_161890610063
+        - [Assigning a Dunning Procedure to an Invoice Group Manually](section_161890614431.md) — section_161890614431
+      - [Bulk Assigning Dunning Procedures](section_4026429134.md) — section_4026429134
+        - [Assigning Dunning Procedures Using the Dunning Bulk Assignment Page](bridgehead_4623482668.md) — bridgehead_4623482668
+          - [Assigning Dunning Procedures Using CSV Import](bridgehead_4623483376.md) — bridgehead_4623483376
+    - [Sending and Printing Dunning Letters](section_4035805115.md) — section_4035805115
+      - [Specifying Dunning Delivery Methods](section_4047185006.md) — section_4047185006
+      - [Defining Dunning Letter Recipients](section_4047184738.md) — section_4047184738
+      - [Bulk Updating Customer Records for Dunning](section_4416049146.md) — section_4416049146
+      - [Attaching Statements and Invoices to Dunning Letters](section_4043740474.md) — section_4043740474
+      - [Sending Dunning Letters Automatically](section_4047184493.md) — section_4047184493
+      - [Sending Dunning Letters Manually](section_4047184180.md) — section_4047184180
+      - [Printing Dunning Letters](section_4047183789.md) — section_4047183789
+      - [Resending a Dunning Letter](section_4416962825.md) — section_4416962825
+    - [Managing Dunning](section_4026512491.md) — section_4026512491
+      - [Assigning Dunning Managers](section_4092863850.md) — section_4092863850
+      - [Pausing and Resuming Dunning](section_4035800285.md) — section_4035800285
+      - [Using the Dunning Dashboard](section_4035801314.md) — section_4035801314
+    - [Dunning Letters Error Codes](section_4429142923.md) — section_4429142923
+  - [Finance Charges](section_N1301640.md) — section_N1301640

@@ -1,0 +1,42 @@
+{
+  "branch": "netsuite-enterprise-performance-management-overview",
+  "generatedAt": null,
+  "pages": {
+    "book_5113648189": {
+      "path": "corpus/netsuite-enterprise-performance-management-overview/book_5113648189.md",
+      "title": "NetSuite Enterprise Performance Management",
+      "type": "book",
+      "breadcrumb": "NetSuite Enterprise Performance Management",
+      "parent": null,
+      "category": "netsuite-enterprise-performance-management",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/book_5113648189.html",
+      "etag": "\"f256a52086ef95243e0291403cb9d54f:1786980353.680345\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:04:37.933Z",
+      "sha256": "2d10754c861d2f9809ee5f03174e18edda97a671fade535f101b9f27cbc2768d",
+      "bytes": 879,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "article_8181446064": {
+      "path": "corpus/netsuite-enterprise-performance-management-overview/article_8181446064.md",
+      "title": "NetSuite Enterprise Performance Management Overview",
+      "type": "article",
+      "breadcrumb": "NetSuite Enterprise Performance Management > NetSuite Enterprise Performance Management Overview",
+      "parent": "book_5113648189",
+      "category": "netsuite-enterprise-performance-management",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_8181446064.html",
+      "etag": "\"97e159575808c265a39df8e1445cf379:1786980343.431921\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:04:38.213Z",
+      "sha256": "0c3a91c1aee740d209be88d9cb4d427843662d8e929b8c7ee8195d496b7b5f6a",
+      "bytes": 1096,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

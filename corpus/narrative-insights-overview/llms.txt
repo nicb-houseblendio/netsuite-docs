@@ -1,0 +1,12 @@
+# Narrative Insights Overview
+
+Narrative Insights Overview (1 pages): Narrative Insights Overview
+
+## Chapters
+- [Narrative Insights Overview](article_135342304.md): Narrative Insights uses generative artificial intelligence (AI) to provide concise summaries of supported reports and records.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch narrative-insights-overview

@@ -1,0 +1,15 @@
+# SuiteCommerce InStore (SCIS)
+
+SuiteCommerce InStore (SCIS) (222 pages): SuiteCommerce InStore (SCIS)
+
+## Chapters
+- [SuiteCommerce InStore (SCIS)](preface_156865988957.md): SuiteCommerce InStore (SCIS) is a web-based point-of-sale (POS) application.
+  - [SCIS Administrator Guide](part_4260908985.md): - SuiteCommerce InStore Administrator's Overview(https://docs.
+  - [SCIS User Guide](part_4260909468.md): - SCIS User Guide Overview(https://docs.
+  - [SCIS 2.0 Release Guides](part_4260911229.md): - SCIS 2.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitecommerce-instore-scis

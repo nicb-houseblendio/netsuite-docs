@@ -1,0 +1,226 @@
+# SuiteCommerce InStore (SCIS)
+
+222 pages, category: Commerce
+
+- [SuiteCommerce InStore (SCIS)](preface_156865988957.md) — preface_156865988957
+  - [SCIS Administrator Guide](part_4260908985.md) — part_4260908985
+    - [SuiteCommerce InStore Administrator's Overview](chapter_4233587672.md) — chapter_4233587672
+    - [SuiteCommerce InStore Installation](chapter_4111569414.md) — chapter_4111569414
+      - [Beginning the Installation](section_1525913096.md) — section_1525913096
+        - [Installing SuiteApps for SCIS](section_4091442793.md) — section_4091442793
+        - [Setting Up the SCIS Website](section_4425996079.md) — section_4425996079
+        - [Required Features and Settings for SCIS](section_1518825554.md) — section_1518825554
+      - [Managed Bundle Updates of SCIS](section_1525974944.md) — section_1525974944
+      - [SCIS for iOS (iPadOS) and SCIS for Windows Mobile Applications](section_4782202096.md) — section_4782202096
+        - [Installing the SCIS Mobile App](section_161842677458.md) — section_161842677458
+        - [Configuring the SCIS Mobile App](section_161350254557.md) — section_161350254557
+        - [Setting Up Mobile Certificates and a Domain Safelist for SCIS](section_4786321580.md) — section_4786321580
+          - [SCIS Mobile Certificates](section_1528743124.md) — section_1528743124
+            - [Updating SCIS Mobile Certificates](section_1548716096.md) — section_1548716096
+            - [Adding a Mobile Certificate Entry](section_1548716016.md) — section_1548716016
+            - [Obtaining Domain Fingerprints for SCIS Mobile Certificates](section_1548715848.md) — section_1548715848
+          - [SCIS Domain Safelist Record](section_1528742779.md) — section_1528742779
+        - [Creating a Shortcut for the SCIS Mobile Device List](section_4786321751.md) — section_4786321751
+        - [Setting Up SCIS Touch ID for iOS](section_1495833825.md) — section_1495833825
+        - [Mobile App Testing for Operating System & Other Updates](section_1508181185.md) — section_1508181185
+      - [Working with SCIS on Sandbox](section_4773470562.md) — section_4773470562
+      - [Configuring Search Fields and Field Sets](section_4180749958.md) — section_4180749958
+      - [Troubleshooting Your SCIS Installation](section_1560206422.md) — section_1560206422
+    - [SCIS Compatible Peripheral Hardware](chapter_1525911706.md) — chapter_1525911706
+      - [Compatible Peripherals](section_4447874624.md) — section_4447874624
+      - [Setting Up Receipt Printers for SCIS](section_4298266164.md) — section_4298266164
+      - [Setting up Barcode Scanners for SCIS](section_4703639705.md) — section_4703639705
+      - [Customer-facing Accessories](section_157798801719.md) — section_157798801719
+      - [Security For Your Peripheral Devices](section_160460197207.md) — section_160460197207
+    - [Performance Management and Tips for SCIS](chapter_1555964720.md) — chapter_1555964720
+      - [Application Performance Management (APM) for SCIS](section_160199756825.md) — section_160199756825
+      - [Performance Tips using NetSuite Settings](section_1555965007.md) — section_1555965007
+      - [Performance Tips for using SCIS POS Devices](section_1555968894.md) — section_1555968894
+      - [Performance Tips for Network Resources](section_1556044752.md) — section_1556044752
+      - [Performance Tips for Scripts and Workflows](section_1556047669.md) — section_1556047669
+      - [Performance Tips for using Third-Party SuiteApps](section_1556053305.md) — section_1556053305
+    - [SCIS Configuration](chapter_1488583544.md) — chapter_1488583544
+      - [Enable Required Features (SCIS 2.0 Only)](section_163295165548.md) — section_163295165548
+      - [Subsidiaries and Locations for SCIS](section_4569360187.md) — section_4569360187
+        - [Subsidiaries and SuiteCommerce InStore](section_4289440349.md) — section_4289440349
+        - [Configuring Locations for SCIS](section_4091455770.md) — section_4091455770
+          - [SCIS Location Distance](section_4408116075.md) — section_4408116075
+          - [SCIS Location Searches](section_4409438873.md) — section_4409438873
+      - [SCIS Settings](section_4408117595.md) — section_4408117595
+        - [SCIS Filter Settings](section_4857898373.md) — section_4857898373
+        - [General SCIS Settings](section_4857898070.md) — section_4857898070
+        - [SCIS Settings for Printing](section_4857898258.md) — section_4857898258
+        - [SCIS Custom Attributes for PDP, Cart, Item, and Customer Search](section_4857898510.md) — section_4857898510
+        - [SCIS Customer Settings](section_4864828606.md) — section_4864828606
+        - [SCIS Settings for Orders](section_4857927748.md) — section_4857927748
+        - [QuickAdd Bar and Forms Settings for SCIS](section_4858126229.md) — section_4858126229
+        - [SCIS Settings for Receipts](section_4858860945.md) — section_4858860945
+        - [Selecting Sales Reports for SCIS](section_4858965232.md) — section_4858965232
+        - [SCIS Cash Drawer Management Settings](section_1521493150.md) — section_1521493150
+      - [Localizing SCIS](section_4558232307.md) — section_4558232307
+        - [Setting Up SCIS for Multiple Countries](section_4583284429.md) — section_4583284429
+        - [Setting up Currency Rounding for SCIS](section_4583284553.md) — section_4583284553
+        - [Managing Multiple Languages for SCIS](section_4740476850.md) — section_4740476850
+      - [Advanced Receipt Templates for SCIS](section_4562509078.md) — section_4562509078
+        - [Customizing a Receipt Template for SCIS](section_4734532609.md) — section_4734532609
+        - [Creating SCIS Receipt Template Records](section_4734532937.md) — section_4734532937
+        - [Adding Fields to Custom SCIS Receipt Templates](section_4768130454.md) — section_4768130454
+        - [Custom Receipt Template Setup for SCIS](section_1541181447.md) — section_1541181447
+      - [Configuring SCIS Payment Methods](section_4181554659.md) — section_4181554659
+        - [Credit Card Patterns for SCIS](section_4181586659.md) — section_4181586659
+        - [Credit Card Icons](section_4181596898.md) — section_4181596898
+      - [Setting Up Payment Services for SCIS](section_4679145478.md) — section_4679145478
+        - [Understanding Payment-device Processing](section_156475724968.md) — section_156475724968
+        - [Configuring SCIS Gateway Records](section_4276549998.md) — section_4276549998
+        - [Configuring EMV Payment Services for SCIS](section_4689648069.md) — section_4689648069
+      - [Modifying Cash Payment Denominations](section_4091458039.md) — section_4091458039
+    - [SCIS Fallback](chapter_1511997390.md) — chapter_1511997390
+      - [SCIS Fallback Overview](section_1511997435.md) — section_1511997435
+      - [Setting Up SCIS Fallback](section_1513039868.md) — section_1513039868
+        - [SCIS Fallback Settings](section_1507134293.md) — section_1507134293
+        - [SCIS Fallback Payment Methods](section_1511999683.md) — section_1511999683
+      - [Fallback and Storage Limits for Mobile Apps](subsect_157894549839.md) — subsect_157894549839
+      - [Working with Sales Associates in SCIS Fallback](section_1533169529.md) — section_1533169529
+      - [Working with Customers in SCIS Fallback](section_1520895731.md) — section_1520895731
+      - [Fallback Data Delivery](section_1511999705.md) — section_1511999705
+      - [Transaction Creation Process](section_1522090558.md) — section_1522090558
+      - [SCIS Fallback Transaction Reconciliation](section_1520893352.md) — section_1520893352
+      - [Avoiding Storage Issues by Using a Fallback Catalog Limit](section_159803463480.md) — section_159803463480
+      - [Avoiding Storage Issues by Using the Fallback Open Item](section_159111742646.md) — section_159111742646
+    - [Configuring Records for SCIS](chapter_4111573615.md) — chapter_4111573615
+      - [Customer Records and SCIS](section_4231811858.md) — section_4231811858
+        - [Configuring the Customer Entry Form](section_4285337838.md) — section_4285337838
+        - [Defining SCIS Customer Notes](section_1487800511.md) — section_1487800511
+      - [Configuring Item Records for SCIS](section_4111609105.md) — section_4111609105
+        - [Setting Up Products for Sale on SCIS](section_4857957997.md) — section_4857957997
+        - [Configuring Serialized Items and Lot Numbered Items in SCIS](section_1487105260.md) — section_1487105260
+        - [Configuring Item Images for SCIS](section_4407810627.md) — section_4407810627
+        - [Fields Displayed on the Product Detail Page](section_4426120916.md) — section_4426120916
+        - [Creating an Open Item in SCIS to Prompt for Price](section_4709524065.md) — section_4709524065
+        - [Configuring QuickAdd Keys](section_4091457905.md) — section_4091457905
+      - [Configuring Employee Records for SCIS](section_4231810723.md) — section_4231810723
+        - [Working with Employees in Multiple SCIS Locations](section_1501807791.md) — section_1501807791
+        - [SCIS User Settings](section_1501807692.md) — section_1501807692
+    - [SCIS Customization](chapter_1533243057.md) — chapter_1533243057
+      - [Customizing the Configuration File](section_1541812069.md) — section_1541812069
+        - [Editing the CustomConfiguration.js File](section_4369040602.md) — section_4369040602
+        - [Optional Settings in CustomConfiguration.js](section_4301646891.md) — section_4301646891
+      - [Creating SCIS Custom Attributes](section_4700706288.md) — section_4700706288
+      - [SCIS Event Validators](section_1498501603.md) — section_1498501603
+      - [SCIS Extensions](section_1533259236.md) — section_1533259236
+        - [Option Windows and Information Windows](section_1541202328.md) — section_1541202328
+        - [Build and Deploy an Extension for SCIS](section_1541202297.md) — section_1541202297
+        - [Activate Extensions for SCIS](section_1541202439.md) — section_1541202439
+    - [SCIS Roles and Permissions](chapter_4230734733.md) — chapter_4230734733
+      - [SuiteCommerce InStore Roles](section_4253205016.md) — section_4253205016
+        - [SCIS Clerk](section_1522784118.md) — section_1522784118
+        - [SCIS Support](section_1522784166.md) — section_1522784166
+        - [SCIS Store Manager](section_1522784177.md) — section_1522784177
+        - [SCIS Fallback Auditor](section_1522784197.md) — section_1522784197
+        - [Creating Custom Roles for SCIS](section_1522784187.md) — section_1522784187
+      - [SuiteCommerce InStore Permissions](section_4253205125.md) — section_4253205125
+    - [SCIS Cash and Transactions](chapter_4230754656.md) — chapter_4230754656
+      - [Sales Transactions](section_4290511404.md) — section_4290511404
+      - [Payment Configurations](section_4408768996.md) — section_4408768996
+      - [SCIS Purchase on Account](section_1494982503.md) — section_1494982503
+      - [SCIS Cash Drawer Management](section_4260991433.md) — section_4260991433
+        - [SCIS Cash Drawer Management Setup](section_1502409749.md) — section_1502409749
+        - [Advanced Cash Drawer Management Setup for SCIS](section_1542737728.md) — section_1542737728
+        - [Cash Drawer Management for Fallback](section_1542737973.md) — section_1542737973
+        - [SCIS Cash Drawer Management Workflows and Tracking](section_1502731205.md) — section_1502731205
+      - [SCIS Ship from Store, Pickup In-Store Overview](section_1489188837.md) — section_1489188837
+        - [Setting Up Ship from Store, Pickup In-Store for SCIS](section_1505165758.md) — section_1505165758
+        - [Ship from Store, Pickup In-Store Workflow](section_1505167154.md) — section_1505167154
+        - [Invoice in Advance of Fulfillment with Optimize EMV](section_1551112429.md) — section_1551112429
+      - [Setting Up Quotes in SCIS](section_4551460166.md) — section_4551460166
+      - [Discounts, Markups, and Promotions for SCIS](section_1487273794.md) — section_1487273794
+        - [Configuring Discounts](section_4231800589.md) — section_4231800589
+        - [Price Override for SCIS](section_1487273835.md) — section_1487273835
+        - [Promotions and Coupon Codes for SCIS](section_1487274028.md) — section_1487274028
+      - [Returns and Refunds](section_4111389902.md) — section_4111389902
+      - [Gift Certificates in SuiteCommerce InStore](section_4440662888.md) — section_4440662888
+        - [Configuring Gift Certificates for SCIS](section_4290640521.md) — section_4290640521
+        - [Setting Gift Certificate Attributes For SCIS](section_4440657982.md) — section_4440657982
+        - [SCIS Gift Certificates FAQ](section_4841493167.md) — section_4841493167
+      - [SCIS No Sale](section_4700841801.md) — section_4700841801
+      - [Voiding a Line and Deleting a Transaction](section_4273982501.md) — section_4273982501
+      - [Defining SCIS Transaction Notes](section_4683541317.md) — section_4683541317
+      - [Calculating Taxes on Transactions](section_4260979820.md) — section_4260979820
+      - [Saved Searches, Reports, and Audit Logs](section_4409434883.md) — section_4409434883
+        - [Modifying Included Saved Searches](section_4401961202.md) — section_4401961202
+        - [Custom SCIS Sales Reports](section_4409437631.md) — section_4409437631
+        - [Publishing Saved Searches to SCIS Users](section_4557388463.md) — section_4557388463
+        - [SCIS Audit Log](section_4332845108.md) — section_4332845108
+    - [SCIS Custom Fields, Lists, Records, and Searches](chapter_4230708045.md) — chapter_4230708045
+      - [Mobile Device Settings](section_4698202752.md) — section_4698202752
+      - [Cash Drawer Management](section_1503104899.md) — section_1503104899
+      - [Customer Profile](section_4092567516.md) — section_4092567516
+      - [Discounts and Returns](section_4394866007.md) — section_4394866007
+      - [Employee](section_4386328104.md) — section_4386328104
+      - [Item](section_4394209307.md) — section_4394209307
+      - [Location](section_4399258007.md) — section_4399258007
+      - [Opening and Closing Drawer](section_4300077375.md) — section_4300077375
+      - [Payments](section_4394874057.md) — section_4394874057
+      - [Printer Settings](section_4446669488.md) — section_4446669488
+      - [QuickAdd Keys](section_4394907072.md) — section_4394907072
+      - [Sales Reports](section_4404482499.md) — section_4404482499
+      - [SCIS Receipts](section_4568604745.md) — section_4568604745
+      - [Transactions](section_4092580143.md) — section_4092580143
+      - [Fallback Custom Records](section_1513120038.md) — section_1513120038
+  - [SCIS User Guide](part_4260909468.md) — part_4260909468
+    - [SCIS User Guide Overview](chapter_4111449285.md) — chapter_4111449285
+      - [SuiteCommerce InStore Workflow](section_4376805241.md) — section_4376805241
+      - [SuiteCommerce InStore User Interface](section_4357933124.md) — section_4357933124
+    - [SuiteCommerce InStore Login](chapter_4111457151.md) — chapter_4111457151
+    - [SCIS Cash Drawer](chapter_4358005027.md) — chapter_4358005027
+      - [SCIS Cash Drawer Management Operations](section_1517855522.md) — section_1517855522
+      - [Opening the SCIS Cash Drawer with No Sale](section_1507233091.md) — section_1507233091
+      - [SCIS Advanced Cash Drawer Management Operations](section_1517855535.md) — section_1517855535
+        - [Opening a Shift and Closing the Cash Drawer in SCIS](section_1517857539.md) — section_1517857539
+        - [Cash Drawer Adjustment](section_1516985732.md) — section_1516985732
+        - [Cash Drawer Activity](section_1516840956.md) — section_1516840956
+    - [SCIS Fallback for Sales Associates](chapter_1518651760.md) — chapter_1518651760
+      - [Logging into Fallback](section_1520271424.md) — section_1520271424
+      - [Handling Fallback Transactions](section_1518651979.md) — section_1518651979
+    - [Entering Transactions Using SuiteCommerce InStore](chapter_4111471511.md) — chapter_4111471511
+      - [Entering a Sales Transaction in SCIS](section_4333542622.md) — section_4333542622
+        - [Adding Items to a Sales Transaction in SCIS](section_3971553201.md) — section_3971553201
+        - [Selecting a Sales Representative](section_3971547891.md) — section_3971547891
+        - [Adding a Serialized or Lot Numbered Item to an SCIS Order](section_1487107417.md) — section_1487107417
+        - [SCIS Store Pickup and Orders for Delivery](section_4333545707.md) — section_4333545707
+        - [Delete, Save, or Resume a Transaction in SCIS](section_4333543087.md) — section_4333543087
+        - [Adding Notes to Items and Transactions in SCIS](section_4683589409.md) — section_4683589409
+      - [Accepting Payments for Purchases in SCIS](section_3971564447.md) — section_3971564447
+        - [Paying with Cash](section_4333546403.md) — section_4333546403
+        - [Paying with a Check](section_4333547013.md) — section_4333547013
+        - [Paying via an EMV Payment Device](section_159553059788.md) — section_159553059788
+        - [Paying via Manual Credit or Debit Card Entry](section_4333546655.md) — section_4333546655
+        - [Paying With a Gift Card](section_4333561976.md) — section_4333561976
+        - [Purchase On Account](section_1493080210.md) — section_1493080210
+      - [Manager Override](section_4357939101.md) — section_4357939101
+      - [Fulfilling Orders for Shipping and Pickup with SCIS](section_1489514257.md) — section_1489514257
+      - [Entering Quotes in SCIS](section_4551499020.md) — section_4551499020
+      - [Discounts and Markups in SCIS](section_3971553854.md) — section_3971553854
+      - [Applying Promotion Codes to Transactions in SCIS](section_4707871207.md) — section_4707871207
+      - [Processing Returns in SCIS](section_4333564958.md) — section_4333564958
+      - [Processing an Exchange in SCIS](section_1530045365.md) — section_1530045365
+      - [Processing Refunds with SCIS](section_1530045244.md) — section_1530045244
+      - [Working with Gift Cards in SCIS](section_4333546846.md) — section_4333546846
+      - [Working with Credit Memos in SCIS](section_4333569021.md) — section_4333569021
+      - [Viewing a Sales Report in SCIS](section_4084045458.md) — section_4084045458
+      - [Viewing a Saved Search in the SCIS User Menu](section_4557506393.md) — section_4557506393
+      - [Printing Receipts from the Transaction History](section_1532043470.md) — section_1532043470
+    - [Working with Customer Profile Information](chapter_4111458550.md) — chapter_4111458550
+      - [Adding Customers To Sales Transactions in SCIS](section_4333543476.md) — section_4333543476
+      - [Creating a Customer Record in SCIS](section_4083932455.md) — section_4083932455
+      - [Updating a Customer Record in SCIS](section_4611314842.md) — section_4611314842
+      - [Viewing the Customer Profile](section_4083955370.md) — section_4083955370
+      - [Adding Customer Notes in SCIS](section_1487806206.md) — section_1487806206
+      - [Customer Timeline](section_4083966285.md) — section_4083966285
+      - [Customer Statistics](section_3978334759.md) — section_3978334759
+  - [SCIS 2.0 Release Guides](part_4260911229.md) — part_4260911229
+    - [SCIS 2.0 Reliability, Performance, and Refactored Processing](chapter_162204598144.md) — chapter_162204598144
+    - [SCIS 2.0 Payment Processing Comparison With SCIS 1.0](chapter_162204605085.md) — chapter_162204605085
+    - [SCIS 2.0 Frequently Asked Questions](chapter_44130453170.md) — chapter_44130453170
+    - [SCIS 1.0 to 2.0 Upgrade Checklist](chapter_39114636787.md) — chapter_39114636787
+    - [SCIS 2.0 Enabling a Mobile Device](chapter_33141758319.md) — chapter_33141758319

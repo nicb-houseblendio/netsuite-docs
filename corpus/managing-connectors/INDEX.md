@@ -1,0 +1,172 @@
+# Managing Connectors
+
+168 pages, category: NetSuite Connector
+
+- [Managing Connectors](article_164681449212.md) — article_164681449212
+  - [Managing the Amazon Connector in NetSuite Connector](section_162627481052.md) — section_162627481052
+    - [Amazon Seller Central](section_163844451395.md) — section_163844451395
+    - [Supported Amazon Orders](section_164433264647.md) — section_164433264647
+    - [Default Mappings for Amazon Connector](section_1018014748.md) — section_1018014748
+    - [Amazon Categories in NetSuite Connector](section_0109031521.md) — section_0109031521
+      - [Amazon Listings API Categories in NetSuite Connector](section_1106052345.md) — section_1106052345
+    - [Setting the Handling Time for Amazon in NetSuite Connector](section_163966625203.md) — section_163966625203
+    - [Setting Amazon Gift Wrap Items in NetSuite Connector](section_164500146535.md) — section_164500146535
+    - [Checking Valid Variations in Amazon](section_163946241759.md) — section_163946241759
+    - [Amazon Merchant Shipping Groups in NetSuite Connector](section_163842590088.md) — section_163842590088
+    - [Delays in Amazon Order Imports](section_164345197122.md) — section_164345197122
+    - [Automatic SKU Creation For Amazon Settlement Charges](section_164449422568.md) — section_164449422568
+    - [Manually Creating Amazon Settlement SKUs in NetSuite Connector](section_162986228640.md) — section_162986228640
+    - [Resolving Amazon SKU Data Conflicts in NetSuite Connector](section_163729667048.md) — section_163729667048
+    - [Importing Amazon Settlement Reports in NetSuite Connector](section_162884600373.md) — section_162884600373
+    - [Syncing Sale Price for Amazon Items in NetSuite Connector](section_163481361492.md) — section_163481361492
+    - [Assigning a Fixed Customer to All Amazon Orders in NetSuite Connector](section_163300217946.md) — section_163300217946
+    - [Adding a New Value to the Amazon Product Type Custom Field in NetSuite](section_163550464252.md) — section_163550464252
+    - [Supporting Multiple Unified Amazon Accounts on One Connector](section_164441111643.md) — section_164441111643
+    - [Syncing Orders of Other Amazon Marketplaces in the Same Region](section_162695718708.md) — section_162695718708
+    - [Managing Amazon Fulfillments Without Tracking Numbers in NetSuite Connector](section_163732752884.md) — section_163732752884
+    - [Configuring NetSuite Connector to Use Amazon Standard Identification Number (ASIN) When Posting Products on Amazon](section_163722737017.md) — section_163722737017
+    - [Using ASIN to Identify an Amazon Product](section_163729806769.md) — section_163729806769
+    - [Amazon Tax Remittance](section_163299930600.md) — section_163299930600
+    - [Managing Fulfillment by Amazon (FBA) Items in NetSuite Connector](section_162937968270.md) — section_162937968270
+      - [Posting FBA Orders in NetSuite Connector](section_162997994154.md) — section_162997994154
+      - [Amazon Multi-Channel Fulfillment](section_163029952947.md) — section_163029952947
+      - [Mapping Transaction Dates for FBA Orders in NetSuite Connector](section_163577776029.md) — section_163577776029
+      - [Mapping the Restock Field on Item Receipts Created on Refunds](section_164500164037.md) — section_164500164037
+      - [Converting FBA Items to MFN Items in NetSuite Connector](section_163966214020.md) — section_163966214020
+    - [Verifying that Amazon and NetSuite Connector MWS Authentication Tokens Are Matching](section_163881752619.md) — section_163881752619
+    - [Managing Amazon Settlement Sync on NetSuite Connector](section_164991869856.md) — section_164991869856
+      - [Amazon Settlement Sync Dashboard in NetSuite Connector](section_163056124466.md) — section_163056124466
+      - [Amazon Settlement Sync Settings in NetSuite Connector](section_163024273539.md) — section_163024273539
+      - [Field Mapping for Settlement Sync in NetSuite Connector](section_163593954937.md) — section_163593954937
+        - [Mapping the Location Field for Amazon Settlement Sync in NetSuite Connector](section_163594049734.md) — section_163594049734
+        - [Mapping the Account Field for Amazon Settlement Sync in NetSuite Connector](section_163849843779.md) — section_163849843779
+      - [Vendor Bills in Amazon Settlement Sync](section_0912030428.md) — section_0912030428
+        - [Setting up Amazon Settlement Sync](section_1004054803.md) — section_1004054803
+    - [Amazon Seller Fulfilled Prime Add-On in NetSuite Connector](section_163845265770.md) — section_163845265770
+    - [Amazon Inventory Adjustments](section_0704042720.md) — section_0704042720
+      - [Setting Up the Inventory Adjustment Addon](section_0705061220.md) — section_0705061220
+    - [Inbound Shipment in Amazon Connector](section_0703103332.md) — section_0703103332
+    - [Troubleshooting Amazon Connector Issues](section_164991924590.md) — section_164991924590
+      - [Troubleshooting Amazon Order Import Issues in NetSuite Connector](section_164316933386.md) — section_164316933386
+      - [Troubleshooting Missing Field Settlement Error](section_163668734911.md) — section_163668734911
+      - [Troubleshooting Pending Status Issues for Products Posted to Amazon](section_163732511731.md) — section_163732511731
+      - [Troubleshooting Incomplete Customer Information From Amazon MFN Orders](section_164431093554.md) — section_164431093554
+    - [Amazon Connector FAQ](section_163895154696.md) — section_163895154696
+  - [Managing the Amazon Vendor Central Connector in NetSuite Connector](section_0113014721.md) — section_0113014721
+    - [Amazon Vendor Central](section_0113014412.md) — section_0113014412
+    - [Supported Orders in Amazon Vendor Central](section_0221121749.md) — section_0221121749
+    - [Integrating NetSuite Connector with Amazon Vendor Central](section_86202706497.md) — section_86202706497
+    - [Amazon Vendor Central Syncs](section_0113022201.md) — section_0113022201
+      - [Order Sync](section_0815034319.md) — section_0815034319
+        - [Categories in Amazon Vendor Central](section_0221123556.md) — section_0221123556
+        - [Assigning a Fixed Customer to All Amazon Orders in NetSuite Connector](section_0815083422.md) — section_0815083422
+      - [Fulfillment Sync](section_0815030308.md) — section_0815030308
+      - [Inventory Sync](section_0815084805.md) — section_0815084805
+      - [Invoice Sync](section_0815091543.md) — section_0815091543
+    - [Manual Actions in Amazon Vendor Central Syncs](section_0815092829.md) — section_0815092829
+    - [Default Mappings for Amazon Vendor Central Connector](section_0125033746.md) — section_0125033746
+  - [Managing the BigCommerce Connector in NetSuite Connector](section_163757692332.md) — section_163757692332
+    - [Mapping BigCommerce Call For Pricing Message](section_164257281987.md) — section_164257281987
+    - [Default Mappings for BigCommerce Connector](section_1018023710.md) — section_1018023710
+    - [Mapping BigCommerce Metafields in NetSuite Connector](section_0924025926.md) — section_0924025926
+    - [BigCommerce Order Status](section_163947096513.md) — section_163947096513
+    - [Troubleshooting the Issue That An Item has No Inventory, But Customers can Still Order the Item in BigCommerce](section_163894786377.md) — section_163894786377
+    - [BigCommerce Connector FAQ](section_164403305446.md) — section_164403305446
+  - [Managing the eBay Connector in NetSuite Connector](section_163759011553.md) — section_163759011553
+    - [Default Mappings for eBay Connector](section_1018020202.md) — section_1018020202
+    - [Managing eBay Categories in NetSuite Connector](section_163767024861.md) — section_163767024861
+    - [Mapping the eBay Return Profile ID in NetSuite Connector](section_164500156663.md) — section_164500156663
+    - [Mapping eBay Buyer IDs to Customer Records in NetSuite](section_164256996137.md) — section_164256996137
+    - [Mapping eBay Images in NetSuite Connector](section_163594889283.md) — section_163594889283
+    - [Posting 0 Quantity During Product Sync in NetSuite Connector](section_163591015840.md) — section_163591015840
+    - [Troubleshooting eBay Product Sync Errors in NetSuite Connector](section_163420977602.md) — section_163420977602
+    - [Troubleshooting eBay Sync Issues](section_164032291827.md) — section_164032291827
+    - [eBay Connector FAQ](section_163956875936.md) — section_163956875936
+  - [Managing Loop Returns Connector in NetSuite Connector](article_0410021522.md) — article_0410021522
+    - [Loop Returns Connector](article_0217044431.md) — article_0217044431
+    - [Prerequisites for Loop Returns](article_0217044449.md) — article_0217044449
+    - [Loop Returns Syncs](article_0217043836.md) — article_0217043836
+    - [Integrating Shopify with the Loop Returns Connector](article_0217044009.md) — article_0217044009
+    - [Loop Returns Settings](article_0217044220.md) — article_0217044220
+  - [Managing Magento 2 Connector in NetSuite Connector](section_164846304955.md) — section_164846304955
+    - [Default Mappings for Magento 2 Connector](section_1018024300.md) — section_1018024300
+    - [Mapping Magento 2 Custom Product Attributes in NetSuite Connector](section_164198467639.md) — section_164198467639
+    - [Creating a Magento 2 Order Invoice in NetSuite Connector](section_163904393779.md) — section_163904393779
+    - [Troubleshooting Order Status Not Changed in Magento 2 After Shipping](section_164431230111.md) — section_164431230111
+  - [Managing the Oracle Simphony Connector in NetSuite](section_0628042535.md) — section_0628042535
+    - [NetSuite Connector Settings for Simphony Connector](section_0423063402.md) — section_0423063402
+    - [Mappings in Simphony Connector](section_0527121511.md) — section_0527121511
+  - [Managing the Shopify Connector in NetSuite Connector](section_163162040081.md) — section_163162040081
+    - [Setting Up Real-Time Order Sync for Shopify in NetSuite Connector](section_163723984857.md) — section_163723984857
+    - [Default Mappings for Shopify Connector](section_1018024034.md) — section_1018024034
+    - [Shopify Inventory Management Mapping](section_163728316009.md) — section_163728316009
+    - [Mapping Shopify Multilocation Inventory in NetSuite Connector](section_163014608880.md) — section_163014608880
+    - [Mapping Multilocation Orders in Shopify](section_163792259801.md) — section_163792259801
+    - [Mapping Shopify Images in NetSuite Connector](section_164482952187.md) — section_164482952187
+    - [Mapping Shopify Order Risk Data to NetSuite](section_163849837810.md) — section_163849837810
+    - [Mapping Shopify Metafields in NetSuite Connector](section_163849823587.md) — section_163849823587
+      - [Shopify Rich Text Fields](section_0311105849.md) — section_0311105849
+      - [Shopify Dimension Metafields](section_0107123036.md) — section_0107123036
+    - [Tracking Shopify Item Inventory in NetSuite Connector](section_163731818931.md) — section_163731818931
+    - [Syncing Canceled Orders to Shopify Using NetSuite Connector](section_163550329428.md) — section_163550329428
+    - [Shopify Point of Sale (POS) Orders](section_163729055779.md) — section_163729055779
+    - [Exchanges and Refunds in Shopify POS orders](section_55142403610.md) — section_55142403610
+    - [Assigning Default Values to Shopify Point-of-Sale (POS) Orders in NetSuite Connector](section_163577716121.md) — section_163577716121
+    - [Shopify Gift Cards](section_163731078107.md) — section_163731078107
+    - [Shopify Product IDs](section_163729152875.md) — section_163729152875
+    - [Using the Published Scope and Published Fields for Mapping in Shopify](section_163549729754.md) — section_163549729754
+    - [Handling Colorado Retail Delivery Fee in NetSuite Connector](section_0420021054.md) — section_0420021054
+    - [Shopify Payout Report Sync](section_0630052659.md) — section_0630052659
+    - [Using Shopify's Compare At Feature in NetSuite Connector](section_163835035924.md) — section_163835035924
+    - [Troubleshooting Shopify Sync Errors in NetSuite Connector](section_163420506440.md) — section_163420506440
+    - [Shopify B2B](section_0217123750.md) — section_0217123750
+    - [Shopify Connector FAQ](section_163300701450.md) — section_163300701450
+  - [Managing the Walmart Connector in NetSuite Connector](section_164846447124.md) — section_164846447124
+    - [Walmart State Tax Remittance](section_164438356080.md) — section_164438356080
+    - [Configuring NetSuite Connector for Walmart Two-Day Shipping Delivery Program](section_164438476786.md) — section_164438476786
+    - [Walmart Connector FAQ](section_163957715098.md) — section_163957715098
+  - [Managing the WooCommerce Connector in NetSuite Connector](section_163162049630.md) — section_163162049630
+    - [Default Mappings for WooCommerce Connector](section_1018024455.md) — section_1018024455
+    - [Mapping WooCommerce Images in NetSuite Connector](section_164500127548.md) — section_164500127548
+    - [Troubleshooting Saving WooCommerce Credentials Failing with Invalid Signature Error](section_163889217363.md) — section_163889217363
+  - [Managing Third-Party Logistics (3PL) Connectors in NetSuite Connector](section_163162017304.md) — section_163162017304
+    - [Third-Party Logistics (3PL) Order Statuses in NetSuite Connector](section_164207067063.md) — section_164207067063
+    - [Mapping Orders and Fulfillments for a 3PL Connector in NetSuite Connector](section_164040332393.md) — section_164040332393
+    - [Retrieving and Syncing an Order from NetSuite to 3PL Manually Using NetSuite Connector](section_164074823495.md) — section_164074823495
+    - [Creating Custom Filters for 3PLs in NetSuite Connector](section_163782066523.md) — section_163782066523
+    - [Syncing Item Fulfillments to a 3PL from NetSuite Connector](section_164058506664.md) — section_164058506664
+    - [Mapping 3PL Shipment Methods in NetSuite Connector](section_163767238355.md) — section_163767238355
+    - [Handling Partially Fulfilled Orders in NetSuite Connector](section_164147306804.md) — section_164147306804
+    - [Troubleshooting Order Import Issues for 3PL Connector in NetSuite Connector](section_164317773987.md) — section_164317773987
+    - [Troubleshooting 3PL Fulfillments Posting to NetSuite Without Tracking Numbers](section_164275281404.md) — section_164275281404
+    - [3PL Connectors FAQ](section_164034169040.md) — section_164034169040
+  - [Managing the ShipStation Connector in NetSuite Connector](section_163162030389.md) — section_163162030389
+    - [Fields that can be Mapped to and from ShipStation](section_163732990926.md) — section_163732990926
+    - [Resending Orders from ShipStation to NetSuite Connector](section_163490564725.md) — section_163490564725
+    - [Checking the Order Status in ShipStation Connector](section_163547707246.md) — section_163547707246
+    - [ShipStation Connector FAQ](section_163549052504.md) — section_163549052504
+  - [Managing the Square Connector in NetSuite Connector](section_0930083228.md) — section_0930083228
+  - [Managing NetSuite Connector for Outlook](article_0413120748.md) — article_0413120748
+    - [NetSuite Connector for Outlook Overview](article_130413176.md) — article_130413176
+    - [Setting Up NetSuite Connector for Outlook](article_8121355156.md) — article_8121355156
+      - [Required NetSuite Role and Permissions](section_0305125050.md) — section_0305125050
+      - [Required NetSuite Features for Outlook Connector](section_0324044538.md) — section_0324044538
+      - [Role Assignment and Permissions](section_0625015722.md) — section_0625015722
+      - [Integrating with NetSuite Connector for Outlook](section_0416024318.md) — section_0416024318
+      - [NetSuite Connector for Outlook Settings](section_0423030640.md) — section_0423030640
+      - [About Attachments in Outlook Connector](section_1030112556.md) — section_1030112556
+      - [Known Limitations](section_0811071318.md) — section_0811071318
+    - [Syncing Outlook Items to NetSuite](article_4182402258.md) — article_4182402258
+      - [Syncing an Email to NetSuite](section_0305062422.md) — section_0305062422
+      - [Syncing an Event to NetSuite](section_0305062724.md) — section_0305062724
+    - [Matching Records in NetSuite Connector for Outlook](article_2183327472.md) — article_2183327472
+      - [Adding a Record to Matching Records](section_0305063524.md) — section_0305063524
+    - [Managing NetSuite Records in NetSuite Connector for Outlook](article_2184543095.md) — article_2184543095
+      - [Creating NetSuite Records in NetSuite Connector for Outlook](section_0403064612.md) — section_0403064612
+      - [Editing NetSuite Records in NetSuite Connector for Outlook](section_0416025655.md) — section_0416025655
+      - [Customizing Record Fields](section_0403070649.md) — section_0403070649
+    - [About the Synced Email in NetSuite](article_5132724662.md) — article_5132724662
+      - [Author Field in Synced Email](section_0305013337.md) — section_0305013337
+      - [Recipient Field in Synced Email](section_0305013811.md) — section_0305013811
+    - [About the Synced Event in NetSuite](article_6140638373.md) — article_6140638373
+  - [Troubleshooting Common Connector Issues](section_165027375383.md) — section_165027375383

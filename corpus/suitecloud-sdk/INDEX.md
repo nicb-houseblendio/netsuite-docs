@@ -1,0 +1,154 @@
+# SuiteCloud SDK
+
+150 pages, category: SuiteCloud Platform
+
+- [SuiteCloud SDK](set_1502135000.md) — set_1502135000
+  - [SuiteCloud SDK Overview](chapter_156026236161.md) — chapter_156026236161
+    - [SuiteCloud Plug-ins and Extensions](section_156026287422.md) — section_156026287422
+    - [SuiteCloud CLIs](section_156026261619.md) — section_156026261619
+    - [Overview of Features by Tool](article_0131060804.md) — article_0131060804
+    - [OAuth 2.0 Authentication for SuiteCloud SDK](article_0422011927.md) — article_0422011927
+      - [Secure Credentials Storage for SuiteCloud SDK](article_1024042128.md) — article_1024042128
+        - [Browser-Based Authentication Standard Process and Fallback Mode](subsect_83104357122.md) — subsect_83104357122
+        - [Machine-to-Machine Authentication (CI/CD)](subsect_28104403712.md) — subsect_28104403712
+        - [Using Machine-to-Machine Authentication for CI/CD Environments](article_94164947835.md) — article_94164947835
+        - [Execution Context for Secure Credentials Storage](article_0113125121.md) — article_0113125121
+        - [Setting Up Environment Variables for SuiteCloud SDK Tools](article_41125205376.md) — article_41125205376
+        - [Troubleshooting Guide for SuiteCloud SDK](article_1210060428.md) — article_1210060428
+          - [Authentication Errors](subsect_0122121332.md) — subsect_0122121332
+          - [Credentials and Passkey Errors](subsect_0122121449.md) — subsect_0122121449
+          - [Execution Context Errors](subsect_0122121509.md) — subsect_0122121509
+  - [SuiteCloud CLI](set_1502135111.md) — set_1502135111
+    - [SuiteCloud CLI for Java](book_1558706585.md) — book_1558706585
+      - [SuiteCloud CLI for Java Guide](chapter_4779302061.md) — chapter_4779302061
+        - [SuiteCloud CLI for Java Installation Prerequisites](section_1489072297.md) — section_1489072297
+        - [Installing SuiteCloud CLI for Java](section_1489072409.md) — section_1489072409
+      - [SuiteCloud CLI for Java Reference](chapter_1559054329.md) — chapter_1559054329
+        - [SuiteCloud CLI for Java Commands](section_1489072226.md) — section_1489072226
+          - [adddependencies](section_4702656306.md) — section_4702656306
+          - [authenticate](section_157052592790.md) — section_157052592790
+          - [authenticateci](article_13145638243.md) — article_13145638243
+          - [createfile](section_162067438540.md) — section_162067438540
+          - [createproject](section_1534268059.md) — section_1534268059
+          - [deploy](section_4788673412.md) — section_4788673412
+          - [importbundle](section_4788674233.md) — section_4788674233
+          - [importconfiguration](section_1500042748.md) — section_1500042748
+          - [importfiles](section_4788674259.md) — section_4788674259
+          - [importobjects](section_4788674268.md) — section_4788674268
+          - [listbundles](section_4788674270.md) — section_4788674270
+          - [listconfiguration](section_1500042917.md) — section_1500042917
+          - [listfiles](section_4788674292.md) — section_4788674292
+          - [listmissingdependencies](section_4788674281.md) — section_4788674281
+          - [listobjects](section_4788674302.md) — section_4788674302
+          - [manageauth](section_157122305053.md) — section_157122305053
+          - [package](section_159058236645.md) — section_159058236645
+          - [preview](section_4788674313.md) — section_4788674313
+          - [project](section_4788674324.md) — section_4788674324
+          - [update](section_4788674357.md) — section_4788674357
+          - [updatecustomrecordwithinstances](section_4788674369.md) — section_4788674369
+          - [uploadfiles](section_1534880169.md) — section_1534880169
+          - [uploadfolders](section_1534881413.md) — section_1534881413
+          - [validate](section_4788674371.md) — section_4788674371
+    - [SuiteCloud CLI for Node.js](book_1558706016.md) — book_1558706016
+      - [SuiteCloud CLI for Node.js Guide](chapter_1558708800.md) — chapter_1558708800
+        - [SuiteCloud CLI for Node.js Installation Prerequisites](section_1558708810.md) — section_1558708810
+        - [Supported Versions of SuiteCloud CLI for Node.js](section_158409687381.md) — section_158409687381
+        - [Supported Command-Line Interpreters for SuiteCloud CLI for Node.js](section_156562278249.md) — section_156562278249
+        - [Installing SuiteCloud CLI for Node.js](section_155929845760.md) — section_155929845760
+        - [Setting Up SuiteCloud CLI for Node.js](section_155930842837.md) — section_155930842837
+        - [About the Project Structure in SuiteCloud CLI for Node.js](section_155931221634.md) — section_155931221634
+          - [SuiteCloud Project Types in SuiteCloud CLI for Node.js](subsect_155931227706.md) — subsect_155931227706
+          - [SuiteCloud Project Files in SuiteCloud CLI for Node.js](subsect_156145736925.md) — subsect_156145736925
+        - [Debugging in Visual Studio Code using SuiteCloud CLI for Node.js](section_158928050193.md) — section_158928050193
+        - [SuiteCloud Unit Testing with Jest](section_164882052792.md) — section_164882052792
+      - [SuiteCloud CLI for Node.js Reference](chapter_155931263126.md) — chapter_155931263126
+        - [account:manageauth](section_157304934116.md) — section_157304934116
+        - [account:setup](article_89132630266.md) — article_89132630266
+        - [account:setup:ci](article_81134826821.md) — article_81134826821
+        - [file:create](section_162810635242.md) — section_162810635242
+        - [file:import](section_156041963273.md) — section_156041963273
+        - [file:list](section_156042966488.md) — section_156042966488
+        - [file:upload](section_159066070687.md) — section_159066070687
+        - [object:import](section_156042181820.md) — section_156042181820
+        - [object:list](section_156043303237.md) — section_156043303237
+        - [object:update](section_156050566547.md) — section_156050566547
+        - [project:adddependencies](section_155981452469.md) — section_155981452469
+        - [project:create](section_156041348327.md) — section_156041348327
+        - [project:deploy](section_156044636320.md) — section_156044636320
+        - [project:package](section_159550971388.md) — section_159550971388
+        - [project:validate](section_156049843194.md) — section_156049843194
+        - [proxy:generatekey](article_26100955155.md) — article_26100955155
+        - [proxy:start](article_9101043487.md) — article_9101043487
+  - [SuiteCloud Plug-Ins and Extensions](set_1502135211.md) — set_1502135211
+    - [SuiteCloud Extension for Visual Studio Code](book_159223417590.md) — book_159223417590
+      - [SuiteCloud Extension for Visual Studio Code Overview](chapter_158400948906.md) — chapter_158400948906
+        - [User Interface of SuiteCloud Extension for Visual Studio Code](section_158400984643.md) — section_158400984643
+      - [Installing and Setting Up SuiteCloud Extension for Visual Studio Code](article_159223155621.md) — article_159223155621
+        - [Downloading Visual Studio Code](section_159223218652.md) — section_159223218652
+        - [Installation Prerequisites for SuiteCloud Extension for Visual Studio Code](section_159223197655.md) — section_159223197655
+        - [Supported Versions of SuiteCloud Extension for Visual Studio Code](article_0810011824.md) — article_0810011824
+        - [Installing SuiteCloud Extension for Visual Studio Code](section_159223240436.md) — section_159223240436
+        - [Setting Up NetSuite Accounts in SuiteCloud Extension for Visual Studio Code](section_160147609118.md) — section_160147609118
+          - [Adding an Account in SuiteCloud Extension for Visual Studio Code](subsect_160147727190.md) — subsect_160147727190
+          - [Setting an Account as Default in SuiteCloud Extension for Visual Studio Code](subsect_160147736013.md) — subsect_160147736013
+          - [Managing NetSuite Accounts in SuiteCloud Extension for Visual Studio Code](section_164630701111.md) — section_164630701111
+        - [Interacting with SuiteCloud Extension for Visual Studio Code](section_1111025412.md) — section_1111025412
+      - [SuiteCloud Extension for Visual Studio Code Usage](article_159223173518.md) — article_159223173518
+        - [Creating a SuiteCloud Project in SuiteCloud Extension for Visual Studio Code](section_162938506015.md) — section_162938506015
+        - [Working with SDF Custom Objects in SuiteCloud Extension for Visual Studio Code](section_160147311996.md) — section_160147311996
+          - [Listing SDF Custom Objects in SuiteCloud Extension for Visual Studio Code](subsect_160163955513.md) — subsect_160163955513
+          - [Updating SDF Custom Objects in SuiteCloud Extension for Visual Studio Code](subsect_160147382361.md) — subsect_160147382361
+          - [Importing SDF Custom Objects from a NetSuite Account with SuiteCloud Extension for Visual Studio Code](section_162971830372.md) — section_162971830372
+        - [Creating a SuiteScript File in SuiteCloud Extension for Visual Studio Code](section_160147328227.md) — section_160147328227
+        - [Listing Files in SuiteCloud Extension for Visual Studio Code](section_163067396066.md) — section_163067396066
+        - [Updating a File from Your Account with SuiteCloud Extension for Visual Studio Code](section_163067510539.md) — section_163067510539
+        - [Uploading Files to Your Account with SuiteCloud Extension for Visual Studio Code](section_161643514921.md) — section_161643514921
+        - [Importing Files from a NetSuite Account with SuiteCloud Extension for Visual Studio Code](section_162930381001.md) — section_162930381001
+        - [Comparing a Local File with its Account Version with SuiteCloud Extension for Visual Studio Code](article_0608124000.md) — article_0608124000
+        - [Adding Dependencies to the Manifest in SuiteCloud Extension for Visual Studio Code](section_160147339580.md) — section_160147339580
+        - [Validating a SuiteCloud Project Against Your NetSuite Account with SuiteCloud Extension for Visual Studio Code](section_164563201243.md) — section_164563201243
+        - [Deploying a SuiteCloud Project to Your NetSuite Account with SuiteCloud Extension for Visual Studio Code](section_160147342366.md) — section_160147342366
+    - [SuiteCloud IDE Plug-in for WebStorm](book_1529085902.md) — book_1529085902
+      - [SuiteCloud IDE Plug-in for WebStorm Overview](chapter_1529344012.md) — chapter_1529344012
+        - [User Interface of SuiteCloud IDE Plug-in for WebStorm](section_1538592130.md) — section_1538592130
+      - [Installing and Setting Up SuiteCloud IDE Plug-in for WebStorm](chapter_1529344324.md) — chapter_1529344324
+        - [Installation of SuiteCloud IDE Plug-in for WebStorm](bridgehead_1539217986.md) — bridgehead_1539217986
+          - [Installation Requirements for SuiteCloud IDE Plug-in for WebStorm](section_1529432315.md) — section_1529432315
+            - [Supported Operating Systems for SuiteCloud IDE Plug-in for WebStorm](section_1529432517.md) — section_1529432517
+          - [Downloading WebStorm](section_1529432575.md) — section_1529432575
+          - [Adding SuiteCloud IDE Plug-in to WebStorm](section_1529431804.md) — section_1529431804
+        - [Set Up for SuiteCloud IDE Plug-in for WebStorm](bridgehead_1530302119.md) — bridgehead_1530302119
+          - [SuiteCloud IDE Plug-in for WebStorm Account Setup](section_1530731998.md) — section_1530731998
+            - [Adding an Account in SuiteCloud IDE Plug-in for WebStorm](subsect_1530894035.md) — subsect_1530894035
+            - [Removing an Account in SuiteCloud IDE Plug-in for WebStorm](subsect_1530894086.md) — subsect_1530894086
+            - [Modifying an Account in SuiteCloud IDE Plug-in for WebStorm](subsect_159186772856.md) — subsect_159186772856
+          - [Customizing SuiteCloud Project Configuration in SuiteCloud IDE plug-in for WebStorm](section_159126594892.md) — section_159126594892
+      - [SuiteCloud IDE Plug-in for WebStorm Usage](chapter_1529344390.md) — chapter_1529344390
+        - [Working with SuiteCloud Projects in SuiteCloud IDE Plug-in for WebStorm](section_1529344418.md) — section_1529344418
+          - [Creating an Account Customization Project in SuiteCloud IDE Plug-in for WebStorm](section_1530903289.md) — section_1530903289
+          - [Creating a SuiteApp Project in SuiteCloud IDE Plug-in for WebStorm](section_1530903307.md) — section_1530903307
+          - [Customizing SuiteCloud IDE Plug-in for WebStorm](section_1540471537.md) — section_1540471537
+          - [Importing Account Components to your SuiteCloud Project with SuiteCloud IDE Plug-in for WebStorm](section_1530903088.md) — section_1530903088
+            - [Importing SDF custom objects into a SuiteCloud Project with SuiteCloud IDE Plug-in for WebStorm](subsect_1539282024.md) — subsect_1539282024
+            - [Importing Files and Scripts into an Account Customization Project with SuiteCloud IDE Plug-in for WebStorm](subsect_1539280785.md) — subsect_1539280785
+          - [Using Multiple Accounts with Run/Debug Configurations in SuiteCloud IDE Plug-in for WebStorm](section_161157335867.md) — section_161157335867
+            - [Creating Compound Run/Debug SuiteCloud Configurations in SuiteCloud IDE Plug-in for WebStorm](subsect_161235479766.md) — subsect_161235479766
+        - [Working with SDF Custom Objects in SuiteCloud IDE Plug-in for WebStorm](section_1536775535.md) — section_1536775535
+          - [Creating an XML Definition for an SDF Custom Object in SuiteCloud IDE Plug-in for WebStorm](section_1536776224.md) — section_1536776224
+          - [Overwriting SDF Custom Objects with their Matching Objects Imported from the Account in SuiteCloud IDE Plug-in for WebStorm](section_157909559444.md) — section_157909559444
+          - [Comparing an SDF Custom Object with an Object from the Account in SuiteCloud IDE Plug-in for WebStorm](section_1538083707.md) — section_1538083707
+        - [Working with SuiteScript Files in SuiteCloud IDE Plug-in for WebStorm](section_155991436023.md) — section_155991436023
+          - [Creating a SuiteScript File in SuiteCloud IDE Plug-in for WebStorm](section_155991453859.md) — section_155991453859
+          - [Comparing a SuiteCloud Project File with its Equivalent Account Version in SuiteCloud IDE Plug-in for WebStorm](section_1538083718.md) — section_1538083718
+          - [Uploading Files or Folders to Your Account with SuiteCloud IDE Plug-in for WebStorm](section_1537918984.md) — section_1537918984
+        - [Adding Dependencies to the Manifest in SuiteCloud IDE Plug-in for WebStorm](section_1536685390.md) — section_1536685390
+          - [Defining Dependencies on SDF Custom Objects in a SuiteApp and Bundle Objects with SuiteCloud IDE Plug-in for WebStorm](section_1536775078.md) — section_1536775078
+          - [Defining Account Component Dependencies from an Account Customization Project in SuiteCloud IDE Plug-in for WebStorm](section_1536774763.md) — section_1536774763
+          - [Defining Feature Dependencies in SuiteCloud IDE Plug-in for WebStorm](section_1536685413.md) — section_1536685413
+        - [Changing Project Settings in SuiteCloud IDE Plug-in for WebStorm](section_156743658968.md) — section_156743658968
+        - [Setting Installation Preferences in SuiteCloud IDE Plug-in for WebStorm](section_1530903069.md) — section_1530903069
+        - [Managing SuiteCloud Projects as Compressed Files in SuiteCloud IDE Plug-in for WebStorm](section_159709033768.md) — section_159709033768
+        - [Using SuiteScript Code Completion in SuiteCloud IDE Plug-in for WebStorm](section_1530903260.md) — section_1530903260
+        - [Validating a SuiteCloud Project with SuiteCloud IDE Plug-in for WebStorm](section_1539789946.md) — section_1539789946
+        - [Deploying a SuiteCloud Project to Your NetSuite Account with SuiteCloud IDE Plug-in for WebStorm](section_1539789992.md) — section_1539789992
+        - [Shortcut Keys in SuiteCloud IDE Plug-in for WebStorm](section_1539287340.md) — section_1539287340

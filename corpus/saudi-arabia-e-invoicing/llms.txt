@@ -1,0 +1,18 @@
+# Saudi Arabia E-Invoicing
+
+Saudi Arabia E-Invoicing (33 pages): Saudi Arabia E-Invoicing
+
+## Chapters
+- [Saudi Arabia E-Invoicing](article_5133809154.md): The Saudi Arabia e-Invoicing SuiteApp lets you send certified e-documents to your Saudi Arabian customers and vendors.
+  - [Registering and Installing Saudi Arabia E-Invoicing](article_0429024132.md): The following topics provide the information about the required prerequisites, registering and installing the Saudi Arabia E-invoicing SuiteApp: - Prerequisites for Installing Saudi Arabia E-Invoicing(https://docs.
+  - [Setting Up Saudi Arabia E-Invoicing](section_0517015336.md): The following topics discuss the required administrator tasks for setting up the Saudi Arabia e-Invoicing SuiteApp in the following order.
+  - [Working with Outbound e-Documents Using Saudi Arabia E-Invoicing](section_0606022603.md): The following topics discuss the tasks for sending certified e-documents to your Saudi Arabian customers and vendors.
+  - [Working with Prepayments](article_1119120537.md): Prepayment is an advance payment made by a buyer to a seller before the delivery of goods or services.
+  - [Additional Information for Using Saudi Arabia E-Invoicing](article_0429042007.md): The following topics give information about the default roles, limitations, best practices and errors for using the Saudi Arabia E-invoicing SuiteApp.
+  - [Saudi Arabia E-Invoicing FAQ](section_1011033552.md): The following are some frequently asked questions about Saudi Arabia E-Invoicing.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch saudi-arabia-e-invoicing

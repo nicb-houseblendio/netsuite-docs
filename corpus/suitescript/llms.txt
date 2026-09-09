@@ -1,0 +1,19 @@
+# SuiteScript
+
+SuiteScript (3595 pages): SuiteScript
+
+## Chapters
+- [SuiteScript](set_1502135122.md): - SuiteScript Overview(https://docs.
+  - [SuiteScript Overview](article_163726005075.md): The SuiteScript scripting language in NetSuite provides full-featured application-level scripting capabilities that support sophisticated procedural logic on both the client and server sides.
+  - [SuiteScript Developer Guide](book_14946590423.md): - Setting Up Your SuiteScript Environment(https://docs.
+  - [SuiteScript Records Guide](book_1494659042.md): - How to Use SuiteScript Records Help(https://docs.
+  - [SuiteScript 2.x](article_8161516336.md): You can use SuiteScript to extend and customize, search, and process your NetSuite data.
+  - [SuiteScript 2.x API Reference](article_4140956840.md): The SuiteScript 2.
+  - [SuiteScript 2.x Code Samples Catalog](article_6173706700.md): This SuiteScript Code Samples Catalog contains code samples that you can use for reference.
+  - [SuiteScript 1.0 Documentation](article_7151939532.md): SuiteScript 1.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitescript

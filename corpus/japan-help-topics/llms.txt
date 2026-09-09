@@ -1,0 +1,29 @@
+# Japan Help Topics
+
+Japan Help Topics (161 pages): Japan Help Topics
+
+## Chapters
+- [Japan Help Topics](section_4169634320.md): Overview These Help topics discuss NetSuite features specific to business settings, requirements and practices in Japan.
+  - [NetSuite Japan Edition and Account Setup](section_1516686507.md): The NetSuite Japan (JP) edition user interface is in Japanese and includes accounting features specific to Japanese business needs.
+  - [Setting Up Japan-specific Preferences](section_1522920167.md): Set up your company and user preferences in NetSuite to use them in doing business in Japan.
+  - [Translation for Custom Elements for Japan](section_N1540594.md): The NetSuite Japan edition provides multiple language capability for NetSuite custom elements.
+  - [Japanese Address Form](section_4356611610.md): The Japanese address form provided by the Japan Localization SuiteApp uses the NetSuite custom address form format.
+  - [Meeting Japanese Banking Requirements](section_N1535490.md): The NetSuite Japan edition provides several Japan-specific features designed to meet the requirements of common Japanese banking practices and processes: Japanese Bank Account Information Because Japanese businesses often use bank wire transfers to make payments, these details are saved on the bank account record: - Bank name - Bank branch code - Bank account number Default Bank Account for Customers and Vendors You can store default bank account information for each customer or vendor, and print this information about bills and invoices.
+  - [Using Japanese Accounting Periods](section_N1536024.md): The NetSuite Japan edition provides these predefined accounting periods that meet the requirements of common Japanese business practices: - Quarters - This option divides the year into three-month sub-periods.
+  - [Japan Localization SuiteApp](section_0726122106.md): The Japan Localization SuiteApp includes many features that support different aspects of doing business in Japan.
+  - [Japan Localization Setup](section_159949887311.md): The Japan Localization Setup subtab enables you to configure several settings for Japan Localization features.
+  - [Support for Electronic Bookkeeping Act](section_1130053818.md): Note: Starting January 1, 2024, electronic documents are required be stored in accordance with specific rules for electronic transactions as provided in the Electronic Bookkeeping Act.
+  - [Japan Tax Topics](chapter_N1934076.md): NetSuite and the Japan Localization SuiteApp provide tax features and tax records specific to Japan.
+  - [Japanese Invoicing](chapter_N1534283.md): NetSuite provides localized features for meeting Japanese invoicing requirements.
+  - [Subcontract Act and Purchase Order Numbering](section_159950855634.md): The Japan Localization SuiteApp supports the Japan Subcontract Act and corresponding purchase order numbering when the Subcontract Act is applied to a vendor's transactions.
+  - [Japan Fixed Assets Reports](section_162622782721.md): Japan Fixed Assets Reports SuiteApp generates reports for depreciable fixed assets and corresponding tax reports.
+  - [Japan Financial Statements](section_1536555885.md): The Japan Financial Statements SuiteApp (Bundle ID 519372) includes these reports: - Japan Comparative Balance Sheet(https://docs.
+  - [Using Japan-Specific Reports](section_4271817892.md): Note: The Japanese Balance Sheet, Income Statement and Cash Flow Statement are available in Japan Financial Statements(https://docs.
+  - [Using Tegatas](section_N1535257.md): The NetSuite Japan edition provides Japanese companies with the capability to make payments to vendors (payable tegata) and receive payments (receivable tegata) from customers using tegatas, which are a traditional form of payment in Japan.
+  - [Japan Payment Formats](section_N1627002.md): You must install the Electronic Bank Payments SuiteApp to set up and use Japan payment formats.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch japan-help-topics

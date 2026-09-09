@@ -1,0 +1,232 @@
+# Sales Orders and Cash Sales
+
+228 pages, category: Order Management
+
+- [Order Management](set_4423275132.md) — set_4423275132
+  - [Sales Orders and Cash Sales](book_4416276704.md) — book_4416276704
+    - [Sales Orders](chapter_N1215966.md) — chapter_N1215966
+      - [Sales Order Entry Workflow Chart](section_N1216314.md) — section_N1216314
+      - [Creating Sales Orders](section_N1216500.md) — section_N1216500
+        - [Editing a Sales Order](article_8114418642.md) — article_8114418642
+        - [Adding Items on a Sales Transaction](section_4588373194.md) — section_4588373194
+        - [Applying a Promotion on a Sales Order](section_160312998339.md) — section_160312998339
+        - [Applying a Discount on a Sales Order](section_160312998983.md) — section_160312998983
+        - [Entering Accounting information about a Sales Transaction](section_4587464246.md) — section_4587464246
+        - [Assigning Locations Automatically in a Sales Order](section_4558169323.md) — section_4558169323
+        - [Creating Store Pickup Sales Orders](section_4835438208.md) — section_4835438208
+        - [Getting Credit Card Authorization Automatically on Sales Orders](section_N1218323.md) — section_N1218323
+      - [The Standard Sales Order Form](section_N1218600.md) — section_N1218600
+      - [Approving Sales Orders](section_N1218788.md) — section_N1218788
+      - [Closing a Sales Order](section_4698204292.md) — section_4698204292
+      - [Reopening a Closed Sales Order](section_161133765436.md) — section_161133765436
+      - [Auto Close Back Orders](article_157673479480.md) — article_157673479480
+        - [Overview of Auto Close Back Orders](section_160846905246.md) — section_160846905246
+        - [Setting Up Auto Close Back Orders](section_160846900019.md) — section_160846900019
+        - [Using Auto Close Back Orders](section_160846910449.md) — section_160846910449
+      - [Invoicing Sales Orders](section_N1219162.md) — section_N1219162
+        - [Closing Line Items on Sales Orders](section_N1220357.md) — section_N1220357
+        - [Invoicing Individual Line Items on Sales Orders](article_0518111425.md) — article_0518111425
+      - [Viewing the Status of Sales Orders](section_N1220604.md) — section_N1220604
+      - [Printing a Sales Order](section_N1221008.md) — section_N1221008
+      - [Creating Invoices or Cash Sales from Sales Orders](section_N1221414.md) — section_N1221414
+      - [Creating Progress Sales Orders](section_N1221802.md) — section_N1221802
+    - [Sales Order Renewals](article_1213430897.md) — article_1213430897
+      - [Prerequisites for Installing the Sales Order Renewals SuiteApp](article_0216094421.md) — article_0216094421
+      - [Installing the Sales Order Renewals SuiteApp](article_0216094816.md) — article_0216094816
+      - [Best Practices in Using Sales Order Renewals](article_0216094949.md) — article_0216094949
+      - [Roles that can View and Set up Sales Order Renewal](article_0216095318.md) — article_0216095318
+      - [Displaying Sales Order Renewals Fields on Transaction Forms](article_0216095853.md) — article_0216095853
+      - [Understanding Sales Order Renewal Fields](article_0216100456.md) — article_0216100456
+      - [Items that can be Included in Sales Order Renewal](article_0216102655.md) — article_0216102655
+      - [Renewing Sales Orders Automatically](article_0216104202.md) — article_0216104202
+      - [Renewing Sales Orders Manually](article_0216105151.md) — article_0216105151
+    - [Order Guides](chapter_1553536374.md) — chapter_1553536374
+      - [Installing Order Guides](section_156325961539.md) — section_156325961539
+      - [Creating or Customizing Roles to Use Order Guides](section_157069902527.md) — section_157069902527
+      - [Setting Up Order Guides](section_1553537265.md) — section_1553537265
+        - [Creating Order Guide Record Entries](section_1553537336.md) — section_1553537336
+        - [Setting Up Item Records for Order Guides](section_1553537791.md) — section_1553537791
+        - [Defining Item Saved Searches for Order Guides](section_1553538575.md) — section_1553538575
+        - [Setting Up Customer Center Price Preferences](section_161250907200.md) — section_161250907200
+      - [Creating Order Guides](section_1553539698.md) — section_1553539698
+      - [Updating Order Guides](section_1553542108.md) — section_1553542108
+      - [Items Filtering Criteria](section_156775041723.md) — section_156775041723
+      - [Working with Historical Order Guides](section_156638632074.md) — section_156638632074
+      - [Using Order Guides on Transactions](section_1553542393.md) — section_1553542393
+    - [Cash Sales](section_N1244343.md) — section_N1244343
+      - [Entering a Cash Sale](section_N1244457.md) — section_N1244457
+      - [Printing a Sales Receipt](section_N1247063.md) — section_N1247063
+      - [Refunding a Cash Sale](section_N1247359.md) — section_N1247359
+      - [Approving Cash Sales that Have a Payment Hold](section_4353156490.md) — section_4353156490
+      - [Managing Undeposited Cash Sales](section_N1248314.md) — section_N1248314
+    - [Customer Lifetime Value](chapter_1542962578.md) — chapter_1542962578
+      - [Installing Customer Lifetime Value](section_1542876235.md) — section_1542876235
+      - [Prerequisites for Customer Lifetime Value](section_156755726942.md) — section_156755726942
+      - [Customer Lifetime Value SuiteApp Permissions](section_156755603198.md) — section_156755603198
+      - [Customer Lifetime Value Setter Script](section_1542934601.md) — section_1542934601
+        - [Scheduling the Customer Lifetime Value Setter Script](section_156755827130.md) — section_156755827130
+        - [Manually Running the Customer Lifetime Value Setter Script](section_156755842405.md) — section_156755842405
+      - [Map/Reduce Saved Searches for Customer Lifetime Value](section_156755957940.md) — section_156755957940
+      - [Viewing the Customer Lifetime Value](section_1543990531.md) — section_1543990531
+    - [Grid Order Management](chapter_N3975465.md) — chapter_N3975465
+      - [Limitations of Grid Order Management](bridgehead_4273583432.md) — bridgehead_4273583432
+      - [Setting Up Grid Order Management](section_1505109329.md) — section_1505109329
+        - [Installing the Grid Order Management SuiteApp](section_1505109764.md) — section_1505109764
+        - [Roles and Permissions for Grid Order Management](section_1505110051.md) — section_1505110051
+          - [Grid Order Management Permissions](bridgehead_1488870217.md) — bridgehead_1488870217
+        - [Setting Grid Order Management Preferences](section_1505110343.md) — section_1505110343
+          - [Setting Grid Order Preferences](bridgehead_1504661106.md) — bridgehead_1504661106
+          - [Setting Grid Printing Preferences](bridgehead_1504666477.md) — bridgehead_1504666477
+          - [Setting the Preferred Grid Template Preference](subsect_157587771606.md) — subsect_157587771606
+      - [Setting Up Grid Templates](section_4273599062.md) — section_4273599062
+        - [Setting Up Grid Matrix Templates](section_N3977380.md) — section_N3977380
+          - [Creating a Single Grid Matrix Template](section_157662832405.md) — section_157662832405
+          - [Editing a Grid Matrix Template](section_158252914115.md) — section_158252914115
+          - [Deleting a Grid Matrix Template](section_158253184828.md) — section_158253184828
+          - [Creating Grid Matrix Templates in Bulk](section_157663057189.md) — section_157663057189
+          - [Creating a Copy of the Grid Matrix Template](section_157663474816.md) — section_157663474816
+          - [Assigning a Preferred Grid Template](section_157663063603.md) — section_157663063603
+            - [Assigning a Preferred Grid Template Using the Item Record](section_157663260452.md) — section_157663260452
+            - [Assigning a Preferred Grid Template Using CSV Import](section_157663349314.md) — section_157663349314
+            - [Guidelines for Assigning a Preferred Grid Template using CSV Import](subsect_157663337350.md) — subsect_157663337350
+        - [Setting Up Grid Item Templates](section_N3977514.md) — section_N3977514
+          - [Setting Up Grid Attributes](section_3748265422.md) — section_3748265422
+          - [Setting Up Grid Attribute Values](section_158020338835.md) — section_158020338835
+          - [Applying Grid Attributes to Items](section_3748267099.md) — section_3748267099
+            - [Applying a Grid Attribute to an Item](subsect_1519806638.md) — subsect_1519806638
+            - [Applying Multiple Grid Attributes to Items](subsect_1519806578.md) — subsect_1519806578
+          - [Using Grid Item Templates](section_3748268087.md) — section_3748268087
+            - [Creating a Grid Item Template](section_158029067092.md) — section_158029067092
+            - [Editing a Grid Item Template](section_157017513970.md) — section_157017513970
+            - [Deleting a Grid Item Template](subsect_1015022010.md) — subsect_1015022010
+      - [Managing Grid Orders](section_4274152949.md) — section_4274152949
+        - [Entering Single Grid Orders](section_N3978320.md) — section_N3978320
+        - [Entering Multi-Grid Orders](section_4664083498.md) — section_4664083498
+          - [Viewing Multi-Grid Order Summary Details](bridgehead_4691775328.md) — bridgehead_4691775328
+          - [Updating Multi-Grid Orders](bridgehead_4664091990.md) — bridgehead_4664091990
+        - [Editing Grid Orders](section_N3978408.md) — section_N3978408
+        - [Importing Grid Orders](section_1499322449.md) — section_1499322449
+        - [Printing Transaction Records Using the Grid Template](bridgehead_1499306991.md) — bridgehead_1499306991
+        - [Viewing the Grid Matrix Information](section_4809938296.md) — section_4809938296
+      - [Grid Printing](section_4274156343.md) — section_4274156343
+        - [Standard Grid Order Printing](bridgehead_4579488225.md) — bridgehead_4579488225
+        - [Grid Print Templates](bridgehead_4579488425.md) — bridgehead_4579488425
+        - [Standard Grid Order Printing vs. Grid Print Template](section_1017120956.md) — section_1017120956
+        - [Single Transaction Grid Printing](section_4810021848.md) — section_4810021848
+        - [Bulk Grid Printing](section_4810023417.md) — section_4810023417
+        - [Printing Transactions in Bulk Using Grid Printing](section_1017123300.md) — section_1017123300
+        - [Viewing and Maintaining Bulk Grid Printing Logs](bridgehead_4810031018.md) — bridgehead_4810031018
+          - [Viewing Bulk Grid Printing Logs](bridgehead_4810031279.md) — bridgehead_4810031279
+          - [Viewing Bulk Grid Printing Files](bridgehead_4810034222.md) — bridgehead_4810034222
+        - [Deleting Bulk Grid Printing Logs and Files](bridgehead_4810035367.md) — bridgehead_4810035367
+        - [Customizing the Grid Print Templates](section_1490941841.md) — section_1490941841
+          - [Identifying the Printout Fields](section_159540653998.md) — section_159540653998
+          - [Identifying the Grid Print Template Elements](section_159730429350.md) — section_159730429350
+        - [Customizing the Printout using Advanced PDF/HTML Templates](bridgehead_4579351495.md) — bridgehead_4579351495
+        - [Uploading Custom Grid Print Templates](bridgehead_1491207945.md) — bridgehead_1491207945
+    - [Software Vertical Contract Renewals](chapter_N1319596.md) — chapter_N1319596
+      - [Contract Renewals Overview](section_4442063121.md) — section_4442063121
+        - [Availability](bridgehead_N1319656.md) — bridgehead_N1319656
+        - [Contracts and Renewals](bridgehead_N1319668.md) — bridgehead_N1319668
+        - [Upsell and Returns](bridgehead_N1319749.md) — bridgehead_N1319749
+        - [Support for Multiple Sales Channels](bridgehead_N1319780.md) — bridgehead_N1319780
+        - [Discounts](bridgehead_N1319900.md) — bridgehead_N1319900
+      - [Setting Up Contract Renewals](section_N1320628.md) — section_N1320628
+        - [Prerequisites for Installing the SuiteApp](bridgehead_N1320803.md) — bridgehead_N1320803
+        - [Installing the Contract Renewals SuiteApp](section_N1320796.md) — section_N1320796
+        - [Roles and Permissions for Contract Renewals](section_4442064791.md) — section_4442064791
+        - [New Forms, Fields, and Records for Contract Renewals](section_N1328284.md) — section_N1328284
+          - [Contract Renewals Objects and Components](article_1229074834.md) — article_1229074834
+          - [Default Forms for Contract and Contract Item Records](bridgehead_4563069463.md) — bridgehead_4563069463
+        - [Initial Setup Tasks for Contract Renewals](section_N1321054.md) — section_N1321054
+          - [Setting Preferred Forms for Contract Renewals](bridgehead_N1321283.md) — bridgehead_N1321283
+          - [Creating a Zero Price Item](bridgehead_N1321133.md) — bridgehead_N1321133
+          - [Setting Initial Renewals Preferences](bridgehead_N1321151.md) — bridgehead_N1321151
+          - [Setting the Order of Contract Renewal Scripts on Transaction Records](bridgehead_N1321425.md) — bridgehead_N1321425
+        - [Setting Up Contract Renewals Preferences](section_N1321619.md) — section_N1321619
+          - [Auto Place Decimal](bridgehead_N1321643.md) — bridgehead_N1321643
+          - [Transactions Validation](article_1229070903.md) — article_1229070903
+          - [Contracts Creation & Validation](bridgehead_3722173055.md) — bridgehead_3722173055
+          - [Contract Items Creation](procedure_N1321905.md) — procedure_N1321905
+          - [Contract Renewals Creation](procedure_N1321970.md) — procedure_N1321970
+          - [Item Renew With Sync](procedure_N1322324.md) — procedure_N1322324
+          - [Item Fields Validation](bridgehead_3722181096.md) — bridgehead_3722181096
+          - [Contract Item Fields](bridgehead_3722182291.md) — bridgehead_3722182291
+        - [Using a Custom Saved Search for Contract Item Creation](section_162002114965.md) — section_162002114965
+        - [Setting Up Schedules for Contract Item Creation and Contract Renewal](bridgehead_4569844795.md) — bridgehead_4569844795
+        - [Setting Up Multiple Script Queues or Processors to Process Contract Renewals](section_3856930750.md) — section_3856930750
+        - [Setting Up Install Base Field Mapping](section_4121280287.md) — section_4121280287
+        - [Creating Uplift Types for Contract Renewals](section_N1324509.md) — section_N1324509
+        - [Setting Up Maintenance/Support for Contract Renewals](section_N1324612.md) — section_N1324612
+        - [Setting Up Product Lines for Contract Renewals](section_N1324952.md) — section_N1324952
+        - [Setting Up Items for Contract Renewals](section_N1325048.md) — section_N1325048
+          - [Fields for Configuring Renewal of Items](article_1229081902.md) — article_1229081902
+      - [Contract Workflow](section_4653866922.md) — section_4653866922
+        - [Contract Item Statuses](article_1230013212.md) — article_1230013212
+      - [Contract Creation Process](section_N1325604.md) — section_N1325604
+        - [Guidelines for Creating New Contracts](bridgehead_4760654172.md) — bridgehead_4760654172
+        - [Creating a New Contract](section_N1325805.md) — section_N1325805
+          - [Creating Contract Items On Demand](bridgehead_1490160021.md) — bridgehead_1490160021
+        - [Importing Contracts](section_N1328129.md) — section_N1328129
+      - [Contract Renewals Process](section_N1326010.md) — section_N1326010
+        - [Contract Renewal Sample Business Case](bridgehead_4460211117.md) — bridgehead_4460211117
+      - [Managing Contracts](section_4460985489.md) — section_4460985489
+        - [Viewing a Contract](section_4461755042.md) — section_4461755042
+        - [Editing a Contract](section_4448152522.md) — section_4448152522
+          - [Contract Fields](bridgehead_4460975456.md) — bridgehead_4460975456
+          - [Contract Item Uplift](bridgehead_4852275502.md) — bridgehead_4852275502
+        - [Updating Contracts using Mass Update](section_4460295511.md) — section_4460295511
+        - [Renewing a Contract](section_4460263181.md) — section_4460263181
+          - [Renew Now](bridgehead_4670270206.md) — bridgehead_4670270206
+          - [Renew Now: Batch Process](bridgehead_4501621502.md) — bridgehead_4501621502
+          - [Editing a Renewal Transaction](section_4719408484.md) — section_4719408484
+          - [Contract Renewal Validation and Preventing Contracts from Permanently Being Locked for Renewal](section_0423112311.md) — section_0423112311
+        - [Rejecting a Renewal Transaction](section_4654638114.md) — section_4654638114
+        - [Canceling a Contract](section_4654638203.md) — section_4654638203
+        - [Closing Expired Contracts](section_4654638274.md) — section_4654638274
+        - [Contract Upsell](section_N1326206.md) — section_N1326206
+          - [Processing Upsell from Contract Records](article_1230051753.md) — article_1230051753
+          - [Processing a Upsell from Sales Orders](article_1230052149.md) — article_1230052149
+        - [Contracts and Returns](section_N1326489.md) — section_N1326489
+          - [Processing a Return from Contract Records](article_1230052913.md) — article_1230052913
+          - [Issuing a Return from Original Sales Orders](article_1230053124.md) — article_1230053124
+          - [Example - Renewal Impact of Upsell and Returns](section_N1327576.md) — section_N1327576
+      - [Contract Renewals Reports and KPIs](section_N1327866.md) — section_N1327866
+      - [SaaS Metric Commitment Date Fields on Custom Transaction Forms](article_0617035950.md) — article_0617035950
+        - [Displaying SaaS Metric Date Fields on Custom Forms Not Provided by the Contract Renewals SuiteApp](article_0617042136.md) — article_0617042136
+      - [Scripting Contract and Contract Item Records](section_N1329149.md) — section_N1329149
+        - [Contract Record](bridgehead_N1329161.md) — bridgehead_N1329161
+        - [Contract Item Record](bridgehead_N1331821.md) — bridgehead_N1331821
+        - [Adding Transaction Fields to a Web Service Request for Contract Renewals](section_4539453728.md) — section_4539453728
+      - [Contract Renewals Best Practices](section_157058181085.md) — section_157058181085
+      - [Software Vertical Contract Renewals References](section_4581932984.md) — section_4581932984
+        - [Contract Value Calculation](section_4473187166.md) — section_4473187166
+          - [Historical License List Rate - From Tran Line](bridgehead_4555803414.md) — bridgehead_4555803414
+          - [Current License List Rate - Price Level on Customer Record](bridgehead_4555859740.md) — bridgehead_4555859740
+          - [Current License List Rate - Price Level on Contract](bridgehead_4562783078.md) — bridgehead_4562783078
+          - [Current License List Rate - Price Level on Contract with Custom Price Handling](bridgehead_4562788958.md) — bridgehead_4562788958
+        - [Contract Term Calculation](section_4582083020.md) — section_4582083020
+        - [Support for Multisubsidiary Customer Feature by Setting the Subsidiary Field on Contracts](section_1537254723.md) — section_1537254723
+    - [Item Substitution on Sales Orders](chapter_1527058829.md) — chapter_1527058829
+      - [Setup Requirements for Item Substitution on Sales Orders](section_1527060437.md) — section_1527060437
+      - [Using Item Substitution on Sales Orders](section_1527073417.md) — section_1527073417
+    - [Enhanced Validations and Defaulting](chapter_1511502266.md) — chapter_1511502266
+      - [Enhanced Validations and Defaulting Process Flow](subsect_1521507931.md) — subsect_1521507931
+      - [Installing the Enhanced Validations and Defaulting SuiteApp](section_1511767086.md) — section_1511767086
+        - [Required Permissions for Enhanced Validations and Defaulting](subsect_1516861122.md) — subsect_1516861122
+      - [Setting Up Enhanced Validations and Defaulting](section_1511767710.md) — section_1511767710
+        - [Creating Item Sets](section_1511841390.md) — section_1511841390
+        - [Excluding an Item Set From an Existing Customer Group](section_1201010016.md) — section_1201010016
+        - [Setting the Prevent Negative Inventory Preference](section_1521526008.md) — section_1521526008
+        - [Adding the Unbilled Quantity When Using Custom Forms](section_160645392328.md) — section_160645392328
+        - [Setting Default Discounts](section_1516785346.md) — section_1516785346
+          - [Setting Default Discounts for Customers](subsect_1516843113.md) — subsect_1516843113
+          - [Setting Default Discounts for Customer Groups](subsect_1516844352.md) — subsect_1516844352
+      - [Enabling Validations on Transactions](section_1511830402.md) — section_1511830402
+        - [Item Set Validation](subsect_1515571164.md) — subsect_1515571164
+        - [Negative Inventory Validation](subsect_1515570746.md) — subsect_1515570746
+        - [Default Discounts](subsect_1515573637.md) — subsect_1515573637
+        - [Enabling Item Set Validation](section_1515570474.md) — section_1515570474
+        - [Enabling Negative Inventory Validation](section_1515570529.md) — section_1515570529
+        - [Enabling Default Discounts](section_1516784901.md) — section_1516784901
+      - [CSV Imports for Enhanced Validations and Defaulting](section_1513739762.md) — section_1513739762

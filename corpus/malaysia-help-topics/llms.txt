@@ -1,0 +1,17 @@
+# Malaysia Help Topics
+
+Malaysia Help Topics (60 pages): Malaysia Help Topics
+
+## Chapters
+- [Malaysia Help Topics](chapter_1543986177.md): Overview The following Help topics contain information about NetSuite features that are specific to Malaysia business setting and requirements only.
+  - [Setting up Malaysia-specific Features and Preferences](section_156706929537.md): As a NetSuite user, your account should already be configured to suit your country and business-specific needs.
+  - [Malaysia Tax Topics](chapter_4228472831.md): - Malaysia Goods and Services Tax (GST)(bridgehead1535528126) - Setup Requirements for Malaysia GST Audit File (GAF)(https://docs.
+  - [Malaysia Electronic Invoicing](article_1143428004.md): To understand how to set up and use the Malaysia Electronic Invoicing SuiteApp, read the following topics: - Malaysia Electronic Invoicing Overview(https://docs.
+  - [Malaysia Invoicing Features](section_1552970583.md): Malaysia invoicing templates are included in the Southeast Asia Localization SuiteApp, which you must manually install.
+  - [Malaysia Payment Formats](section_1549957969.md): To enable Malaysia payment formats, you must first install or update the Electronic Bank Payments SuiteApp, followed by installation or update of the Southeast Asia Localization SuiteApp.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch malaysia-help-topics

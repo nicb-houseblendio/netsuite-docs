@@ -1,0 +1,16 @@
+# Colombia Help Topics
+
+Colombia Help Topics (39 pages): Colombia Help Topics
+
+## Chapters
+- [Colombia Help Topics](article_162367083749.md): Overview The following help topics give you information about NetSuite features made for companies doing business in Colombia.
+  - [Colombia Terminology](article_162367162951.md): The following table defines the terms NetSuite uses to support Colombia-specific business processes: | CUFE | Código Único de Facturación Electrónica.
+  - [Setting Up Colombia-specific Preferences](article_162367170198.md): In NetSuite, set up your company and personal user preferences that are specific to doing business in Colombia.
+  - [Colombia Tax Topics](article_162367179327.md): The Colombia Localization SuiteApp provides custom fields, records, validations, and other customizations for Colombian businesses to comply with tax in Colombia.
+  - [Colombia-specific SuiteApps](article_162367239871.md): The following Colombia-specific SuiteApps are currently available: - Colombia Localization(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch colombia-help-topics

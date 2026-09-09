@@ -1,0 +1,63 @@
+# Belgium Help Topics
+
+59 pages, category: Country-Specific Features
+
+- [Belgium Help Topics](chapter_156024393244.md) — chapter_156024393244
+  - [Belgium Account Setup](section_156587331080.md) — section_156587331080
+  - [Setting Up Belgium-Specific Preferences](section_156587333461.md) — section_156587333461
+  - [Belgium-Specific SuiteApps](section_158583533321.md) — section_158583533321
+    - [Belgium Localization](section_157501756115.md) — section_157501756115
+      - [Belgium Localization Overview](section_157502344149.md) — section_157502344149
+        - [Supported Languages in Belgium Localization SuiteApp](section_163584938143.md) — section_163584938143
+      - [Prerequisites for Installing the Belgium Localization SuiteApp](section_157503090556.md) — section_157503090556
+      - [Installing the Belgium Localization SuiteApp](section_157503444361.md) — section_157503444361
+      - [Belgium Chart of Accounts](section_161123471177.md) — section_161123471177
+        - [Granting Access to Belgium Chart of Accounts Installation Page](section_0613014507.md) — section_0613014507
+          - [Note About Access to the Belgium Chart of Accounts Installation Page](section_0907023741.md) — section_0907023741
+        - [Editing the Belgium Chart of Accounts Field Mapping](section_0530103451.md) — section_0530103451
+      - [Belgium SuiteTax-Based Reports](section_157538136062.md) — section_157538136062
+        - [Periodic VAT Return 625](section_156775521116.md) — section_156775521116
+          - [Setting the Preferences for Belgium SuiteTax VAT Report](section_0808125912.md) — section_0808125912
+          - [Customizing the Setup of the Belgium SuiteTax VAT Report Filters](section_0808014936.md) — section_0808014936
+          - [Tax Reporting Categories in Belgium SuiteTax VAT 625](section_0913021144.md) — section_0913021144
+          - [VAT 625 Tax Codes with 100% Tax Rate](section_0619034204.md) — section_0619034204
+            - [Installing VAT 625 Tax Codes with 100% Tax Rate](section_0913020736.md) — section_0913020736
+          - [Sales Negate Filter in VAT 625](section_0913023752.md) — section_0913023752
+          - [Resolving Disabled XML Export for Belgium VAT](section_0512010357.md) — section_0512010357
+        - [Annual Client Listing 725](section_156775647909.md) — section_156775647909
+        - [Belgium Intrastat](section_157538424588.md) — section_157538424588
+          - [Net Mass Requirement in Belgium Intrastat](section_163904841713.md) — section_163904841713
+        - [EU Sales List 723](section_159706676046.md) — section_159706676046
+      - [Belgium Fiche Report](section_0324012718.md) — section_0324012718
+        - [Required Entity Information for Fiche 281.50](section_0417013257.md) — section_0417013257
+        - [Character Limitations in Fiche 281.50 Fields](section_0417020637.md) — section_0417020637
+          - [Fiche Character Limitations in Subsidiary Information](section_0417021037.md) — section_0417021037
+          - [Fiche Character Limitations in Employee Information](section_0417022239.md) — section_0417022239
+          - [Fiche Character Limitations in Vendor Information](section_0417022617.md) — section_0417022617
+            - [Bulk Editing Vendor Records According to Fiche Requirements](section_0419020632.md) — section_0419020632
+        - [Including Vendors in the Belgium Fiche Report](section_0417023613.md) — section_0417023613
+        - [Transactions Included in the Fiche Report](section_0417024144.md) — section_0417024144
+        - [Classifying Expense and Sports Payment Types for Fiche Report](section_0417024904.md) — section_0417024904
+        - [Making Revisions to the Fiche Report](section_0417030028.md) — section_0417030028
+        - [Fiche Report Preview](section_0417030548.md) — section_0417030548
+      - [Generating the Belgium Tax Reports](section_0417031056.md) — section_0417031056
+      - [Belgium Payment Formats](section_156742828189.md) — section_156742828189
+        - [Setting Up Company Bank Records in Belgium](section_N1598529.md) — section_N1598529
+        - [Setting Up Bank Records of Vendors in Belgium](section_N1603275.md) — section_N1603275
+        - [Setting Up Bank Records of Employees in Belgium](section_N1603620.md) — section_N1603620
+        - [Setting Up Bank Records of Customers in Belgium](section_N1603958.md) — section_N1603958
+        - [Setting Up Bank Records of Partners in Belgium](section_3851193210.md) — section_3851193210
+        - [Belgium Entity Bank Details](section_160699018095.md) — section_160699018095
+      - [Electronic Invoicing Features for Belgium](article_0311091852.md) — article_0311091852
+  - [Belgium Tax Topics In Accounts Without SuiteTax](section_156742725505.md) — section_156742725505
+    - [Belgium Tax Codes](section_N1839652.md) — section_N1839652
+    - [Setting Up Tax Filing for Belgium](section_N1841509.md) — section_N1841509
+    - [Belgium VAT Report](section_N1843546.md) — section_N1843546
+      - [What goes into each box - Belgium VAT report](section_N1843870.md) — section_N1843870
+    - [EU Sales List for Belgium](section_N1846111.md) — section_N1846111
+    - [Intrastat Report for Belgium](section_1552962932.md) — section_1552962932
+      - [Belgium Intrastat Report Fields](section_1552986948.md) — section_1552986948
+        - [Counterparty VAT Number](section_1553147823.md) — section_1553147823
+      - [Belgium Intrastat Report Dispatches and Arrivals Forms](section_1553075689.md) — section_1553075689
+      - [Generating the Belgium Intrastat Report](section_1553079891.md) — section_1553079891
+      - [Exporting the Belgium Intrastat Report](section_1554888766.md) — section_1554888766

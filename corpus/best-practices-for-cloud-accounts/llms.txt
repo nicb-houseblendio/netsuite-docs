@@ -1,0 +1,22 @@
+# Best Practices for Cloud Accounts
+
+Best Practices for Cloud Accounts (28 pages): Best Practices for Cloud Accounts
+
+## Chapters
+- [Best Practices for Cloud Accounts](chapter_4607562099.md): NetSuite accounts are hosted in various data centers around the globe.
+  - [NetSuite IP Addresses](section_N251955.md): Oracle NetSuite does not support the use of NetSuite IP addresses to access or manage access to any NetSuite services.
+  - [Understanding NetSuite URLs](section_4295564687.md): Follow best practices to keep your NetSuite accounts and related integrations from being bound to a specific data center.
+  - [URLs for Account-Specific Domains](section_1498251763.md): Account-specific domains contain the account ID as part of the domain name.
+  - [Dynamic Discovery of URLs](article_7094653807.md): NetSuite accounts may be moved between data centers to optimize cloud resources.
+  - [Supported TLS Protocol and Cipher Suites](chapter_1554220186.md): The Transport Layer Security (TLS) protocol is an established method for ensuring private, trustworthy, and reliable communication between computer programs over a network.
+  - [Secure HTTPS Outbound Communication and SSL Certificates](article_162385234670.md): For secure (HTTPS) outbound communication with the NetSuite application, you should purchase SSL certificates from a Certificate Authority (CA) that is included in the Mozilla Included CA Certificate List(https://wiki.
+  - [VPN Configuration for User Access to NetSuite](article_161609571818.md): Oracle NetSuite does not support traffic that is routed through a split-tunnel Virtual Private Network (VPN) to control user access to NetSuite.
+  - [Disaster Recovery](article_31104740147.md): What comes to mind when you think of a disaster?
+  - [Premium Disaster Recovery Cloud Service Guide](article_1134849355.md): The Premium Disaster Recovery Cloud Service provides enhanced Recovery Time and Recovery Point Objectives for NetSuite Cloud Services as shown in the table below (excluding any Cloud Services listed under Exclusions in the Detailed Service Description for the Premium Disaster Recovery Cloud Service).
+  - [Traffic Health](section_157437326499.md): Our Oracle NetSuite cloud infrastructure is always growing to keep up with our increasing number of customers.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch best-practices-for-cloud-accounts

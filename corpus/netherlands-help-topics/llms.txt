@@ -1,0 +1,17 @@
+# Netherlands Help Topics
+
+Netherlands Help Topics (63 pages): Netherlands Help Topics
+
+## Chapters
+- [Netherlands Help Topics](section_4452525786.md): Overview The following help topics provide information about NetSuite features that are specific to companies doing business in the Netherlands.
+  - [Netherlands Terminology](section_0403020241.md): The following table defines the terms used in NetSuite to support businesses in the Netherlands.
+  - [Netherlands Account Setup](section_1549424762.md): Setting up an account for an organization doing business in the Netherlands requires enabling several features and installing some additional SuiteApps.
+  - [Setting Up Netherlands-Specific Preferences](section_1549425210.md): To setup your NetSuite account according to Netherlands-specific preferences, you must adjust your NetSuite Company, and Subsidiary settings.
+  - [Netherlands-Specific SuiteApp](section_158590914273.md): - Netherlands Localization(https://docs.
+  - [Netherlands Tax Topics In Accounts Without SuiteTax](chapter_N1942820.md): If you have a Netherlands subsidiary and nexus and you have the International Tax Reports SuiteApp installed in your NetSuite account, you can generate the Netherlands Value Added Tax Return, in English or Dutch.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netherlands-help-topics

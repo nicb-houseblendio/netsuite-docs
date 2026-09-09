@@ -1,0 +1,67 @@
+# Portugal Help Topics
+
+63 pages, category: Country-Specific Features
+
+- [Portugal Help Topics](article_161010578494.md) — article_161010578494
+  - [Portugal Account Setup](section_161011563345.md) — section_161011563345
+  - [Setting Up Portugal-Specific Preferences](section_161011601159.md) — section_161011601159
+  - [Setting Up Portugal Account for PT SAF-T Compliance](section_161011605047.md) — section_161011605047
+  - [Portugal-Specific SuiteApps](section_161011674283.md) — section_161011674283
+    - [Portugal Localization](article_161822794592.md) — article_161822794592
+      - [Portugal Localization Overview](section_161822919030.md) — section_161822919030
+      - [Supported Languages in Portugal Localization SuiteApp](section_163585362019.md) — section_163585362019
+      - [Known Limitations of the Portugal Localization SuiteApp](article_0529102157.md) — article_0529102157
+      - [Prerequisites for Installing the Portugal Localization SuiteApp](section_161822935439.md) — section_161822935439
+      - [Installing the Portugal Localization SuiteApp](section_161822927486.md) — section_161822927486
+      - [Roles with Access to Portugal Localization Features](section_164129078963.md) — section_164129078963
+        - [Assigning a Role for Generating a PT SAF-T File](section_162133824433.md) — section_162133824433
+        - [Granting Permissions to Custom Records for Existing Custom Roles](article_0408022155.md) — article_0408022155
+      - [Setting Up for a Compliant PT SAF-T](section_161822954055.md) — section_161822954055
+        - [Field Mapping for SAF-T File in Portugal Localization SuiteApp](section_162911129023.md) — section_162911129023
+        - [Entering a Portugal Tax Exemption Reason](section_162946358065.md) — section_162946358065
+        - [Using Portugal Accounting Context for SAF-T Report](section_162063524816.md) — section_162063524816
+        - [Including Period End Journals in PT SAF-T Files](section_162946573310.md) — section_162946573310
+      - [Portugal Localization Preferences](article_1102122136.md) — article_1102122136
+      - [Portugal Document Series](section_163887344012.md) — section_163887344012
+        - [Creating a Portugal Document Series](section_163887394059.md) — section_163887394059
+        - [Portugal Document Series in Transaction](section_163887523028.md) — section_163887523028
+      - [Portugal Transaction Finalization](article_0606050028.md) — article_0606050028
+      - [Certification Data on the Portugal Transaction Subtab](section_157190470583.md) — section_157190470583
+        - [Preventing Gaps in Portugal Document Numbering](section_163774759574.md) — section_163774759574
+      - [Portugal QR Code](section_160750657258.md) — section_160750657258
+        - [Portugal Tax Code Properties and Fiscal Space](section_160751184059.md) — section_160751184059
+      - [ATCUD Unique Document Code](article_1031022226.md) — article_1031022226
+      - [Entering Commercial Registration Information](section_161892413075.md) — section_161892413075
+      - [Portugal Shipping Documents](section_0617111019.md) — section_0617111019
+      - [Formatting Portugal PDF Documents](section_N1972506.md) — section_N1972506
+        - [Setting the Portugal Print Format for Custom Transactions](section_162565658779.md) — section_162565658779
+      - [Printing Portugal PDF Documents](article_1017102011.md) — article_1017102011
+        - [Required Configuration for Portugal Printing Features](article_1019120548.md) — article_1019120548
+        - [Watermarks and Page Numbering in Portugal PDF Documents](article_1019120705.md) — article_1019120705
+        - [PDF Document Templates for Portugal Transactions](article_1019030456.md) — article_1019030456
+        - [Resolving Possible Issues with Portugal PDF Templates](article_1026095249.md) — article_1026095249
+      - [Generating the PT SAF-T File in Portugal Localization SuiteApp](section_161831214836.md) — section_161831214836
+        - [Resolving Errors in Generating the PT SAF-T File](section_161900142336.md) — section_161900142336
+          - [Resolving Issues Related to Transactions and Accounts](section_161942576961.md) — section_161942576961
+          - [Resolving Missing Required Information](section_161942614352.md) — section_161942614352
+          - [Resolving Invalid Information](section_161942656249.md) — section_161942656249
+      - [Movement of Goods in Portugal Localization SuiteApp](section_0617114609.md) — section_0617114609
+      - [Resolving Possible Error Scenarios for SAF-T for Shipping XML Files Upload](section_0620081934.md) — section_0620081934
+      - [Resolving Possible Error Scenarios for ATDocCodeIDs Update](section_0620083402.md) — section_0620083402
+      - [Portugal SAF-T for Accounting](section_161822982183.md) — section_161822982183
+        - [Period End Journals in PT SAF-T](section_162946697170.md) — section_162946697170
+      - [Portugal SAF-T for Billing](section_162970531160.md) — section_162970531160
+      - [Portugal SAF-T for Shipping](section_0617023645.md) — section_0617023645
+      - [Management of System-Generated Portugal Accounts](section_163307839023.md) — section_163307839023
+      - [Tax Groups in Portugal Localization SuiteApp](section_163307846736.md) — section_163307846736
+      - [Portugal Terminology](article_87163218130.md) — article_87163218130
+  - [Portugal Tax Topics In Accounts Without SuiteTax](section_161044164894.md) — section_161044164894
+    - [Portugal Standard Audit File for Tax Purposes (PT SAF-T)](section_N1971159.md) — section_N1971159
+      - [Setting Up the PT SAF-T](section_3958232661.md) — section_3958232661
+      - [Field Mapping for Portugal](section_1497423852.md) — section_1497423852
+      - [Transaction Form PDF Layout for Portugal](section_157190977349.md) — section_157190977349
+      - [Generating the PT SAF-T](section_N1973237.md) — section_N1973237
+    - [Portugal Tax Codes](section_N1973379.md) — section_N1973379
+    - [Portugal VAT Report](section_N1974556.md) — section_N1974556
+      - [What goes into each box - Portugal VAT report](section_N1974877.md) — section_N1974877
+    - [EU Sales List for Portugal](section_N1978248.md) — section_N1978248

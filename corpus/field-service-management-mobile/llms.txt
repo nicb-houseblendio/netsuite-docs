@@ -1,0 +1,18 @@
+# Field Service Management Mobile
+
+Field Service Management Mobile (77 pages): Field Service Management Mobile
+
+## Chapters
+- [Field Service Management Mobile](article_9155151288.md): Field Service Management (FSM) Mobile is a mobile application that technicians use to manage and record work for their assigned field service jobs.
+  - [What Technicians Can and Can't Do in FSM Mobile](article_0327040121.md): Field technicians typically perform the following actions in Field Service Management (FSM) Mobile depending on configuration and task status: - View assigned tasks in a task list for a configured date range.
+  - [FSM Mobile Screens and Tabs Overview](article_0327040134.md): Field Service Management (FSM) Mobile is organized by screens and tabs.
+  - [FSM Mobile Workflow](article_0327040156.md): A common high-level workflow for technicians in Field Service Management (FSM) Mobile is: 1.
+  - [FSM Mobile Troubleshooting and Tips](article_0327040215.md): If technicians experience issues with Field Service Management (FSM) Mobile, ask them to try the following: - If data appears out of date, try a manual refresh in the mobile app when the technician is online.
+  - [Mobile User Guide](article_7113047995.md): The Field Service Management (formerly NextService) mobile app helps field resources manage their work and collaborate with their colleagues in the office and in the field.
+  - [Enhanced Technician Notes](article_4153618169.md): Enhanced Technician Notes is a Field Service Management (FSM) feature that uses Prompt Studio and Text Enhance to improve technician notes in the mobile app.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch field-service-management-mobile

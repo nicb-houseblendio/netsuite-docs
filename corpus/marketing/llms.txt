@@ -1,0 +1,13 @@
+# Marketing
+
+Marketing (153 pages): Marketing, Sales Force Automation, and Partners
+
+## Chapters
+- [Marketing, Sales Force Automation, and Partners](set_N973142.md): - Marketing(https://docs.
+  - [Marketing](book_N973201.md): - Marketing Automation Overview(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch marketing

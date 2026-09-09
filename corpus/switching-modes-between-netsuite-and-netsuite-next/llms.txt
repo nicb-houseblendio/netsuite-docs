@@ -1,0 +1,12 @@
+# Switching Modes Between NetSuite and NetSuite Next
+
+Switching Modes Between NetSuite and NetSuite Next (1 pages): Switching Modes Between NetSuite and NetSuite Next
+
+## Chapters
+- [Switching Modes Between NetSuite and NetSuite Next](article_3190034196.md): Note: If you change something when viewing a list in NetSuite, the changes will be available in NetSuite Next when you switch back.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch switching-modes-between-netsuite-and-netsuite-next

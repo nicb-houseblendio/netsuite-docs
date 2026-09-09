@@ -1,0 +1,18 @@
+# Payment Processing
+
+Payment Processing (428 pages): Payment Processing
+
+## Chapters
+- [Payment Processing](preface_4739476790.md): Payment Processing with the Payment Instruments Feature Turned On The Payment Instruments feature makes it easier to use different payment methods and adds extra security for payment cards.
+  - [Payment Instruments](chapter_1538492538.md): The Payment Instruments feature makes using various payments methods more straightforward and, in the case of payment cards, more secure.
+  - [Payment Processing Options](preface_4289351924.md): NetSuite offers several payment processing options to capture funds and disburse payments for your account.
+  - [Deduction and Chargeback Management](article_160249743622.md): The Deduction and Chargeback Management SuiteApp enables the A/R Clerk role to efficiently account for customer deductions, chargebacks, and write off small balances.
+  - [Rebates and Trade Promotions](article_163647289997.md): A rebate is a partial refund of the cost of products and services given by suppliers as an incentive to encourage customer loyalty and to increase sales and profits.
+  - [Customer Payments](section_N1285644.md): When a customer makes a payment, record the payment and apply it to the appropriate invoice or cash sale.
+  - [Customer Deposits](section_N1296349.md): When a customer makes an advance payment for an order or project, you can record the funds received as a customer deposit.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch payment-processing

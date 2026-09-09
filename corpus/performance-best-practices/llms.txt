@@ -1,0 +1,13 @@
+# Performance Best Practices
+
+Performance Best Practices (10 pages): Performance Best Practices
+
+## Chapters
+- [Performance Best Practices](chapter_2111656357.md): Use these best practices to maximize the performance of your NetSuite service.
+  - [Tips to Optimize Performance](section_0825112557.md): This content is intended to help administrators improve the performance of their NetSuite application and address performance issues that their NetSuite users may experience.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch performance-best-practices

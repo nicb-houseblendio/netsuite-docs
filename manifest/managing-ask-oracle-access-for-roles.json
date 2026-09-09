@@ -1,0 +1,42 @@
+{
+  "branch": "managing-ask-oracle-access-for-roles",
+  "generatedAt": null,
+  "pages": {
+    "T_article_4103202860_1": {
+      "path": "corpus/managing-ask-oracle-access-for-roles/T_article_4103202860_1.md",
+      "title": "Managing Ask Oracle Access for Roles",
+      "type": "T",
+      "breadcrumb": "NetSuite Next > Managing Ask Oracle Access for Roles",
+      "parent": "book_1140422123",
+      "category": "netsuite-next",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/T_article_4103202860_1.html",
+      "etag": "\"ac50c18b2ae40254154cee06802eb56e:1786980198.708786\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:56:20.331Z",
+      "sha256": "f4df1761e10d932d3960c15e05c209ccba8f88996172b4a6ef7eaab2461da185",
+      "bytes": 1615,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "T_article_0804111020_1": {
+      "path": "corpus/managing-ask-oracle-access-for-roles/T_article_0804111020_1.md",
+      "title": "Setting Ask Oracle Access",
+      "type": "T",
+      "breadcrumb": "NetSuite Next > Managing Ask Oracle Access for Roles > Setting Ask Oracle Access",
+      "parent": "T_article_4103202860_1",
+      "category": "netsuite-next",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/T_article_0804111020_1.html",
+      "etag": "\"0d1aa793f502b6f80bf836fdaacf31a6:1786980198.680003\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:56:20.569Z",
+      "sha256": "ba27ad9b768fff9d50d107dde317ed977ea31094b1e882846b02a4450d5b0c11",
+      "bytes": 986,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

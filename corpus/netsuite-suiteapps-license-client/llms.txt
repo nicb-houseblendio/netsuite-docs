@@ -1,0 +1,13 @@
+# NetSuite SuiteApps License Client
+
+NetSuite SuiteApps License Client (3 pages): NetSuite SuiteApps License Client
+
+## Chapters
+- [NetSuite SuiteApps License Client](chapter_4635371374.md): - NetSuite SuiteApps License Client Guide for Administrators(https://docs.
+  - [NetSuite SuiteApps License Client Guide for Administrators](section_4635371677.md): Through the NetSuite SuiteApps License Client, NetSuite can control access to features of certain SuiteApps depending on whether the account has an active license for the SuiteApp.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-suiteapps-license-client

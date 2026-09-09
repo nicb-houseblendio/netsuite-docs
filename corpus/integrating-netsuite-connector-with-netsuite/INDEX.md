@@ -1,0 +1,42 @@
+# Integrating NetSuite Connector with NetSuite
+
+38 pages, category: NetSuite Connector
+
+- [Integrating NetSuite Connector with NetSuite](article_164681416236.md) — article_164681416236
+  - [Verifying a NetSuite Connector Integration Record](section_163030977006.md) — section_163030977006
+  - [Working with NetSuite Records in NetSuite Connector](section_164967292268.md) — section_164967292268
+    - [Viewing Records and Mappings In NetSuite Connector](section_165097980325.md) — section_165097980325
+  - [Splitting an Order into Multiple Item Fulfillments Using NetSuite](section_164077219733.md) — section_164077219733
+  - [Changing the Primary User Information in NetSuite Connector](section_164040769899.md) — section_164040769899
+  - [Exposing Internal IDs and Field IDs](section_164905582140.md) — section_164905582140
+    - [Finding the Internal ID of Records](section_162634223275.md) — section_162634223275
+    - [Viewing Internal IDs in NetSuite](section_162920785007.md) — section_162920785007
+  - [Setting Form Fields Visible Or Editable for NetSuite Connector](section_163782038938.md) — section_163782038938
+  - [Showing the Fulfilled Field on Sales Orders for NetSuite Connector](section_164015944039.md) — section_164015944039
+  - [NetSuite SKU and Storefront SKU in NetSuite Connector](section_162917913231.md) — section_162917913231
+    - [Setting the SKU Fields in NetSuite Connector](section_1027064056.md) — section_1027064056
+    - [Verifying NetSuite SKU Matches the Storefront SKU](section_1027072949.md) — section_1027072949
+  - [Managing Fields for NetSuite Connector](section_164433366637.md) — section_164433366637
+    - [Adding NetSuite Custom Fields](section_164440685050.md) — section_164440685050
+    - [Making Custom Fields in NetSuite Available for Global Search](section_164087116913.md) — section_164087116913
+  - [Enabling Order Email Messages in NetSuite Connector](section_164257829660.md) — section_164257829660
+  - [Handling Inventory Items with Alias SKU](section_162563797748.md) — section_162563797748
+  - [Viewing Inventory History in NetSuite](section_164077455773.md) — section_164077455773
+  - [Enabling Quantity-Based Pricing in NetSuite](section_162885136491.md) — section_162885136491
+  - [Using NetSuite Connector for Data Migration](section_164014930271.md) — section_164014930271
+  - [Configuring VAT in NetSuite Connector](section_162971420334.md) — section_162971420334
+  - [Handling Incorrect Tax Rates, Tax Codes, or Tax Items in NetSuite Orders](section_163283322438.md) — section_163283322438
+  - [Creating or Reopening an Accounting Period in NetSuite](section_163782042989.md) — section_163782042989
+  - [Finding the Cost of Goods Sold (COGS) Account on Items](section_163637852301.md) — section_163637852301
+  - [NetSuite Connector Saved Search Export](section_0318013559.md) — section_0318013559
+  - [Undeploying Scripts Installed by NetSuite Connector](section_162911892289.md) — section_162911892289
+  - [Variation Items in NetSuite Connector](section_0512025337.md) — section_0512025337
+    - [Virtual Variations in NetSuite Connector](section_0505013121.md) — section_0505013121
+  - [Troubleshooting Common NetSuite Issues in NetSuite Connector](section_164968177266.md) — section_164968177266
+    - [Troubleshooting Common NetSuite Configuration Issues](section_164016858478.md) — section_164016858478
+    - [Troubleshooting Fields Not Being Visible or Editable Errors](section_164069464310.md) — section_164069464310
+    - [Troubleshooting Last Name is Missing Errors](section_164043260829.md) — section_164043260829
+    - [Troubleshooting Character Limit Errors in NetSuite](section_164076281185.md) — section_164076281185
+    - [Troubleshooting Issues When Using Avalara or Scripts on Sales Orders](section_164077123152.md) — section_164077123152
+    - [Troubleshooting Connection Time Out Issues](section_164432951747.md) — section_164432951747
+    - [Troubleshooting Sync Script Errors](section_0817030418.md) — section_0817030418

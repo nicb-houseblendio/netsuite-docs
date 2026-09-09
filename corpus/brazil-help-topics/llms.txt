@@ -1,0 +1,17 @@
+# Brazil Help Topics
+
+Brazil Help Topics (371 pages): Brazil Help Topics
+
+## Chapters
+- [Brazil Help Topics](section_4198261118.md): Note: To access the Brazil Help Topics page in Brazilian Portuguese (Português do Brasil), see Tópicos de Ajuda do Brasil(https://system.
+  - [Brazil Help Topics in Portuguese](article_0203115739.md): To access the help topics available in Brazilian Portuguese (Português do Brasil), click the links on the Help Topic in Portuguese column.
+  - [Brazil Terminology](article_159793206719.md): The following table defines the terms used in NetSuite to support Brazil-specific business processes and SuiteApps.
+  - [Brazil Account Setup](article_162690117294.md): Setting up an account for an organization doing business in Brazil usually requires enabling several features and installing SuiteApps.
+  - [Setting Up Brazil-specific Preferences](article_162690108803.md): To setup your NetSuite account according to Brazil-specific preferences, adjust your NetSuite company and subsidiary settings.
+  - [Brazil-specific SuiteApps](article_159250962270.md): The following Brazil-specific SuiteApps are currently available: - Brazil Localization(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch brazil-help-topics

@@ -1,0 +1,24 @@
+{
+  "branch": "switching-between-your-roles-and-companies",
+  "generatedAt": null,
+  "pages": {
+    "article_1093332827": {
+      "path": "corpus/switching-between-your-roles-and-companies/article_1093332827.md",
+      "title": "Switching Between Your Roles and Companies",
+      "type": "article",
+      "breadcrumb": "NetSuite Next > Switching Between Your Roles and Companies",
+      "parent": "book_1140422123",
+      "category": "netsuite-next",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_1093332827.html",
+      "etag": "\"2fed53c09fdd68b8af46c87329c2c08a:1786980266.859551\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:56:20.812Z",
+      "sha256": "80d7a4a8d0c5a9ec9ad515c1bf4b55804d08a08cf51bb8bf52a5a6bee9f3ca2f",
+      "bytes": 1492,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

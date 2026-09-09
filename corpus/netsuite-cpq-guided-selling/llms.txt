@@ -1,0 +1,15 @@
+# NetSuite CPQ Guided Selling
+
+NetSuite CPQ Guided Selling (16 pages): NetSuite CPQ Guided Selling
+
+## Chapters
+- [NetSuite CPQ Guided Selling](article_173345162.md): Note: NetSuite CPQ Guided Selling can work independently from NetSuite CPQ Configurator.
+  - [NetSuite CPQ Guided Selling Setup](article_7173421493.md): Before creating catalogs, define settings on the options record at Guided Selling System Global Settings.
+  - [Creating Catalogs](article_2180226163.md): Note: Catalogs are called products on the user interface.
+  - [Searching for Items from Transactions](article_2175306878.md): Users can open catalogs from eligible transactions.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-cpq-guided-selling

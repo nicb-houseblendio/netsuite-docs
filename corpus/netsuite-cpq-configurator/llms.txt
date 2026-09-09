@@ -1,0 +1,17 @@
+# NetSuite CPQ Configurator
+
+NetSuite CPQ Configurator (152 pages): NetSuite CPQ Configurator
+
+## Chapters
+- [NetSuite CPQ Configurator](article_7121343557.md): Your account lets you create all kinds of items, such as inventory items, non-inventory items, and assemblies.
+  - [Updated Labels for User Interface Elements](article_1193859108.md): NetSuite CPQ Configurator includes updated labels for some elements you see on the user interface.
+  - [NetSuite CPQ Configurator Setup](article_9124208079.md): After installing NetSuite CPQ Configurator, define basic settings on the options record at CPQ Configurator Settings.
+  - [NetSuite CPQ Configurator Products](article_6124716984.md): NetSuite CPQ Configurator uses products to represent configurable items.
+  - [Working with Product Building Blocks](subsect_0926032123.md): Products are organized into building blocks, such as questions, answers, and images.
+  - [Configuring Items From Transactions](article_5085131325.md): Users can access configurable items from eligible transactions.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-cpq-configurator

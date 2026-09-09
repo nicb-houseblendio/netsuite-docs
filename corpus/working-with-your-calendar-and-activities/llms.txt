@@ -1,0 +1,16 @@
+# Working with Your Calendar and Activities
+
+Working with Your Calendar and Activities (38 pages): Working with Your Calendar and Activities
+
+## Chapters
+- [Working with Your Calendar and Activities](chapter_N499702.md): The calendar and activities features in NetSuite help you to make the most of your work time.
+  - [Using Your Calendar](section_N499943.md): NetSuite lets you manage your schedule using a calendar you can customize.
+  - [Working with Events](section_N501214.md): In NetSuite, you use event records to reserve time on your calendar for appointments and meetings.
+  - [Working with CRM Tasks](section_N506499.md): In NetSuite, tasks help you track work items that need to be completed within a certain time.
+  - [Working with Phone Calls](section_N509876.md): Use phone call records to document business calls.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch working-with-your-calendar-and-activities

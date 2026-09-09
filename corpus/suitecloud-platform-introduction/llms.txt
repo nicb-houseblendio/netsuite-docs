@@ -1,0 +1,13 @@
+# SuiteCloud Platform Introduction
+
+SuiteCloud Platform Introduction (23 pages): SuiteCloud Platform
+
+## Chapters
+- [SuiteCloud Platform](set_N2807372.md): - SuiteCloud Platform Introduction(https://docs.
+  - [SuiteCloud Platform Introduction](article_9105332207.md): The SuiteCloud platform lets you both adapt NetSuite for your organization and create customization packages that you can share with others.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitecloud-platform-introduction

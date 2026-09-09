@@ -1,0 +1,69 @@
+# Australia Help Topics
+
+65 pages, category: Country-Specific Features
+
+- [Australia Help Topics](section_4198253102.md) — section_4198253102
+  - [Australia Account Setup](section_1540887347.md) — section_1540887347
+  - [Setting Up Australia-specific Preferences](section_1540889422.md) — section_1540889422
+    - [Setting Up Australia-specific Company Preferences](article_161165649950.md) — article_161165649950
+    - [Setting Up Australia-specific User Preferences](article_161165654163.md) — article_161165654163
+  - [Australia Tax Topics](chapter_N1832106.md) — chapter_N1832106
+    - [Setting Tax Preferences for Australia](section_N1832322.md) — section_N1832322
+    - [Creating Tax Codes - Australia](section_N1834295.md) — section_N1834295
+    - [Australia Tax Codes](section_3802804453.md) — section_3802804453
+    - [Using Wine Equalization Tax (WET)](section_3830143961.md) — section_3830143961
+    - [Accounting for Goods and Services Tax (GST) - Australia](section_N1833730.md) — section_N1833730
+    - [Setting Up Your Business Activity Statement](section_N1834047.md) — section_N1834047
+    - [Viewing Australian Goods and Services Tax (GST) Reports](section_N1837720.md) — section_N1837720
+      - [GST on Sales Summary Report](section_N1838099.md) — section_N1838099
+      - [GST on Sales Detail Report](section_N1838357.md) — section_N1838357
+      - [GST on Purchases Summary Report](section_N1838645.md) — section_N1838645
+      - [GST on Purchases Detail Report](section_N1838919.md) — section_N1838919
+      - [Business Activity Statement Report](section_N1839201.md) — section_N1839201
+      - [Taxable Payments Annual Report](article_159410857892.md) — article_159410857892
+        - [Setting Up the Taxable Payments Annual Report](article_159419009511.md) — article_159419009511
+        - [Reporting Vendor Bills and Bill Payments on TPAR](article_159463197230.md) — article_159463197230
+        - [Viewing the TPAR Summary Report](article_159480728129.md) — article_159480728129
+        - [Viewing the TPAR Detailed Report](article_161096223641.md) — article_161096223641
+      - [Payment Times Report (PTR)](article_165287398352.md) — article_165287398352
+        - [Payment Times Report Prerequisite](article_1025123152.md) — article_1025123152
+        - [Payment Times Report Configuration](article_165287446201.md) — article_165287446201
+        - [Identifying Small Business Suppliers for Payment Times Reporting](subsect_161972068879.md) — subsect_161972068879
+        - [Generating a Supplier ABN List Report](article_161972327493.md) — article_161972327493
+        - [Inclusions in the Payment Times Report](article_165287688792.md) — article_165287688792
+        - [Items and Vendors to Exclude from Reporting](article_165287716541.md) — article_165287716541
+        - [Generating the Payment Times Report](article_165287737935.md) — article_165287737935
+        - [Reported Data in the Payment Times Report](article_165287771912.md) — article_165287771912
+        - [Viewing the Payment Times Summary Report](article_165581985683.md) — article_165581985683
+        - [Payment Times Report Limitation](article_1019093223.md) — article_1019093223
+      - [Payment Times Report (PTR) 2025](article_0119100852.md) — article_0119100852
+        - [Payment Times Report 2025 Configuration](article_5095736783.md) — article_5095736783
+        - [Identifying Small Business Suppliers for Payment Times Reporting 2025](article_5095736790.md) — article_5095736790
+        - [Generating a Supplier ABN List Report for PTR 2025](article_5095736791.md) — article_5095736791
+        - [Inclusions in the Payment Times Report 2025](article_5095736792.md) — article_5095736792
+        - [Generating the Payment Times Report 2025](article_5095736794.md) — article_5095736794
+        - [Reported Data in the Payment Times Report 2025](article_5095736795.md) — article_5095736795
+        - [Payment Times Report 2025 Limitations](article_5095736807.md) — article_5095736807
+    - [Using ANZ Advanced PDF/HTML Templates](article_0816112253.md) — article_0816112253
+  - [Australia Payment Formats](section_N1595666.md) — section_N1595666
+    - [Setting Up Company Bank Records in Australia](section_N1596031.md) — section_N1596031
+    - [Setting Up Bank Records of Vendors in Australia](section_N1596975.md) — section_N1596975
+    - [Setting Up Bank Records of Employees in Australia](section_N1597374.md) — section_N1597374
+    - [Setting Up Bank Records of Customers in Australia](section_N1597766.md) — section_N1597766
+    - [Setting Up Bank Records of Partners in Australia](section_3851187027.md) — section_3851187027
+  - [Shipping Integration with Australia Post](section_4274389015.md) — section_4274389015
+    - [Getting Started with Australia Post Integration](section_4274392219.md) — section_4274392219
+      - [Setup Requirements for Australia Post Integration](section_4413330369.md) — section_4413330369
+      - [Setting Up the Australia Post Integration](section_4413331504.md) — section_4413331504
+      - [Registering an Australia Post Account](section_4274404544.md) — section_4274404544
+      - [Creating Australia Post Shipping Items](section_4274416641.md) — section_4274416641
+      - [Setting Up the Transactions and Web Store for Shipping](section_4413332803.md) — section_4413332803
+        - [Defining Saved Searches for Lodging](section_4413333732.md) — section_4413333732
+        - [Displaying the Australia Post Tracking Numbers](section_4413365999.md) — section_4413365999
+        - [Setting Up the Collections Widget](section_4274459793.md) — section_4274459793
+    - [Calculating Australia Post Rates](section_4274420939.md) — section_4274420939
+    - [Fulfilling Orders with Australia Post Shipments](section_4274438368.md) — section_4274438368
+    - [Lodging Orders with Australia Post](section_4413430926.md) — section_4413430926
+    - [Tracking Australia Post Shipments](section_4274449565.md) — section_4274449565
+    - [Deleting Fulfillments with Voided Australia Post Shipments](section_4274456633.md) — section_4274456633
+    - [Common Australia Post Integration Errors](section_4749441973.md) — section_4749441973

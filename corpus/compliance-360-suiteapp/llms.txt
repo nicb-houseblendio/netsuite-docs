@@ -1,0 +1,19 @@
+# Compliance 360 SuiteApp
+
+Compliance 360 SuiteApp (32 pages): Compliance 360 SuiteApp
+
+## Chapters
+- [Compliance 360 SuiteApp](article_7153807491.md): The Compliance 360 SuiteApp gives you a single source of truth for user interactions with customer records.
+  - [Installing the Compliance 360 SuiteApp](section_0422101126.md): This section includes the prerequisites and instructions for installing the Compliance 360 SuiteApp.
+  - [Roles and Permissions for Compliance 360](section_0422103030.md): To use the Compliance 360 SuiteApp, an administrator must assign a SuiteApp-provided role to a user, and set permissions for that role.
+  - [Personal Information Access Logs Dataset and Workbook](section_0522124117.md): This page describes how you can use the Personal Information Access Logs dataset and workbook in addition to the Compliance 360 SuiteApp.
+  - [Compliance 360 Dashboard](section_0422103553.md): The Compliance 360 Dashboard gives you a compliance overview, including what's happening with customer records, logins, and new users.
+  - [Compliance 360 Activity Log](section_0422104030.md): The Compliance 360 activity log shows you who accessed customer personal information and what actions they took.
+  - [Audits in Compliance 360](section_0925023521.md): One of the features of Compliance 360 SuiteApp is creating audits that are useful for security and compliance monitoring.
+  - [Compliance 360 Settings](section_0925023533.md): The Compliance 360 Settings control the data displayed in the Key Performance Indicators portlet on the dashboard.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch compliance-360-suiteapp

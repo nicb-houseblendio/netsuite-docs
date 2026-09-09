@@ -1,0 +1,23 @@
+# Store Front
+
+Store Front (592 pages): Store Front
+
+## Chapters
+- [Store Front](set_15021498.md): - Getting Started(https://docs.
+  - [Getting Started](section_N2655840.md): If you're setting up a Commerce website for the first time, these topics will guide you through the first steps to get your site up and ready to make it your own.
+  - [Themes & Extensions](preface_1518478184.md): Themes and extensions are self-contained packages of files that extend your site in some way.
+  - [Web Store Items](preface_1518477920.md): Commerce web stores and SuiteCommerce InStore provide a comprehensive set of tools you can use to manage items on your site.
+  - [Web Store Transactions](preface_1518478322.md): The Web Store Transactions chapter ties together the checkout, payment, and shipping options for your site.
+  - [Search](preface_1518478010.md): When shoppers visit your web store, you want them to quickly find the items that they are looking for with minimum navigation.
+  - [Orders](preface_1518477823.md): When customers visit your Commerce web store, you want to make online ordering and order tracking seamless and intuitive.
+  - [My Account](preface_158100703898.md): Users can access specific features and information by accessing their account on your web store.
+  - [SEO & Analytics](preface_1518477612.md): Analytics and search engine optimization (SEO) are closely related.
+  - [SuiteCommerce Analytics Data](book_159110157649.md): - SuiteCommerce Analytics Data Overview(https://docs.
+  - [Marketing](preface_1518006459.md): An attractive and functional layout is only the start of making your web store effective.
+  - [Website Content](preface_1536077865.md): An important part of managing your website is controlling the content you place on the site.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch store-front

@@ -1,0 +1,31 @@
+# Getting Help
+
+Getting Help (43 pages): Getting Help
+
+## Chapters
+- [Getting Help](chapter_N336026.md): Overview of Available Help Resources NetSuite offers many resources to help you when you need it.
+  - [NetSuite Documentation Overview](section_N128815.md): The NetSuite Help Center is organized into sections corresponding to different NetSuite functions.
+  - [Accessing the Help Center](section_0721112059.md): Watch the following video to learn how to access the help center.
+  - [Using the Help Center Window](section_N336258.md): Watch the following video to learn how to use the help center.
+  - [Submitting Feedback for Help and Search](bridgehead_N336397.md): When you view or search for help topics, you can submit feedback about the helpfulness of the topic content or search results.
+  - [Help Topic Navigation](bridgehead_N336451.md): Help topics often provide navigation steps to help you find pages in your NetSuite account.
+  - [Searching for Help](section_N336535.md): When you have questions about NetSuite, you can search the NetSuite Help Center for help.
+  - [Getting Field-Level Help](section_N336742.md): <a id="kalturaplayer24"</a For specific information about a field on a NetSuite page, click the label next to the field.
+  - [NetSuite Guided Learning](article_0824114548.md): The NetSuite Guided Learning tool gives you contextual step-by-step instructions to help you complete tasks within NetSuite.
+  - [FAQ: NetSuite Guided Learning](subsect_42142819193.md): This article summarizes the most common questions you might have about NetSuite Guided Learning.
+  - [Finding Out What's New in NetSuite](section_N336781.md): You can find out what's new in NetSuite in several ways.
+  - [SuiteAnswers Overview](section_N337088.md): Watch the following video to see the overview of SuiteAnswers features.
+  - [NetSuite Support](section_N337569.md): Oracle provides a variety of resources you can use to find answers to your questions about NetSuite.
+  - [Advanced Customer Support](section_164198152941.md): The NetSuite Advanced Customer Support (ACS) helps you be proactive about optimizing NetSuite.
+  - [NetSuite Communities (User Groups)](section_N339082.md): Join a NetSuite community to communicate with other customers and Certified Consultants to ask questions and trade tips.
+  - [SuiteSuccess](section_1511800348.md): Your NetSuite account may be configured using the SuiteSuccess methodology.
+  - [Voting for Enhancements](section_N339259.md): When you want a feature or functionality added to NetSuite, visit SuiteIdeas to submit a new enhancement request or vote for an existing idea.
+  - [Checking NetSuite System Status](section_N339589.md): The NetSuite Service Status Page is a communication tool used to inform you of service interruptions, degraded performance, and unplanned outages.
+  - [Finding Your NetSuite Release Version](section_158453872555.md): The version of NetSuite that you're currently using is displayed on your Home page.
+  - [Oracle Help Center](section_164787364194.md): The NetSuite Help Center content can also be viewed in its entirety in the NetSuite Applications Suite section of the Oracle Help Center.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch getting-help

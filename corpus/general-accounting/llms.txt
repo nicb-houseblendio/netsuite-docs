@@ -1,0 +1,13 @@
+# General Accounting
+
+General Accounting (473 pages): Accounting
+
+## Chapters
+- [Accounting](set_N1379402.md): - General Accounting(https://docs.
+  - [General Accounting](preface_3710627041.md): - NetSuite Accounting Overview(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch general-accounting

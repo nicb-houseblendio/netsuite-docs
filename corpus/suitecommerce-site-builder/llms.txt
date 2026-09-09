@@ -1,0 +1,24 @@
+# SuiteCommerce Site Builder
+
+SuiteCommerce Site Builder (225 pages): SuiteCommerce Site Builder
+
+## Chapters
+- [SuiteCommerce Site Builder](book_N2561640.md): - Site Builder Overview(https://docs.
+  - [Site Builder Overview](section_N2456218.md): Site Builder is the legacy e-commerce solution delivered by NetSuite.
+  - [Site Builder Web Site Record Settings](chapter_N2561820.md): On the Web Site Setup page, you can set key preferences for your site.
+  - [Setting Up Your Site Builder Site](chapter_N2576231.md): After you set preferences, you can start building your Site Builder website.
+  - [Site Builder Items, Forms, & Images](chapter_N2582621.md): After you set up your site domain and set preferences for how your site should operate, you can begin adding content for display on your site.
+  - [Site Builder Tabs & Categories](chapter_N2595349.md): Tabs are the basic building blocks of your NetSuite website.
+  - [Website Hosting with Site Builder](chapter_N2598224.md): Hosting HTML Websites with NetSuite Site Builder(https://docs.
+  - [Site Builder Customization](chapter_N2601007.md): There are different levels of customization available for NetSuite Site Builder based on the features you have enabled in your account.
+  - [Web Site Tags](chapter_N2615371.md): Besides entering your own custom HTML for items, categories, tabs, and item/category and site theme templates you can also use various types of NetSuite tags to customize your website.
+  - [Website Search with Site Builder](chapter_N2634719.md): An important aspect of creating an effective website is making sure that shoppers find the products they are looking for.
+  - [Site Builder Search Engine Optimization (SEO)](chapter_N2635817.md): Use SEO tools in NetSuite to improve your website's ranking in search engine listings.
+  - [Site Builder Website Reports and Analytics](chapter_N2646787.md): Page Hit Reports(https://docs.
+  - [Scriptable Cart](chapter_N2545000.md): Web store merchants and SuiteScript developers can use SuiteScript to invoke client scripts on the sales order form used for web orders.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitecommerce-site-builder

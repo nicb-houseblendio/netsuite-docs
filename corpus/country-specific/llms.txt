@@ -1,0 +1,12 @@
+# Country Specific
+
+Country Specific (1 pages): Country Specific
+
+## Chapters
+- [Country Specific](article_175909947.md): To learn more about localized features for business needs that are specific to some countries, watch the following videos.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch country-specific

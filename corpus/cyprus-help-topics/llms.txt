@@ -1,0 +1,13 @@
+# Cyprus Help Topics
+
+Cyprus Help Topics (5 pages): Cyprus Help Topics
+
+## Chapters
+- [Cyprus Help Topics](chapter_157680994718.md): Overview The following Help topics provide information about NetSuite features that are specific for companies doing business in Cyprus.
+  - [Cyprus Tax Topics For Accounts Without SuiteTax](chapter_N1873007.md): If you have a Cyprus subsidiary and nexus, and you have the International Tax Reports SuiteApp installed in your NetSuite account as a source for filling in the official tax form for submission to the tax agency.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch cyprus-help-topics

@@ -1,0 +1,13 @@
+# NetSuite Basics Overview
+
+NetSuite Basics Overview (4 pages): NetSuite Basics
+
+## Chapters
+- [NetSuite Basics](book_N473219.md): - NetSuite Basics Overview(https://docs.
+  - [NetSuite Basics Overview](chapter_N473387.md): <a id="svg1"</a | Getting Help NetSuite Documentation Overview(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-basics-overview

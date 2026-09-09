@@ -1,0 +1,22 @@
+# Transaction Line Distribution
+
+Transaction Line Distribution (29 pages): Transaction Line Distribution
+
+## Chapters
+- [Transaction Line Distribution](article_1112615571.md): The Transaction Line Distribution SuiteApp provides organizations the ability to distribute expenses across different subsidiaries, classifications, custom segments, departments, locations, and accounts.
+  - [Installing the Transaction Line Distribution SuiteApp](section_0927115324.md): This section includes the prerequisites and instructions for installing the Transaction Line Distribution SuiteApp.
+  - [Customizing Roles and Setting Permissions for Transaction Line Distribution](section_0927124830.md): To use the Transaction Line Distribution SuiteApp, an administrator must create custom roles, give access to the role, and set permissions.
+  - [Setting Up Transaction Line Distribution](section_0927010643.md): Before setting up Transaction Line Distribution, you must ensure that the correct features are enabled and the preferences are set properly.
+  - [Transaction Distribution Templates](section_0927010932.md): Transaction distribution templates help users to process transaction distributions across subsidiaries, classic segments, or custom segments.
+  - [Selecting a Default Distribution Template for Vendors](section_0927012401.md): In the Transaction Line Distribution SuiteApp, you can select a default distribution template applied to a particular vendor.
+  - [Supported Transactions in Transaction Line Distribution](section_0422032913.md): The Transaction Line Distribution SuiteApp supports the following transactions: - Vendor bills - see Distributing Transaction Lines in Vendor Bills(https://docs.
+  - [Applying Quick Distribution Rule](section_0927021730.md): The Transaction Line Distribution SuiteApp enables you to enter a line-level distribution rule for lines while entering a transaction.
+  - [Guidelines for Importing Transactions Using CSV Files](section_0927034600.md): You can import transactions using CSV files.
+  - [Journal Creation in Transaction Line Distribution](section_0927022700.md): Read the following topics about journal creation in Transaction Line Distribution SuiteApp: - Types of Journal Creations(subsect0923101745) - Scheduled Journal Creation(subsect0923102044) - Disabling the Scheduled Journal Creation(subsect0923101829) - Journal Creation for Bulk Transactions(subsect0923093318) Types of Journal Creations The following are the two types of journal creations in Transaction Line Distribution: - For transactions with Intercompany distribution type, the journals will be created as advanced intercompany journal entries.
+  - [Common Errors in Transaction Line Distribution](section_0927023124.md): The following are the common errors encountered in the Transaction Line Distribution SuiteApp and their resolutions: | Error Message in Email | Cause | Resolution | | --- | --- | --- | | You have entered an invalid value for the following field: account | The account selected from the Destination Subsidiary list is invalid or inactive.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch transaction-line-distribution

@@ -1,0 +1,28 @@
+# Banking
+
+Banking (464 pages): Banking
+
+## Chapters
+- [Banking](preface_4289362044.md): NetSuite banking gives you several ways to track your income accurately.
+  - [Permissions for Banking Features](chapter_156289552348.md): You need certain permissions to use banking features in NetSuite.
+  - [Deposits](chapter_N1542225.md): In NetSuite, record deposits to your bank accounts to capture customer payments and other money received.
+  - [Checking](chapter_N1543613.md): In NetSuite, use the Write Checks transaction to issue a check to pay an expense or record a non-check transaction.
+  - [Transferring Funds](chapter_N1547981.md): A transfer is a movement of funds between bank accounts.
+  - [Company Credit Cards](chapter_N1548363.md): After you set up company credit card accounts, you can enter company credit card charges, pay the credit card bill, and reconcile the credit card statement.
+  - [Financial Institution Records](chapter_1538509582.md): NetSuite contains financial institution records, which represent banks and credit card companies, or corporate card companies, from which you want to retrieve financial institution data.
+  - [Bank Data Import](chapter_N1550803.md): - Bank or credit card data for reconciliation and matching - Corporate card expense data for expense reporting You can set up automatic or manual imports in either case.
+  - [Automated Cash Application](article_2164712765.md): You can import bank lines that don't have matching customer payments in NetSuite.
+  - [Bank Data Matching and Reconciliation](chapter_4842302228.md): Note: To use the Match Bank Data and Reconcile Account Statement pages, you must have the proper permissions assigned to your role.
+  - [Bank Account Reconciliation and Reporting](chapter_N1552053.md): Reconcile your bank statement against your bank account register to keep your NetSuite account accurate.
+  - [Bank Feeds SuiteApp](chapter_158079179132.md): Important: Not every financial institution connection experience is the same and not all financial institutions can be accessed, or accessed reliably, using the Bank Feeds SuiteApp.
+  - [Auto Bank Statement Import SuiteApp](chapter_159296303155.md): The Auto Bank Statement Import (ABSI) SuiteApp lets you to automatically import bank statement files into NetSuite every day.
+  - [Bank Statement Parsers SuiteApp](chapter_1566294502.md): The Bank Statement Parsers SuiteApp delivers standard parser plug-ins that read bank and credit card statement files and import the data in NetSuite to aid with bank reconciliation.
+  - [Cash 360](article_164863634930.md): Cash 360 lets you effectively manage cash flow by providing a real-time view of your company's cash position and the ability to generate fast and accurate near-term forecasts.
+  - [Payment Automation SuiteApp](article_7081807195.md): Important: Starting December 31, 2026, support is targeted to end for the Payment Automation SuiteApp.
+  - [Intelligent Payment Automation](article_8155141819.md): Intelligent Payment Automation, powered by BILL(https://www.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch banking

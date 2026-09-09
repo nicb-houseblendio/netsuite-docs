@@ -1,0 +1,24 @@
+{
+  "branch": "globalization-glossary",
+  "generatedAt": null,
+  "pages": {
+    "chapter_157608114727": {
+      "path": "corpus/globalization-glossary/chapter_157608114727.md",
+      "title": "Globalization Glossary",
+      "type": "chapter",
+      "breadcrumb": "Globalization > Globalization Glossary",
+      "parent": "preface_8154319431",
+      "category": "globalization",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_157608114727.html",
+      "etag": "\"10bce6b268f469fb74030c5f7f3f8737:1786980391.913112\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:02:47.294Z",
+      "sha256": "c7a1d51851c4cbed8b68bb0212bfc1e284357fdb791e6744eb78f2bb5233fe96",
+      "bytes": 6893,
+      "anchors": 2,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

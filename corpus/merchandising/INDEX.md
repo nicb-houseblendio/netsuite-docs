@@ -1,0 +1,136 @@
+# Merchandising
+
+132 pages, category: Commerce
+
+- [Merchandising](preface_1539599504.md) — preface_1539599504
+  - [Merchandise Hierarchy](chapter_1499435959.md) — chapter_1499435959
+    - [Merchandise Hierarchy Overview](section_1499436261.md) — section_1499436261
+    - [Configuring Merchandise Hierarchy](section_1499950155.md) — section_1499950155
+    - [The Hierarchy Manager](section_1527505426.md) — section_1527505426
+    - [Creating a Merchandise Hierarchy](section_1499950179.md) — section_1499950179
+    - [Creating a Hierarchy Version](subsect_1529072633.md) — subsect_1529072633
+    - [Creating a Hierarchy Level](subsect_1529072726.md) — subsect_1529072726
+    - [Creating a Hierarchy Node](subsect_1516013743.md) — subsect_1516013743
+    - [Assigning Items to a Hierarchy Node](subsect_1516013894.md) — subsect_1516013894
+    - [Applying Attributes to Items in a Merchandise Hierarchy](section_1554803178.md) — section_1554803178
+    - [Creating a Merchandise Hierarchy by CSV](section_1507650631.md) — section_1507650631
+    - [Exporting Merchandise Hierarchies](section_1499950275.md) — section_1499950275
+    - [Using Merchandise Hierarchy to Analyze Sales and Item Performance](section_1499950297.md) — section_1499950297
+    - [SuiteAnalytics Workbook and Merchandise Hierarchy](section_156335207401.md) — section_156335207401
+    - [Merchandise Hierarchy Workbook](section_164312115246.md) — section_164312115246
+      - [Merchandise Hierarchy Dataset Template](section_164312135945.md) — section_164312135945
+      - [Merchandise Hierarchy Workbook Template](section_158505766992.md) — section_158505766992
+    - [Analyzing Merchandise Hierarchy with Sales Workbook Templates](subsect_156335256082.md) — subsect_156335256082
+    - [Creating Custom Merchandise Hierarchy Workbooks](subsect_1547568123.md) — subsect_1547568123
+    - [Creating Merchandise Hierarchy Reports](subsect_1547568175.md) — subsect_1547568175
+    - [Using Hierarchy Versions in Workbooks and Reports](section_1532693896.md) — section_1532693896
+    - [Creating Saved Searches Based on a Merchandise Hierarchy](section_1530870351.md) — section_1530870351
+  - [Promotions](chapter_4690873883.md) — chapter_4690873883
+    - [Promotions Overview](section_4737596252.md) — section_4737596252
+    - [Configuring Promotions](section_4690874193.md) — section_4690874193
+    - [The Promotion Record](section_4692026541.md) — section_4692026541
+      - [Basic Properties of a Promotion](section_1519294750.md) — section_1519294750
+      - [Scheduling Promotions](section_1519290809.md) — section_1519290809
+      - [Promotion Buy Conditions](section_1519292682.md) — section_1519292682
+      - [Promotion Get Conditions](section_1519292729.md) — section_1519292729
+      - [Coupon Codes](section_1519291829.md) — section_1519291829
+      - [Targeting Promotions at Specific Customers](section_1519291783.md) — section_1519291783
+      - [Setting Where Promotions Can Be Used](section_1519290718.md) — section_1519290718
+      - [Promotion Usage Limits](section_1519290847.md) — section_1519290847
+      - [System Notes for Promotion Code and Coupon Code Records](section_1110043641.md) — section_1110043641
+    - [Creating Promotions](section_4692029228.md) — section_4692029228
+      - [SuitePromotions Basic Properties](section_1519210477.md) — section_1519210477
+      - [SuitePromotions Scheduling](section_1519210446.md) — section_1519210446
+      - [SuitePromotions Further Settings](section_1519210350.md) — section_1519210350
+      - [What the Customer Needs to Buy](section_1519210305.md) — section_1519210305
+      - [What the Customer Will Get](section_1519210224.md) — section_1519210224
+      - [Associating Coupon Codes With a SuitePromotion](section_1519210145.md) — section_1519210145
+      - [Setting Customer Eligibility on SuitePromotions](section_1519210085.md) — section_1519210085
+      - [Setting Sales Channel Eligibility on SuitePromotions](section_1519210030.md) — section_1519210030
+      - [Setting Usage Limits on SuitePromotions](section_1519209942.md) — section_1519209942
+      - [Creating Item Promotions](section_1519050978.md) — section_1519050978
+      - [Creating Fixed Price Item Promotions](section_1519050946.md) — section_1519050946
+      - [Creating Order Promotions](section_1519050918.md) — section_1519050918
+      - [Creating Shipping Promotions](section_1519050891.md) — section_1519050891
+      - [Creating Free Gift Promotions](section_1519050842.md) — section_1519050842
+    - [Applying Promotions and Discounts to a Transaction](section_4692024512.md) — section_4692024512
+      - [How Promotion Discounts Are Applied to Transactions](section_1519662479.md) — section_1519662479
+      - [Applying SuitePromotions to a Transaction](section_1550139078.md) — section_1550139078
+      - [Applying Combinable Promotions](section_1519663151.md) — section_1519663151
+      - [Automatically Applying Promotions](section_1519662625.md) — section_1519662625
+      - [Applying Automatically Added Free Gift Items](section_1519662570.md) — section_1519662570
+    - [SuitePromotions Best Practices](section_4692032817.md) — section_4692032817
+      - [Migrating to SuitePromotions](section_1519727357.md) — section_1519727357
+      - [Transactions that can't have Combinable Promotions](section_1519727301.md) — section_1519727301
+      - [Free Gift Promotion Item Considerations](section_1519727229.md) — section_1519727229
+      - [Shipping Promotions and Multiple Shipping Routes](section_1519727180.md) — section_1519727180
+      - [Saved Search Performance](section_1519727125.md) — section_1519727125
+      - [Customer Group Performance](section_1544194335.md) — section_1544194335
+      - [Auto-Apply Promotions Limits](section_1519726718.md) — section_1519726718
+      - [Changing Customer Details After Applying Promotions](section_1519726653.md) — section_1519726653
+      - [Planning Automatically Applied Promotions](section_1519726407.md) — section_1519726407
+    - [SuitePromotions Examples](section_0424124317.md) — section_0424124317
+      - [Item Promotions](section_1513782849.md) — section_1513782849
+        - [Flat Rate Item Promotions](section_1517847840.md) — section_1517847840
+          - [Each Item - No Conditions - Flat](section_1517848792.md) — section_1517848792
+          - [Each Item - Buy Conditions - Flat](section_1517848827.md) — section_1517848827
+          - [Each Item - Spend Conditions - Flat](section_1517848841.md) — section_1517848841
+          - [Every 1 Item - Buy X, Get X - Flat](section_1517848845.md) — section_1517848845
+          - [Every 2 Items - Buy X, Get X - Flat](section_1517848849.md) — section_1517848849
+          - [Every 1 Item - Spend and Buy X, Get X - Flat](section_1517848853.md) — section_1517848853
+          - [Every 1 Item - Buy X, Get Y - Flat](section_1517848856.md) — section_1517848856
+          - [Every 2 Items - Buy X, Get Y - Flat](section_1517848860.md) — section_1517848860
+          - [Every 1 Item - Spend and Buy X, Get Y - Flat](section_1517848864.md) — section_1517848864
+        - [Percentage Item Promotions](section_1517847914.md) — section_1517847914
+          - [Each Item - No Conditions - %](section_1517906546.md) — section_1517906546
+          - [Each Item - Buy Conditions - %](section_1517906594.md) — section_1517906594
+          - [Each Item - Spend Conditions - %](section_1517906625.md) — section_1517906625
+          - [Every 1 Item - Buy X, Get X - %](section_1517906628.md) — section_1517906628
+          - [Buy One, Get One Free (BOGO)](section_1517906631.md) — section_1517906631
+          - [Every 2 Items - Buy X, Get X - %](section_1517906633.md) — section_1517906633
+          - [Buy 2, Get 1 Free](section_1517906636.md) — section_1517906636
+          - [Every 1 Item - Spend and Buy X, Get X - %](section_1517906638.md) — section_1517906638
+          - [Every 1 Item - Buy X, Get Y - %](section_1517906641.md) — section_1517906641
+          - [Free Item (Buy X, Get Y Free)](section_1517906643.md) — section_1517906643
+          - [Every 2 Items - Buy X, Get Y - %](section_1517906645.md) — section_1517906645
+          - [Every 1 Item - Spend and Buy X, Get Y - %](section_1517906648.md) — section_1517906648
+      - [Fixed Price Item Promotions](section_1516725536.md) — section_1516725536
+        - [Each Item - No Conditions - Fixed Price](section_1518022267.md) — section_1518022267
+        - [Each Item - Spend Conditions - Fixed Price](section_1518078241.md) — section_1518078241
+        - [Each Item - Buy X, Get Y - Fixed Price](section_1518022747.md) — section_1518022747
+      - [Order Promotions](section_1516725478.md) — section_1516725478
+        - [Flat Rate Order Promotions](section_1517848380.md) — section_1517848380
+          - [Order - No Conditions - Flat](section_1517926694.md) — section_1517926694
+          - [Order - Spend Conditions - Flat](section_1517931554.md) — section_1517931554
+          - [Order - Buy Conditions - Flat](section_1517931548.md) — section_1517931548
+        - [Percentage Order Promotions](section_1517848410.md) — section_1517848410
+          - [Order - No Conditions - %](section_1517932316.md) — section_1517932316
+          - [Order - Spend Conditions - %](section_1518531088.md) — section_1518531088
+          - [Order - Buy Conditions - %](section_1518531106.md) — section_1518531106
+      - [Shipping Promotions](section_1516725499.md) — section_1516725499
+        - [Item - Buy Conditions - Free Shipping](section_1517934010.md) — section_1517934010
+        - [Item - Spend Conditions - Free Shipping](section_1518531184.md) — section_1518531184
+        - [Order - Spend Conditions - Free Shipping](section_1519375374.md) — section_1519375374
+      - [Free Gift Promotions](section_1516725509.md) — section_1516725509
+        - [No Conditions - Free Gift](section_1518081211.md) — section_1518081211
+        - [Spend Conditions - Free Gift](section_1518531274.md) — section_1518531274
+        - [Buy X, Get Y - Free Gift](section_1518531294.md) — section_1518531294
+        - [Every 1 Item - Buy X, Get Y- Free Gift](section_1518084743.md) — section_1518084743
+        - [Every 2 Items - Buy X, Get Y- Free Gift](section_1518090048.md) — section_1518090048
+  - [Searchandising](chapter_1547549407.md) — chapter_1547549407
+    - [Search Synonyms](chapter_1532949178.md) — chapter_1532949178
+      - [Types of Search Synonyms](subsect_1507541686.md) — subsect_1507541686
+      - [Defining Group Synonyms](section_1532949332.md) — section_1532949332
+      - [Defining One-way Synonyms](article_1210023207.md) — article_1210023207
+      - [Managing Search Synonyms](article_1210023356.md) — article_1210023356
+      - [Best Practices for Defining Search Synonyms](section_1532949682.md) — section_1532949682
+    - [Search Analytics](chapter_1558523538.md) — chapter_1558523538
+      - [Enabling Search Analytics in Your NetSuite Account](section_1553868139.md) — section_1553868139
+      - [Using Search Analytics to Analyze Top Search Queries](section_1553871848.md) — section_1553871848
+      - [SuiteCommerce Top Searches Workbook](section_1562062068.md) — section_1562062068
+        - [SuiteCommerce Top Searches Dataset Template](section_158261918356.md) — section_158261918356
+        - [SuiteCommerce Top Searches Workbook](section_158261995333.md) — section_158261995333
+      - [SuiteCommerce Top Searches with No Results Workbook](section_1562062076.md) — section_1562062076
+        - [SuiteCommerce Top Searches with No Results Dataset](section_158262171602.md) — section_158262171602
+        - [SuiteCommerce Top Searches with No Results Workbook Template](section_158262209596.md) — section_158262209596
+      - [Customize your Workbook](section_1562935603.md) — section_1562935603

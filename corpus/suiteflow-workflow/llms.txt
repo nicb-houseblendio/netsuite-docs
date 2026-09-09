@@ -1,0 +1,19 @@
+# SuiteFlow (Workflow)
+
+SuiteFlow (Workflow) (248 pages): SuiteFlow (Workflow)
+
+## Chapters
+- [SuiteFlow (Workflow)](book_N2723865.md): - SuiteFlow Overview(https://docs.
+  - [SuiteFlow Overview](chapter_4068260113.md): Use SuiteFlow to create and run workflows in NetSuite.
+  - [Creating Your First Workflow](chapter_N2725813.md): This tutorial describes the necessary steps to create and run a workflow in NetSuite.
+  - [Working with Workflows](chapter_4101515562.md): To create a workflow, first you define it on the workflow definition page.
+  - [Workflow Administration](chapter_4103088279.md): Use workflow administration in SuiteFlow to perform searches, initiate, process, and cancel workflow instances, and bundle workflows.
+  - [SuiteFlow Reference and Examples](chapter_4103690129.md): Use this reference information and examples to further develop and customize a workflow.
+  - [Testing and Troubleshooting Workflows](chapter_N2786070.md): After you create a workflow, you'll need to test it to make sure it works correctly and to troubleshoot any issues.
+  - [Workflow Samples](chapter_N2796642.md): - Lead Nurturing Workflow(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suiteflow-workflow

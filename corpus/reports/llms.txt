@@ -1,0 +1,17 @@
+# Reports
+
+Reports (174 pages): Reports
+
+## Chapters
+- [Reports](book_N698399.md): - Reporting Overview(https://docs.
+  - [Reporting Overview](chapter_N698474.md): NetSuite includes a variety of reporting capabilities that you can use to retrieve, present, and analyze real-time business results.
+  - [Working with Report Results](chapter_N717676.md): To see a report's results, you can preview or run it and wait for the results to show up on your desktop.
+  - [Report Customization](chapter_N736328.md): You can use the Report Builder to customize most standard and ad hoc reports.
+  - [Managing Reports](chapter_N746054.md): You can manage all your custom reports on the Saved Reports page.
+  - [Reports FAQ](chapter_1555593395.md): See the questions and answers below for information about Reports.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch reports

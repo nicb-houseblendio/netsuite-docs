@@ -1,0 +1,16 @@
+# New Zealand Help Topics
+
+New Zealand Help Topics (15 pages): New Zealand Help Topics
+
+## Chapters
+- [New Zealand Help Topics](section_4198378244.md): Overview The Help topics below cover NetSuite features for companies in New Zealand.
+  - [New Zealand Account Setup](section_1541645561.md): Setting up an account for an organization doing business in New Zealand usually requires enabling several features and installing some additional SuiteApps.
+  - [Setting Up New Zealand-specific Preferences](section_1541646578.md): In NetSuite, you can set up your company and personal user preferences that are specific to doing business in New Zealand.
+  - [New Zealand Tax Topics](chapter_N1947563.md): If you have a New Zealand subsidiary and the International Tax Reports SuiteApp, you can generate the GST101A return.
+  - [New Zealand Payment Formats](section_N1640223.md): The Electronic Bank Payments SuiteApp lets businesses in New Zealand to pay vendor bills, employee expenses, and customers by generating payment files formatted using the following bank specifications: - ANZ (ANZ, New Zealand) - ASB (Auckland Savings Bank) - BNZ (Bank of New Zealand) - DeskBank (Westpac Banking Corporation) To set up the Electronic Bank Payments SuiteApp for your company, subsidiaries, vendors, employees, customers, and partners in New Zealand, read the following topics: - Setting Up Company Bank Records in New Zealand(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch new-zealand-help-topics

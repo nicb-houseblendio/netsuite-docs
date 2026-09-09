@@ -1,0 +1,541 @@
+# Taxation
+
+537 pages, category: Accounting
+
+- [Taxation](set_N1791082.md) — set_N1791082
+  - [Legacy Tax](preface_3710626699.md) — preface_3710626699
+    - [Tax Accounting Overview](chapter_N1791910.md) — chapter_N1791910
+    - [Enabling and Setting Up Taxation Features](chapter_N1794679.md) — chapter_N1794679
+      - [Tax Permissions](section_4689962364.md) — section_4689962364
+      - [Tax Setup Overview](section_N1795438.md) — section_N1795438
+      - [Enabling Taxation Features in Accounts Without Advanced Taxes](section_N1795648.md) — section_N1795648
+      - [Enabling Taxation Features in OneWorld Accounts and Accounts With Advanced Taxes](section_N1795865.md) — section_N1795865
+      - [Taxation Features Provided by SuiteApps from NetSuite](section_3740493324.md) — section_3740493324
+      - [Set Up Taxes](section_N1796252.md) — section_N1796252
+      - [Setting Up Tax Agencies as Vendors](section_N1796409.md) — section_N1796409
+      - [Setting Default Tax Items on Customer Records](section_N1796705.md) — section_N1796705
+      - [Setting Default Tax Items on Vendor Records](section_N1796855.md) — section_N1796855
+      - [Setting Tax Rounding Preferences on Customer and Vendor Records](section_4259667651.md) — section_4259667651
+      - [Setting Tax Codes or Tax Schedules on Item Records](section_N1797005.md) — section_N1797005
+      - [Setting Up Prompt Payment Discount Preferences](section_4702988229.md) — section_4702988229
+    - [Working with Tax Periods](section_N1797157.md) — section_N1797157
+      - [Tax Periods Overview](section_4454154841.md) — section_4454154841
+      - [Tax Period Posting Changes](bridgehead_3745446316.md) — bridgehead_3745446316
+      - [Setting Up Tax Periods](section_N1797599.md) — section_N1797599
+      - [Closing Tax Periods](section_N1798849.md) — section_N1798849
+      - [Editing and Deleting Tax Periods](section_N1799174.md) — section_N1799174
+      - [Assigning a Tax Fiscal Calendar to a Subsidiary](section_N1799451.md) — section_N1799451
+      - [Setting Up Tax Periods Using a Fiscal Calendar](section_N1799689.md) — section_N1799689
+      - [Setting Up Historical and Transitional Tax Periods Using a Fiscal Calendar](section_N1800348.md) — section_N1800348
+      - [Reporting by Tax Period](section_N1803024.md) — section_N1803024
+    - [Advanced Taxes](chapter_N1803438.md) — chapter_N1803438
+      - [Enabling Advanced Taxes](section_N1803739.md) — section_N1803739
+      - [Nexuses and Subsidiaries](section_N1804037.md) — section_N1804037
+        - [Creating Tax Nexuses](section_N1804264.md) — section_N1804264
+        - [Deleting Tax Nexuses](section_N1804522.md) — section_N1804522
+      - [Limitations for Using Preferred Tax Codes](section_159602847236.md) — section_159602847236
+      - [Tax Code Limitations When Using SuiteScript 2.x](section_0616101140.md) — section_0616101140
+      - [Creating Tax Schedules](section_N1804737.md) — section_N1804737
+      - [Customizing Tax Fields on Transaction Forms](section_N1805065.md) — section_N1805065
+    - [Managing Tax Codes](chapter_N1805198.md) — chapter_N1805198
+      - [Tax Codes Overview](section_N1805593.md) — section_N1805593
+        - [Tax Code Properties](section_N1805973.md) — section_N1805973
+        - [Creating Tax Codes](section_N1807199.md) — section_N1807199
+        - [Adding Custom Fields to Tax Code Records](section_N1807644.md) — section_N1807644
+        - [Editing Tax Codes](section_N1807882.md) — section_N1807882
+        - [Inactivating or Deleting Tax Codes](section_N1808226.md) — section_N1808226
+      - [Tax Groups Overview](section_N1809948.md) — section_N1809948
+        - [Creating Tax Groups](section_N1810157.md) — section_N1810157
+        - [Creating a Tax Group (All Countries Except US and Canada)](section_N1810306.md) — section_N1810306
+      - [Tax Types Overview](section_N1810558.md) — section_N1810558
+        - [Creating a Tax Type](section_N1811821.md) — section_N1811821
+        - [Removing Restrictions for Tax Control Accounts](section_N1812010.md) — section_N1812010
+      - [Tax Control Accounts Overview](section_N1812226.md) — section_N1812226
+        - [Creating a Tax Control Account](section_N1812423.md) — section_N1812423
+      - [Managing Tax Rate Changes](section_N1812624.md) — section_N1812624
+    - [Troubleshooting Guide for Legacy Tax](article_7103246494.md) — article_7103246494
+    - [General International Tax Topics](chapter_N1813074.md) — chapter_N1813074
+      - [Setting Tax Preferences](section_N1813668.md) — section_N1813668
+        - [Setting Tax Rounding Levels, Methods, and Precision Settings](section_N1814149.md) — section_N1814149
+      - [Creating Tax Codes - Other Nexuses](section_N1816436.md) — section_N1816436
+        - [Creating Acquisition Tax Codes](section_N1817104.md) — section_N1817104
+      - [Paying Tax Liabilities - Non-U.S. Editions and Nexuses](section_N1817593.md) — section_N1817593
+      - [Applying Sales Tax or VAT to Discount Items](section_N1817936.md) — section_N1817936
+        - [Applying Sales Tax to Discount Items (U.S. and Canada)](bridgehead_N1818019.md) — bridgehead_N1818019
+        - [Discount Methods (U.S. and Canada)](bridgehead_N1818089.md) — bridgehead_N1818089
+        - [Discount Methods (VAT Nexuses)](bridgehead_N1821386.md) — bridgehead_N1821386
+        - [Applying VAT Before or After Discounts](bridgehead_N1822423.md) — bridgehead_N1822423
+      - [Recording Nondeductible Input Tax](section_N1822590.md) — section_N1822590
+        - [Setting Up Nondeductible Input Tax](section_N1822730.md) — section_N1822730
+        - [Applying Nondeductible Input Tax on Transactions](section_N1823395.md) — section_N1823395
+        - [Recording Nondeductible Input Tax for Reverse Charge Transactions](section_164250053764.md) — section_164250053764
+      - [Posting Notional Tax Amounts](section_4702878807.md) — section_4702878807
+        - [Setting Up Tax Codes to Post Notional Tax Amounts](section_4702880164.md) — section_4702880164
+        - [Applying the Notional Tax Posting Feature to Transactions and Subsidiaries](section_4702938275.md) — section_4702938275
+      - [Recording Tax on Prompt Payment Discount](section_4702990460.md) — section_4702990460
+    - [VAT and GST Reporting](chapter_N2050955.md) — chapter_N2050955
+      - [VAT and GST Reporting Overview](section_N2050963.md) — section_N2050963
+      - [International Tax Reports](section_N2051341.md) — section_N2051341
+        - [Installing and Setting Up International Tax Reports](section_N2051712.md) — section_N2051712
+      - [Automatic Tax Code Provisioning](section_N2053451.md) — section_N2053451
+        - [Automatic Tax Code Provisioning Workaround](bridgehead_1548655148.md) — bridgehead_1548655148
+        - [EU One Stop Shop Tax Code Provisioning](bridgehead_4174874694.md) — bridgehead_4174874694
+        - [OSS Tax Code Provisioning for Regular NetSuite Accounts](bridgehead_4204428442.md) — bridgehead_4204428442
+      - [Electronic Tax Filing Using NetSuite](section_N2053770.md) — section_N2053770
+      - [Setting Up Tax Filing Information](bridgehead_N2053829.md) — bridgehead_N2053829
+      - [Creating or Customizing Roles to Use the International Tax Reports](section_N2054151.md) — section_N2054151
+        - [International Tax Reports Permissions](section_N2054820.md) — section_N2054820
+        - [Granting Access to VAT/GST Reporting](section_N2060150.md) — section_N2060150
+        - [Granting Access to Sales and Purchase Reports Grouped by Tax Code](section_N2060594.md) — section_N2060594
+        - [Granting Access to the Manage Tax Reporting Page](section_N2061085.md) — section_N2061085
+        - [Granting Access to Intrastat Reports](section_N2061400.md) — section_N2061400
+        - [Granting Access to EU Sales Lists](section_N2061855.md) — section_N2061855
+      - [VAT/GST Reports](section_N2063644.md) — section_N2063644
+        - [Generating VAT/GST Reports](section_N2064551.md) — section_N2064551
+          - [Formatting Dates and Numbers for VAT Reports](section_N2065022.md) — section_N2065022
+          - [Viewing VAT Report Transaction Details](section_N2065235.md) — section_N2065235
+          - [Making Adjustments on a VAT Return](section_N2067438.md) — section_N2067438
+          - [Flagging Tax Periods in a VAT Return](section_3721526384.md) — section_3721526384
+          - [Viewing the VAT Return Submission History](section_3721544005.md) — section_3721544005
+          - [Multi-Book Accounting for International Tax Reports](section_4108426899.md) — section_4108426899
+      - [Sales and Purchase Reports Grouped by Tax Code](section_N2067748.md) — section_N2067748
+      - [International Tax Reports Best Practices](section_N2072942.md) — section_N2072942
+    - [Tax Audit Files](chapter_N2073244.md) — chapter_N2073244
+      - [Prerequisites for Installing the Tax Audit Files SuiteApp](article_98164624128.md) — article_98164624128
+      - [Installing the Tax Audit Files SuiteApp](section_N2074100.md) — section_N2074100
+      - [Creating or Customizing Roles to Use Tax Audit Files](section_N2074456.md) — section_N2074456
+      - [Setting Up Tax Audit Files to Use Multiple Queues or Processors](section_4361709092.md) — section_4361709092
+      - [Setting Up Threshold Configuration on Tax Audit Files](section_1516603486.md) — section_1516603486
+      - [Setting Tax Audit Files Report Preferences](section_158080650603.md) — section_158080650603
+      - [Using Tax Audit Files](section_N2077183.md) — section_N2077183
+        - [Generating a Tax Audit File](section_N2077452.md) — section_N2077452
+        - [Troubleshooting Tax Audit File Generation Failures](section_N2077778.md) — section_N2077778
+        - [Downloading a Tax Audit File](section_N2078033.md) — section_N2078033
+        - [Deleting a Tax Audit File](section_N2078309.md) — section_N2078309
+        - [Adding Custom Fields to GL Data Extracts](section_N2078555.md) — section_N2078555
+        - [Statutory Chart of Accounts for Tax Audit Files](section_3929759676.md) — section_3929759676
+    - [Withholding Tax](chapter_N2078886.md) — chapter_N2078886
+      - [Withholding Tax Overview](section_N2079416.md) — section_N2079416
+      - [Setting Up Withholding Tax](section_N2079716.md) — section_N2079716
+        - [Setting Up Withholding Tax Preferences](section_N2083657.md) — section_N2083657
+        - [Setting Up Withholding Tax Types](section_N2084141.md) — section_N2084141
+        - [Setting Up Withholding Tax Codes](section_N2084484.md) — section_N2084484
+        - [Setting Up Withholding Tax Groups](section_N2085135.md) — section_N2085135
+      - [Creating or Customizing Roles to Use Withholding Tax Features](section_N2080358.md) — section_N2080358
+      - [Setting Default Withholding Tax Codes](section_N2085546.md) — section_N2085546
+      - [Applying Withholding Taxes on Transactions as a Buyer](section_N2085924.md) — section_N2085924
+        - [Withholding Taxes on Bills](section_N2086130.md) — section_N2086130
+        - [Withholding Taxes on Bill Payments](section_N2086435.md) — section_N2086435
+        - [Withholding Taxes on Checks](section_N2086925.md) — section_N2086925
+      - [Recording Withholding Taxes on Transactions as a Seller](section_N2087219.md) — section_N2087219
+        - [Withholding Taxes on Invoices](section_N2087402.md) — section_N2087402
+        - [Withholding Taxes on Payment Acceptance](section_N2087711.md) — section_N2087711
+        - [Withholding Taxes on Cash Sales](section_N2088149.md) — section_N2088149
+      - [Importing Withholding Tax Transactions](section_4606135691.md) — section_4606135691
+        - [Importing Withholding Tax Transactions Using CSV Import](section_N2088459.md) — section_N2088459
+        - [Importing Withholding Tax Transactions Using SOAP Web Services](section_4582915835.md) — section_4582915835
+        - [Withholding Tax Error Codes](section_4605306566.md) — section_4605306566
+      - [Withholding Tax Reporting](section_N2088848.md) — section_N2088848
+      - [Withholding Tax Troubleshooting Guide](section_4485199528.md) — section_4485199528
+      - [Known Limitations of the Withholding Tax SuiteApp](section_160458601048.md) — section_160458601048
+    - [Deferred VAT](chapter_1539653017.md) — chapter_1539653017
+    - [European Union (EU) Tax Topics](chapter_4138676838.md) — chapter_4138676838
+      - [EU Notional VAT](section_4489598173.md) — section_4489598173
+        - [Understanding Notional VAT for EU B2B Transactions](section_4489598766.md) — section_4489598766
+        - [How NetSuite Determines the Notional Tax Code to Use for a Transaction](section_4489599354.md) — section_4489599354
+        - [Understanding EU VAT Reverse Charges](section_4489602642.md) — section_4489602642
+      - [EU One Stop Shop (OSS)](section_4163851800.md) — section_4163851800
+        - [OSS Feature Overview](section_4163852804.md) — section_4163852804
+        - [Best Practices for OSS](section_4161911339.md) — section_4161911339
+        - [Enabling the OSS Feature](section_4161988579.md) — section_4161988579
+        - [Setting Up OSS](section_4162081368.md) — section_4162081368
+          - [Assigning an OSS Nexus to a Company or Subsidiary](section_4162117213.md) — section_4162117213
+          - [OSS Tax Codes, Tax Types, and Tax Control Accounts](section_4162908093.md) — section_4162908093
+          - [Marking OSS Items](section_4162935442.md) — section_4162935442
+        - [OSS Invoicing and Tax Rate Determination](section_4187869210.md) — section_4187869210
+        - [OSS Transactions](section_4389359381.md) — section_4389359381
+        - [MOSS Reporting](section_4187870689.md) — section_4187870689
+        - [Generating a MOSS Transactions Report](section_4253761988.md) — section_4253761988
+      - [EU Sales List (ESL) Report](section_N2068052.md) — section_N2068052
+        - [EU Sales List Overview](section_N2068226.md) — section_N2068226
+        - [Identifying EU Triangulated Goods](section_4380703631.md) — section_4380703631
+        - [Generating an EU Sales List Report](section_N2068441.md) — section_N2068441
+      - [EU Intrastat Report](section_N2069213.md) — section_N2069213
+        - [EU Intrastat Report Overview](section_N2069786.md) — section_N2069786
+        - [Intrastat Reporting Fields](section_4150707116.md) — section_4150707116
+          - [Commodity Code](section_N2070438.md) — section_N2070438
+          - [Country of Origin](section_164377962805.md) — section_164377962805
+          - [Partner ID](section_164377982356.md) — section_164377982356
+          - [Nature of Transaction Code](section_N2070738.md) — section_N2070738
+            - [Setting Up Nature of Transaction Codes](bridgehead_N2070762.md) — bridgehead_N2070762
+            - [Creating a Nature of Transaction Code](section_164379251413.md) — section_164379251413
+            - [Setting Up Default Nature of Transaction Codes on Transaction Records](bridgehead_N2070986.md) — bridgehead_N2070986
+            - [Country-Specific Nature of Transaction Codes](bridgehead_1504850148.md) — bridgehead_1504850148
+          - [Delivery Terms](section_N2071234.md) — section_N2071234
+          - [Mode of Transport](section_1505110665.md) — section_1505110665
+          - [Supplementary Unit](section_4605983594.md) — section_4605983594
+          - [Statistical Value](section_164377925900.md) — section_164377925900
+        - [Intrastat Report Dispatches and Arrivals Forms](section_N2070008.md) — section_N2070008
+        - [Generating an EU Intrastat Report](section_N2071452.md) — section_N2071452
+    - [Austria Tax Topics](chapter_N1823604.md) — chapter_N1823604
+      - [Austria Tax Codes](section_N1823786.md) — section_N1823786
+      - [Setting Up Tax Filing for Austria](section_N1826176.md) — section_N1826176
+      - [Austria VAT Report](section_N1826422.md) — section_N1826422
+        - [What goes into each box - Austria VAT report](section_N1826752.md) — section_N1826752
+      - [EU Sales List for Austria](section_N1831754.md) — section_N1831754
+      - [Intrastat Report for Austria](section_4587020795.md) — section_4587020795
+    - [Australia Tax Topics](chapter_1542191752.md) — chapter_1542191752
+    - [Belgium Tax Topics](chapter_N1839485.md) — chapter_N1839485
+    - [Bulgaria Tax Topics](chapter_N1846363.md) — chapter_N1846363
+      - [Bulgaria Tax Codes](section_N1846495.md) — section_N1846495
+      - [Bulgaria VAT Report](section_N1850643.md) — section_N1850643
+        - [What goes into each box - Bulgaria VAT report](section_N1850889.md) — section_N1850889
+    - [Canada Tax Topics](chapter_N1856070.md) — chapter_N1856070
+    - [Chile Tax Topics](chapter_N1865199.md) — chapter_N1865199
+      - [Chile Tax Setup](section_N1865357.md) — section_N1865357
+      - [Chile Tax Codes](section_N1865743.md) — section_N1865743
+      - [Chile VAT Report](section_N1867667.md) — section_N1867667
+        - [What goes into each box - Chile VAT Report](section_4101598857.md) — section_4101598857
+    - [Colombia Tax Topics](chapter_N1867954.md) — chapter_N1867954
+      - [Colombia Tax Setup](section_N1868140.md) — section_N1868140
+      - [Colombia Tax Codes](section_N1871228.md) — section_N1871228
+      - [Setting Up Tax Filing for Colombia](section_3788090444.md) — section_3788090444
+      - [Colombia VAT Report](section_N1872768.md) — section_N1872768
+        - [What goes into each box - Colombia VAT report](section_3775975736.md) — section_3775975736
+    - [Cyprus Tax Topics](chapter_158210453758.md) — chapter_158210453758
+    - [Czechia Tax Topics](chapter_N1874317.md) — chapter_N1874317
+      - [Czechia Tax Codes](section_N1874517.md) — section_N1874517
+      - [Setting Up Tax Filing for Czechia](section_N1877657.md) — section_N1877657
+      - [Czechia VAT Report](section_N1880287.md) — section_N1880287
+        - [What goes into each box - Czechia VAT report](section_N1880621.md) — section_N1880621
+      - [Czechia VAT Control Statement](section_4491314862.md) — section_4491314862
+      - [What goes into each box - Czechia VAT Control Statement](section_4491318921.md) — section_4491318921
+      - [EU Sales List for Czechia](section_N1884938.md) — section_N1884938
+    - [Denmark Tax Topics](chapter_N1885300.md) — chapter_N1885300
+    - [Finland Tax Topics](chapter_N1888576.md) — chapter_N1888576
+    - [France Tax Topics](chapter_N1890188.md) — chapter_N1890188
+    - [Germany Tax Topics](chapter_N1897534.md) — chapter_N1897534
+    - [Gulf Cooperation Council Tax Topics](chapter_1508824976.md) — chapter_1508824976
+      - [Setting Tax Preferences for GCC States](section_1509065725.md) — section_1509065725
+      - [Setting Up VAT for GCC States](section_1509607515.md) — section_1509607515
+      - [Entity Records for GCC States](section_1508829013.md) — section_1508829013
+      - [Set Auto-Generated Numbers for GCC States](section_1508828620.md) — section_1508828620
+      - [Setting Up Tax Periods for GCC States](section_1508829065.md) — section_1508829065
+      - [Applying VAT to Discount Items for GCC States](section_1508826151.md) — section_1508826151
+      - [Taxation Features Provided by SuiteApps from NetSuite](section_1508826178.md) — section_1508826178
+      - [Paying Tax Liabilities for GCC States](section_1508826188.md) — section_1508826188
+    - [Hungary Tax Topics](article_103741889.md) — article_103741889
+      - [Hungary Tax Codes](section_0317105526.md) — section_0317105526
+      - [Hungary VAT Report](section_0320035315.md) — section_0320035315
+        - [What goes into each box - Hungary VAT Report](section_0317030903.md) — section_0317030903
+    - [Indonesia Tax Topics](chapter_N1918792.md) — chapter_N1918792
+      - [Indonesia Tax Codes](section_N1918921.md) — section_N1918921
+      - [Indonesia VAT Report](section_N1919850.md) — section_N1919850
+        - [What goes into each box - Indonesia VAT report](section_N1920183.md) — section_N1920183
+    - [Ireland Tax Topics](chapter_N1926430.md) — chapter_N1926430
+    - [Italy Tax Topics](chapter_N1931995.md) — chapter_N1931995
+      - [Italy Tax Codes](section_N1932112.md) — section_N1932112
+      - [Italy VAT Report](section_N1933560.md) — section_N1933560
+        - [What goes into each box - Italy VAT Report](article_161131009378.md) — article_161131009378
+      - [EU Sales List for Italy](section_N1933802.md) — section_N1933802
+    - [Japan Tax Topics](chapter_1517814749.md) — chapter_1517814749
+    - [Kenya Tax Topics](chapter_N1938961.md) — chapter_N1938961
+      - [Kenya Tax Codes](section_N1939062.md) — section_N1939062
+      - [Kenya VAT Report](section_N1940120.md) — section_N1940120
+        - [What goes into each box - Kenya VAT Report](section_4110241432.md) — section_4110241432
+    - [Luxembourg Tax Topics](chapter_3771426972.md) — chapter_3771426972
+    - [Malaysia Tax Topics](chapter_1549969791.md) — chapter_1549969791
+    - [Mexico Tax Topics (Mexico Compliance SuiteApp)](chapter_N1940317.md) — chapter_N1940317
+      - [Mexico Compliance Features (Mexico Compliance SuiteApp)](section_3738749895.md) — section_3738749895
+      - [Mexico Tax Codes (Mexico Compliance SuiteApp)](section_N1940638.md) — section_N1940638
+      - [Tax Code Mapping for Mexico DIOT File (Mexico Compliance SuiteApp)](section_3738825237.md) — section_3738825237
+      - [Mexico Tax Setup (Mexico Compliance SuiteApp)](section_N1941750.md) — section_N1941750
+      - [Mexico DIOT File (Mexico Compliance SuiteApp)](section_N1941830.md) — section_N1941830
+      - [Mexico Electronic Accounting File (Mexico Compliance SuiteApp)](section_4219758919.md) — section_4219758919
+        - [Setting Up Mexico Electronic Accounting File (Mexico Compliance SuiteApp)](section_4258861245.md) — section_4258861245
+          - [Field Mapping for Mexico (Mexico Compliance SuiteApp)](section_4252635509.md) — section_4252635509
+          - [Setting Up Mexico Tax Audit Files Configuration (Mexico Compliance SuiteApp)](section_4258682186.md) — section_4258682186
+          - [Developing a Mexico UUID Plug-in Implementation](section_4265037838.md) — section_4265037838
+            - [Create a Mexico UUID Plug-in Implementation Script File](section_4265073632.md) — section_4265073632
+            - [Add the Mexico UUID Plug-in Implementation](section_4265073987.md) — section_4265073987
+            - [Enable the Mexico UUID Plug-in Implementation](section_4265084026.md) — section_4265084026
+            - [Test the Mexico UUID Plug-in Implementation](section_4265074508.md) — section_4265074508
+            - [Mexico UUID Plug-in Implementation Best Practices](section_4265084915.md) — section_4265084915
+            - [Mexico UUID Plug-in Implementation Sample Code](section_4265092374.md) — section_4265092374
+        - [Generating Mexico Electronic Accounting File (Mexico Compliance SuiteApp)](section_4252635849.md) — section_4252635849
+    - [Netherlands Tax Topics](chapter_1550454505.md) — chapter_1550454505
+    - [New Zealand Tax Topics](chapter_1542268718.md) — chapter_1542268718
+    - [Norway Tax Topics](chapter_N1948317.md) — chapter_N1948317
+    - [Peru Tax Topics](chapter_N1949362.md) — chapter_N1949362
+      - [Peru Tax Codes](section_N1949465.md) — section_N1949465
+      - [Peru VAT Report](section_N1950682.md) — section_N1950682
+        - [What goes into each box - Peru VAT Report](section_4103409057.md) — section_4103409057
+    - [Philippines Tax Topics](chapter_162694501101.md) — chapter_162694501101
+    - [Poland Tax Topics](chapter_N1967656.md) — chapter_N1967656
+      - [Poland Tax Codes](section_N1967757.md) — section_N1967757
+      - [Poland VAT Report](section_N1970414.md) — section_N1970414
+        - [What goes into each box - Poland VAT Report](section_4037502030.md) — section_4037502030
+    - [Portugal Tax Topics](chapter_N1970643.md) — chapter_N1970643
+    - [Romania Tax Topics](chapter_N1978514.md) — chapter_N1978514
+      - [Romania Tax Codes](section_N1978614.md) — section_N1978614
+      - [Romania VAT Report](section_N1979984.md) — section_N1979984
+        - [What goes into each box - Romania VAT report](section_157493110360.md) — section_157493110360
+    - [Saudi Arabia Tax Topics](chapter_1507619980.md) — chapter_1507619980
+      - [Saudi Arabia Tax Codes](section_1507620189.md) — section_1507620189
+    - [Serbia Tax Topics](chapter_N1980213.md) — chapter_N1980213
+      - [Serbia Tax Codes](section_N1980322.md) — section_N1980322
+      - [Serbia VAT Report](section_N1981048.md) — section_N1981048
+        - [What goes into each box - Serbia VAT Report](section_4114524038.md) — section_4114524038
+    - [Singapore Tax Topics](chapter_1529576700.md) — chapter_1529576700
+    - [Slovakia Tax Topics](chapter_N1989528.md) — chapter_N1989528
+      - [Slovakia Tax Codes](section_N1989642.md) — section_N1989642
+      - [Slovakia VAT Report](section_N1992117.md) — section_N1992117
+      - [What goes into each box - Slovakia VAT report](section_3932968818.md) — section_3932968818
+      - [Slovakia VAT Ledger Statement](section_4497423773.md) — section_4497423773
+      - [What goes into each box - Slovak VAT Ledger Statement](section_4524799494.md) — section_4524799494
+    - [Slovenia Tax Topics](chapter_N1992349.md) — chapter_N1992349
+      - [Slovenia Tax Codes](section_N1992450.md) — section_N1992450
+      - [Slovenia VAT Report](section_N1993752.md) — section_N1993752
+        - [What goes into each box - Slovenia VAT Report](section_4110092119.md) — section_4110092119
+    - [South Africa Tax Topics](chapter_N1995074.md) — chapter_N1995074
+      - [South Africa Tax Codes](section_N1995172.md) — section_N1995172
+      - [South Africa VAT Report](section_N1995782.md) — section_N1995782
+        - [What goes into each box - South Africa VAT Report](section_4114602006.md) — section_4114602006
+    - [South Korea Tax Topics](chapter_N1995977.md) — chapter_N1995977
+      - [South Korea Tax Codes](section_N1996096.md) — section_N1996096
+      - [South Korea VAT Report](section_N1997044.md) — section_N1997044
+        - [What goes into each box - South Korea VAT report](section_N1997819.md) — section_N1997819
+    - [Spain Tax Topics](chapter_N1999169.md) — chapter_N1999169
+    - [Sweden Tax Topics](chapter_N2004566.md) — chapter_N2004566
+    - [Switzerland Tax Topics](chapter_N2009888.md) — chapter_N2009888
+      - [Switzerland Tax Codes](section_N2009995.md) — section_N2009995
+      - [Switzerland VAT Report](section_N2010657.md) — section_N2010657
+        - [What goes into each box - Switzerland VAT Report](section_4115270565.md) — section_4115270565
+    - [Taiwan (Province of China) Tax Topics](chapter_N2010868.md) — chapter_N2010868
+      - [Taiwan (Province of China) Tax Codes](section_N2011262.md) — section_N2011262
+      - [Taiwan (Province of China) VAT Report](section_N2013226.md) — section_N2013226
+        - [What goes into each box - Taiwan (Province of China) VAT report](section_N2014002.md) — section_N2014002
+    - [Thailand Tax Topics](chapter_1529918422.md) — chapter_1529918422
+    - [Türkiye Tax Topics](chapter_N2021231.md) — chapter_N2021231
+      - [Türkiye Tax Codes](section_N2021408.md) — section_N2021408
+      - [Türkiye VAT Report](section_N2022385.md) — section_N2022385
+    - [Ukraine Tax Topics](chapter_N2022755.md) — chapter_N2022755
+      - [Ukraine Tax Codes](section_N2022864.md) — section_N2022864
+      - [Ukraine VAT Report](section_N2025824.md) — section_N2025824
+    - [United Arab Emirates Tax Topics](chapter_1507697102.md) — chapter_1507697102
+      - [United Arab Emirates Tax Codes](section_1525341361.md) — section_1525341361
+      - [United Arab Emirates VAT Report](section_1525306393.md) — section_1525306393
+      - [What goes into each box - United Arab Emirates Report](section_1525341408.md) — section_1525341408
+      - [United Arab Emirates Tax Audit File](section_1539749458.md) — section_1539749458
+    - [United Kingdom Tax Topics](chapter_N2026020.md) — chapter_N2026020
+    - [United States Tax Topics](chapter_N2038572.md) — chapter_N2038572
+    - [Uruguay Tax Topics](chapter_N2035552.md) — chapter_N2035552
+      - [Uruguay Tax Codes](section_N2035655.md) — section_N2035655
+      - [Uruguay VAT Report](section_N2038372.md) — section_N2038372
+        - [What goes into each box - Uruguay VAT Report](section_4116142371.md) — section_4116142371
+    - [Viet Nam Tax Topics](chapter_N2047227.md) — chapter_N2047227
+      - [Viet Nam Tax Codes](section_N2047326.md) — section_N2047326
+      - [Viet Nam VAT Report](section_N2048042.md) — section_N2048042
+        - [What goes into each box - Viet Nam VAT report](section_N2048375.md) — section_N2048375
+  - [SuiteTax](preface_1496364245.md) — preface_1496364245
+    - [SuiteTax Hub](article_3205058952.md) — article_3205058952
+    - [Benefits of SuiteTax](article_7085304977.md) — article_7085304977
+    - [General SuiteTax Topics](chapter_4283850851.md) — chapter_4283850851
+      - [Enabling the SuiteTax Feature](section_1513063459.md) — section_1513063459
+        - [NetSuite Tax Engines](article_8090958843.md) — article_8090958843
+          - [Selecting a Tax Engine for Tax Registrations on Subsidiary Records](section_1513835017.md) — section_1513835017
+        - [Viewing the SuiteTax Data Migration Status](section_1513582777.md) — section_1513582777
+      - [List of Country-Specific SuiteTax Features](article_0625025008.md) — article_0625025008
+      - [Roles and Permissions in SuiteTax](section_4822121243.md) — section_4822121243
+      - [Differences between SuiteTax and Legacy Tax](section_0315035511.md) — section_0315035511
+      - [Migration of Legacy Records and Transactions to SuiteTax](section_4829722319.md) — section_4829722319
+        - [Tax Records in SuiteTax](section_4797202133.md) — section_4797202133
+          - [Nexus Records in SuiteTax](section_4797203207.md) — section_4797203207
+          - [Tax Code Records in SuiteTax](section_4797203596.md) — section_4797203596
+          - [Tax Type Records in SuiteTax](section_4797203280.md) — section_4797203280
+        - [Subsidiary or Company Information in SuiteTax](section_4797202321.md) — section_4797202321
+        - [Entity Records in SuiteTax](section_4797202670.md) — section_4797202670
+        - [Transactions in SuiteTax](section_4797202760.md) — section_4797202760
+        - [Tax Reports in SuiteTax](section_1514276286.md) — section_1514276286
+        - [Item Records in SuiteTax](section_4797202997.md) — section_4797202997
+        - [Shipping Item Records in SuiteTax](section_4797203020.md) — section_4797203020
+        - [Migration from Legacy Tax to SuiteTax FAQ](section_158331921354.md) — section_158331921354
+      - [Understanding Nexuses in SuiteTax](section_4283851663.md) — section_4283851663
+        - [Understanding Subnexuses in SuiteTax](section_4296036358.md) — section_4296036358
+        - [Setting Up Nexuses in SuiteTax](section_4296038572.md) — section_4296038572
+      - [Assigning Tax Registrations to a Subsidiary in SuiteTax](section_4296038273.md) — section_4296038273
+      - [Assigning Tax Registrations to an Entity in SuiteTax](section_4513820587.md) — section_4513820587
+        - [Adding New Entity Tax Registration as CSV](article_0910015904.md) — article_0910015904
+        - [Editing Existing Tax Registration as CSV](article_0910042643.md) — article_0910042643
+      - [Understanding Tax Types and Tax Codes in SuiteTax](section_4283869397.md) — section_4283869397
+      - [Withholding Taxes in SuiteTax](section_159646451288.md) — section_159646451288
+        - [Withholding Tax Type](section_159646516782.md) — section_159646516782
+        - [Withholding Tax Codes](section_159646521299.md) — section_159646521299
+        - [Withholding Tax Group](section_159646526160.md) — section_159646526160
+        - [Withholding Tax Defaults](section_159646530717.md) — section_159646530717
+      - [Understanding How the Nexus is Determined on Transactions in SuiteTax](section_4283864113.md) — section_4283864113
+        - [Nexus Determination Lookup Logic in SuiteTax](section_4283866360.md) — section_4283866360
+        - [Single Nexus Validation on Transactions](article_0106040050.md) — article_0106040050
+      - [Automatic Nexus Determination When Selecting Entity](section_159481740463.md) — section_159481740463
+      - [Fields Used for Tax Determination](article_0716101344.md) — article_0716101344
+      - [Tax Details on Transactions in SuiteTax](section_4283867856.md) — section_4283867856
+      - [Importing Tax Details for Transactions in SuiteTax](section_4593599938.md) — section_4593599938
+      - [Processing Return Authorizations and Credit Transactions with a Different Location in SuiteTax](article_0708104225.md) — article_0708104225
+      - [Term Discounts in SuiteTax](article_0107095134.md) — article_0107095134
+      - [Editing Transactions in SuiteTax](section_1513063654.md) — section_1513063654
+      - [Editing Migrated Legacy Tax Transactions](section_0130045528.md) — section_0130045528
+      - [Enhanced Transaction Saving Notifications](section_159481841187.md) — section_159481841187
+      - [Printing Transactions with Tax Information in SuiteTax](section_4446302906.md) — section_4446302906
+      - [Tax Point Dates](section_1554806347.md) — section_1554806347
+      - [Creating Journal Entries with Tax Impact in SuiteTax](section_4677118528.md) — section_4677118528
+        - [Nexus and Tax Account Mapping on Journal Entries in SuiteTax](section_1531880119.md) — section_1531880119
+      - [Entering Expense Reports with Tax Impact in SuiteTax](section_1497940110.md) — section_1497940110
+      - [Generating a Standard Tax Report in SuiteTax](section_1497941633.md) — section_1497941633
+      - [Tax Liability Payment Transaction in SuiteTax](article_8154422897.md) — article_8154422897
+      - [Triggering Tax Calculation through SuiteScript](section_1565108575.md) — section_1565108575
+      - [Known Limitations of SuiteTax](chapter_161365561211.md) — chapter_161365561211
+      - [General SuiteTax FAQ](article_0508023446.md) — article_0508023446
+      - [Troubleshooting Guide for SuiteTax](article_1203101615.md) — article_1203101615
+    - [SuiteTax Engine](chapter_1557396965.md) — chapter_1557396965
+      - [Installing the SuiteTax Engine](section_1557397007.md) — section_1557397007
+      - [Enabling the SuiteTax Plug-In](section_1557399475.md) — section_1557399475
+      - [Roles and Permissions for the SuiteTax Engine](section_1557399606.md) — section_1557399606
+        - [Standard Roles and Default Permissions](section_1557734347.md) — section_1557734347
+        - [SuiteTax Engine Permissions](section_1557734578.md) — section_1557734578
+      - [SuiteTax Engine Attributes](section_1557735299.md) — section_1557735299
+        - [Tax Transaction Types in the SuiteTax Engine](section_1557735490.md) — section_1557735490
+        - [Tax Item Types in the SuiteTax Engine](section_1557735556.md) — section_1557735556
+        - [Tax Authority Information Provisioning](section_0925094329.md) — section_0925094329
+        - [Tax Rate Types in the SuiteTax Engine](section_1557735634.md) — section_1557735634
+        - [Tax Point Dates in the SuiteTax Engine Documentation](section_157053273694.md) — section_157053273694
+      - [Countries Supported for Tax Rate Updates in the SuiteTax Engine](article_0723015941.md) — article_0723015941
+      - [Setting Up the SuiteTax Engine for VAT Countries](section_1557735706.md) — section_1557735706
+        - [Automatic Tax Record Provisioning for VAT Countries](section_1557735917.md) — section_1557735917
+        - [Partially Deductible and Non-deductible Taxes in SuiteTax](section_0610121020.md) — section_0610121020
+        - [Setting Up Tax Groups in SuiteTax Engine](section_1565954398.md) — section_1565954398
+        - [Setting Up Tax Rate Types](section_1557735990.md) — section_1557735990
+        - [Setting Up Nexus Preferences](section_1557736138.md) — section_1557736138
+        - [Transaction Level Rounding](article_0603044036.md) — article_0603044036
+        - [Editing Default Tax Codes for Nexuses](section_1557736208.md) — section_1557736208
+        - [Setting Up Tax Schedules](section_1557736252.md) — section_1557736252
+        - [Setting Up Entity Default Tax Codes and Tax Groups](section_1557736345.md) — section_1557736345
+          - [Setting Default Tax Code or Tax Group on Entity Tax Registration as CSV](article_0910045552.md) — article_0910045552
+        - [Tax Code Lookup Logic for VAT Countries](section_1557736389.md) — section_1557736389
+          - [Tax Code Lookup for Sales](article_165087396818.md) — article_165087396818
+          - [Tax Code Lookup for Purchases](article_165087397958.md) — article_165087397958
+        - [Automatic Tax Calculation for Shipping in VAT Countries](section_159482019960.md) — section_159482019960
+        - [Setting Up Compliance Text on Reverse Charge Sales Invoices](section_1557736683.md) — section_1557736683
+      - [Setting Up the SuiteTax Engine for the United States](section_1557741103.md) — section_1557741103
+        - [Setting Up Nexuses in SuiteTax Engine](section_1557741442.md) — section_1557741442
+        - [Automatic Tax Records Provisioning for the United States](section_1557741485.md) — section_1557741485
+        - [Setting Up Tax Rate Types for the United States](section_1557741648.md) — section_1557741648
+        - [U.S. Consumer's Use Tax](section_160086073386.md) — section_160086073386
+        - [Setting Up Nexus Preferences for United States](section_1557741742.md) — section_1557741742
+        - [Setting Up Entity Default Tax Codes and Tax Groups](section_1557742165.md) — section_1557742165
+          - [Setting Default Tax Code or Tax Group on Entity Tax Registration as CSV](article_0911014048.md) — article_0911014048
+        - [Creating Exemption Certificates](article_0823123959.md) — article_0823123959
+        - [Creating Non-taxability Rules for Items](section_1557742237.md) — section_1557742237
+        - [Setting up US Item Tax Exceptions](article_0711032317.md) — article_0711032317
+        - [Tax Code Lookup Logic for United States](section_1557742280.md) — section_1557742280
+          - [United States Tax Code Lookup for Sales](article_0801101253.md) — article_0801101253
+          - [United States Tax Code Lookup for Purchases](article_0801101608.md) — article_0801101608
+      - [Setting Up the SuiteTax Engine for Canada](section_159499696946.md) — section_159499696946
+        - [Canada Parent Nexus and Subnexuses](section_159524875531.md) — section_159524875531
+        - [Canada Periodic GST/HST Return (GST 34)](section_159524879202.md) — section_159524879202
+        - [Canada Data Provisioning Enhancements](section_159499705842.md) — section_159499705842
+      - [European Union (EU) One Stop Shop (OSS) for the SuiteTax Engine](article_163102388721.md) — article_163102388721
+        - [Prerequisites for One Stop Shop (OSS) in SuiteTax](section_163107839465.md) — section_163107839465
+        - [One Stop Shop (OSS) Permission](section_163490166033.md) — section_163490166033
+        - [Setting Up One Stop Shop (OSS) in the SuiteTax Engine](section_163107865476.md) — section_163107865476
+        - [Tax Code Provisioning in One Stop Shop (OSS)](section_163107998132.md) — section_163107998132
+        - [One Stop Shop (OSS) Tax Schedules](section_163107932926.md) — section_163107932926
+        - [Tax Details for OSS on Transactions](section_163107799087.md) — section_163107799087
+        - [One Stop Shop (OSS) for SuiteTax Lookup Logic](section_163455899497.md) — section_163455899497
+      - [Validating Tax Registrations](section_1557742590.md) — section_1557742590
+        - [Validating Tax Registration Numbers for the European Union](section_1557742689.md) — section_1557742689
+        - [Validating Tax Registration Numbers Outside of the European Union](section_1557742714.md) — section_1557742714
+        - [Countries With a Pre-Defined Tax Registration Number Validation Format](section_1557742766.md) — section_1557742766
+    - [Partner Tax Engines](article_2125829065.md) — article_2125829065
+  - [Tax Reporting Framework](chapter_1528262949.md) — chapter_1528262949
+    - [Installing Tax Reporting Framework](section_1528245293.md) — section_1528245293
+      - [Tax Reporting Framework Localization Requirements](article_157303200001.md) — article_157303200001
+      - [SuiteTax EMEA Audit Files](section_156739607543.md) — section_156739607543
+      - [Viewing the Country Tax Reports Installation Status](section_156212484298.md) — section_156212484298
+    - [Roles and Permissions in Tax Reporting Framework](section_1528249899.md) — section_1528249899
+    - [Setting Up Country Tax Reporting Preferences](bridgehead_1557127083.md) — bridgehead_1557127083
+    - [Generating Localized Country Tax Reports](section_1528250223.md) — section_1528250223
+    - [Use Nexus Currency](section_042909444010.md) — section_042909444010
+    - [Viewing a Generated Country Tax Report](bridgehead_1528251207.md) — bridgehead_1528251207
+    - [Making Adjustments on a Country Tax Report](subsect_156647155234.md) — subsect_156647155234
+    - [Exporting a Country Tax Report](subsect_156645000208.md) — subsect_156645000208
+    - [Electronic Tax Filing in Tax Reporting Framework](section_1555083924.md) — section_1555083924
+    - [Customizing Localized Tax Returns](section_1528248236.md) — section_1528248236
+      - [Avoiding Duplicates of Transactions in Customized Tax Returns](article_164373054359.md) — article_164373054359
+    - [Multi-Book Accounting and Adjustment-Only Book Support in Tax Reporting Framework](article_160222998474.md) — article_160222998474
+    - [Period End Journals Support in Tax Reporting Framework](article_161350128986.md) — article_161350128986
+    - [Assigning a Tax Item Type](article_0160733404.md) — article_0160733404
+    - [Assigning a Tax Reporting Category](article_157864007771.md) — article_157864007771
+    - [Country Tax Reports in Tax Reporting Framework](section_156618598348.md) — section_156618598348
+      - [VAT/GST Reports in Tax Reporting Framework](section_156869665335.md) — section_156869665335
+      - [Supplementary VAT/GST Reports in Tax Reporting Framework](section_156869670991.md) — section_156869670991
+      - [EU Cross-Border Reports in Tax Reporting Framework](section_156870639375.md) — section_156870639375
+        - [EC Sales List](subsect_156888850442.md) — subsect_156888850442
+        - [Intrastat Supplementary Declaration](subsect_156889008497.md) — subsect_156889008497
+          - [Choosing an Intrastat Declaration Type](section_156932232071.md) — section_156932232071
+          - [Region of Origin and Destination](section_157104892019.md) — section_157104892019
+          - [Nature of Transaction Code](section_157104660646.md) — section_157104660646
+          - [Mode of Transport](section_157104700153.md) — section_157104700153
+          - [Commodity Code](section_157104703667.md) — section_157104703667
+          - [Country of Origin](section_164129144057.md) — section_164129144057
+          - [Supplementary Unit](section_157104713301.md) — section_157104713301
+          - [Delivery Terms](section_157104714945.md) — section_157104714945
+          - [Statistical Value](section_157224225209.md) — section_157224225209
+          - [Statistical Procedure](section_157224377384.md) — section_157224377384
+      - [Tax Audit Files in Tax Reporting Framework](section_1558938109.md) — section_1558938109
+        - [Mexico Audit Files: Electronic Accounting Files](section_1554879047.md) — section_1554879047
+          - [Tax Filing Setup for Mexico Audit Files](bridgehead_1555498167.md) — bridgehead_1555498167
+          - [Adding Mexico Tax Audit Files in Saved Searches](section_1556780239.md) — section_1556780239
+    - [One Stop Shop](article_162918935998.md) — article_162918935998
+      - [One Stop Shop SuiteApp Overview](subsect_162921054692.md) — subsect_162921054692
+      - [Known Limitations](subsect_162927142392.md) — subsect_162927142392
+      - [One Stop Shop Setup for Accounts with SuiteTax](article_0622104643.md) — article_0622104643
+        - [Setting EU VAT One Stop Shop Preferences in Accounts with SuiteTax](article_87164404555.md) — article_87164404555
+      - [OSS Feature Setup For Accounts Without SuiteTax](subsect_162919108719.md) — subsect_162919108719
+        - [Setting EU VAT One Stop Shop Preferences in Accounts without SuiteTax](subsect_162921173536.md) — subsect_162921173536
+      - [Multi-Location Setup](subsect_162920510309.md) — subsect_162920510309
+      - [Import OSS VAT Return](subsect_162920533879.md) — subsect_162920533879
+        - [Import OSS VAT Return Form in Accounts without SuiteTax](subsect_162920593540.md) — subsect_162920593540
+        - [Import OSS VAT Return Form in Accounts with SuiteTax](article_0623031119.md) — article_0623031119
+        - [Generating an Import OSS VAT Return](subsect_162920595827.md) — subsect_162920595827
+        - [Import OSS VAT Detailed Report](subsect_162927604354.md) — subsect_162927604354
+      - [Union OSS VAT Return](article_163350989370.md) — article_163350989370
+        - [Union OSS VAT Return Form in Accounts without SuiteTax](article_163359264415.md) — article_163359264415
+        - [Union OSS VAT Return Form in Accounts with SuiteTax](article_0624030454.md) — article_0624030454
+        - [Generating a Union OSS VAT Return](article_163361577712.md) — article_163361577712
+        - [Union OSS VAT Detailed Report](article_163359282940.md) — article_163359282940
+      - [Non-Union OSS VAT Return](article_163350993827.md) — article_163350993827
+        - [Non-Union OSS VAT Return Form in Accounts without SuiteTax](article_163359275945.md) — article_163359275945
+        - [Non-Union OSS VAT Return Form in Accounts with SuiteTax](article_0624032637.md) — article_0624032637
+        - [Generating a Non-Union OSS VAT Return](article_163361581485.md) — article_163361581485
+        - [Non-Union OSS VAT Detailed Report](article_163359289834.md) — article_163359289834
+    - [Tax Reporting Framework Error Codes](section_1555980060.md) — section_1555980060
+    - [Tax Reporting Framework Support For Accounts Without SuiteTax](article_158676517011.md) — article_158676517011
+    - [Tax Reporting Framework Localization Requirements For Accounts Without SuiteTax](article_160006827671.md) — article_160006827671
+    - [Building Tax Reports with Tax Reporting Framework](article_2105218800.md) — article_2105218800
+      - [Downloading and Extracting the Country Tax Reports Project Files](article_0517042820.md) — article_0517042820
+        - [Installing Tax Reporting Framework through TRF CLI](article_0517042952.md) — article_0517042952
+      - [Updating and Modifying the Country Tax Report](article_0517043610.md) — article_0517043610
+        - [Setting a UUID for your Tax Report](article_0517043749.md) — article_0517043749
+        - [Customizing the Report Schema in Your Tax Report](article_0517043837.md) — article_0517043837
+        - [Customizing Your Tax Report Using Saved Searches](article_0517044036.md) — article_0517044036
+        - [Customizing Your Tax Report Using SuiteQL](article_0518103029.md) — article_0518103029
+        - [Customizing Your Report Schema](article_0518103116.md) — article_0518103116
+        - [Customizing the Summary File](article_0518103406.md) — article_0518103406
+        - [Customizing the Meta File](article_0518105807.md) — article_0518105807
+        - [Setting Up Your Registry Records](article_0518110244.md) — article_0518110244
+        - [Customizing Your Report Processors](article_0518110314.md) — article_0518110314
+        - [Customizing Your Tax Report Template](article_0518110510.md) — article_0518110510
+      - [Deploying Your Project](article_0518110553.md) — article_0518110553
+      - [Generating Your Country Tax Report](article_0518110650.md) — article_0518110650
+    - [Known Limitations of Tax Reporting Framework](section_156706175950.md) — section_156706175950
+    - [Extending Tax Reports With TRF (NetSuite Partners)](article_3100522149.md) — article_3100522149

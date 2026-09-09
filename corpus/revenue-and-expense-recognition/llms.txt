@@ -1,0 +1,22 @@
+# Revenue and Expense Recognition
+
+Revenue and Expense Recognition (329 pages): Revenue and Expense Recognition
+
+## Chapters
+- [Revenue and Expense Recognition](book_N1675734.md): - Revenue and Expense Recognition Overview(https://docs.
+  - [Revenue and Expense Recognition Overview](chapter_N1675871.md): Revenue recognition features let you recognize revenue independently from billing customers and receiving payments to defer revenue for recognition in multiple future time periods.
+  - [Advanced Revenue Management (Essentials) and (Revenue Allocation)](chapter_4328435538.md): The Advanced Revenue Management (Essentials) feature automates revenue forecasting, recognition, reclassification, deferral, and auditing through a rule-based event handling framework.
+  - [Revenue Recognition Approval Workflow](chapter_4436595812.md): The Revenue Recognition Approval Workflow manages the validation and approval routing of revenue arrangements before they're further processed.
+  - [Rule-Based Recognition Treatment](chapter_1552502028.md): The Rule-Based Recognition Treatment feature adds flexibility to Advanced Revenue Management (Essentials) and Advanced Revenue Management (Revenue Allocation) features.
+  - [Expense Amortization](chapter_N1765678.md): The Amortization feature enables you to record the general ledger impact of item purchases and expense charges across multiple future periods.
+  - [Using Revenue Recognition](chapter_N1678106.md): Note: Revenue Recognition is the key feature of NetSuite classic revenue recognition.
+  - [Using Revenue Commitments](chapter_N1701780.md): Note: Revenue Commitments is a feature of NetSuite classic revenue recognition.
+  - [Using the VSOE Feature](chapter_N1717900.md): The VSOE feature is a feature of NetSuite classic revenue recognition.
+  - [EITF 08-01 Revenue Recognition Feature](chapter_N1742394.md): EITF 08-01 Revenue Recognition is part of NetSuite classic revenue recognition.
+  - [Using Sales Order Revenue Forecasting](chapter_N1750747.md): The Sales Order Revenue Forecasting feature lets you forecast revenue based on sales order and return authorization amounts.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch revenue-and-expense-recognition

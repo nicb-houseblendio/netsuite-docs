@@ -1,0 +1,13 @@
+# Overview of Country-Specific Features
+
+Overview of Country-Specific Features (2 pages): Country-Specific Features
+
+## Chapters
+- [Country-Specific Features](book_4198429264.md): - Overview of Country-Specific Features(https://docs.
+  - [Overview of Country-Specific Features](chapter_4169633414.md): NetSuite offers features tailored to specific countries' business needs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch overview-of-country-specific-features

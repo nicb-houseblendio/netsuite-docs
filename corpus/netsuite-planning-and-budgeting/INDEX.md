@@ -1,0 +1,384 @@
+# NetSuite Planning and Budgeting
+
+380 pages, category: NetSuite Enterprise Performance Management
+
+- [NetSuite Planning and Budgeting](article_8124016549.md) — article_8124016549
+  - [Planning and Budgeting Sync SuiteApp](article_7181743232.md) — article_7181743232
+    - [Planning and Budgeting Sync Installation and Setup](article_6095135623.md) — article_6095135623
+      - [Required Features for Installing the Planning and Budgeting Sync SuiteApp](article_5114430730.md) — article_5114430730
+      - [Installing the Planning and Budgeting Sync SuiteApp](article_31093007863.md) — article_31093007863
+      - [Role Permissions for Planning and Budgeting Sync Users](article_23131818598.md) — article_23131818598
+        - [Setting Up the NSEPM Implementer Role with Planning and Budgeting Sync](article_92094621457.md) — article_92094621457
+          - [Best Practices for Using the NSEPM Implementer Role with Planning and Budgeting Sync](article_3100105759.md) — article_3100105759
+          - [Assigning the NSEPM Implementer Role to a Planning and Budgeting Sync User](article_1109102341.md) — article_1109102341
+          - [Customizing the NSEPM Implementer Role for Planning and Budgeting Sync](article_1109102417.md) — article_1109102417
+        - [Setting Up the NSPB SuitePeople Integration Role with Planning and Budgeting Sync](article_1203102346.md) — article_1203102346
+          - [Assigning the NSPB SuitePeople Integration Role to a Planning and Budgeting Sync User](article_1203115346.md) — article_1203115346
+          - [Customizing the NSPB SuitePeople Integration Role for Planning and Budgeting Sync](article_1203115448.md) — article_1203115448
+      - [Setting Up the Integration User for Planning and Budgeting Sync](article_7141303101.md) — article_7141303101
+        - [Setting Up the Integration User Record for Planning and Budgeting Sync](article_1027021506.md) — article_1027021506
+        - [Customizing the NSPB Integration Role](article_1027021748.md) — article_1027021748
+      - [Setting Up Token-based Authentication for Planning and Budgeting Sync](article_3142954952.md) — article_3142954952
+      - [Setting Up the Connection to Planning and Budgeting](article_4144843069.md) — article_4144843069
+        - [Using Basic Authentication to Connect to Planning and Budgeting](article_1121101934.md) — article_1121101934
+        - [Using OAuth 2.0 to Connect to Planning and Budgeting](article_1121101959.md) — article_1121101959
+      - [Scheduling Script Deployments for Planning and Budgeting Sync](article_150410060.md) — article_150410060
+      - [Planning and Budgeting Sync Configuration Checklist](article_6124225652.md) — article_6124225652
+      - [Saved Searches for Planning and Budgeting Sync](article_4153122253.md) — article_4153122253
+        - [Creating Custom Saved Searches for Planning and Budgeting](article_1027033315.md) — article_1027033315
+        - [Creating Custom Saved Searches from Planning and Budgeting Sync Record Types](article_1027033539.md) — article_1027033539
+        - [Updating Existing Records to Include the Supported _nspb_ Prefix](article_0712061757.md) — article_0712061757
+      - [Managing the Planning and Budgeting Sync Saved Searches](article_34174642403.md) — article_34174642403
+        - [Creating a Planning and Budgeting Sync Saved Search](article_42135416383.md) — article_42135416383
+        - [Recreating a Planning and Budgeting Sync Saved Search](article_1208015722.md) — article_1208015722
+        - [Customizing a Planning and Budgeting Sync Saved Search](article_98174727806.md) — article_98174727806
+      - [Saved Search Settings in Planning and Budgeting Sync](article_8111232373.md) — article_8111232373
+        - [Customization of Executed Saved Searches in Planning and Budgeting Sync](article_1114111339.md) — article_1114111339
+        - [Manual Export of Saved Search Metadata in Planning and Budgeting Sync](article_1114112155.md) — article_1114112155
+      - [Metadata Export to Planning and Budgeting](article_1160657999.md) — article_1160657999
+        - [Supported Metadata Saved Searches in Planning and Budgeting Sync](article_25155810721.md) — article_25155810721
+        - [Item Metadata](article_1109035829.md) — article_1109035829
+        - [Vendor Metadata](article_1109035920.md) — article_1109035920
+        - [Location Metadata](article_1109035953.md) — article_1109035953
+        - [Accounts Metadata](article_1109040021.md) — article_1109040021
+        - [Class Metadata](article_1109040052.md) — article_1109040052
+        - [Customer Metadata](article_1109040132.md) — article_1109040132
+        - [Department Metadata](article_1109040310.md) — article_1109040310
+        - [Project Metadata](article_1109040352.md) — article_1109040352
+        - [Customer Project Metadata](article_1109040423.md) — article_1109040423
+        - [Employee Metadata](article_1109040452.md) — article_1109040452
+        - [Subsidiary Metadata](article_0331032601.md) — article_0331032601
+        - [Custom Segment Metadata](article_1109040522.md) — article_1109040522
+        - [Creating the Hierarchy of Metadata in Planning and Budgeting Sync](article_29160636277.md) — article_29160636277
+        - [Optimal Number of Metadata Records to Import to Planning and Budgeting](article_58160712218.md) — article_58160712218
+        - [Returning Metadata Hierarchy Based Only on Cloned Saved Search in Planning and Budgeting Sync](article_30160723870.md) — article_30160723870
+        - [Account Type Mapping in Planning and Budgeting Sync](article_5160748515.md) — article_5160748515
+        - [Item Type Mapping in Planning and Budgeting Sync](article_39160807724.md) — article_39160807724
+      - [Account Metadata Hierarchy in Planning and Budgeting Sync](article_7121032309.md) — article_7121032309
+      - [Using SuiteAnalytics Datasets with Planning and Budgeting Sync](article_6161321340.md) — article_6161321340
+        - [Supported Planning and Budgeting Sync Datasets](article_29162330248.md) — article_29162330248
+        - [Managing the Planning and Budgeting Sync Datasets](article_28162703900.md) — article_28162703900
+          - [Creating a Planning and Budgeting Sync Dataset](article_15163221240.md) — article_15163221240
+          - [Recreating a Planning and Budgeting Sync Dataset](article_47163226321.md) — article_47163226321
+          - [Customizing a Created Planning and Budgeting Sync Dataset](article_36163231143.md) — article_36163231143
+        - [Dataset Settings in Planning and Budgeting Sync](article_94163304747.md) — article_94163304747
+          - [Customization of Planning and Budgeting Sync Datasets](article_11163339421.md) — article_11163339421
+          - [Manual Export of Dataset Metadata in Planning and Budgeting Sync](article_37163355131.md) — article_37163355131
+      - [Managing SuiteQL Queries in Planning and Budgeting Sync](article_161554610.md) — article_161554610
+      - [Managing Jobs in Planning and Budgeting Sync](article_5133320393.md) — article_5133320393
+        - [Adding a Job in Planning and Budgeting Sync](article_1114010611.md) — article_1114010611
+        - [Scheduling a Job in Planning and Budgeting Sync](article_1114011407.md) — article_1114011407
+        - [Executing a Job in Planning and Budgeting Sync](article_1003052456.md) — article_1003052456
+        - [Job Types in Planning and Budgeting Sync](article_1114012958.md) — article_1114012958
+          - [Batch Job in Planning and Budgeting Sync](article_1114013038.md) — article_1114013038
+          - [Business Rule in Planning and Budgeting Sync](article_1114013115.md) — article_1114013115
+          - [Data Integration in Planning and Budgeting Sync](article_1114013149.md) — article_1114013149
+          - [Data Map in Planning and Budgeting Sync](article_1114013232.md) — article_1114013232
+          - [Group in Planning and Budgeting Sync](article_1114013308.md) — article_1114013308
+          - [Import Data/Metadata in Planning and Budgeting Sync](article_1114013333.md) — article_1114013333
+          - [Pipeline in Planning and Budgeting Sync](article_0702100941.md) — article_0702100941
+          - [Rule Set in Planning and Budgeting Sync](article_1114013405.md) — article_1114013405
+        - [Viewing and Troubleshooting Job Execution Logs in Planning and Budgeting Sync](article_1003060433.md) — article_1003060433
+        - [Post-Processing Plug-ins in Planning and Budgeting Sync](article_5132559979.md) — article_5132559979
+          - [Using Planning and Budgeting Sync Post-Processing Plug-ins](article_1201045944.md) — article_1201045944
+          - [Creating Custom Plug-ins](article_1201050328.md) — article_1201050328
+            - [Plug-in Script Configuration Details](article_0730024143.md) — article_0730024143
+            - [Using Custom Plug-ins with Planning and Budgeting Sync](article_1201050504.md) — article_1201050504
+            - [Selecting a Plug-in for Data Processing](article_1201052013.md) — article_1201052013
+          - [Troubleshooting Post-Processing Plug-ins](article_1201052118.md) — article_1201052118
+            - [Troubleshooting the Plug-in Script Error](article_96222930654.md) — article_96222930654
+            - [Fixing the Plug-in Script](article_89140234174.md) — article_89140234174
+            - [Viewing the Logs for Jobs with Plug-in Script Errors](article_65140251809.md) — article_65140251809
+            - [Downloading the Generated Data File](article_1201053441.md) — article_1201053441
+        - [Setting Up Your Planning and Budgeting for Budget Data Import](article_1201052353.md) — article_1201052353
+          - [Budget Data Import Using Data Exchange](article_0427105403.md) — article_0427105403
+            - [Creating a Target Application in Data Exchange](article_0417092445.md) — article_0417092445
+            - [Creating a New Location in File Browser](article_49172841084.md) — article_49172841084
+            - [Creating a Data Integration Record](article_0619041625.md) — article_0619041625
+            - [Running the Created Data Integration](article_10172658482.md) — article_10172658482
+          - [Budget Data Import Using Business Rules](article_38172513936.md) — article_38172513936
+      - [Substitution Variables in Planning and Budgeting Sync](article_7101207665.md) — article_7101207665
+        - [Categorizing the Substitution Variables in Planning and Budgeting Sync](article_1114101922.md) — article_1114101922
+        - [Creating and Customizing Categories for Substitution Variables in Planning and Budgeting Sync](article_1114102459.md) — article_1114102459
+        - [Enabling Automatic Update of Substitution Variables Values in Planning and Budgeting Sync](article_1114103159.md) — article_1114103159
+      - [Forms and Dashboards in Planning and Budgeting Sync](article_4194832638.md) — article_4194832638
+      - [Import/Export Configuration in Planning and Budgeting Sync](article_5091412706.md) — article_5091412706
+        - [Exporting Planning and Budgeting Sync Configuration](article_1114092108.md) — article_1114092108
+        - [Importing Planning and Budgeting Sync Configuration](article_1114094516.md) — article_1114094516
+      - [Integration Artifacts in Planning and Budgeting Sync](article_6133345084.md) — article_6133345084
+        - [Using the Plug-in Code Generator in Planning and Budgeting Sync](article_9101733435.md) — article_9101733435
+        - [Downloading Planning and Budgeting Financials Integration Artifacts](article_60123415099.md) — article_60123415099
+      - [Setting Up Default Configurations for Planning and Budgeting Financials](article_36142750338.md) — article_36142750338
+      - [Viewing NetSuite SuitePeople Payroll Data by Category](article_6161906576.md) — article_6161906576
+      - [Planning and Budgeting Sync Portlets](article_1143023848.md) — article_1143023848
+        - [Adding the Planning and Budgeting Sync Portlet to Your Home Page](article_1114023235.md) — article_1114023235
+        - [Accessing NetSuite EPM Overview Portlets](article_1114023631.md) — article_1114023631
+        - [Planning and Budgeting Form/Dashboard Portlet](article_1114024026.md) — article_1114024026
+        - [Planning and Budgeting Substitution Variables Portlet](article_1114024110.md) — article_1114024110
+        - [Job Execution Portlet](article_1114024144.md) — article_1114024144
+        - [Execution Logs Portlets](article_1114024214.md) — article_1114024214
+        - [Planning and Budgeting Account Balance Portlet](article_1114024243.md) — article_1114024243
+        - [Planning and Budgeting Sync Checklist Portlet](article_1114024313.md) — article_1114024313
+    - [Planning and Budgeting Sync Release Notes](article_100535233.md) — article_100535233
+  - [Planning and Budgeting Financials](article_5131022569.md) — article_5131022569
+    - [Planning and Budgeting Financials Integration Guide](article_1090228298.md) — article_1090228298
+      - [Setup and Configuration](article_164993064726.md) — article_164993064726
+        - [Creating the NetSuite Planning and Budgeting Application](article_165046501863.md) — article_165046501863
+        - [Enabling Planning and Budgeting Financials](article_165096987704.md) — article_165096987704
+        - [Setting Up Values for Substitution and User Variables](article_8162312309.md) — article_8162312309
+          - [Values for Substitution Variables](article_1027032928.md) — article_1027032928
+          - [Member Values for User Variables](article_1027033728.md) — article_1027033728
+        - [Mapping and Renaming Existing Dimensions and Enabling Custom Dimensions](article_5211315067.md) — article_5211315067
+          - [Setting Up Planning and Budgeting After Renaming Dimensions](article_9123505838.md) — article_9123505838
+            - [Updating Data Load Rules for Metadata After Renaming Dimensions](article_1111123535.md) — article_1111123535
+            - [Copying and Updating Groovy Scripts of Business Rules and Template](article_1113084500.md) — article_1113084500
+            - [Defining Dimension Details for Renamed Dimensions and Removing Original Dimensions](article_0208123732.md) — article_0208123732
+          - [Setting Up Planning and Budgeting After Enabling Custom Dimensions](article_1172609273.md) — article_1172609273
+            - [Registering Saved Searches from Planning and Budgeting to NetSuite](article_1114053225.md) — article_1114053225
+            - [Updating Import Format Mappings for Planning and Budgeting Saved Searches](article_1114063545.md) — article_1114063545
+            - [Setting Up New Data Load Mappings for Rules Affected by Custom Dimensions](article_1114074054.md) — article_1114074054
+            - [Updating the NSP_SYS_NoIntersection Substitution Variable](article_1120074358.md) — article_1120074358
+            - [Adding Custom Dimensions to the NFS_Form_DiM Business Rule](article_1120094813.md) — article_1120094813
+            - [Adding Custom Dimensions to the NFS_BS Trending Days in Month Member Formula](article_1120112626.md) — article_1120112626
+        - [Executing the Default Pipeline Jobs](article_2113849230.md) — article_2113849230
+    - [Planning and Budgeting Financials Administrator Guide](article_0133306173.md) — article_0133306173
+      - [Administrative Navigation Flow Options](article_0824062032.md) — article_0824062032
+      - [Related EPM Common Guides in Oracle Help Center](article_9211249751.md) — article_9211249751
+        - [Access Control Overview](article_3144321405.md) — article_3144321405
+          - [Managing the Application Roles of Users](article_1004025358.md) — article_1004025358
+        - [Data Management Overview](article_6200727332.md) — article_6200727332
+        - [Migration Overview](article_7191531080.md) — article_7191531080
+      - [Setup Tasks for Administrators Guidelines](article_4023552127.md) — article_4023552127
+        - [Initial Setup Task](article_6161906514.md) — article_6161906514
+          - [Validating the Source Connection](article_3143547647.md) — article_3143547647
+        - [Data Import Tasks](article_3174742433.md) — article_3174742433
+          - [Verifying the Default Point Of View Period in Data Management](article_0817014643.md) — article_0817014643
+          - [Updating the Data Load Periods for Pipeline_Data_Load](article_0818042247.md) — article_0818042247
+          - [Verifying Details After Adding New Revenue Accounts in NetSuite](article_0817062101.md) — article_0817062101
+        - [Data Verification Tasks](article_9134610503.md) — article_9134610503
+          - [Verifying the Income Statement Data](article_0822014827.md) — article_0822014827
+          - [Verifying the Balance Sheet Data](article_0822024800.md) — article_0822024800
+          - [Reviewing and Entering Retained Earnings Adjustments](article_0822030140.md) — article_0822030140
+      - [Maintaining Your Planning and Budgeting Application](article_3184749030.md) — article_3184749030
+        - [NetSuite Synchronization Overview](article_2150951442.md) — article_2150951442
+          - [Refreshing NetSuite Data](article_0119011745.md) — article_0119011745
+        - [Perform Periodic Updates of Substitution Variable Values](article_0817025919.md) — article_0817025919
+        - [Performing a Cube Refresh](article_0907114603.md) — article_0907114603
+        - [Updating Start Dates in the Budget Scenario Dimension](article_0906054414.md) — article_0906054414
+      - [Other Administrative Tasks](article_6174358123.md) — article_6174358123
+        - [Migrating Existing Batches in Data Management to Job Scheduler](article_1028030033.md) — article_1028030033
+        - [Reviewing Job Status and Database Refreshes](article_0818045829.md) — article_0818045829
+        - [Changing Financial Account Name Aliases](article_0907064203.md) — article_0907064203
+        - [Creating New Forms, Reports, and Dashboards](article_0180037043.md) — article_0180037043
+        - [Removing Budget Versions and Data](article_6143252858.md) — article_6143252858
+        - [Aggregation Processes in Planning and Budgeting Financials](article_2234142481.md) — article_2234142481
+        - [Completing a Database Restructure](article_0425112243.md) — article_0425112243
+        - [Reviewing Modified Artifacts](article_0609024851.md) — article_0609024851
+        - [Setting Up Planning and Budgeting to Support Single Currency](article_6101508815.md) — article_6101508815
+          - [Updating the Data Load Mappings of the Member Name and Base Currency Dimensions](article_0212104933.md) — article_0212104933
+          - [Updating the Data Load Mappings of the Account and Subsidiary Dimensions](article_0213124903.md) — article_0213124903
+          - [Updating Business Rules of Data Integrations in Embedded Mode](article_1208082307.md) — article_1208082307
+          - [Updating the Member Formulas for Cash Flow Dimension Members to Single Currency](article_1208084841.md) — article_1208084841
+          - [Updating the Business Rule Properties of Action Menus](article_0213024821.md) — article_0213024821
+    - [Planning and Budgeting Financials User Guide](article_2153858950.md) — article_2153858950
+      - [NetSuite Planning and Budgeting Financials Overview](article_7160253896.md) — article_7160253896
+        - [NetSuite Planning and Budgeting Glossary](article_5162332588.md) — article_5162332588
+        - [Accessing Planning and Budgeting Financials](article_6170852542.md) — article_6170852542
+          - [Logging In for the First Time](article_0804055158.md) — article_0804055158
+      - [Setting User Preferences](article_3101806641.md) — article_3101806641
+        - [General Preferences](article_0929122419.md) — article_0929122419
+        - [Display Preferences](article_0929032732.md) — article_0929032732
+        - [Setting Preferences for Email Notifications](article_0929033451.md) — article_0929033451
+        - [Preferences for Strategic Modeling](article_0929034004.md) — article_0929034004
+        - [Preferences for Ad Hoc Options](article_0929034343.md) — article_0929034343
+        - [Setting Preferences for User Variables](article_0929052308.md) — article_0929052308
+        - [Preferences for Reports](article_0930115106.md) — article_0930115106
+        - [Form Printing Preferences](article_0930120823.md) — article_0930120823
+      - [Aggregation Processes in Planning and Budgeting Financials](article_2131149091.md) — article_2131149091
+      - [Reporting and Analytics](article_1180241192.md) — article_1180241192
+        - [Reporting and Analytics Process Flow](article_7225129044.md) — article_7225129044
+        - [Working With Forecast Variance Reports](article_4172150286.md) — article_4172150286
+          - [Comparing the Actual and Forecast Variances](article_0327052441.md) — article_0327052441
+          - [Reviewing Month-Over-Month Actual Variances](article_0522065239.md) — article_0522065239
+          - [Comparing the Actual and Forecast Variances for the Last Closed Period](article_0522065742.md) — article_0522065742
+          - [Comparing the Year-to-Date Actual and Forecast Variances](article_0522071220.md) — article_0522071220
+          - [Comparing the Full-Year Actual and Forecast Variances](article_0522072028.md) — article_0522072028
+        - [Working With CFO Dashboards](article_2225953157.md) — article_2225953157
+          - [Analyzing Trends in the CFO KPI Income Statement Dashboard](article_8231848495.md) — article_8231848495
+          - [Analyzing Trends in the CFO KPI Balance Sheet : Cash Flow Dashboard](article_2232405538.md) — article_2232405538
+      - [Revenue and Gross Margin](article_7152349785.md) — article_7152349785
+        - [Revenue Forecasting Process Flow](article_4160121147.md) — article_4160121147
+        - [Working With Trend-Based Revenue Forecasts](article_3163259757.md) — article_3163259757
+          - [Entering or Generating Sales Forecasts for Revenue by Customer](article_6173541128.md) — article_6173541128
+          - [Entering or Generating Sales Forecasts for Revenue by Item](article_3173407473.md) — article_3173407473
+          - [Reviewing or Adjusting the Revenue Forecast With Predictive Planning and Grid Spread](article_0191935253.md) — article_0191935253
+          - [Making Top-Level Adjustments to the Revenue Forecast by Customer and Item](article_6211314595.md) — article_6211314595
+          - [Analyzing Trends in the Revenue Dashboard](article_9002721311.md) — article_9002721311
+        - [Reviewing and Adjusting Gross Margin Percentages](article_0004338547.md) — article_0004338547
+        - [Working With Total Revenue Dashboards](article_1011746127.md) — article_1011746127
+          - [Analyzing Trends in the Customer Revenue Dashboard](article_4103339512.md) — article_4103339512
+          - [Analyzing Trends in the Item Revenue Dashboard](article_8103503135.md) — article_8103503135
+          - [Analyzing Trends in the Class Revenue Dashboard](article_2103614890.md) — article_2103614890
+      - [Operating Expense](article_3095628294.md) — article_3095628294
+        - [Operating Expense Process Flow](article_4212617133.md) — article_4212617133
+        - [Working With OpEx Planning](article_2213231780.md) — article_2213231780
+          - [Entering the Operating Expense Forecast Values by Department](article_6151848180.md) — article_6151848180
+          - [Entering Departmental Operating Expense Forecast Values by Account](article_8162741566.md) — article_8162741566
+          - [Adjusting the Operating Expense Forecast with Predictive Planning and Grid Spread](article_3173233210.md) — article_3173233210
+          - [Making Top Level Adjustments to the Operating Expense Forecast](article_4180423008.md) — article_4180423008
+          - [Analyzing Trends in the OpEx Trend Dashboard](article_1160133152.md) — article_1160133152
+        - [Working With OpEx Dashboards](article_9230006354.md) — article_9230006354
+          - [Analyzing Trends in the OpEx by Dept Dashboard](article_5235611944.md) — article_5235611944
+          - [Analyzing Trends in the OpEx by Account Dashboard](article_6115940321.md) — article_6115940321
+          - [Analyzing Trends in the OpEx to Rev Dashboard](article_4144722012.md) — article_4144722012
+      - [Financial Statements](article_6131457708.md) — article_6131457708
+        - [Financials Process Flow](article_1143709652.md) — article_1143709652
+        - [Working With Financial Statements](article_6144502998.md) — article_6144502998
+          - [Working With the Balance Sheet Trending Reports](article_4185048673.md) — article_4185048673
+            - [Forecasting With Days Sales Outstanding](article_0712100431.md) — article_0712100431
+            - [Forecasting With Days Inventory Outstanding](article_0712101350.md) — article_0712101350
+            - [Forecasting With Days Payable Outstanding](article_0712101414.md) — article_0712101414
+            - [Submitting Final Adjustments to the Balance Sheet](article_0712101434.md) — article_0712101434
+          - [Working With the Income Statement](article_6140221168.md) — article_6140221168
+            - [Reviewing the Income Statement](article_0708022348.md) — article_0708022348
+            - [Reviewing the Income Statement Subsidiary Consolidated](article_0708022401.md) — article_0708022401
+            - [Making Final Adjustments With Income Statement Adj](article_0708022419.md) — article_0708022419
+          - [Working With the Balance Sheet](article_8163811859.md) — article_8163811859
+            - [Reviewing the Balance Sheet Report](article_0713044838.md) — article_0713044838
+            - [Reviewing the Group Consolidated Balance Sheet Report](article_0713050107.md) — article_0713050107
+            - [Reviewing the Balance Sheet Monthly Movements Report](article_0715042134.md) — article_0715042134
+          - [Working With the Cash Flow Reports](article_7144359778.md) — article_7144359778
+            - [Reviewing the Cash Flow Report](article_0719025525.md) — article_0719025525
+            - [Reviewing the Consolidated Cash Flow Report](article_0719043441.md) — article_0719043441
+        - [Working With Financial Statement Dashboards](article_8144718646.md) — article_8144718646
+          - [Analyzing Trends in the Cash Cycle Dashboard](article_8115548989.md) — article_8115548989
+          - [Analyzing Trends in the Income Statement Dashboard](article_0151733645.md) — article_0151733645
+          - [Analyzing Trends in the Balance Sheet Dashboard](article_2180014934.md) — article_2180014934
+          - [Analyzing Trends in the Cash Flow Dashboard](article_9100245116.md) — article_9100245116
+      - [Budgeting and Analysis](article_6141627036.md) — article_6141627036
+        - [Forecasting with Predictive Planning](article_7031622740.md) — article_7031622740
+        - [Scenario Planning with Grid Spread](article_2013453409.md) — article_2013453409
+        - ['What-if' Planning With Version Builder](article_5144519873.md) — article_5144519873
+          - [Creating a New Forecast Version](section_0826030120.md) — section_0826030120
+          - [Modifying an Existing Forecast Version](section_0826030203.md) — section_0826030203
+          - [Assigning a New Alias to an Existing Forecast Version](section_0826030319.md) — section_0826030319
+        - [Budgeting Management Overview](article_3141633609.md) — article_3141633609
+          - [Budget Process Flow](article_0203033433.md) — article_0203033433
+          - [Creating Budgets With Budget Builder](article_0203033500.md) — article_0203033500
+          - [Updating Exchange Rates for Budget](article_0207045011.md) — article_0207045011
+          - [Modifying Budgets by Adjusting Budget Forms](article_0203033903.md) — article_0203033903
+            - [Working With Revenue Adjustment Forms for Budgeting](article_8144157437.md) — article_8144157437
+              - [Adding New Customers to Revenue Budget](article_0206024659.md) — article_0206024659
+              - [Entering or Generating Sales Budget for Revenue by Customer](article_0206024930.md) — article_0206024930
+              - [Entering or Generating Sales Budget for Revenue by Item](article_0206025025.md) — article_0206025025
+              - [Making Top-Level Adjustments to the Revenue Budget](article_0206025134.md) — article_0206025134
+              - [Reviewing and Adjusting Gross Margin Budget Percentages](article_0206025205.md) — article_0206025205
+            - [Working With OpEx Adjustment Forms for Budgeting](article_9203257888.md) — article_9203257888
+              - [Entering Operating Expense Budget Values by Department](article_0206084251.md) — article_0206084251
+              - [Entering Departmental Operating Expense Budget Values by Account](article_0206102051.md) — article_0206102051
+              - [Making Top-Level Adjustments to the Operating Expense Budget](article_0206103637.md) — article_0206103637
+          - [Reviewing the Budget Income Statement](article_0206111233.md) — article_0206111233
+        - [Investigating Data with Drill Options](article_7004007906.md) — article_7004007906
+        - [Analyzing Data in Smart View](article_5032640042.md) — article_5032640042
+  - [NSPB Sync SuiteApp](chapter_163783082940.md) — chapter_163783082940
+    - [NSPB Sync Setup Guide](section_4882032869.md) — section_4882032869
+      - [Required Features for Installing the NSPB Sync SuiteApp](section_4882113016.md) — section_4882113016
+      - [Installing the NSPB Sync SuiteApp](section_4879479154.md) — section_4879479154
+      - [Role Permissions for NSPB Sync Users](article_0221111204.md) — article_0221111204
+        - [Setting Up the NSPB Implementer Role](article_0221123639.md) — article_0221123639
+      - [Setting Up NSPB Sync](section_4879479636.md) — section_4879479636
+        - [Setting Up a Password for File Encryption](bridgehead_4879518470.md) — bridgehead_4879518470
+        - [Setting Up the Integration User](bridgehead_1489167953.md) — bridgehead_1489167953
+          - [Setting Up the Integration User Record](section_160810961778.md) — section_160810961778
+          - [Customizing the PBCS Integration Role](subsect_158456459598.md) — subsect_158456459598
+        - [Setting Up Token-based Authentication](section_161942084079.md) — section_161942084079
+        - [Setting Up the Planning and Budgeting Connection](section_158073354875.md) — section_158073354875
+          - [Connection Settings](section_160855050373.md) — section_160855050373
+          - [Single Sign-On](article_0523022854.md) — article_0523022854
+        - [Scheduling Script Deployments for NSPB Sync](section_160829049734.md) — section_160829049734
+      - [NSPB Sync Saved Searches](section_1512147604.md) — section_1512147604
+        - [Customizing NSPB Sync Saved Searches](section_156933489080.md) — section_156933489080
+        - [Creating Custom Saved Searches](section_1489167755.md) — section_1489167755
+        - [Creating Custom Saved Searches from NSPB Sync Record Types](section_163636219911.md) — section_163636219911
+      - [Metadata Export to Planning and Budgeting](section_156404064233.md) — section_156404064233
+        - [Supported Metadata Saved Searches](article_0725114000.md) — article_0725114000
+        - [Supported Prefixes of Metadata Saved Searches IDs](article_0725113520.md) — article_0725113520
+        - [Item Metadata](bridgehead_158428410726.md) — bridgehead_158428410726
+        - [Vendor Metadata](bridgehead_160858582702.md) — bridgehead_160858582702
+        - [Location Metadata](bridgehead_160858636559.md) — bridgehead_160858636559
+        - [Accounts Metadata](bridgehead_158428408122.md) — bridgehead_158428408122
+        - [Class Metadata](bridgehead_160858870402.md) — bridgehead_160858870402
+        - [Customer Metadata](bridgehead_158428414648.md) — bridgehead_158428414648
+        - [Department Metadata](bridgehead_160858908360.md) — bridgehead_160858908360
+        - [Project Metadata](bridgehead_158428534174.md) — bridgehead_158428534174
+        - [Customer Project Metadata](bridgehead_158428589155.md) — bridgehead_158428589155
+        - [Employee Metadata](bridgehead_162454155826.md) — bridgehead_162454155826
+        - [Subsidiary Metadata](article_0331034556.md) — article_0331034556
+        - [Custom Segment Metadata](bridgehead_158428590850.md) — bridgehead_158428590850
+        - [Creating the Hierarchy of Metadata](article_0725112031.md) — article_0725112031
+        - [Optimal Number of Metadata Records to Import](article_0725104140.md) — article_0725104140
+        - [Returning Metadata Hierarchy Based Only on Cloned Saved Search](article_0725105119.md) — article_0725105119
+        - [Account Type Mapping](article_0721075227.md) — article_0721075227
+        - [Item Type Mapping](article_0721075245.md) — article_0721075245
+      - [Using SuiteAnalytics Workbooks and Datasets with NSPB Sync](section_160673989178.md) — section_160673989178
+        - [Supported NSPB Sync Datasets](article_0208074641.md) — article_0208074641
+        - [Manage Datasets](section_0711110650.md) — section_0711110650
+          - [Creating an NSPB Sync Dataset](article_0711120810.md) — article_0711120810
+          - [Recreating an NSPB Sync Dataset](article_0711120857.md) — article_0711120857
+          - [Customizing an NSPB Sync Dataset](article_0711120952.md) — article_0711120952
+        - [Dataset Settings](section_0711095050.md) — section_0711095050
+          - [Customization of Created Datasets](article_0720082736.md) — article_0720082736
+          - [Manual Export of Dataset Metadata](article_28144002195.md) — article_28144002195
+      - [NSPB Sync Functionality in NetSuite UI](section_158402598917.md) — section_158402598917
+        - [Forms/Dashboards](section_160510908737.md) — section_160510908737
+        - [Import/Export Configuration](section_164275949488.md) — section_164275949488
+          - [Exporting NSPB Sync Configuration](section_164277662343.md) — section_164277662343
+          - [Importing NSPB Sync Configuration](section_164277679575.md) — section_164277679575
+        - [File Browser](section_158092012404.md) — section_158092012404
+        - [Substitution Variables](section_158160755033.md) — section_158160755033
+        - [Saved Search Settings](section_160628719006.md) — section_160628719006
+        - [Saved Search Allowlist](section_158350512864.md) — section_158350512864
+        - [Account Metadata Hierarchy](section_158340798391.md) — section_158340798391
+        - [File Encryption Password](section_160975801560.md) — section_160975801560
+        - [Sync Checklist](section_162636206743.md) — section_162636206743
+        - [Jobs Calendar](section_160440094269.md) — section_160440094269
+        - [Manage Jobs](section_160461398107.md) — section_160461398107
+          - [Adding a Job in NetSuite](subsect_160527233569.md) — subsect_160527233569
+          - [Scheduling a Job in NetSuite](subsect_160527228086.md) — subsect_160527228086
+          - [Using Post-Processing Plug-ins with NSPB Sync](subsect_160527537382.md) — subsect_160527537382
+            - [Using NSPB Sync Post-Processing Plug-ins](article_0112060054.md) — article_0112060054
+            - [Creating Custom Plug-ins](article_0112014833.md) — article_0112014833
+            - [Using Custom Plug-ins with NSPB Sync](article_0112013302.md) — article_0112013302
+            - [Selecting a Plug-in for Data Processing](article_0112013830.md) — article_0112013830
+            - [Troubleshooting Post-Processing Plug-ins](article_1221100811.md) — article_1221100811
+              - [Troubleshooting the Plug-in Script Error](article_33151046249.md) — article_33151046249
+              - [Fixing the Plug-in Script](article_63151934111.md) — article_63151934111
+              - [Viewing the Job Execution Logs](article_96152402357.md) — article_96152402357
+              - [Downloading the Generated Data File](article_83140258565.md) — article_83140258565
+            - [Setting Up Your Planning and Budgeting for Budget Data Import](article_4152210744.md) — article_4152210744
+              - [Budget Data Import Using Data Exchange](article_40152802597.md) — article_40152802597
+                - [Creating a Target Application in Data Exchange](article_54153212582.md) — article_54153212582
+                - [Creating a New Location in File Browser](article_0418122043.md) — article_0418122043
+                - [Creating a Data Integration Record](article_12153848342.md) — article_12153848342
+                - [Running the Created Data Integration](article_0418070332.md) — article_0418070332
+              - [Budget Data Import Using Business Rules](article_0419024849.md) — article_0419024849
+          - [Job Types](section_160992083017.md) — section_160992083017
+            - [Batch Job](section_160468126564.md) — section_160468126564
+            - [Business Rule](section_160468322608.md) — section_160468322608
+            - [Data Load Rule](section_160460676178.md) — section_160460676178
+            - [Data Map](section_0622015833.md) — section_0622015833
+            - [Group](section_160470269371.md) — section_160470269371
+            - [Import Data/Metadata](section_160468595300.md) — section_160468595300
+            - [Rule Set](section_163836049230.md) — section_163836049230
+        - [Activity Logs](section_158095028554.md) — section_158095028554
+        - [NetSuite Planning and Budgeting](section_160432563078.md) — section_160432563078
+      - [NSPB Sync SuiteApp Portlets](section_1551958192.md) — section_1551958192
+        - [Planning & Budgeting Activity Logs Portlet](subsect_1551962298.md) — subsect_1551962298
+        - [Planning & Budgeting Form/Dashboard Portlet](section_160632428995.md) — section_160632428995
+        - [Planning & Budgeting Substitution Variables Portlet](section_162573815157.md) — section_162573815157
+        - [Job Execution Portlet](section_162565492489.md) — section_162565492489
+        - [Execution Logs Portlets](section_162824769683.md) — section_162824769683
+        - [Planning & Budgeting Account Balance Portlet](section_162563948204.md) — section_162563948204
+        - [NSPB Sync Checklist Portlet](section_162574049970.md) — section_162574049970
+    - [Oracle Cloud Documentation on Integrating Oracle NetSuite Data](section_1518607742.md) — section_1518607742
+    - [NSPB Sync Release Notes](section_1501884196.md) — section_1501884196

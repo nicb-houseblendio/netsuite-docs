@@ -1,0 +1,18 @@
+# U.S. Help Topics
+
+U.S. Help Topics (43 pages): U.S. Help Topics
+
+## Chapters
+- [U.S. Help Topics](section_4198378704.md): Overview The following help topics provide information about NetSuite features that are specific for companies doing business in U.
+  - [United States Account Setup](section_160283717546.md): Setting up an account for an organization doing business in United States usually requires enabling several features and installing some additional SuiteApps.
+  - [Setting Up United States-Specific Preferences Page](section_160283719635.md): To setup your NetSuite account according to United States-specific preferences, you must adjust your NetSuite Company and Subsidiary settings.
+  - [Taxation Features For Accounts with SuiteTax](article_160527027384.md): For more information, see Setting Up the SuiteTax Engine for the United States(https://docs.
+  - [Taxation Features For Accounts without SuiteTax](section_156940239941.md): NetSuite provides the capability to calculate U.
+  - [U.S. Tax Reports](section_N2042330.md): The following U.
+  - [U.S. Payment Formats](section_N1659055.md): The Electronic Bank Payments SuiteApp lets businesses in the U.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch u-s-help-topics

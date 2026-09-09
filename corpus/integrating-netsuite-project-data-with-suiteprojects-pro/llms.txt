@@ -1,0 +1,12 @@
+# Integrating NetSuite Project Data with SuiteProjects Pro
+
+Integrating NetSuite Project Data with SuiteProjects Pro (1 pages): Integrating NetSuite Project Data with SuiteProjects Pro
+
+## Chapters
+- [Integrating NetSuite Project Data with SuiteProjects Pro](chapter_N1215785.md): Using SuiteProjects Pro project management functionality with NetSuite enables you to leverage the project management, billing, and enterprise reporting capabilities of both applications on an integrated, server-to-server platform.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch integrating-netsuite-project-data-with-suiteprojects-pro

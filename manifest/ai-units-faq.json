@@ -1,0 +1,24 @@
+{
+  "branch": "ai-units-faq",
+  "generatedAt": null,
+  "pages": {
+    "article_8144753226": {
+      "path": "corpus/ai-units-faq/article_8144753226.md",
+      "title": "AI Units FAQ",
+      "type": "article",
+      "breadcrumb": "Artificial Intelligence in NetSuite > AI Units FAQ",
+      "parent": "book_5131850092",
+      "category": "artificial-intelligence-in-netsuite",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_8144753226.html",
+      "etag": "\"d0815e920c783a159f26595a18be1c20:1786980342.336447\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:02:02.688Z",
+      "sha256": "edec98eace8f7a31e0e6754c17c5c39e5561c854e1cab8e4897f44629d47768d",
+      "bytes": 6943,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

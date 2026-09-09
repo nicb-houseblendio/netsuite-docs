@@ -1,0 +1,24 @@
+{
+  "branch": "artificial-intelligence",
+  "generatedAt": null,
+  "pages": {
+    "article_120159309": {
+      "path": "corpus/artificial-intelligence/article_120159309.md",
+      "title": "Artificial Intelligence",
+      "type": "article",
+      "breadcrumb": "Videos > Artificial Intelligence",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_120159309.html",
+      "etag": "\"d0b3bf7cce447bcc3b3df7ecc1baed3d:1786980278.74639\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:43:19.102Z",
+      "sha256": "b7242bb2fef1cf98fad99089a44e04f74b309cab68988568252c7107bd027d55",
+      "bytes": 640,
+      "anchors": 1,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

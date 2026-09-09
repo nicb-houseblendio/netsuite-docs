@@ -1,0 +1,54 @@
+# Sweden Help Topics
+
+50 pages, category: Country-Specific Features
+
+- [Sweden Help Topics](chapter_157425969916.md) — chapter_157425969916
+  - [Sweden Account Setup](section_157467279969.md) — section_157467279969
+  - [Setting Up Sweden-specific Preferences](section_157468064129.md) — section_157468064129
+  - [Sweden-specific SuiteApps](section_158590884256.md) — section_158590884256
+    - [Sweden Localization](article_159195287780.md) — article_159195287780
+      - [Prerequisites](section_159428716477.md) — section_159428716477
+      - [Installing the Sweden Localization SuiteApp](section_159195347446.md) — section_159195347446
+      - [Create Localization Settings Record](article_1002032522.md) — article_1002032522
+      - [Create Country-Specific Localization Settings Record](article_1002032816.md) — article_1002032816
+      - [Sweden Localization Feature Availability](section_159231024538.md) — section_159231024538
+        - [SIE File Generation](section_159283341945.md) — section_159283341945
+          - [Setup](section_159281194228.md) — section_159281194228
+          - [Guideline](section_159283148396.md) — section_159283148396
+        - [Automatic EU Tax Code Selection for EC sales](section_159255859408.md) — section_159255859408
+          - [Setup](section_159255861496.md) — section_159255861496
+            - [Creating a Dummy Tax Code](section_159255863631.md) — section_159255863631
+            - [Creating a New Entry in Localization Settings Record](section_159255866612.md) — section_159255866612
+            - [Setting EC-DUMMY-SE Tax Code on Foreign Customers Records](section_159255869921.md) — section_159255869921
+            - [Setting Item VAT Type of Nature](section_159255875254.md) — section_159255875254
+          - [Guideline](section_159255878545.md) — section_159255878545
+        - [Invoicing](section_159341787970.md) — section_159341787970
+          - [Reference Number Calculation](section_159341789501.md) — section_159341789501
+          - [Country-Specific Invoice Layout](section_159341790758.md) — section_159341790758
+          - [VAT Detailed Summary](section_159341795147.md) — section_159341795147
+        - [Automatic Selection of Mandatory Classifications](article_159283236600.md) — article_159283236600
+          - [Accounting Preferences](section_159283249957.md) — section_159283249957
+          - [Global Settings](section_159283292787.md) — section_159283292787
+          - [Subsidiary Specific Settings](section_159283312204.md) — section_159283312204
+          - [Script Deployment](section_159283318595.md) — section_159283318595
+        - [Statutory Reporting Templates](section_159257380322.md) — section_159257380322
+        - [Payment Templates](section_159257333009.md) — section_159257333009
+    - [Sweden Tax Reports SuiteApp](section_157538195619.md) — section_157538195619
+      - [Sweden Tax Reports SuiteApp Overview](section_157538203452.md) — section_157538203452
+      - [Prerequisites for Installing the Sweden Tax Reports SuiteApp](section_157538235683.md) — section_157538235683
+      - [Installing the Sweden Tax Reports SuiteApp](section_157538238795.md) — section_157538238795
+      - [Sweden Tax Reporting Framework](section_157546693696.md) — section_157546693696
+        - [Sweden VAT Report: Return Form SKV4700](section_156775976474.md) — section_156775976474
+        - [Sweden Intrastat](section_164482996923.md) — section_164482996923
+        - [Sweden Nature of Transaction Code](subsect_157164991559.md) — subsect_157164991559
+  - [Sweden Tax Topics For Accounts Without SuiteTax](section_157476810322.md) — section_157476810322
+    - [Sweden Tax Codes](section_N2004717.md) — section_N2004717
+    - [Sweden VAT Report](section_N2006138.md) — section_N2006138
+      - [What goes into each box - Sweden VAT report](section_N2006403.md) — section_N2006403
+    - [EU Sales List for Sweden](section_N2009636.md) — section_N2009636
+  - [Sweden Payment Formats](section_1499240510.md) — section_1499240510
+    - [Setting Up Company Bank Records in Sweden](section_1499240872.md) — section_1499240872
+    - [Setting Up Bank Records of Vendors in Sweden](section_1499244850.md) — section_1499244850
+    - [Setting Up Bank Records of Employees in Sweden](section_1499247519.md) — section_1499247519
+    - [Setting Up Bank Records of Customers in Sweden](section_1499248325.md) — section_1499248325
+    - [Setting Up Bank Records of Partners in Sweden](section_1499248946.md) — section_1499248946

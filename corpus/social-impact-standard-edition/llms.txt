@@ -1,0 +1,15 @@
+# Social Impact Standard Edition
+
+Social Impact Standard Edition (18 pages): Social Impact Standard Edition
+
+## Chapters
+- [Social Impact Standard Edition](chapter_1556526406.md): The NFP Standard Edition is the advanced version of Non-profit Social Impact releases.
+  - [Social Impact Standard Edition Roles and Dashboards](section_1556615245.md): bundle, contact your NetSuite account manager to customize roles and dashboards.
+  - [Reports in Social Impact Standard Edition](section_1562914072.md): Besides the reports in the NFP Financial Center tab, NFP Standard Edition also has a Program Outcomes report.
+  - [Constituent Relationship Management](section_156956106657.md): The Social Impact Standard Edition includes Constituent Relationship Management.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch social-impact-standard-edition

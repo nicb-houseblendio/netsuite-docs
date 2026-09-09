@@ -1,0 +1,123 @@
+# Dashboards
+
+119 pages, category: SuiteAnalytics
+
+- [SuiteAnalytics](set_N576235.md) — set_N576235
+  - [Dashboards](book_N576313.md) — book_N576313
+    - [Dashboards Overview](chapter_N576403.md) — chapter_N576403
+      - [Dashboard Portlets](section_N576951.md) — section_N576951
+        - [Portlet Types Table](section_N577248.md) — section_N577248
+      - [Dashboard Personalization](section_N578457.md) — section_N578457
+        - [Dashboard Layouts](section_4072488196.md) — section_4072488196
+        - [Adding a Portlet to a Dashboard](section_N580906.md) — section_N580906
+        - [Arranging Dashboard Portlets](section_N581190.md) — section_N581190
+      - [Setting Up Dashboard Portlet Content](section_N581550.md) — section_N581550
+        - [Calendar Portlets](section_4086195407.md) — section_4086195407
+        - [Custom Portlets](section_4605493647.md) — section_4605493647
+          - [Dashboard Tiles](section_1501565708.md) — section_1501565708
+            - [Installing the Dashboard Tiles SuiteApp](section_1501565893.md) — section_1501565893
+            - [Granting Permissions to Use Dashboard Tiles](section_161950601281.md) — section_161950601281
+            - [Types of Dashboard Tiles](section_1548305654.md) — section_1548305654
+            - [Creating a Static Tile](section_1524127664.md) — section_1524127664
+            - [Creating a Reminder Tile](section_1524127533.md) — section_1524127533
+            - [Creating a Scorecard Tile](section_1524127711.md) — section_1524127711
+              - [Creating a Comparison Scorecard Tile](section_1552465067.md) — section_1552465067
+            - [Entering Dashboard Tile Translations](section_1552457863.md) — section_1552457863
+            - [Modifying the Appearance of a Dashboard Tile](section_1501566272.md) — section_1501566272
+            - [Applying Conditional Alerts to a Dashboard Tile](section_1501566323.md) — section_1501566323
+            - [Modifying the Title and Font Sizes of the Dashboard Tiles Portlet](section_1501566370.md) — section_1501566370
+            - [Adding Roles That Can View Dashboard Tiles](section_1501566413.md) — section_1501566413
+          - [Navigation Portlet](section_1501567502.md) — section_1501567502
+            - [Installing the Navigation Portlet SuiteApp](section_1501567651.md) — section_1501567651
+            - [Navigation Portlet Permissions](section_156868062735.md) — section_156868062735
+            - [Creating a Navigation Category](section_1501567830.md) — section_1501567830
+            - [Creating a Shortcut Group](section_1501567888.md) — section_1501567888
+            - [Adding Shortcuts to an Existing Shortcut Group](section_156878642631.md) — section_156878642631
+            - [Modifying the Display of the Navigation Portlet](section_1501567956.md) — section_1501567956
+            - [Adding Roles That Can View Shortcut Groups](section_1501567976.md) — section_1501567976
+        - [Custom Search Portlets](section_4418911878.md) — section_4418911878
+        - [KPI Meter Portlets](section_4605495776.md) — section_4605495776
+        - [KPI Scorecard Portlet](section_4605497307.md) — section_4605497307
+        - [Key Performance Indicators Portlet](section_4605498574.md) — section_4605498574
+        - [List Portlets](section_4605499479.md) — section_4605499479
+        - [Phone Calls Portlet](section_156414901559.md) — section_156414901559
+        - [Quick Add Portlet](section_N588631.md) — section_N588631
+          - [Using Quick Add for Standard Records](bridgehead_N588741.md) — bridgehead_N588741
+          - [Using Quick Add for Custom Records](bridgehead_N589317.md) — bridgehead_N589317
+        - [Quick Search Portlet](section_4605504257.md) — section_4605504257
+        - [Project Tasks Portlets](section_4061193073.md) — section_4061193073
+        - [RSS/Atom Feed Portlets](section_N586341.md) — section_N586341
+          - [Creating Custom RSS/Atom Feeds](section_N587461.md) — section_N587461
+        - [Recent Records Portlet](section_N588166.md) — section_N588166
+        - [Setting Up Reminders](section_N581945.md) — section_N581945
+          - [System-Defined Reminders Table](section_N582302.md) — section_N582302
+          - [Creating Custom Reminders](section_N585781.md) — section_N585781
+        - [Report Snapshot Portlets](section_4605508200.md) — section_4605508200
+        - [Search Form Portlet](section_4606445595.md) — section_4606445595
+        - [Settings Portlet](section_4767335916.md) — section_4767335916
+        - [Shortcuts Portlet](section_N587785.md) — section_N587785
+        - [SMT Links Portlet](section_156201804002.md) — section_156201804002
+        - [SuiteApp Portlets](section_4629724453.md) — section_4629724453
+        - [Tasks Portlet](section_4078565961.md) — section_4078565961
+        - [Trend Graph Portlets](section_4605510970.md) — section_4605510970
+      - [Printing and Exporting Dashboard Content](section_N591394.md) — section_N591394
+    - [Key Performance Indicators](chapter_N595760.md) — chapter_N595760
+      - [Setting Up the Key Performance Indicators Portlet](section_N596767.md) — section_N596767
+        - [Viewing Key Performance Indicator Data](section_N597348.md) — section_N597348
+        - [Setting Up KPI Comparisons](section_N597713.md) — section_N597713
+        - [Highlighting KPIs](section_N600850.md) — section_N600850
+        - [Standard Key Performance Indicators Table](section_N601098.md) — section_N601098
+        - [Resolving Errors](article_1026010425.md) — article_1026010425
+      - [KPI Meters](section_N605338.md) — section_N605338
+      - [Trend Graphs](section_N605811.md) — section_N605811
+        - [Setting Up Popup Trend Graphs](section_N606304.md) — section_N606304
+        - [Setting Up Trend Graph Portlets](section_N606898.md) — section_N606898
+      - [Custom KPIs](section_N609047.md) — section_N609047
+        - [Selecting an Existing Search to be a Custom KPI](section_N609351.md) — section_N609351
+        - [Creating a New Search to be a Custom KPI](section_N609600.md) — section_N609600
+        - [Adding a Custom KPI to the Key Performance Indicators Portlet](section_N609834.md) — section_N609834
+        - [Using a Custom KPI in a KPI Scorecard](section_N610062.md) — section_N610062
+      - [Customer 360](article_2124027515.md) — article_2124027515
+        - [The Customer 360 View](section_0709124630.md) — section_0709124630
+        - [Customer 360 Narrative Insights](section_0128041652.md) — section_0128041652
+        - [Customer 360 Compatibility and Cross- Subsidiary Record Viewing](article_0307114514.md) — article_0307114514
+        - [Customer 360 Permissions](article_9162309697.md) — article_9162309697
+        - [Customer 360 Datasets](article_4164004934.md) — article_4164004934
+        - [Customer 360 Workbooks](article_6160856495.md) — article_6160856495
+        - [Customer 360 Analytical Record Types](article_7172327604.md) — article_7172327604
+    - [KPI Scorecards](chapter_N610592.md) — chapter_N610592
+      - [Enabling the KPI Scorecards Feature](section_N611007.md) — section_N611007
+      - [Adding a KPI Scorecard Portlet to a Dashboard](section_N612018.md) — section_N612018
+      - [Creating a KPI Scorecard](section_N612318.md) — section_N612318
+        - [Entering Basic Scorecard Information](section_N612623.md) — section_N612623
+        - [Defining KPI Scorecard Comparisons](section_N612785.md) — section_N612785
+        - [Defining KPI Scorecard Formulas](section_N613116.md) — section_N613116
+          - [KPI IDs Available for Scorecard Formulas](section_N613450.md) — section_N613450
+        - [Defining KPI Scorecard Date Ranges or Periods](section_N617699.md) — section_N617699
+        - [Highlighting KPI Scorecard Results](section_N624192.md) — section_N624192
+        - [Sharing a Custom KPI Scorecard](section_N624688.md) — section_N624688
+      - [Editing a KPI Scorecard](section_N624476.md) — section_N624476
+      - [Financial Ratios Scorecard](section_N624824.md) — section_N624824
+        - [Financial Ratios Scorecard Formulas](section_N625181.md) — section_N625181
+    - [Report Snapshots](chapter_N625749.md) — chapter_N625749
+      - [Adding a Report Snapshot Portlet](section_N626371.md) — section_N626371
+        - [Standard Report Snapshots Table](section_N626685.md) — section_N626685
+        - [Setup Options for Comparative Sales Report Snapshots](section_N629979.md) — section_N629979
+        - [Creating Custom Report Snapshots](section_N630437.md) — section_N630437
+        - [Deleting a Custom Report Snapshot from a Report Snapshot Portlet](section_N630756.md) — section_N630756
+        - [Reports Available for Custom Report Snapshots](section_N630892.md) — section_N630892
+        - [Sales Management Snapshots](section_N631397.md) — section_N631397
+      - [Setting Up a Report Snapshot Portlet](section_N632502.md) — section_N632502
+    - [Workbooks](chapter_1546871231.md) — chapter_1546871231
+      - [Adding an Analytics Portlet](section_1546873527.md) — section_1546873527
+      - [Setting Up the Analytics Portlet](section_1546873594.md) — section_1546873594
+      - [Adding Translatable Analytics Portlet Names](article_162566567856.md) — article_162566567856
+      - [Viewing Workbook Data in the Analytics Portlet](section_156327295859.md) — section_156327295859
+      - [Opening Workbooks from the Analytics Portlet](section_1546873621.md) — section_1546873621
+    - [Publishing Dashboards](chapter_N633149.md) — chapter_N633149
+      - [Publish Dashboards Permission](section_N633401.md) — section_N633401
+      - [Publishing a Dashboard](section_N633690.md) — section_N633690
+        - [Assigning Published Dashboards to Users](section_N634109.md) — section_N634109
+        - [Restricting Users' Dashboard Personalizations](section_N634268.md) — section_N634268
+      - [Applying Changes to Published Dashboards](section_N634404.md) — section_N634404
+      - [Copying a Published Dashboard to Another Account](section_1554476919.md) — section_1554476919

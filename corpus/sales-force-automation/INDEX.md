@@ -1,0 +1,292 @@
+# Sales Force Automation
+
+288 pages, category: Marketing, Sales Force Automation, and Partners
+
+- [Sales Force Automation](book_N1035197.md) — book_N1035197
+  - [Sales Force Automation Overview](chapter_N1035383.md) — chapter_N1035383
+  - [Setting Up SFA](chapter_N1035717.md) — chapter_N1035717
+    - [Sales Force Automation Preferences](section_N1035924.md) — section_N1035924
+    - [Customer Statuses](section_N1036969.md) — section_N1036969
+    - [Team Selling](section_N1037318.md) — section_N1037318
+      - [Setting Up Team Selling](section_N1037578.md) — section_N1037578
+      - [Overassignment and Adjustment Reps](section_N1038328.md) — section_N1038328
+      - [Associating Sales Teams with Customers and Transactions](section_N1038639.md) — section_N1038639
+      - [Mass Updating Sales Teams](section_N1038939.md) — section_N1038939
+      - [Updating Individual Sales Teams](section_N1039075.md) — section_N1039075
+    - [Marking an Employee as a Sales Rep](section_N1039206.md) — section_N1039206
+    - [Setting Up a Sales Team](section_N1039448.md) — section_N1039448
+    - [Sales Rules](section_N1039705.md) — section_N1039705
+    - [Sales Territories](section_N1040011.md) — section_N1040011
+      - [Setting Up a Sales Territory](bridgehead_N1042578.md) — bridgehead_N1042578
+      - [Making Changes to Territories](bridgehead_N1042747.md) — bridgehead_N1042747
+      - [Updating Territory Assignments](bridgehead_N1042781.md) — bridgehead_N1042781
+    - [Prioritizing Sales Territories](section_N1042892.md) — section_N1042892
+    - [Reassigning Customers to Sales Territories](section_N1042981.md) — section_N1042981
+    - [Quotas](section_N1043179.md) — section_N1043179
+      - [Establishing a Quota](subsect_1106031127.md) — subsect_1106031127
+      - [Search Based Quotas](bridgehead_N1043664.md) — bridgehead_N1043664
+    - [Team Quotas](section_N1043866.md) — section_N1043866
+    - [Selling with Promotion Codes](section_N1044239.md) — section_N1044239
+    - [CRM Lists](section_N1044602.md) — section_N1044602
+    - [The Enhanced Sales Center SuiteApp](section_N136746.md) — section_N136746
+      - [Setting up the Enhanced Sales Center](section_N136896.md) — section_N136896
+      - [Sales Center Enhancements](section_N137107.md) — section_N137107
+        - [Enhanced Sales Center Roles and Permissions](section_N137797.md) — section_N137797
+        - [Enhanced Tabs, Categories, and Links](section_N137948.md) — section_N137948
+        - [Enhanced Sales Forms](section_N138092.md) — section_N138092
+        - [Enhanced Field Labels and Custom Fields](section_N226130.md) — section_N226130
+        - [Enhanced Saved Search Forms and Search Results List Views](section_N230651.md) — section_N230651
+        - [Enhanced Dashboards and Portlets](section_N230916.md) — section_N230916
+      - [Customizing the Enhanced Sales Center](section_N231105.md) — section_N231105
+  - [Sales Forecasting](chapter_N1045230.md) — chapter_N1045230
+    - [Setting Up Sales Forecasting](section_N1045579.md) — section_N1045579
+    - [A Sales Person's Guide to Forecasting](section_N1046401.md) — section_N1046401
+    - [Forecasting Best Practices](section_N1046608.md) — section_N1046608
+    - [Forecasting Preferences](section_N1046772.md) — section_N1046772
+    - [Advanced Forecasting](section_N1047034.md) — section_N1047034
+    - [Estimates in the Forecast and Pipeline](section_N1047186.md) — section_N1047186
+      - [Single Estimates with Advanced Forecasting](bridgehead_N1047321.md) — bridgehead_N1047321
+      - [Multiple Estimates with Advanced Forecasting](bridgehead_N1047568.md) — bridgehead_N1047568
+      - [Estimates and Team Selling](bridgehead_N1047809.md) — bridgehead_N1047809
+    - [Opportunities in the Forecast and Pipeline](section_N1047903.md) — section_N1047903
+      - [Advanced Forecasting With Multiple Projected Amounts](bridgehead_N1048026.md) — bridgehead_N1048026
+      - [Advanced Forecasting Without Multiple Projected Amounts](bridgehead_N1048380.md) — bridgehead_N1048380
+    - [Opportunities and Team Selling](section_N1048674.md) — section_N1048674
+    - [Saving Sales Manager Forecasts](section_N1048767.md) — section_N1048767
+    - [Saving Sales Rep Forecasts](section_N1049172.md) — section_N1049172
+    - [Alternate Sales Amounts](section_N1049780.md) — section_N1049780
+      - [Setting Up ASA](section_N1049956.md) — section_N1049956
+      - [Calculating ASA](section_N1050106.md) — section_N1050106
+      - [Basing Commission on ASA](section_N1050405.md) — section_N1050405
+      - [ASA Sales Forecasts and Quotas](section_N1050636.md) — section_N1050636
+    - [Historical Metrics](section_N1051008.md) — section_N1051008
+    - [Forecast Reports](section_N1051173.md) — section_N1051173
+      - [Sales Forecast vs. Quota Report](section_N1051599.md) — section_N1051599
+      - [Alt. Sales and Billings Forecast vs. Quota Report](section_N1056111.md) — section_N1056111
+      - [Alt. Sales Forecast vs. Quota Report](section_N1056367.md) — section_N1056367
+      - [Billings Forecast vs. Quota Report](section_N1056636.md) — section_N1056636
+      - [Forecast by Status Summary Report](section_N1056905.md) — section_N1056905
+      - [Calculated Forecast by Sales Rep Report](section_N1057138.md) — section_N1057138
+      - [Forecast by Sales Rep Summary Report](section_N1057440.md) — section_N1057440
+      - [Forecast by Sales Rep Detail Report](section_N1057775.md) — section_N1057775
+      - [Alt. Sales Forecast by Sales Rep Summary Report](section_N1058087.md) — section_N1058087
+      - [Alt. Sales Forecast by Sales Rep Detail Report](section_N1058432.md) — section_N1058432
+      - [Forecast by Customer Summary Report](section_N1058733.md) — section_N1058733
+      - [Forecast by Customer Detail Report](section_N1059054.md) — section_N1059054
+      - [Forecast (Outstanding) by Customer Summary Report](section_N1059361.md) — section_N1059361
+      - [Forecast (Outstanding) by Customer Detail Report](section_N1059586.md) — section_N1059586
+      - [Forecast by Item Summary Report](section_N1059812.md) — section_N1059812
+      - [Forecast by Item Detail Report](section_N1060065.md) — section_N1060065
+      - [Forecast Accuracy Report](section_N1060330.md) — section_N1060330
+      - [Forecast Accuracy (Alt. Sales) Report](section_N1062782.md) — section_N1062782
+      - [Calculated Forecast Accuracy Report](section_N1063024.md) — section_N1063024
+      - [Calculated Forecast Accuracy (Alt. Sales) Report](section_N1063285.md) — section_N1063285
+      - [Forecast vs. Quota by Class Report](section_N1063541.md) — section_N1063541
+      - [Forecast vs. Quota by Department Report](section_N1063841.md) — section_N1063841
+      - [Forecast vs. Quota by Location Report](section_N1064123.md) — section_N1064123
+      - [Alt. Sales Forecast vs. Quota by Class Report](section_N1064407.md) — section_N1064407
+      - [Alt. Sales Forecast vs. Quota by Department Report](section_N1065528.md) — section_N1065528
+      - [Alt. Sales Forecast vs. Quota by Location Report](section_N1065811.md) — section_N1065811
+  - [Opportunities and Estimates](chapter_N1066094.md) — chapter_N1066094
+    - [Opportunity Records](section_N1066171.md) — section_N1066171
+      - [Creating an Opportunity Record](section_N1066284.md) — section_N1066284
+      - [Using Opportunities](section_N1067079.md) — section_N1067079
+    - [Analyzing Opportunities in Your Pipeline](section_N1067419.md) — section_N1067419
+      - [Opportunities on Your Dashboard](bridgehead_N1067434.md) — bridgehead_N1067434
+      - [Pipeline Reports and KPIs](bridgehead_N1067965.md) — bridgehead_N1067965
+      - [Opportunities and Search](bridgehead_N1068025.md) — bridgehead_N1068025
+    - [Opportunity Reports](section_N1068218.md) — section_N1068218
+      - [Opportunities to Close Summary Report](section_N1068334.md) — section_N1068334
+      - [Opportunities to Close Detail Report](section_N1068550.md) — section_N1068550
+      - [Opportunities Won Report](section_N1068766.md) — section_N1068766
+      - [Opportunities Lost Report](section_N1068996.md) — section_N1068996
+      - [Total Open Opportunities Summary Report](section_N1069213.md) — section_N1069213
+      - [Total Open Opportunities Detail Report](section_N1069438.md) — section_N1069438
+    - [Estimates](section_N1069662.md) — section_N1069662
+      - [Preparing an Estimate](section_N1069843.md) — section_N1069843
+      - [Converting an Estimate](section_N1073352.md) — section_N1073352
+      - [Printing an Estimate](section_N1073538.md) — section_N1073538
+      - [Deleting Old Estimates](bridgehead_4453306500.md) — bridgehead_4453306500
+    - [Estimates Reports](section_N1073899.md) — section_N1073899
+      - [Estimates to Close Report](section_N1073968.md) — section_N1073968
+      - [Total Open Estimates Report](section_N1074185.md) — section_N1074185
+      - [Estimates Register Report](section_N1074416.md) — section_N1074416
+      - [Open Estimates by Lines Report](section_1031021823.md) — section_1031021823
+      - [Open Estimates by Lines Detail Report](section_1031022021.md) — section_1031022021
+    - [Tracking Sales Activity](section_N1074659.md) — section_N1074659
+  - [Record Management](chapter_N1074872.md) — chapter_N1074872
+    - [Contacts](section_N1075037.md) — section_N1075037
+      - [Creating a Contact](subsect_161792162006.md) — subsect_161792162006
+      - [Inactivating or Deleting Contacts](subsect_161792170332.md) — subsect_161792170332
+      - [Creating Categories for Contacts](section_N1075554.md) — section_N1075554
+      - [Associating a Contact with a Record](section_N1075740.md) — section_N1075740
+      - [Saving Messages from Contacts](section_N1076043.md) — section_N1076043
+    - [Customers](section_N1076428.md) — section_N1076428
+      - [Creating a Customer Record](section_161860867711.md) — section_161860867711
+        - [Customer Record Subtabs](subsect_161887259374.md) — subsect_161887259374
+        - [Assigning Additional Subsidiaries to a Customer](section_161895998055.md) — section_161895998055
+        - [Entering Sales Information for the Customer](section_N1077516.md) — section_N1077516
+        - [Entering Marketing Information for the Customer](section_N1077855.md) — section_N1077855
+        - [Entering Financial Information for the Customer](section_N1078064.md) — section_N1078064
+          - [Managing Customer Credit Limits and Holds](section_N1080144.md) — section_N1080144
+            - [Credit Limit Preferences](bridgehead_4490498729.md) — bridgehead_4490498729
+            - [Credit Limit Warnings](bridgehead_4490500811.md) — bridgehead_4490500811
+          - [Absolute Pricing for Customers](section_N1083860.md) — section_N1083860
+          - [Tracking Customer Credit Card Information](section_N1084186.md) — section_N1084186
+            - [Entering and Editing Credit Card Information for the Customer](subsect_162197941185.md) — subsect_162197941185
+            - [Entering and Editing Credit Card Information from a Transaction](subsect_162197951675.md) — subsect_162197951675
+            - [Searching for Customers by Credit Card Expiration Date](subsect_162198251311.md) — subsect_162198251311
+        - [Setting Preferences on the Customer Record](section_N1079031.md) — section_N1079031
+      - [Creating a Subcustomer Record](section_N1085616.md) — section_N1085616
+      - [Viewing Recent Customer Activity](section_161945846485.md) — section_161945846485
+      - [Merging Customer Records](section_1509542900.md) — section_1509542900
+      - [Attaching Events, Tasks, and Calls to Records and Transactions](section_N1084924.md) — section_N1084924
+        - [Creating Phone Calls](subsect_162328292304.md) — subsect_162328292304
+        - [Creating Tasks](subsect_162328298389.md) — subsect_162328298389
+        - [Creating Events](subsect_162328305323.md) — subsect_162328305323
+      - [Inactivating or Deleting Customers](section_1515598204.md) — section_1515598204
+    - [Lead Management](section_N1086131.md) — section_N1086131
+      - [Lead Records](bridgehead_N1086363.md) — bridgehead_N1086363
+        - [Lead Qualification](bridgehead_N1086481.md) — bridgehead_N1086481
+        - [Lead Nurturing](bridgehead_N1086534.md) — bridgehead_N1086534
+        - [Creating a Lead Record](section_N1095784.md) — section_N1095784
+        - [Searching for Lead Records](section_162586737123.md) — section_162586737123
+        - [Identifying Lost Leads](bridgehead_1551173602.md) — bridgehead_1551173602
+        - [Deleting a Lead Record](section_1556178777.md) — section_1556178777
+      - [Lead Conversion](section_N1086628.md) — section_N1086628
+        - [Conversion by Status Changes and Sales Transactions](bridgehead_N1086702.md) — bridgehead_N1086702
+        - [Lead Conversion Using the Lead Conversion Feature](bridgehead_N1086741.md) — bridgehead_N1086741
+          - [Converting a Lead on the Convert Lead Page](section_162733129047.md) — section_162733129047
+          - [Lead Conversion Field Mapping](section_N1090008.md) — section_N1090008
+          - [Mapping Custom Lead Fields](section_N1095304.md) — section_N1095304
+      - [Performing a Mass Update on Customer Statuses](bridgehead_N1087722.md) — bridgehead_N1087722
+      - [Assigning Leads](section_N1093032.md) — section_N1093032
+      - [Lead Routing](section_N1093883.md) — section_N1093883
+      - [Lead Notification Email](section_N1095188.md) — section_N1095188
+      - [Lead Conversion Reports, Search, and KPIs](section_N1095502.md) — section_N1095502
+      - [Setting Up Lead Management](section_N1093237.md) — section_N1093237
+    - [Prospect Records](section_N1096136.md) — section_N1096136
+    - [Competitors](section_N1096618.md) — section_N1096618
+    - [Other Name Records](section_N1096940.md) — section_N1096940
+    - [Records as Multiple Types](section_N1099012.md) — section_N1099012
+    - [Tracking Time on Relationship Records](section_N1099216.md) — section_N1099216
+    - [Entering an Address on a Record](section_N1099791.md) — section_N1099791
+    - [Printing Mailing and Shipping Labels](section_N1099985.md) — section_N1099985
+  - [Last Sales Activity](article_160396957674.md) — article_160396957674
+    - [Overview](section_N1100301.md) — section_N1100301
+    - [Setting Up the Last Sales Activity SuiteApp](section_160405287233.md) — section_160405287233
+    - [Using the Last Sales Activity SuiteApp](section_160405294299.md) — section_160405294299
+  - [Sales Reports](chapter_N1101968.md) — chapter_N1101968
+    - [Pipeline by Sales Rep Summary Report](section_N1104111.md) — section_N1104111
+    - [Pipeline by Sales Rep Detail Report](section_N1104334.md) — section_N1104334
+    - [Alt. Sales Pipeline by Sales Rep Summary Report](section_N1104557.md) — section_N1104557
+    - [Alt. Sales Pipeline by Sales Rep Detail Report](section_N1104782.md) — section_N1104782
+    - [Pipeline by Status Summary Report](section_N1105005.md) — section_N1105005
+    - [Total Pipeline by Statuses Summary Report](section_N1105232.md) — section_N1105232
+    - [Sales Activity by Sales Rep Summary Report](section_N1105455.md) — section_N1105455
+    - [Sales Activity by Sales Rep Detail Report](section_N1105695.md) — section_N1105695
+    - [Customers by Sales Rep Summary Report](section_N1105935.md) — section_N1105935
+    - [Customer by Sales Rep Detail Report](section_N1106134.md) — section_N1106134
+    - [Customers by Territory Summary Report](section_N1106487.md) — section_N1106487
+    - [Customers by Territory Detail Report](section_N1106686.md) — section_N1106686
+    - [Pipeline by Customer Summary Report](section_N1106886.md) — section_N1106886
+    - [Pipeline by Customer Detail Report](section_N1107088.md) — section_N1107088
+    - [Sales Activity by Customer Summary Report](section_N1107291.md) — section_N1107291
+    - [Sales Activity by Customer Detail Report](section_N1107490.md) — section_N1107490
+    - [Total Pipeline by Customer Summary Report](section_N1107690.md) — section_N1107690
+    - [Total Pipeline by Customer Detail Report](section_N1107892.md) — section_N1107892
+    - [Total Pipeline by Sales Rep Summary Report](section_N1108095.md) — section_N1108095
+    - [Total Pipeline by Sales Rep Detail Report](section_N1108323.md) — section_N1108323
+    - [Alt. Sales Total Pipeline by Sales Rep Summary Report](section_N1108526.md) — section_N1108526
+    - [Alt. Sales Total Pipeline by Sales Rep Detail Report](section_N1108755.md) — section_N1108755
+    - [New Customer Sales Orders Summary Report](section_N1108957.md) — section_N1108957
+    - [New Customer Sales Orders Detail Report](section_N1109164.md) — section_N1109164
+    - [Sales Orders by Customer Summary Report](section_N1109367.md) — section_N1109367
+    - [Sales Orders by Customer Detail Report](section_N1109569.md) — section_N1109569
+    - [Sales Orders by Historical Team Summary Report](section_N1109772.md) — section_N1109772
+    - [Sales Orders by Historical Team Detail Report](section_N1109976.md) — section_N1109976
+    - [Sales Orders by Historical Team (Transaction Date) Summary Report](section_N1110180.md) — section_N1110180
+    - [Sales Orders by Historical Team (Transaction Date) Detail Report](section_N1110391.md) — section_N1110391
+    - [Sales Orders by Item Summary Report](section_N1110603.md) — section_N1110603
+    - [Sales Orders by Item Detail Report](section_N1113533.md) — section_N1113533
+    - [Sales Orders by Partner Summary Report](section_N1113732.md) — section_N1113732
+    - [Sales Orders by Partner Detail Report](section_N1113943.md) — section_N1113943
+    - [Sales Orders by Promotion Code Summary Report](section_N1114155.md) — section_N1114155
+    - [Sales Orders by Promotion Code Detail Report](section_N1114355.md) — section_N1114355
+    - [Sales Orders by Sales Rep Summary Report](section_N1114555.md) — section_N1114555
+    - [Sales Orders by Sales Rep Detail Report](section_N1114677.md) — section_N1114677
+    - [Sales Orders by Sales Team Summary Report](section_N1114876.md) — section_N1114876
+    - [Sales Orders by Sales Team Detail Report](section_N1115075.md) — section_N1115075
+    - [Sales by Customer Summary Report](section_N1115281.md) — section_N1115281
+    - [Sales by Customer Detail Report](section_N1115515.md) — section_N1115515
+    - [Sales by Historical Team Summary Report](section_N1116023.md) — section_N1116023
+    - [Sales by Historical Team Detail Report](section_N1116238.md) — section_N1116238
+    - [Sales by Historical Team Summary (Transaction Date) Report](section_N1116463.md) — section_N1116463
+    - [Sales by Historical Team Detail (Transaction Date) Report](section_N1116699.md) — section_N1116699
+    - [Sales by Item Summary Report](section_N1116934.md) — section_N1116934
+    - [Sales by Item Detail Report](section_N1117164.md) — section_N1117164
+    - [Sales by Promotion Code Summary Report](section_N1117395.md) — section_N1117395
+    - [Sales by Promotion Code Detail Report](section_N1117629.md) — section_N1117629
+    - [Sales by Sales Rep Summary Report](section_N1117863.md) — section_N1117863
+    - [Sales by Sales Rep Detail Report](section_N1118093.md) — section_N1118093
+    - [Sales by Sales Team Summary Report](section_N1119567.md) — section_N1119567
+    - [Sales by Sales Team Detail Report](section_N1119766.md) — section_N1119766
+    - [Customer Profitability Summary Report](section_N1119966.md) — section_N1119966
+    - [Customer Profitability Detail Report](section_N1120172.md) — section_N1120172
+    - [Cost by Customer Report](section_N1120375.md) — section_N1120375
+    - [New Customer Sales Summary Report](section_N1120572.md) — section_N1120572
+    - [New Customer Sales Detail Report](section_N1120771.md) — section_N1120771
+    - [The Open Prospects Snapshot](section_N1120970.md) — section_N1120970
+    - [Prospect Analysis Summary Report](section_N1121588.md) — section_N1121588
+    - [Prospect Analysis Detail Report](section_N1121924.md) — section_N1121924
+    - [Customer Aging History](section_N1122115.md) — section_N1122115
+  - [Commissions](chapter_N1122333.md) — chapter_N1122333
+    - [Commission Preferences](section_N1122601.md) — section_N1122601
+    - [Employee Commission Schedules](section_N1123341.md) — section_N1123341
+      - [Creating an Employee Commission Schedule](section_N1123495.md) — section_N1123495
+        - [Choose the Basis of the Commission](bridgehead_N1123608.md) — bridgehead_N1123608
+        - [Determine Commission Categorization and Eligibility](bridgehead_N1123880.md) — bridgehead_N1123880
+        - [Set Commission Calculation Options](bridgehead_N1124420.md) — bridgehead_N1124420
+        - [Set Commission Schedule Preferences](bridgehead_N1124587.md) — bridgehead_N1124587
+        - [Create a Commission Matrix](bridgehead_N1124704.md) — bridgehead_N1124704
+        - [Save the Schedule](procedure_N1124778.md) — procedure_N1124778
+      - [Search-Based Commission Schedules](section_N1125679.md) — section_N1125679
+      - [Commission Calculation Options](section_N1126040.md) — section_N1126040
+        - [Flat Rate Calculation Scale](bridgehead_N1126056.md) — bridgehead_N1126056
+        - [Marginal Calculation Scale](bridgehead_N1126090.md) — bridgehead_N1126090
+        - [Linear Calculation Scale](bridgehead_N1129208.md) — bridgehead_N1129208
+      - [Commission Eligibility](section_N1129338.md) — section_N1129338
+      - [Commission Attainment and Payout Categorization](section_N1129540.md) — section_N1129540
+      - [Manager Commission Schedules](section_N1130290.md) — section_N1130290
+      - [Commission on Estimated Gross Profit](section_N1146536.md) — section_N1146536
+    - [Employee Commission Plans](section_N1146679.md) — section_N1146679
+      - [Creating an Employee Commission Plan](section_N1146859.md) — section_N1146859
+      - [Assigning Sales Reps to a Commission Plan](section_N1147232.md) — section_N1147232
+      - [Recalculating Commission](section_N1147526.md) — section_N1147526
+      - [Sales Effective Date](section_N1147809.md) — section_N1147809
+    - [Split Commission](section_N1148007.md) — section_N1148007
+    - [Authorizing Employee Commission](section_N1149753.md) — section_N1149753
+      - [Authorizing Employee Commission in Bulk](section_N1150000.md) — section_N1150000
+      - [Authorizing Individual Employee Commissions](section_N1150571.md) — section_N1150571
+      - [Viewing the Status of Authorized Employee Commissions](section_3802855281.md) — section_3802855281
+    - [Approving and Rejecting Employee Commission](section_N1151300.md) — section_N1151300
+      - [Approving Commission Transaction for Payment](bridgehead_4497778773.md) — bridgehead_4497778773
+      - [Rejecting Commissions](bridgehead_4497776549.md) — bridgehead_4497776549
+    - [Paying Employee Commission](section_N1153252.md) — section_N1153252
+      - [Setting Up an Employee for Commission Payments](section_N1153743.md) — section_N1153743
+    - [Viewing Commission Statuses](section_N1154027.md) — section_N1154027
+    - [Commission and Credit Memos](section_3720939620.md) — section_3720939620
+    - [Commission and Advanced Billing](section_N1154192.md) — section_N1154192
+    - [Importing Employee Commission Data](section_N1154345.md) — section_N1154345
+    - [Commission Reports](section_N1154636.md) — section_N1154636
+      - [Commission Overview Report](section_N1154819.md) — section_N1154819
+      - [Commission Overview Detail Report](section_N1155035.md) — section_N1155035
+      - [Commissions Pending Authorization Summary Report](section_N1155968.md) — section_N1155968
+      - [Commissions Pending Authorization Detail Report](section_N1156174.md) — section_N1156174
+      - [Authorized Commission Summary Report](section_N1156576.md) — section_N1156576
+      - [Authorized Commission Detail Report](section_N1156379.md) — section_N1156379
+      - [Paid Employee Commission Summary Report](section_N1156770.md) — section_N1156770
+      - [Paid Employee Commission Detail Report](section_N1156948.md) — section_N1156948
+      - [Commissions on A/P Aging Reports](section_N1157130.md) — section_N1157130
+      - [Commission Calculation History Report](section_3704705738.md) — section_3704705738
+    - [Commissionable Item Search](section_N1159258.md) — section_N1159258

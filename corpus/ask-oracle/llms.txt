@@ -1,0 +1,13 @@
+# Ask Oracle
+
+Ask Oracle (2 pages): Ask Oracle
+
+## Chapters
+- [Ask Oracle](article_5100902387.md): Note: This topic describes functionality available to users eligible for NetSuite Next.
+  - [More Ask Oracle Features](article_0527021536.md): Note: This topic describes functionality available to users eligible for NetSuite Next.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch ask-oracle

@@ -1,0 +1,12 @@
+# Switching Between Your Roles and Companies
+
+Switching Between Your Roles and Companies (1 pages): Switching Between Your Roles and Companies
+
+## Chapters
+- [Switching Between Your Roles and Companies](article_1093332827.md): In NetSuite Next, you can now switch between your roles and companies with the profile menu.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch switching-between-your-roles-and-companies

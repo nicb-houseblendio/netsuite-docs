@@ -1,0 +1,42 @@
+{
+  "branch": "accounting",
+  "generatedAt": null,
+  "pages": {
+    "preface_1511796659": {
+      "path": "corpus/accounting/preface_1511796659.md",
+      "title": "Videos",
+      "type": "preface",
+      "breadcrumb": "Videos",
+      "parent": null,
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/preface_1511796659.html",
+      "etag": "\"6ee0cc6622c41a65adb26d5eccaa31b2:1786980405.349662\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:43:18.482Z",
+      "sha256": "4e742fbf6df76308672c00ab860baa83c291e9a320c333f531475b41723321a8",
+      "bytes": 2264,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "article_4104720185": {
+      "path": "corpus/accounting/article_4104720185.md",
+      "title": "Accounting",
+      "type": "article",
+      "breadcrumb": "Videos > Accounting",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_4104720185.html",
+      "etag": "\"1e45e2cac6a5d2b5df625bea3b19c4f4:1786980327.389382\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:43:18.827Z",
+      "sha256": "3708a03b757560860cab80023d3d39f4af3d10056868ba340c72e12b6b58e7ff",
+      "bytes": 4399,
+      "anchors": 5,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,86 @@
+# SaaS Metric Reporting
+
+82 pages, category: Order Management
+
+- [SaaS Metric Reporting](book_132508596.md) — book_132508596
+  - [SaaS Metric Reporting Overview](article_6160057721.md) — article_6160057721
+  - [SaaS Metric Reporting Setup Tasks](article_4135652613.md) — article_4135652613
+  - [Enabling SaaS Metric Reporting](article_4141614984.md) — article_4141614984
+  - [Creating Items for SaaS Metric Reporting](article_8142859620.md) — article_8142859620
+  - [Impact Subcategory Record for SaaS Metric Reporting](article_6161310886.md) — article_6161310886
+  - [SaaS Metric Tracking](article_5162432206.md) — article_5162432206
+  - [Analytical Impact Record for SaaS Metric Reporting](article_83140559381.md) — article_83140559381
+  - [Adjusting Analytical Impact Values](article_6151003455.md) — article_6151003455
+  - [Deleting Analytical Impact or SaaS Metric Records](article_7153032891.md) — article_7153032891
+  - [Statuses Preventing Analytical Impact Creation](article_1161722127.md) — article_1161722127
+  - [Acquisition Date for Customer Cohort in SaaS Metric Reporting](article_2145337308.md) — article_2145337308
+  - [Custom Terms and Partial Month Calculations](article_9160154627.md) — article_9160154627
+  - [SaaS Metric Record for SaaS Metric Reporting](article_3114848375.md) — article_3114848375
+  - [Finding SaaS Metric Records](article_150351788.md) — article_150351788
+  - [Renaming SaaS Metric Records](article_2150557242.md) — article_2150557242
+  - [Creating Datasets for SaaS Metric Reporting](article_3143219934.md) — article_3143219934
+  - [Updating Transactions and SaaS Metric Reporting](article_2150423235.md) — article_2150423235
+  - [Stand-alone Transactions in SaaS Metric Reporting](article_122737677.md) — article_122737677
+  - [Billing Schedules in SaaS Metric Reporting](article_8122420966.md) — article_8122420966
+  - [Contract Renewals in SaaS Metric Reporting](article_4122558626.md) — article_4122558626
+  - [Subscription Billing in SaaS Metric Reporting](article_6122637447.md) — article_6122637447
+  - [Historical Imports in SaaS Metric Reporting](article_8123417423.md) — article_8123417423
+  - [Subscription Metrics](article_1215935976.md) — article_1215935976
+    - [Subscription Metrics Overview and Features](article_0909051811.md) — article_0909051811
+    - [Supported Transactions for Subscription Metrics](article_0129125521.md) — article_0129125521
+    - [Subscription Metrics SuiteApp Best Practices](article_0909052106.md) — article_0909052106
+    - [Installing and Setting Up the Subscription Metrics SuiteApp](article_0909052153.md) — article_0909052153
+      - [Prerequisites and Post-Installation Tasks for Subscription Metrics SuiteApp](article_0105111158.md) — article_0105111158
+      - [Installing the Subscription Metrics SuiteApp](article_0105111204.md) — article_0105111204
+      - [Configuring Subscription Metrics Fields on Item and Service Item Records](article_0105111217.md) — article_0105111217
+      - [Assigning Roles and Permissions for Subscription Metrics](article_0105111456.md) — article_0105111456
+      - [Setting Up KPI Formulas and Preferences](article_0909053344.md) — article_0909053344
+        - [KPI Formulas](section_0910123257.md) — section_0910123257
+        - [Setting Subscription Metrics Preferences](article_0206025703.md) — article_0206025703
+        - [Setting Up Reporting Using Constant Currency Exchange Rates](section_0910020536.md) — section_0910020536
+    - [Working with the Subscription Metrics Dashboards](article_0105111711.md) — article_0105111711
+      - [Working with the Dashboard Filters](section_0915025100.md) — section_0915025100
+        - [Committed and Current Views in Subscription Metrics Dashboards](subsect_0428084843.md) — subsect_0428084843
+        - [KPI Drilldown Reports](article_0422024252.md) — article_0422024252
+      - [Working with the Revenue Metrics Dashboard](article_0105111734.md) — article_0105111734
+        - [Viewing Revenue KPIs](article_0105114426.md) — article_0105114426
+          - [Period and Comparison Period Options](section_0213040508.md) — section_0213040508
+        - [Viewing Recurring Revenue Roll Forward Reports](section_0105114502.md) — section_0105114502
+          - [Recurring Revenue Detail Report](section_0216011521.md) — section_0216011521
+        - [Viewing Recurring Revenue Bridge Charts](section_0105114521.md) — section_0105114521
+        - [Viewing Recurring Revenue Trend](section_0105114546.md) — section_0105114546
+        - [Viewing Class Composition](section_0105114600.md) — section_0105114600
+        - [Viewing Net New Trend](section_0105114616.md) — section_0105114616
+        - [Viewing the Top Five Recurring Revenues](section_0105114627.md) — section_0105114627
+        - [Viewing Subsidiary Recurring Revenue Trend](section_0105114642.md) — section_0105114642
+      - [Working with the Unit Economics Dashboard](article_0105112529.md) — article_0105112529
+        - [Working with Unit Economics KPIs](section_0105114951.md) — section_0105114951
+        - [Analyzing the Relationship Between CAC, LTV, and Their Ratio](section_0105114931.md) — section_0105114931
+        - [Comparing CAC and CAC Payback Period](section_0105115007.md) — section_0105115007
+        - [Viewing CAC Trends](section_0105115030.md) — section_0105115030
+        - [Viewing Sales Efficiency Ratio](section_0105115036.md) — section_0105115036
+        - [Comparing ASP by Deal Size and AACV](section_0105115044.md) — section_0105115044
+      - [Working with the Retention Metrics Dashboard](article_4135529886.md) — article_4135529886
+        - [Accessing the Retention Metrics Dashboard](article_0205035256.md) — article_0205035256
+        - [Viewing Retention KPIs](article_0114034901.md) — article_0114034901
+        - [Viewing Gross and Net Revenue Retention Trends](article_0114035127.md) — article_0114035127
+        - [Viewing Churn Rate Trends](article_0114035252.md) — article_0114035252
+        - [Viewing Churn by Item Trends](article_0114035343.md) — article_0114035343
+        - [Viewing Cohort Data](article_0114035441.md) — article_0114035441
+          - [Color-Coded Indicators for Key Cohort Data](section_0206042443.md) — section_0206042443
+          - [Retention Dashboard Metrics Cohort Types](section_0206042518.md) — section_0206042518
+            - [Cohort Type: Number of Logos](section_0206043740.md) — section_0206043740
+            - [Cohort Type: Gross Logo Churn Rate](section_0206045616.md) — section_0206045616
+            - [Cohort Type: Logo Retention Rate](section_0206050442.md) — section_0206050442
+            - [Cohort Type: Monthly Recurring Revenue (MRR)](section_0206050954.md) — section_0206050954
+            - [Cohort Type: Net Revenue Churn Rate](section_0206051715.md) — section_0206051715
+            - [Cohort Type: Net Revenue Retention - Related to Previous Month](section_0206052108.md) — section_0206052108
+            - [Cohort Type: Net Revenue Retention - Related to Base Period](section_0206052639.md) — section_0206052639
+            - [Cohort Type: Cumulative Lifetime Revenue (LTR)](section_0206052813.md) — section_0206052813
+            - [Cohort Type: Customer Lifetime Revenue (CLTR)](section_0206053159.md) — section_0206053159
+            - [Cohort Type: Customer Lifetime Value (CLV)](section_0206053321.md) — section_0206053321
+        - [Viewing Renewal Rate Trends](article_0114035628.md) — article_0114035628
+        - [Viewing Net Retention Table by Customer](article_0114035706.md) — article_0114035706
+        - [Viewing Item Renewal Rate](article_0114035811.md) — article_0114035811
+    - [Troubleshooting](article_0910041543.md) — article_0910041543
+    - [Uninstalling the Subscription Metrics SuiteApp](article_0910042202.md) — article_0910042202

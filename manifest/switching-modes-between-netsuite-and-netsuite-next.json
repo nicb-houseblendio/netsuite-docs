@@ -1,0 +1,24 @@
+{
+  "branch": "switching-modes-between-netsuite-and-netsuite-next",
+  "generatedAt": null,
+  "pages": {
+    "article_3190034196": {
+      "path": "corpus/switching-modes-between-netsuite-and-netsuite-next/article_3190034196.md",
+      "title": "Switching Modes Between NetSuite and NetSuite Next",
+      "type": "article",
+      "breadcrumb": "NetSuite Next > Switching Modes Between NetSuite and NetSuite Next",
+      "parent": "book_1140422123",
+      "category": "netsuite-next",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_3190034196.html",
+      "etag": "\"6fa6fa8a003a16ca86aca4881247886f:1786980324.307427\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:56:21.143Z",
+      "sha256": "d408518a865082bb288a7c70e0cea107e2d4c69846648dc5dafbf148294f0bec",
+      "bytes": 985,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

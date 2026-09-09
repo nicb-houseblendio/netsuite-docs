@@ -1,0 +1,21 @@
+# Workbook
+
+Workbook (161 pages): Workbook
+
+## Chapters
+- [Workbook](book_1527274324.md): - SuiteAnalytics Workbook Overview(https://docs.
+  - [SuiteAnalytics Workbook Overview](chapter_1503949328.md): SuiteAnalytics Workbook is an analytics tool in NetSuite.
+  - [Analytics Data Source Overview](chapter_1543418336.md): <a id="kalturaplayer37"</a The analytics data source is a collection of NetSuite data that is grouped according to record types and fields.
+  - [Custom Workbooks and Datasets](chapter_1544122127.md): In SuiteAnalytics Workbook, you analyze your company data using two distinct objects: a dataset and a workbook.
+  - [Workbook and Dataset Templates](chapter_1544220378.md): SuiteAnalytics Workbook currently offers over 20 predefined workbook and dataset templates.
+  - [Workbook-based Portlets](chapter_1544220560.md): With the Analytics portlet, SuiteAnalytics Workbook lets you view your workbook data on your dashboards.
+  - [SuiteAnalytics Workbook Tutorial](chapter_1544220685.md): Use this tutorial to walk through the authoring process for SuiteAnalytics Workbook.
+  - [Navigating SuiteAnalytics Workbook](chapter_1544220943.md): The SuiteAnalytics Workbook user interface includes an entry point, a Dataset Builder, and three workbook visualization tabs.
+  - [SuiteAnalytics Workbook Glossary](chapter_158498698111.md): This glossary contains descriptions of the elements used for workbook and dataset authoring.
+  - [SuiteAnalytics Workbook FAQs](article_160164903592.md): See the questions and answers below for information about SuiteAnalytics Workbook.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch workbook

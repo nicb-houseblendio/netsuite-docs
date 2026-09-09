@@ -1,0 +1,108 @@
+# Mexico Help Topics
+
+104 pages, category: Country-Specific Features
+
+- [Mexico Help Topics](section_4452522556.md) — section_4452522556
+  - [Mexico Terminology](section_1538999964.md) — section_1538999964
+  - [Setting Up Mexico-specific Preferences](section_1534496584.md) — section_1534496584
+  - [Mexico Tax Topics](section_1546442148.md) — section_1546442148
+    - [Mexico Tax Codes](section_1545662759.md) — section_1545662759
+    - [Mexico Tax Setup](section_1545662574.md) — section_1545662574
+  - [Mexico-specific SuiteApps](article_159706387553.md) — article_159706387553
+    - [Mexico Localization](article_159705898262.md) — article_159705898262
+      - [Mexico Localization SuiteApp Installation](section_1545662378.md) — section_1545662378
+        - [Mexico Localization Overview](article_160509819384.md) — article_160509819384
+        - [Installation Prerequisites for Mexico Localization](article_160510306962.md) — article_160510306962
+        - [Installing the Mexico Localization SuiteApp](article_160510346454.md) — article_160510346454
+        - [Granting Access to Scripts for Mexico Localization](article_160510352365.md) — article_160510352365
+        - [Configuring Financial Reports for Mexico](article_160510357426.md) — article_160510357426
+      - [Mexico Context](section_1538558501.md) — section_1538558501
+      - [Mexico Localization Features](section_1545650222.md) — section_1545650222
+      - [Compliance with Mexico SAT Requirements](section_1537370869.md) — section_1537370869
+        - [SAT Unit Codes](section_1542129674.md) — section_1542129674
+        - [SAT Item Codes](section_1542129692.md) — section_1542129692
+        - [RFC Field](section_1543405554.md) — section_1543405554
+      - [Electronic Invoicing for Mexico](section_1542706311.md) — section_1542706311
+        - [Mexico Electronic Invoicing Overview](section_1542796628.md) — section_1542796628
+        - [Mexico Electronic Invoicing Administrator Guide](section_1542796675.md) — section_1542796675
+        - [Mexico Electronic Invoicing User Guide](section_1542796738.md) — section_1542796738
+        - [Mexico Electronic Invoicing Use Cases](section_1547646009.md) — section_1547646009
+          - [Generating Electronic Invoices for Mexico](section_1553079397.md) — section_1553079397
+          - [Entering Electronic Cash Sales for Mexico](section_1554990616.md) — section_1554990616
+          - [Issuing Electronic Credit Memos for Mexico](section_1555080348.md) — section_1555080348
+          - [Accepting Customer Payments for Mexico](section_1556811380.md) — section_1556811380
+          - [Generating Item Fulfillments for Mexico](section_1556813732.md) — section_1556813732
+          - [Handling Customer Deposits in Mexico](section_1553082430.md) — section_1553082430
+      - [Mexico Localization Field Mapping](section_1545650965.md) — section_1545650965
+        - [Mapping Standard NetSuite Fields to Categories Required by the SAT](section_1546869502.md) — section_1546869502
+        - [Mapping Account Group Codes Through CSV](section_1546869606.md) — section_1546869606
+        - [Deleting Field Mappings](section_1546869681.md) — section_1546869681
+      - [Electronic Bank Payments for Mexico](section_1543240646.md) — section_1543240646
+        - [Mexico Payment Formats](section_1543241439.md) — section_1543241439
+          - [Setting Up Company Bank Records in Mexico](section_1545660883.md) — section_1545660883
+          - [Setting Up Bank Records of Vendors in Mexico](section_1543243456.md) — section_1543243456
+      - [Financial Reports for Mexico](section_1545059376.md) — section_1545059376
+      - [Electronic Accounting for Mexico](section_1546875260.md) — section_1546875260
+        - [Tax Code Mapping for Mexico DIOT File (Mexico Localization SuiteApp)](section_1546516127.md) — section_1546516127
+        - [Mexico DIOT File (Mexico Localization)](section_1545662951.md) — section_1545662951
+        - [Mexico Electronic Accounting Files (Mexico Localization)](section_1545663044.md) — section_1545663044
+          - [Setting Up Mexico Electronic Accounting Files](section_1545658126.md) — section_1545658126
+            - [Setting Up Mexico Tax Audit Files Configuration](section_1545658273.md) — section_1545658273
+          - [Generating Mexico Electronic Accounting Files](section_1545658605.md) — section_1545658605
+      - [Mexico Localization SuiteApp Limitations and Best Practices](section_1549538596.md) — section_1549538596
+    - [Mexico Certification Tax Authorities](article_6095719184.md) — article_6095719184
+      - [Mexico Certification Tax Authorities Overview](article_0224103612.md) — article_0224103612
+      - [Mexico Certification Tax Authorities Installation](article_0224103650.md) — article_0224103650
+        - [Prerequisites for Installing the Mexico Certification Tax Authorities SuiteApp](article_0224024435.md) — article_0224024435
+        - [Installing the Mexico Certification Tax Authorities SuiteApp](article_0224030305.md) — article_0224030305
+      - [Setup for Electronic Invoicing Cancellation for Mexico](article_0228031118.md) — article_0228031118
+      - [Canceling Electronic Invoices for Mexico](article_0228040353.md) — article_0228040353
+      - [Mexico Certification Tax Authorities SuiteApp Limitations and Best Practices](article_0224033010.md) — article_0224033010
+    - [Mexico Complementary Features](article_0104924864.md) — article_0104924864
+      - [Mexico Complementary Features Overview](article_0109105113.md) — article_0109105113
+      - [Mexico Complementary Features Installation](article_0109105205.md) — article_0109105205
+        - [Prerequisites for Installing the Mexico Complementary Features SuiteApp](article_0109105304.md) — article_0109105304
+        - [Installing the Mexico Complementary Features SuiteApp](article_0109105410.md) — article_0109105410
+      - [Creating a Certification Monitoring Plug-in Implementation (Mexico Certification Tax Authorities)](article_0310034325.md) — article_0310034325
+      - [SAT Fields for Mexico Complementary Features](article_0109105541.md) — article_0109105541
+      - [Mexico Audit Files: Electronic Accounting Files (Mexico Complementary Features)](article_54104228219.md) — article_54104228219
+      - [Mexico DIOT File Reports](article_0610101235.md) — article_0610101235
+        - [Mexico DIOT File (Mexico Complementary Features SuiteApp)](article_66114513343.md) — article_66114513343
+        - [Tax Code Mapping for Mexico DIOT File (Mexico Complementary Features SuiteApp)](article_0823093349.md) — article_0823093349
+        - [Mexico DIOT 2025 File (Mexico Complementary Features SuiteApp)](article_61143906421.md) — article_61143906421
+          - [Including Journal Entries in the Mexico DIOT 2025 Report](article_0318030312.md) — article_0318030312
+        - [Tax Code Mapping for Mexico DIOT 2025 File (Mexico Complementary Features SuiteApp)](article_11143131336.md) — article_11143131336
+      - [Mexico Complementary Features Known Limitations and Best Practices](article_0611093115.md) — article_0611093115
+    - [Mexico Deferred Taxes](article_159350848992.md) — article_159350848992
+      - [Mexico Deferred Taxes Overview](section_157899231848.md) — section_157899231848
+      - [Mexico Deferred Taxes Installation](section_160007748390.md) — section_160007748390
+      - [Default Deferred Tax Accounts for Mexico](section_159775640196.md) — section_159775640196
+      - [Setting Up Mexico Deferred Taxes](section_159775571364.md) — section_159775571364
+      - [Running the Mexico Deferred Taxes Process](section_159775656037.md) — section_159775656037
+      - [Generating the Mexico Deferred Taxes Report](article_160024990342.md) — article_160024990342
+    - [Mexico Bill of Lading (Complemento Carta Porte)](article_162669155339.md) — article_162669155339
+      - [Mexico Bill of Lading Overview](article_162670078022.md) — article_162670078022
+      - [Mexico Bill of Lading Installation](article_162670106429.md) — article_162670106429
+        - [Prerequisites for Installing the Mexico Bill of Lading SuiteApp](article_162729631720.md) — article_162729631720
+        - [Installing the Mexico Bill of Lading SuiteApp](article_162747056581.md) — article_162747056581
+        - [Granting Access to Scripts for the Mexico Bill of Lading SuiteApp](article_162747095791.md) — article_162747095791
+      - [Entering or Editing an Address for Mexico Bill of Lading](article_162852625617.md) — article_162852625617
+      - [Managing Operators Information](section_163094114256.md) — section_163094114256
+      - [Managing Mexico Fleet Codes](article_162730577285.md) — article_162730577285
+      - [SAT Fields for Mexico Bill of Lading](article_162670132398.md) — article_162670132398
+      - [Electronic Invoicing for Mexico Bill of Lading](article_162670160474.md) — article_162670160474
+        - [Mexico Bill of Lading Use Cases](article_162670164616.md) — article_162670164616
+      - [Mexico Bill of Lading Limitations](article_162764023852.md) — article_162764023852
+    - [Mexico Foreign Trade](article_161340239837.md) — article_161340239837
+      - [Mexico Foreign Trade Overview](article_161340372929.md) — article_161340372929
+      - [Mexico Foreign Trade Installation](article_161340377040.md) — article_161340377040
+      - [Entering or Editing an Address for Mexico Foreign Trade](article_164457280872.md) — article_164457280872
+      - [SAT Fields for Mexico Foreign Trade](article_161355639823.md) — article_161355639823
+        - [SATTariff Item Codes](article_161340489193.md) — article_161340489193
+      - [Sales Account Reclassification forMexico Foreign Trade](article_164423454199.md) — article_164423454199
+      - [Customs Details of Import Operations for Mexico Foreign Trade](article_164457296736.md) — article_164457296736
+      - [Electronic Invoicing for Mexico Foreign Trade](article_161355737823.md) — article_161355737823
+        - [Mexico Foreign TradeUse Cases](article_161908607128.md) — article_161908607128
+          - [Generating Electronic Invoices forMexico Foreign Trade](article_161356259161.md) — article_161356259161
+          - [Entering Electronic Cash Sales forMexico Foreign Trade](article_161356265371.md) — article_161356265371
+          - [Generating Item Fulfillments forMexico Foreign Trade](article_161356272782.md) — article_161356272782

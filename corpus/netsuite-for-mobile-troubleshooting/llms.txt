@@ -1,0 +1,17 @@
+# NetSuite for Mobile Troubleshooting
+
+NetSuite for Mobile Troubleshooting (6 pages): NetSuite for Mobile Troubleshooting
+
+## Chapters
+- [NetSuite for Mobile Troubleshooting](chapter_1554197671.md): Try these troubleshooting tips before reaching out to support.
+  - [NetSuite for Mobile No Data Returned Error](section_1554197681.md): You may receive a No Data Returned error message.
+  - [Cannot Log into NetSuite for Mobile](section_1554204020.md): If you cannot log in, it could be due to any of the following: - A connection error - see NetSuite for Mobile No Data Returned Error(https://docs.
+  - [NetSuite for Mobile Cannot Capture Image from Expenses Screen Error](section_158581687171.md): You may experience compatibility issues with the default camera app with some Motorola phones.
+  - [Known Issues when Sharing Files to NetSuite for iOS](section_0606095452.md): When sharing files or images to NetSuite for iOS from your Photos app or Files app, be aware of the following known issues: - It's not possible to share JPEG images from Safari to NetSuite for iOS.
+  - [Contacting Support About Your NetSuite for Mobile App](section_1554204644.md): If you cannot find the answer to your problem here, you might need to contact support.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-for-mobile-troubleshooting

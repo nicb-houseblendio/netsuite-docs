@@ -1,0 +1,18 @@
+# Internationalization
+
+Internationalization (20 pages): Internationalization
+
+## Chapters
+- [Internationalization](article_158572281325.md): This Help Center section covers internationalization in NetSuite.
+  - [Internationalization Overview](article_158572283255.md): For information about the terms and concepts described in this topic, see Globalization Glossary(https://docs.
+  - [International Formatting Support](article_158572286697.md): This section covers how NetSuite supports different types of formatting and includes these topics: - Worldwide Support for Phone Number Formatting(https://docs.
+  - [Worldwide Support for Phone Number Formatting](article_158572294439.md): Custom fields set to Phone Number use local formatting if you enable the Phone Number Formatting feature in your account.
+  - [Phone Number Formatting Support in SuiteScript](article_161408261491.md): The Worldwide Support for Phone Number Formatting feature adds two new SuiteScript formatting objects: format.
+  - [List of Supported Countries](article_161304811431.md): See the list of supported countries, their codes, calling codes and phone numbers in three different formats.
+  - [Localization Context](article_158572284997.md): Localization context means background information needed to localize a product or part of NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch internationalization

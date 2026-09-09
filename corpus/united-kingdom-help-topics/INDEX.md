@@ -1,0 +1,91 @@
+# United Kingdom Help Topics
+
+87 pages, category: Country-Specific Features
+
+- [United Kingdom Help Topics](section_4198378533.md) — section_4198378533
+  - [Functional Areas](bridgehead_160327053810.md) — bridgehead_160327053810
+    - [Accounting](bridgehead_156863687954.md) — bridgehead_156863687954
+    - [Taxation (Accounts Without SuiteTax)](bridgehead_160327607399.md) — bridgehead_160327607399
+    - [Taxation (Accounts With SuiteTax)](bridgehead_160327610240.md) — bridgehead_160327610240
+    - [Payment Formats](bridgehead_156863405763.md) — bridgehead_156863405763
+    - [Employee Management](bridgehead_160328321655.md) — bridgehead_160328321655
+    - [Bank Reconciliation](bridgehead_160327645393.md) — bridgehead_160327645393
+  - [United Kingdom Account Setup](section_156922707542.md) — section_156922707542
+  - [Setting Up United Kingdom-specific Preferences](section_156889000461.md) — section_156889000461
+  - [United Kingdom-specific SuiteApps](section_158039814204.md) — section_158039814204
+    - [United Kingdom Localization](section_157131293913.md) — section_157131293913
+      - [United Kingdom Localization Overview](section_157235633810.md) — section_157235633810
+      - [Prerequisites for Installing the United Kingdom Localization SuiteApp](section_157131471666.md) — section_157131471666
+      - [Setting Up Accounts for United Kingdom Localization](bridgehead_158857815944.md) — bridgehead_158857815944
+        - [Using United Kingdom Localization with the Multiple Currencies Feature Enabled](bridgehead_163516121417.md) — bridgehead_163516121417
+      - [Installing the United Kingdom Localization SuiteApp](section_157131502005.md) — section_157131502005
+      - [United Kingdom Payment Formats](section_156922746724.md) — section_156922746724
+        - [Setting Up Company Bank Records in the United Kingdom](section_N1656790.md) — section_N1656790
+        - [Setting Up Bank Records of Vendors in the United Kingdom](section_N1657779.md) — section_N1657779
+        - [Setting Up Bank Records of Employees in the United Kingdom](section_N1658141.md) — section_N1658141
+        - [Setting Up Bank Records of Customers in the United Kingdom](section_N1658474.md) — section_N1658474
+        - [Setting Up Bank Records of Partners in the United Kingdom](section_3851248105.md) — section_3851248105
+      - [United Kingdom Tax Reporting Framework](section_157598390063.md) — section_157598390063
+        - [Periodic VAT Return - VAT100](section_156775976739.md) — section_156775976739
+        - [Periodic VAT return - VAT100 (pre-2021)](section_161132411599.md) — section_161132411599
+        - [UK Submit VAT Return via CSV](section_162643004330.md) — section_162643004330
+          - [UK Submit VAT Return via CSV Overview](bridgehead_162616439103.md) — bridgehead_162616439103
+          - [Prerequisites for using UK Submit VAT Return via CSV feature](bridgehead_162616433010.md) — bridgehead_162616433010
+          - [UK Submit VAT Return via CSV Custom Role](bridgehead_162626433831.md) — bridgehead_162626433831
+          - [Creating UK VAT Return via CSV Report](bridgehead_162626790370.md) — bridgehead_162626790370
+        - [Making Tax Digital](section_1555090419.md) — section_1555090419
+        - [Making Tax Digital: Submission Errors in Tax Reporting Framework](section_1552967912.md) — section_1552967912
+        - [Making Tax Digital: Fraud Prevention Headers for Tax Reporting Framework](section_162643017004.md) — section_162643017004
+        - [United Kingdom Intrastat](subsect_157164884789.md) — subsect_157164884789
+          - [Intrastat - Dispatches](subsect_161113516128.md) — subsect_161113516128
+          - [Intrastat - Arrivals](subsect_160526338780.md) — subsect_160526338780
+          - [Net Mass Requirement in United Kingdom Intrastat](subsect_061509585332.md) — subsect_061509585332
+          - [United Kingdom Nature of Transaction Code](subsect_159065700009.md) — subsect_159065700009
+    - [SuitePeople U.K. Localization](section_158072090488.md) — section_158072090488
+      - [SuitePeople U.K. Localization Overview](section_158078260378.md) — section_158078260378
+        - [SuitePeople U.K. Localization Forms and Fields](section_158078789277.md) — section_158078789277
+        - [SuitePeople U.K. Localization Saved Searches](section_158079698798.md) — section_158079698798
+      - [Setting Up SuitePeople U.K. Localization](section_158078263868.md) — section_158078263868
+        - [SuitePeople U.K. Localization Prerequisites](section_158078272683.md) — section_158078272683
+        - [Installing SuitePeople U.K. Localization](section_158078275469.md) — section_158078275469
+        - [Adding SuitePeople U.K. Localization Fields to Custom Permissions and Roles](section_158078279937.md) — section_158078279937
+        - [Adding SuitePeople U.K. Localization Fields to Forms](section_158080200213.md) — section_158080200213
+      - [Working with SuitePeople U.K. Localization](section_158078268506.md) — section_158078268506
+        - [Adding an Employee Record for U.K. Monitoring](section_158078284995.md) — section_158078284995
+        - [Viewing SuitePeople U.K. Localization Reports](section_158078287437.md) — section_158078287437
+        - [Customizing SuitePeople U.K. Localization Reports](section_158078291996.md) — section_158078291996
+  - [United Kingdom Tax Topics For Accounts Without SuiteTax](section_156922742495.md) — section_156922742495
+    - [Creating Tax Codes - United Kingdom](section_N2026362.md) — section_N2026362
+    - [Recording VAT on Prompt Payment Discounts on Sales Invoices for United Kingdom](section_4225129843.md) — section_4225129843
+    - [Recording VAT on Prompt Payment Discounts on Purchases for United Kingdom](section_4225131687.md) — section_4225131687
+    - [Taxing Transactions with a Contingent/Volume Discount](section_N2029417.md) — section_N2029417
+    - [Setting Up Tax Filing for United Kingdom](section_N2029554.md) — section_N2029554
+    - [United Kingdom VAT100 Tax Report](section_N2029877.md) — section_N2029877
+      - [United Kingdom VAT100 Overview](section_N2029998.md) — section_N2029998
+      - [What goes into each box - United Kingdom VAT100 report](section_N2030237.md) — section_N2030237
+      - [Generating a United Kingdom VAT100 Tax Report](section_N2031051.md) — section_N2031051
+      - [Submitting a VAT100 Tax Return Online](section_N2031477.md) — section_N2031477
+      - [Viewing the VAT100 Submission History](section_N2031770.md) — section_N2031770
+      - [Errors in your VAT100 Submission](section_N2032238.md) — section_N2032238
+      - [Viewing the Submitted VAT100 in the File Cabinet](section_N2032419.md) — section_N2032419
+      - [Making Tax Digital for VAT](section_1543299566.md) — section_1543299566
+        - [Making Tax Digital for VAT Overview and Setup](section_1543833477.md) — section_1543833477
+        - [Submitting MTD VAT Returns to HMRC](section_1543833633.md) — section_1543833633
+        - [Submitting an MTD VAT Return in a CSV File](section_1547520822.md) — section_1547520822
+        - [Viewing Submission History of United Kingdom MTD CSV Files](section_1558408249.md) — section_1558408249
+        - [Viewing Previously Submitted MTD VAT Returns](section_1543833722.md) — section_1543833722
+        - [Viewing the MTD VAT Return Submission History](section_1543833748.md) — section_1543833748
+        - [Handling MTD VAT Return Submission Errors](section_156385546699.md) — section_156385546699
+        - [Exporting a United Kingdom VAT Return to Excel](section_1543833696.md) — section_1543833696
+        - [Sending of MTD Anti-Fraud Headers](article_161597724226.md) — article_161597724226
+    - [EU Sales List for United Kingdom](section_N2032559.md) — section_N2032559
+      - [Viewing an EU Sales List (ESL) Report for the United Kingdom](section_N2032655.md) — section_N2032655
+      - [Submitting an EU Sales List (ESL) Online in the United Kingdom to HMRC](section_N2034464.md) — section_N2034464
+      - [Viewing the ESL Submission History](section_N2034719.md) — section_N2034719
+      - [Errors in your ESL Submission](section_N2034958.md) — section_N2034958
+      - [Viewing the Submitted United Kingdom ESL](section_N2035141.md) — section_N2035141
+    - [Intrastat Report for United Kingdom](section_N2035309.md) — section_N2035309
+      - [United Kingdom Intrastat Report Fields](article_160811087271.md) — article_160811087271
+      - [United Kingdom Intrastat Report for Dispatches and Arrivals](article_160811090063.md) — article_160811090063
+      - [Generating the United Kingdom Intrastat Report](article_160802796500.md) — article_160802796500
+      - [Exporting the United Kingdom Intrastat Report](article_160802803773.md) — article_160802803773

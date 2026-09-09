@@ -1,0 +1,16 @@
+# Additional Resources
+
+Additional Resources (12 pages): Additional Resources
+
+## Chapters
+- [Additional Resources](article_7095531221.md): - Migrate from Legacy LCM-based SKUs to NetSuite EPM SKUs(https://docs.
+  - [Migrate from Legacy LCM-based SKUs to NetSuite EPM SKUs](article_5124022701.md): In September of 2024, Oracle NetSuite EPM Standard Cloud and Oracle NetSuite EPM Premium Cloud became available as NetSuite Enterprise Performance Management (EPM) SKUs.
+  - [NetSuite and Data Exchange Comparison](article_1180243654.md): You can use both NetSuite and Data Exchange to manage data load rules for your NetSuite Enterprise Performance Management (EPM) applications.
+  - [Planning and Budgeting Sync and NSPB Sync Comparison](article_4130425784.md): The Planning and Budgeting Sync SuiteApp is a new addition to the group of SuiteApps that integrate NetSuite with the supported NetSuite Enterprise Performance Management products.
+  - [NetSuite Enterprise Performance Management Glossary](article_8122122794.md): See also NetSuite Planning and Budgeting Glossary(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch additional-resources

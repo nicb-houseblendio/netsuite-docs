@@ -1,0 +1,17 @@
+# System Notes
+
+System Notes (14 pages): System Notes
+
+## Chapters
+- [System Notes](book_158757371569.md): - System Notes and System Notes v2(https://docs.
+  - [System Notes and System Notes v2](article_160225379741.md): NetSuite tracks changes made to a record using system notes.
+  - [System Notes Overview](chapter_158644279544.md): Note: System Notes and System Notes v2 are two different systems.
+  - [System Notes v2 Overview](section_158108495822.md): Note: System Notes and System Notes v2 are two different systems.
+  - [System Notes Terminology](section_159232884029.md): The following terms are used to refer to system notes in NetSuite.
+  - [System Notes Documentation](section_159241377090.md): The following topics contain information about Auditing(subsect159241383963), System Notes(subsect159241571596), and Transaction History(subsect159241707981).
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch system-notes

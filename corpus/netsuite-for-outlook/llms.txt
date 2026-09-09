@@ -1,0 +1,12 @@
+# NetSuite for Outlook
+
+NetSuite for Outlook (1 pages): NetSuite for Outlook
+
+## Chapters
+- [NetSuite for Outlook](preface_1552649469.md): Important: Issue fixes and enhancements are no longer expected for NetSuite for Outlook.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-for-outlook

@@ -1,0 +1,17 @@
+# Working with Records, Transactions, and Lists
+
+Working with Records, Transactions, and Lists (82 pages): Working with Records, Transactions, and Lists
+
+## Chapters
+- [Working with Records, Transactions, and Lists](chapter_N488023.md): All the information you need to keep your business running smoothly is organized and stored in records in NetSuite.
+  - [Working with Records](section_N488213.md): Through records, you keep track of all the information from your NetSuite account.
+  - [Duplicate Record Detection](section_N490932.md): The Duplicate Detection & Merge feature helps you find duplicate records in your NetSuite account and use the information in them to create a single record.
+  - [Working with Groups](section_N492945.md): A group is a set of employees, contacts, customers, partners or vendors.
+  - [Working with Transactions](chapter_N545359.md): A transaction is a record of a business event.
+  - [Working with Lists](section_N494311.md): You can use NetSuite lists to access individual records or to work with multiple records at one time.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch working-with-records-transactions-and-lists

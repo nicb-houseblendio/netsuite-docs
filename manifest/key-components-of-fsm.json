@@ -1,0 +1,42 @@
+{
+  "branch": "key-components-of-fsm",
+  "generatedAt": null,
+  "pages": {
+    "article_1140906473": {
+      "path": "corpus/key-components-of-fsm/article_1140906473.md",
+      "title": "Field Service Management",
+      "type": "article",
+      "breadcrumb": "Field Service Management",
+      "parent": null,
+      "category": "field-service-management",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_1140906473.html",
+      "etag": "\"1fba59eb7641588f361c09a2849b8bb0:1786980277.30137\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:32:18.322Z",
+      "sha256": "fa226179095e4721da21ff7ceabae08f082904dec5650b9936ac6a24aff1b239",
+      "bytes": 4438,
+      "anchors": 1,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "article_0302024411": {
+      "path": "corpus/key-components-of-fsm/article_0302024411.md",
+      "title": "Key Components of FSM",
+      "type": "article",
+      "breadcrumb": "Field Service Management > Key Components of FSM",
+      "parent": "article_1140906473",
+      "category": "field-service-management",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_0302024411.html",
+      "etag": "\"f43cb5043c9406ad8663735e0dbf46fa:1786980238.284951\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:32:19.118Z",
+      "sha256": "047106f4f2b0804f1412b5342aaa71d75238ccd909e42127e1631ebb24a71eab",
+      "bytes": 4909,
+      "anchors": 8,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

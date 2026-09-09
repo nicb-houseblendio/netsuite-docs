@@ -1,0 +1,86 @@
+# Working with Records, Transactions, and Lists
+
+82 pages, category: NetSuite Basics
+
+- [Working with Records, Transactions, and Lists](chapter_N488023.md) — chapter_N488023
+  - [Working with Records](section_N488213.md) — section_N488213
+    - [NetSuite Record Pages](section_N488305.md) — section_N488305
+      - [Record Subtabs](section_4309567650.md) — section_4309567650
+      - [Record and Transaction Data Fields](section_N547812.md) — section_N547812
+    - [NetSuite Record Types](section_N488657.md) — section_N488657
+    - [Searching for Records](section_4335483183.md) — section_4335483183
+    - [Viewing and Editing Records](section_N489685.md) — section_N489685
+    - [Currency Field Limitations](bridgehead_N1396157.md) — bridgehead_N1396157
+    - [Creating a Transaction from a Record](section_N561399.md) — section_N561399
+    - [Attaching Files to Records](section_N490137.md) — section_N490137
+    - [Inactivating Records](section_N490731.md) — section_N490731
+  - [Duplicate Record Detection](section_N490932.md) — section_N490932
+    - [Merging or Deleting Duplicate Records](section_N491111.md) — section_N491111
+      - [Manage Record Duplicates Page](bridgehead_4160068263.md) — bridgehead_4160068263
+      - [Submitting Merge Operations](bridgehead_N491162.md) — bridgehead_N491162
+      - [Merging Records with Active Workflow Instances](bridgehead_3843896859.md) — bridgehead_3843896859
+      - [Status and Timing of Merge Operations](bridgehead_N491751.md) — bridgehead_N491751
+    - [Merging Large Numbers of Records](section_3744355188.md) — section_3744355188
+      - [Resolving Duplicate Merge Time Out Errors](subsect_32154850062.md) — subsect_32154850062
+    - [Merging Different Types of Records](section_N491887.md) — section_N491887
+    - [Near Match Detection](article_2103425532.md) — article_2103425532
+    - [Words Excluded from Duplicate Detection Matching](section_N492354.md) — section_N492354
+  - [Working with Groups](section_N492945.md) — section_N492945
+    - [Creating a Dynamic Group](section_N493194.md) — section_N493194
+    - [Creating a Static Group](section_N493462.md) — section_N493462
+    - [Creating a Contact Group](section_N493826.md) — section_N493826
+      - [Creating a Static Contact Group](bridgehead_N493908.md) — bridgehead_N493908
+      - [Creating a Dynamic Contact Group](bridgehead_N494116.md) — bridgehead_N494116
+    - [Adding and Removing Members of Groups](section_1502138792.md) — section_1502138792
+  - [Working with Transactions](chapter_N545359.md) — chapter_N545359
+    - [Creating Transactions](section_N546079.md) — section_N546079
+      - [Working with Addresses on Transactions](section_N553515.md) — section_N553515
+        - [Adding or Editing a New Address from a Transaction](section_1499370634.md) — section_1499370634
+        - [Adding or Editing a Custom Address for a Transaction](section_1499370025.md) — section_1499370025
+        - [Setting the State or Province Field Preference](section_1499369681.md) — section_1499369681
+      - [Creating New Records as You Enter Transactions](section_N546596.md) — section_N546596
+      - [Editing Records as You Enter Transactions](section_N546716.md) — section_N546716
+      - [Defining Subsidiaries for OneWorld Transactions](section_N550454.md) — section_N550454
+      - [Using Transaction Links](section_N551392.md) — section_N551392
+      - [Linking a Transaction to a Support Case](section_4470989794.md) — section_4470989794
+    - [Entering Transaction Line Items](section_N550610.md) — section_N550610
+      - [Recalculating Line Item Amounts When the Tax Code Changes](bridgehead_4222571547.md) — bridgehead_4222571547
+    - [Entering Relationships on a Transaction](section_4586861907.md) — section_4586861907
+    - [Entering Communication Information to a Transaction](section_4586862223.md) — section_4586862223
+    - [Tips for Working with Transactions](section_N551712.md) — section_N551712
+    - [Finding Transactions](section_N560124.md) — section_N560124
+    - [Voiding, Deleting, or Closing Transactions](section_N563543.md) — section_N563543
+    - [Memorized Transactions](section_N564245.md) — section_N564245
+      - [Memorizing a Transaction](section_N564637.md) — section_N564637
+      - [Submitting Memorized Transactions](section_N565877.md) — section_N565877
+      - [Editing Memorized Transactions](section_N566256.md) — section_N566256
+      - [Customizing the Memorized Transactions List](bridgehead_N564424.md) — bridgehead_N564424
+      - [Viewing the Status of Memorized Transactions](bridgehead_N564455.md) — bridgehead_N564455
+      - [Deleting Memorized Transactions](section_N566525.md) — section_N566525
+    - [Preferred Transaction Delivery on Customer and Vendor Records](section_N558109.md) — section_N558109
+      - [Printing Checks and Other Transactions](section_N566722.md) — section_N566722
+      - [Emailing Transactions](section_N513303.md) — section_N513303
+        - [Sending Transaction Email in Bulk](bridgehead_3892745797.md) — bridgehead_3892745797
+        - [Creating a Sent Log for Transaction Email](bridgehead_4613190848.md) — bridgehead_4613190848
+    - [Transaction Detail Report](section_N569351.md) — section_N569351
+    - [Transaction Detail Workbook Overview](section_156465780853.md) — section_156465780853
+      - [Transaction Detail Dataset](section_158219941513.md) — section_158219941513
+      - [Transaction Detail Workbook](section_158220052678.md) — section_158220052678
+    - [My Transactions Workbook](section_160975119611.md) — section_160975119611
+      - [My Transactions Dataset](article_161097418588.md) — article_161097418588
+      - [My Transactions Workbook](article_161097418051.md) — article_161097418051
+    - [Limits for Display of Transaction Lists and Sublists](section_N569641.md) — section_N569641
+      - [Line Limitations for Transactions](article_159361099314.md) — article_159361099314
+        - [Limitations for Creating Transactions](article_159361107074.md) — article_159361107074
+        - [Limitations for Importing Transactions](article_159361166033.md) — article_159361166033
+        - [Limitations for Displaying Transactions](article_159361334524.md) — article_159361334524
+  - [Working with Lists](section_N494311.md) — section_N494311
+    - [Exporting Lists](section_N495079.md) — section_N495079
+    - [Using Inline Editing](section_N495192.md) — section_N495192
+      - [Additional Notes about Inline Editing](bridgehead_N495470.md) — bridgehead_N495470
+    - [Using the Recent Records Menu](section_N495728.md) — section_N495728
+    - [Working with List Views, Sublist Views, and Dashboard Views](section_N495842.md) — section_N495842
+      - [Customizing List Views](section_N496170.md) — section_N496170
+      - [Customizing Sublist Views](section_N496633.md) — section_N496633
+      - [Customizing Dashboard Views](section_N496945.md) — section_N496945
+      - [Selecting an Existing Saved Search as a Custom View](section_N499527.md) — section_N499527

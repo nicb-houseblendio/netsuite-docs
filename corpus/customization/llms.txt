@@ -1,0 +1,23 @@
+# Customization
+
+Customization (549 pages): Customization
+
+## Chapters
+- [Customization](book_N2823893.md): - Customization Overview(https://docs.
+  - [Customization Overview](chapter_N2824008.md): With the customization tools, you can tailor NetSuite to your individual business needs and processes.
+  - [Customization Best Practices](article_163039950342.md): This section contains best practices to consider when building customization.
+  - [Customizing Field Level Help for Standard Fields](chapter_1530729846.md): This topic describes how to create and customize help text for standard NetSuite fields, including support for multiple languages, HTML markup, and examples.
+  - [Custom Fields](chapter_N2826978.md): Custom fields let you add information specific to your business needs to records and transactions.
+  - [Custom Forms](chapter_N2852749.md): Forms are the pages used to enter information into the NetSuite database.
+  - [Custom Records Overview](chapter_N2875173.md): - Custom Records(https://docs.
+  - [Custom Transactions Overview](chapter_4172599049.md): - Custom Transactions(https://docs.
+  - [Custom Segments](chapter_4313464438.md): The Custom Segments feature lets you create custom classification fields similar to class, department, and location.
+  - [Custom Centers](chapter_N2890160.md): Administrators and users with Custom Centers permissions can create and apply custom centers to custom roles.
+  - [Deploying Upgraded Forms](chapter_N2894013.md): NetSuite administrators can use the Upgrade Checklist to preview custom forms with 2010.
+  - [Advanced Record Customization](article_2144345458.md): Advanced Record Customization (ARC) provides a central location where administrators can review and refine standard and custom data model configurations.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch customization

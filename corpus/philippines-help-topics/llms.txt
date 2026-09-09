@@ -1,0 +1,22 @@
+# Philippines Help Topics
+
+Philippines Help Topics (159 pages): Philippines Help Topics
+
+## Chapters
+- [Philippines Help Topics](section_4198378394.md): The following help topics provide information about NetSuite features specific to companies doing business in the Philippines.
+  - [General Setup](bridgehead_1552464981.md): | Functional Area | Feature | Description | | --- | --- | --- | | Account Setup | Setting up Philippines-specific Features and Preferences(https://docs.
+  - [Accounting](bridgehead_4256384078.md): | Functional Area | Feature | Description | | --- | --- | --- | | Banking | Supported File Formats for Default Parsers(https://docs.
+  - [Order Management](bridgehead_1552545641.md): | Functional Area | Feature | Description | | --- | --- | --- | | Billing and Invoicing | Philippines Localization(https://docs.
+  - [Taxation Features for Accounts With SuiteTax](bridgehead_0625100435.md): The table below outlines Philippines taxation features.
+  - [Required SuiteApps](bridgehead_1552545856.md): | SuiteApp | Description | | --- | --- | | International Tax Reports(https://docs.
+  - [Certification](bridgehead_1552558291.md): Companies in the Philippines that use a computerized accounting system are required to apply for a permit to use Computerized Accounting System (CAS) from the Bureau of Internal Revenue (BIR).
+  - [Setting up Philippines-specific Features and Preferences](section_1552558628.md): As a NetSuite user, your account should already be configured to suit your country and business-specific needs.
+  - [Philippines Tax Topics](chapter_N1950898.md): NetSuite provides value added tax (VAT) and withholding tax tracking and reporting for businesses in the Philippines.
+  - [Philippines Invoicing](section_157890644903.md): To use the Philippines invoicing features, you need to install the Southeast Asia Localization(https://docs.
+  - [Philippines Localization](section_160131997443.md): The Philippines Localization SuiteApp provides localized templates and features for Philippines invoicing.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch philippines-help-topics

@@ -1,0 +1,13 @@
+# Updating SuiteApps
+
+Updating SuiteApps (2 pages): SuiteApps
+
+## Chapters
+- [SuiteApps](article_3134602194.md): SuiteApps are applications or bundles that extend NetSuite for specific industry and business needs.
+  - [Updating SuiteApps](section_4452518839.md): Most SuiteApps are automatically updated in your account whenever there are changes.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch updating-suiteapps

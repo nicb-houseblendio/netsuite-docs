@@ -1,0 +1,17 @@
+# NFP SuiteApps Update Verification
+
+NFP SuiteApps Update Verification (6 pages): NFP SuiteApps Update Verification
+
+## Chapters
+- [NFP SuiteApps Update Verification](article_162029331599.md): When you update NFP SuiteApps, you might need to update some customizations manually.
+  - [Installing NFP SuiteApps Update Verification](section_162029343563.md): You can install the NFP SuiteApps Update Verification SuiteApp from the SuiteApp Marketplace.
+  - [Settings in the SuiteApps Update Verification Page](section_162029930529.md): The SuiteApps Update Verification page provides the following fields: | Section | Field | Description | | --- | --- | --- | | Custom Segments Verification | Verified Custom Segments Changes | Check this box after understanding that a SuiteApp update does not preserve changes to the following custom segments fields, and you must redo the changes after the update: - Filter By - Show in List - Display Type - Help - Description | | Custom Records Verification | Verified Custom Records Changes | Check this box after verifying the following custom records related to custom segments: - No changes are made to the following subtabs - Fields - Icons - No entries are added to the following subtabs: - Subtabs - Sublists - No changes are made to the lists or records attached to a field Warning: If you change the list or record attached to a field, there is a data loss on SuiteApp update.
+  - [Unlocked Components in NFP SuiteApps](section_162029406973.md): The following is the list of unlocked components in each NFP SuiteApp: | Type | Components | SuiteApp | Usage | | --- | --- | --- | --- | | Custom Segments, Custom Records | - Program - Revenue Subtype - Time Restriction - Restriction - Region - Functional Expense - Revenue Type - Grant | NFP Financials (These components are also referred and unlocked in all SuiteApps dependent on NFP Financials) | A SuiteApp update does not preserve changes to the following custom segments fields, and you must redo the changes after the update: - Filter By - Show in List - Display Type - Help - Description Ensure the following: - No changes are made to the following subtabs - Fields - Icons - No entries are added to the following subtabs: - Subtabs - Sublists - No changes are made to the lists or records attached to a field Do not rename the following classifications with the same name as the custom segments in the NFP Financials SuiteApp: - Department - Class - Locations - Subsidiary - Account | | - Household | NFP Constituent Management | | Custom Forms | - NFP - Program - NFP-Grant | NFP Financials (These components also referred and unlocked in all SuiteApps dependent on NFP Financials) | Do not make any changes to these components.
+  - [Enabling SuiteApp Updates](section_162029976767.md): For updating NFP SuiteApps, you must check all the fields in the SuiteApps Update Verification page.
+  - [Notifications When Installing NFP SuiteApp Updates](section_162030002794.md): In the following cases, an NFP SuiteApp update is blocked and the application sends an email to the account administrator: - If you do not have the NFP SuiteApps Update Verification SuiteApp installed.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch nfp-suiteapps-update-verification

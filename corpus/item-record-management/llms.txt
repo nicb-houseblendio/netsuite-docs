@@ -1,0 +1,13 @@
+# Item Record Management
+
+Item Record Management (272 pages): SCM (Supply Chain Management)
+
+## Chapters
+- [SCM (Supply Chain Management)](set_N1734902.md): - Item Record Management(https://docs.
+  - [Item Record Management](book_N2164398.md): - Using Item Records(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch item-record-management

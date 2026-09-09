@@ -1,0 +1,16 @@
+# Optimizing NetSuite Performance
+
+Optimizing NetSuite Performance (6 pages): Optimizing NetSuite Performance
+
+## Chapters
+- [Optimizing NetSuite Performance](chapter_N571805.md): System performance indicates how well a computer system or application is doing the work it is supposed to do.
+  - [Data Profiling and Caching](section_0914011325.md): NetSuite uses proactive monitoring, data profiling, and caching to ensure performance and scalability.
+  - [First Load of a Record](section_0914012159.md): To provide the best customer experience, NetSuite leverages multilayer caching to speed up performance on frequently used operations.
+  - [Load Testing](section_0914012402.md): Load testing is the validation of system response under a predefined load.
+  - [User Acceptance Testing](section_0914012646.md): User Acceptance Testing (UAT) acts as the last phase of the software development process where business functions are tested in a real-world scenario.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch optimizing-netsuite-performance

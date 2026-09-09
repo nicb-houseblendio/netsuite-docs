@@ -1,0 +1,333 @@
+# Revenue and Expense Recognition
+
+329 pages, category: Accounting
+
+- [Revenue and Expense Recognition](book_N1675734.md) — book_N1675734
+  - [Revenue and Expense Recognition Overview](chapter_N1675871.md) — chapter_N1675871
+  - [Advanced Revenue Management (Essentials) and (Revenue Allocation)](chapter_4328435538.md) — chapter_4328435538
+    - [Setup for Advanced Revenue Management (Essentials)](section_4328435754.md) — section_4328435754
+      - [Enabling the Advanced Revenue Management (Essentials) Feature](section_4331936670.md) — section_4331936670
+      - [Advanced Revenue Management in Configuration Mode](section_0726035100.md) — section_0726035100
+        - [Disabling the Advanced Revenue Management in Configuration Mode Feature](article_0726041738.md) — article_0726041738
+      - [Mapping Revenue Recognition Fields](section_4527123579.md) — section_4527123579
+        - [Deleting Revenue Recognition Field Maps](article_21101850440.md) — article_21101850440
+        - [Cross-Data Type Field Mappings for Revenue Recognition](article_88101915870.md) — article_88101915870
+          - [Field Mapping Transformations](article_25101936887.md) — article_25101936887
+        - [Field Mapping Kit Component Items](article_0116102258.md) — article_0116102258
+        - [Field Mapping Dependent Custom Segments](article_0116112338.md) — article_0116112338
+      - [Setting Advanced Revenue Management (Essentials) Preferences](section_4331941758.md) — section_4331941758
+      - [Creating a Custom Revenue Recognition Event](section_4821833004.md) — section_4821833004
+      - [Revenue Arrangement Approval Routing](section_1489444938.md) — section_1489444938
+    - [Setup for Advanced Revenue Management (Revenue Allocation)](article_0627115526.md) — article_0627115526
+      - [Enabling the Advanced Revenue Management (Revenue Allocation) Feature](section_165101927337.md) — section_165101927337
+      - [Adding Item Revenue Categories](section_4331943409.md) — section_4331943409
+      - [Setting Advanced Revenue Management (Revenue Allocation) Preferences](article_0627070629.md) — article_0627070629
+      - [Fair Value Setup](section_4331943130.md) — section_4331943130
+        - [Adding Fair Value Formulas](section_4332797176.md) — section_4332797176
+          - [Fair Value Functions](section_1544831641.md) — section_1544831641
+          - [GroupSum Formulas](section_4352551823.md) — section_4352551823
+        - [Adding Fair Value Dimensions](section_4332797437.md) — section_4332797437
+          - [Logic for Fair Value Price Selection with Fair Value Dimensions](section_4544574596.md) — section_4544574596
+        - [Creating the Fair Value Price List](section_4332797619.md) — section_4332797619
+      - [Adding Revenue Allocation Groups](section_4338789004.md) — section_4338789004
+    - [Transition to the New Revenue Recognition Standard](section_4703499262.md) — section_4703499262
+      - [Migrating Revenue Arrangements and Plans](section_4720683465.md) — section_4720683465
+      - [Migrate Revenue Arrangements and Plans Log Reference](section_1495667878.md) — section_1495667878
+      - [Examples of Migration Updates to Revenue Plans](section_1495667931.md) — section_1495667931
+    - [Revenue Recognition and Advanced Revenue Management (Essentials)](section_1510249882.md) — section_1510249882
+      - [Rev Rec Start and End Date Fields with Advanced Revenue Management (Essentials)](section_1510252610.md) — section_1510252610
+      - [Search Considerations for Advanced Revenue Management (Essentials)](section_1510253286.md) — section_1510253286
+      - [Reports for Classic Revenue Recognition and Advanced Revenue Management (Essentials)](section_1510255399.md) — section_1510255399
+    - [Revenue Management Roles and Permissions](section_4333739329.md) — section_4333739329
+      - [Revenue Tab in the Accounting Center](section_4344862647.md) — section_4344862647
+      - [Change Information for Revenue Recognition Records](section_4594678231.md) — section_4594678231
+    - [Revenue Recognition Rules](section_4333740009.md) — section_4333740009
+      - [Revenue Recognition Rule Field Reference](section_4356113783.md) — section_4356113783
+        - [Straight-Line Revenue Recognition Examples in Advanced Revenue Management (Essentials)](section_4362249596.md) — section_4362249596
+      - [Defining a Revenue Recognition Rule](section_4356114812.md) — section_4356114812
+    - [Item Configuration for Advanced Revenue Management (Essentials) and (Revenue Allocation)](section_4340443927.md) — section_4340443927
+      - [Discount and Markup Items in Advanced Revenue Management (Essentials)](section_4369060813.md) — section_4369060813
+      - [Auto-Expansion of Kit Items](section_4677544043.md) — section_4677544043
+    - [Revenue Arrangement Management](section_4333740355.md) — section_4333740355
+      - [Updating Revenue Arrangements](section_4370936348.md) — section_4370936348
+      - [Viewing Revenue Arrangements](section_4370936176.md) — section_4370936176
+        - [Revenue Arrangement Subtabs](section_157375916435.md) — section_157375916435
+        - [Revenue Elements Subtab on Revenue Arrangements](section_157375961377.md) — section_157375961377
+        - [Revenue Summary Details](section_157376598442.md) — section_157376598442
+      - [Editing Revenue Arrangements](bridgehead_4663787622.md) — bridgehead_4663787622
+        - [Bulk Editing Revenue Arrangements](section_1491926047.md) — section_1491926047
+      - [Combination and Modification of Performance Obligations](section_4370936582.md) — section_4370936582
+        - [Combined Revenue Arrangements](section_1498263039.md) — section_1498263039
+          - [Merging to Combine Revenue Arrangements](section_1498517429.md) — section_1498517429
+        - [Prospective Merges](section_1498077674.md) — section_1498077674
+          - [Creating a Prospective Merge](section_1498517451.md) — section_1498517451
+      - [Revenue Element Field Reference](section_4370935868.md) — section_4370935868
+      - [Searching for Revenue Elements with Missing Dates](section_160496881554.md) — section_160496881554
+      - [Creating Revenue Elements from Journal Entries](section_4423536353.md) — section_4423536353
+      - [Deferring Revenue for Billable Costs](section_4552153611.md) — section_4552153611
+      - [Advanced Cost Amortization](section_4381088247.md) — section_4381088247
+        - [Deferred Cost Journal Entry](bridgehead_1495144729.md) — bridgehead_1495144729
+        - [Contract Acquisition Cost Allocation](bridgehead_4684324872.md) — bridgehead_4684324872
+        - [Cost Amortization Plans](bridgehead_4684342188.md) — bridgehead_4684342188
+      - [Deleting Revenue Arrangements](section_4381187829.md) — section_4381187829
+      - [Deleting Revenue Elements](section_4606708496.md) — section_4606708496
+    - [Revenue Recognition Plans](section_4351787245.md) — section_4351787245
+      - [Updating Revenue Recognition Plans](section_4351787732.md) — section_4351787732
+      - [Viewing Revenue Recognition Plans](section_4380140655.md) — section_4380140655
+      - [Editing Revenue Recognition Plans](section_4369089832.md) — section_4369089832
+        - [Editing Individual Revenue Plans Simultaneously](section_4678448221.md) — section_4678448221
+        - [Bulk Editing Revenue Plans](section_4678448767.md) — section_4678448767
+      - [Deleting Revenue Recognition Plans](section_4380392082.md) — section_4380392082
+    - [Advanced Revenue Management (Revenue Allocation)](section_4333740677.md) — section_4333740677
+      - [Fair Value and Allocation](section_4369989562.md) — section_4369989562
+      - [Revenue Allocation for Returns](section_4381033932.md) — section_4381033932
+      - [Revenue Reallocation for Revenue Arrangements](section_4369990823.md) — section_4369990823
+        - [Reallocating Multiple Revenue Arrangements](bridgehead_1503941791.md) — bridgehead_1503941791
+        - [Reallocating Revenue from the Revenue Arrangement Record](bridgehead_1503952306.md) — bridgehead_1503952306
+      - [Allocation Detail Subtab Field Reference](section_4369990052.md) — section_4369990052
+      - [Compliant Indicator for Revenue Arrangements](section_4369990241.md) — section_4369990241
+      - [Contingent Revenue Handling](section_4369990539.md) — section_4369990539
+      - [Residual Method and Two-Step Allocation](section_4369991181.md) — section_4369991181
+        - [Residual Method Calculation](section_4370766951.md) — section_4370766951
+        - [Discounts and the Residual Method](section_4370767748.md) — section_4370767748
+    - [Advanced Revenue Management (Essentials) for Projects](section_4356983516.md) — section_4356983516
+      - [Percent-Complete Revenue Recognition Plans](section_4356850525.md) — section_4356850525
+      - [Generating Forecast Revenue Plans for Projects Without Planned Time Entries](section_4356892033.md) — section_4356892033
+        - [Using the Percent Complete Override Subtab](section_4411389600.md) — section_4411389600
+        - [Linking a Forecast Revenue Recognition Rule to a Project](section_4411392292.md) — section_4411392292
+    - [Advanced Revenue Management and Multi-Book Accounting](section_4508283752.md) — section_4508283752
+      - [Book Specific Accounting Preferences](section_4508287294.md) — section_4508287294
+      - [Book Specific Revenue Arrangements, Elements, and Plans](section_4508287577.md) — section_4508287577
+      - [Book Specific Revenue Allocation](section_4508287782.md) — section_4508287782
+      - [Chart of Accounts Mapping for Reclassification](section_4831330055.md) — section_4831330055
+    - [Month-End Revenue Processing](section_4339730171.md) — section_4339730171
+      - [Revenue Recognition Journal Entries](section_4357047027.md) — section_4357047027
+        - [Summarized Revenue Recognition Journal Entries](section_4358638397.md) — section_4358638397
+        - [Scheduling Revenue Recognition Journal Entries](section_4668802106.md) — section_4668802106
+        - [Generating Advanced Revenue Recognition Journal Entries](section_4358638894.md) — section_4358638894
+        - [Editing an Advanced Revenue Recognition Journal Entry](section_4358639397.md) — section_4358639397
+        - [Journal Entries for Percent-Complete Revenue](section_4357062961.md) — section_4357062961
+      - [Reclassification of Deferred Revenue](section_4363759368.md) — section_4363759368
+        - [Summarized Reclassification Journal Entries](section_4665482523.md) — section_4665482523
+        - [Scheduling Reclassification Journal Entries](section_4668803144.md) — section_4668803144
+        - [Creating Reclassification Journal Entries](section_4365500917.md) — section_4365500917
+        - [Types of Reclassification Journal Entries](section_157238665183.md) — section_157238665183
+          - [Carve In/Carve Out Adjustment](section_160590770660.md) — section_160590770660
+            - [Revenue Elements Excluded from Reclassification](section_4365499406.md) — section_4365499406
+            - [Carve In/Carve Out Adjustment Example Retrospective Merge Before Billing](section_160590775067.md) — section_160590775067
+            - [Carve In/Carve Out Adjustment Example Prospective Merge After Billing](section_160590775813.md) — section_160590775813
+            - [Carve In/Carve Out Adjustment Example With Kit Items](section_1016062035.md) — section_1016062035
+          - [Foreign Currency Adjustment](section_157238786981.md) — section_157238786981
+            - [Example of Foreign Currency Adjustments During Reclassification](section_161369441792.md) — section_161369441792
+            - [Example of Foreign Currency and Unbilled Receivable Adjustments Prospective Merge After Partial Billing](article_1006020312.md) — article_1006020312
+          - [Unbilled Receivable Adjustment](section_160590749111.md) — section_160590749111
+            - [Groupings for Unbilled Receivable Adjustment Journal Entries](section_4527937535.md) — section_4527937535
+            - [Unbilled Receivable Adjustment Sub-Arrangement Grouping Example](section_157238690217.md) — section_157238690217
+            - [Difference Between Element Level and Arrangement Level Grouping](section_157238716549.md) — section_157238716549
+          - [Foreign Currency Gain or Loss on Contract Asset](section_159467246461.md) — section_159467246461
+            - [Example of Foreign Currency Gain or Loss on Contract Assets](section_159467362717.md) — section_159467362717
+          - [Net Contract Asset or Liability per Element](section_160590132188.md) — section_160590132188
+            - [Defining Assets and Liabilities](article_0621035537.md) — article_0621035537
+        - [Reclassification Examples](section_4365504723.md) — section_4365504723
+      - [Recalculating Revenue Forecast Plans](section_4521314063.md) — section_4521314063
+      - [Run and Save the Deferred Revenue Waterfall Report](section_4369915492.md) — section_4369915492
+    - [Reports for Advanced Revenue Management](section_4334489553.md) — section_4334489553
+      - [Deferred Revenue by Customer Report](section_4334528265.md) — section_4334528265
+      - [Deferred Revenue by Item Report](section_4345639407.md) — section_4345639407
+      - [Revenue by Customer Report](section_4334527988.md) — section_4334527988
+      - [Revenue by Item Report](section_4345639912.md) — section_4345639912
+      - [Deferred Revenue Waterfall Summary Report](section_4503886347.md) — section_4503886347
+      - [Deferred Revenue Waterfall Detail Report](section_4334524551.md) — section_4334524551
+      - [Revenue Recognition Forecast Summary Report](section_4334527323.md) — section_4334527323
+      - [Revenue Recognition Forecast Detail Report](section_4334528792.md) — section_4334528792
+      - [Billing and Revenue Summary Report](section_4334527782.md) — section_4334527782
+      - [Deferred Revenue Reclassification Activity Report](section_4334525586.md) — section_4334525586
+      - [Deferred Revenue Reclassification Report](section_4334525127.md) — section_4334525127
+      - [Deferred Revenue Rollforward Report](section_4334525981.md) — section_4334525981
+        - [Deferred Revenue Rollforward Summary Report](section_4344879714.md) — section_4344879714
+        - [Deferred Revenue Rollforward Customer Summary Report](section_4334530205.md) — section_4334530205
+        - [Deferred Revenue Rollforward Transaction Detail Report](section_4334530455.md) — section_4334530455
+      - [Deferred Expense Waterfall Summary Report](section_1507073448.md) — section_1507073448
+      - [Deferred Expense Waterfall Detail Report](section_1507073483.md) — section_1507073483
+      - [Deferred Expense Rollforward Report](section_1496866688.md) — section_1496866688
+        - [Deferred Expense Rollforward Summary Report](section_1496867718.md) — section_1496867718
+        - [Deferred Expense Rollforward by Entity Summary Report](section_1496867758.md) — section_1496867758
+        - [Deferred Expense Rollforward Transaction Details Report](section_1496867815.md) — section_1496867815
+  - [Revenue Recognition Approval Workflow](chapter_4436595812.md) — chapter_4436595812
+    - [Setup Requirements for the Revenue Recognition Approval Workflow](section_4436599936.md) — section_4436599936
+    - [Setting Up the Revenue Recognition Approval Workflow](section_4436627695.md) — section_4436627695
+    - [Using the Revenue Recognition Approval Workflow](section_4436633502.md) — section_4436633502
+      - [Revenue Recognition Approval Workflow States](section_4436645685.md) — section_4436645685
+      - [Resubmitting Revenue Arrangements for Approval](section_4436646716.md) — section_4436646716
+        - [Viewing the Status of an Arrangement](section_4436876523.md) — section_4436876523
+    - [Customizing the Revenue Recognition Approval Workflow](section_4436651050.md) — section_4436651050
+  - [Rule-Based Recognition Treatment](chapter_1552502028.md) — chapter_1552502028
+    - [Setup for Rule-Based Recognition Treatment](section_1552502173.md) — section_1552502173
+      - [Enabling the Rule-Based Recognition Treatment Feature](section_1552503116.md) — section_1552503116
+      - [Roles and Permissions for Rule-Based Recognition Treatment](section_1552503364.md) — section_1552503364
+      - [Recognition Treatment Management](section_1552506633.md) — section_1552506633
+        - [Creating a Recognition Treatment](section_1559592154.md) — section_1559592154
+        - [Editing a Recognition Treatment](section_1559592214.md) — section_1559592214
+        - [Deleting a Recognition Treatment](section_155995163640.md) — section_155995163640
+      - [Recognition Treatment Rule Management](section_1552506664.md) — section_1552506664
+        - [Defining a Recognition Treatment Rule](section_155967498846.md) — section_155967498846
+        - [Prioritizing Recognition Treatment Rules](section_1552506685.md) — section_1552506685
+        - [Editing a Recognition Treatment Rule](section_155967503036.md) — section_155967503036
+        - [Deleting a Recognition Treatment Rule](section_155995166464.md) — section_155995166464
+    - [Operation of Rule-Based Recognition Treatment](section_1552502414.md) — section_1552502414
+      - [Running the Recognition Treatment Lookup Process Manually](section_1552502736.md) — section_1552502736
+      - [Excluding Revenue Elements from Treatment Lookup](section_1552508771.md) — section_1552508771
+      - [Viewing Recognition Treatments](section_1552506851.md) — section_1552506851
+      - [Viewing Recognition Treatment Rules](section_1552508671.md) — section_1552508671
+  - [Expense Amortization](chapter_N1765678.md) — chapter_N1765678
+    - [Setup for Amortization](section_N1766651.md) — section_N1766651
+      - [Enabling the Amortization Feature](section_N1766842.md) — section_N1766842
+      - [Setting Amortization Preferences](section_N1767069.md) — section_N1767069
+      - [Enabling Auto-Numbered Amortization Schedules](section_N1767306.md) — section_N1767306
+      - [Specifying Deferral Accounts for Amortization](section_N1767540.md) — section_N1767540
+    - [Amortization Templates](section_N1767815.md) — section_N1767815
+      - [Amortization Template Term Reference](section_N1768001.md) — section_N1768001
+        - [Straight-Line Amortization Method Examples](section_N1771014.md) — section_N1771014
+      - [Creating Amortization Templates](section_N1772949.md) — section_N1772949
+      - [Configuration for Amortization](section_N1773475.md) — section_N1773475
+        - [Setting an Amortization Template on an Item Record](section_N1773719.md) — section_N1773719
+        - [Setting an Amortization Template on a Vendor Bill Line Item](section_N1773966.md) — section_N1773966
+        - [Setting an Amortization Template on a Vendor Credit Line Item](section_N1774211.md) — section_N1774211
+        - [Vendor Credit Amortization Example](section_N1774542.md) — section_N1774542
+      - [Associating Amortization Templates with Expenses](section_N1775784.md) — section_N1775784
+    - [Amortization Schedules](section_N1776086.md) — section_N1776086
+      - [Reviewing the Amortization Schedules List](section_N1776296.md) — section_N1776296
+      - [Viewing an Amortization Schedule](section_N1776675.md) — section_N1776675
+      - [Editing an Amortization Schedule](section_N1777207.md) — section_N1777207
+      - [Mass Updating Amortization Schedules](section_N1777416.md) — section_N1777416
+      - [Creating an Amortization Schedule Dataset in SuiteAnalytics](article_0822030054.md) — article_0822030054
+    - [Amortization Journal Entries](section_N1777836.md) — section_N1777836
+      - [Generating Amortization Journal Entries](section_N1779279.md) — section_N1779279
+      - [Editing an Amortization Journal Entry](section_N1780127.md) — section_N1780127
+      - [Approving an Amortization Journal Entry](section_N1780313.md) — section_N1780313
+      - [Setting Up a Reminder for Amortization Journal Entries](section_N1780492.md) — section_N1780492
+    - [Using Percent-Complete Amortization for Projects](section_N1780615.md) — section_N1780615
+    - [Foreign Currency Amortization](section_N1784814.md) — section_N1784814
+      - [Setting Up Foreign Currency Amortization](section_N1784923.md) — section_N1784923
+      - [Using Foreign Currency Amortization](section_N1784998.md) — section_N1784998
+      - [Foreign Currency Amortization Examples](section_N1785562.md) — section_N1785562
+    - [Amortization Reports](section_N1789982.md) — section_N1789982
+      - [Amortization Forecast Summary](section_N1790278.md) — section_N1790278
+      - [Amortization Forecast Detail](section_N1790537.md) — section_N1790537
+      - [Deferred/Capitalized Expense](section_N1790793.md) — section_N1790793
+  - [Using Revenue Recognition](chapter_N1678106.md) — chapter_N1678106
+    - [Setting Up the Revenue Recognition Feature](section_N1678353.md) — section_N1678353
+      - [Enabling the Revenue Recognition Feature](section_N1678611.md) — section_N1678611
+      - [Setting Revenue Recognition Accounting Preferences](section_N1678834.md) — section_N1678834
+      - [Enabling Auto-Numbered Revenue Recognition Schedules](section_N1679074.md) — section_N1679074
+      - [Defining Expense Categories for Billable Expenses](section_N1679290.md) — section_N1679290
+    - [Creating Revenue Recognition Templates](section_N1679446.md) — section_N1679446
+      - [Understanding Revenue Recognition Template Terms](section_N1679634.md) — section_N1679634
+        - [Straight-Line Revenue Recognition Method Examples](section_N1684020.md) — section_N1684020
+      - [Defining a Revenue Recognition Template](section_N1686978.md) — section_N1686978
+    - [Associating Revenue Recognition Templates with Items](section_N1687451.md) — section_N1687451
+      - [Setting a Revenue Recognition Template on an Item Record](section_N1687732.md) — section_N1687732
+      - [Delaying Revenue Recognition for an Item](section_N1688873.md) — section_N1688873
+      - [Adding Hold Revenue Recognition and Catch Up Period Columns](section_3951743275.md) — section_3951743275
+      - [Setting a Revenue Recognition Template on a Transaction Item Line](section_N1688475.md) — section_N1688475
+      - [Deferring Revenue for Discount and Markup Items](section_N1688734.md) — section_N1688734
+    - [Working with Revenue Recognition Schedules](section_N1689004.md) — section_N1689004
+      - [Managing Revenue Recognition](section_4029604484.md) — section_4029604484
+      - [Reviewing the Revenue Recognition Schedules List](section_N1689265.md) — section_N1689265
+      - [Viewing a Revenue Recognition Schedule](section_N1689644.md) — section_N1689644
+      - [Editing a Revenue Recognition Schedule](section_N1689901.md) — section_N1689901
+      - [Mass Updating Revenue Recognition Schedules](section_N1690102.md) — section_N1690102
+      - [Deleting a Revenue Recognition Schedule](section_N1690402.md) — section_N1690402
+      - [Cases When a Revenue Recognition Schedule May Not Be Created](section_N1691758.md) — section_N1691758
+      - [Creating a Revenue Recognition Schedule Dataset in SuiteAnalytics](article_0822023107.md) — article_0822023107
+    - [Working with Revenue Recognition Journal Entries](section_N1691981.md) — section_N1691981
+      - [Using Summarized Revenue Recognition Journal Entries](section_4041530082.md) — section_4041530082
+        - [Saved Search for Revenue Recognition Journal Details](section_4060613712.md) — section_4060613712
+      - [Generating Revenue Recognition Journal Entries](section_N1692238.md) — section_N1692238
+        - [Filtering the Revenue Recognition Source Transaction List](section_N1692710.md) — section_N1692710
+      - [Editing a Revenue Recognition Journal Entry](section_N1693121.md) — section_N1693121
+      - [Setting Up a Reminder for Revenue Recognition Journal Entries](section_N1693505.md) — section_N1693505
+    - [Deferring Revenue When Billing Costs to a Customer](section_N1693662.md) — section_N1693662
+    - [Using Percent-Complete Revenue Recognition for Projects](section_N1694795.md) — section_N1694795
+      - [Working with Variable Revenue Recognition Schedules](section_3791187429.md) — section_3791187429
+    - [Revenue Recognition Reports](section_N1695172.md) — section_N1695172
+      - [Deferred Revenue by Customer Report](section_N1695616.md) — section_N1695616
+      - [Deferred Revenue by Item Report](section_N1696018.md) — section_N1696018
+      - [Deferred Revenue by State Report](section_N1696420.md) — section_N1696420
+      - [Revenue by Customer Report](section_N1696955.md) — section_N1696955
+      - [Revenue by Item Report](section_N1697357.md) — section_N1697357
+      - [Revenue by State Report](section_N1697759.md) — section_N1697759
+      - [Billing and Revenue Summary Report](section_N1698161.md) — section_N1698161
+      - [Deferred Revenue Rollforward Report](section_3932757716.md) — section_3932757716
+      - [Scheduled Deferred Revenue Report](section_N1698542.md) — section_N1698542
+      - [Revenue Recognition Forecast Summary Report](section_N1699061.md) — section_N1699061
+      - [Revenue Recognition Forecast Detail Report](section_N1700572.md) — section_N1700572
+      - [Sales Order Revenue Forecast Summary Report](section_N1700969.md) — section_N1700969
+      - [Sales Order Revenue Forecast Detail Report](section_N1701383.md) — section_N1701383
+      - [Enhancing Deferred Revenue Reports](section_3884444530.md) — section_3884444530
+  - [Using Revenue Commitments](chapter_N1701780.md) — chapter_N1701780
+    - [Setting Up the Revenue Commitments Feature](section_N1702000.md) — section_N1702000
+      - [Enabling the Revenue Commitments Feature](section_N1702170.md) — section_N1702170
+      - [Setting Revenue Commitment Preferences](section_N1702343.md) — section_N1702343
+      - [Assigning Revenue Commitment Permissions](section_N1703344.md) — section_N1703344
+    - [Revenue Commitments Process](section_N1703512.md) — section_N1703512
+    - [Advanced Revenue Commitments Overview](section_N1703735.md) — section_N1703735
+      - [Life Cycle for Sales Order with Revenue Commitment](section_N1703982.md) — section_N1703982
+      - [Calculating Foreign Currency Adjustment for Revenue Commitments](section_N1704597.md) — section_N1704597
+      - [Line Level Deferred Revenue Reclassification](section_3752066884.md) — section_3752066884
+      - [Adopting Line Level Deferred Revenue Reclassification](section_3758129615.md) — section_3758129615
+      - [Billing Additional Items on Orders with Revenue Commitments](section_N1706812.md) — section_N1706812
+    - [Creating Revenue Commitments](section_N1707026.md) — section_N1707026
+      - [Understanding Revenue Commitment Fields](section_N1708322.md) — section_N1708322
+      - [Creating a Revenue Commitment from a Sales Order](section_N1707177.md) — section_N1707177
+      - [Using the Generate Revenue Commitment Page](section_N1707431.md) — section_N1707431
+    - [Creating Revenue Recognition Journal Entries](section_N1707738.md) — section_N1707738
+    - [Reclassifying Deferred Revenue for Revenue Commitments](section_N1707946.md) — section_N1707946
+    - [Creating Revenue Commitment Reversals](section_N1709562.md) — section_N1709562
+      - [Creating a Revenue Commitment Reversal from a Return Authorization](section_N1709759.md) — section_N1709759
+      - [Using the Generate Revenue Commitment Reversals Page](section_N1709968.md) — section_N1709968
+    - [Revenue Commitment Examples](section_N1710191.md) — section_N1710191
+      - [Base Currency Transaction Without Revenue Allocation](section_3811804072.md) — section_3811804072
+      - [Base Currency Transaction with Revenue Allocation](section_3811804909.md) — section_3811804909
+      - [Foreign Currency Transaction with Revenue Allocation](section_3811805482.md) — section_3811805482
+      - [VSOE with Foreign Currency Revenue Commitment Example](section_N1710377.md) — section_N1710377
+      - [Revenue Commitment with One-Time Revenue Item Example](section_N1712809.md) — section_N1712809
+    - [Revenue Reclassification Reports](section_N1717186.md) — section_N1717186
+      - [Deferred Revenue Reclassification Report](bridgehead_3742786017.md) — bridgehead_3742786017
+      - [Deferred Revenue Reclassification Activity Report](bridgehead_3742806547.md) — bridgehead_3742806547
+      - [Revenue Reclassification Summary Report](bridgehead_N1717242.md) — bridgehead_N1717242
+      - [Revenue Reclassification Detail Report](bridgehead_N1717454.md) — bridgehead_N1717454
+  - [Using the VSOE Feature](chapter_N1717900.md) — chapter_N1717900
+    - [Understanding VSOE Prices and Allocation](section_N1718126.md) — section_N1718126
+    - [Setting Up the VSOE Feature](section_N1718515.md) — section_N1718515
+      - [Enabling the VSOE Feature](section_N1718707.md) — section_N1718707
+      - [Setting Up VSOE Preferences](section_N1718858.md) — section_N1718858
+      - [Setting Up VSOE on an Item Record](section_N1718972.md) — section_N1718972
+    - [Creating VSOE Bundles](section_N1719451.md) — section_N1719451
+      - [Creating an Item Group VSOE Bundle](section_N1719644.md) — section_N1719644
+      - [Creating a Transaction VSOE Bundle](section_N1719864.md) — section_N1719864
+    - [Recognizing Revenue for VSOE Bundles](section_N1720104.md) — section_N1720104
+      - [Allocating VSOE Revenue for a Bundle](section_N1720414.md) — section_N1720414
+      - [Updating VSOE Allocations and Delivery Status on a Transaction](section_N1721160.md) — section_N1721160
+      - [Using VSOE on Sales Orders and Invoices](section_N1721728.md) — section_N1721728
+      - [Updating the VSOE Delivery Status on Items](section_N1725322.md) — section_N1725322
+      - [Billing a VSOE Transaction](section_N1725637.md) — section_N1725637
+      - [Using VSOE with Discount Items](section_N1726248.md) — section_N1726248
+      - [Using VSOE with Markup Items](section_N1729547.md) — section_N1729547
+      - [Resolving Undetermined VSOE Allocation](section_N1729793.md) — section_N1729793
+      - [Posting VSOE Revenue to the General Ledger](section_N1732506.md) — section_N1732506
+      - [Using the Residual Method of Revenue Recognition](section_N1733002.md) — section_N1733002
+    - [VSOE Revenue Recognition Examples](section_N1736679.md) — section_N1736679
+  - [EITF 08-01 Revenue Recognition Feature](chapter_N1742394.md) — chapter_N1742394
+    - [Understanding EITF 08-01 Revenue Recognition](section_N1742630.md) — section_N1742630
+    - [EITF 08-01 Allocation Example](section_N1743302.md) — section_N1743302
+    - [Contingent Revenue Handling](section_N1743516.md) — section_N1743516
+    - [Two-Step Revenue Allocation](section_N1744063.md) — section_N1744063
+    - [About Installing EITF 08-01 Revenue Recognition](section_N1746114.md) — section_N1746114
+    - [Implementing EITF 08-01 Revenue Recognition](section_N1746357.md) — section_N1746357
+    - [Applying EITF 08-01 Scripts to Transaction Forms](section_0806035426.md) — section_0806035426
+    - [Working with Estimated Selling Prices](section_N1747534.md) — section_N1747534
+    - [How Can I Get This Feature?](section_N1749904.md) — section_N1749904
+  - [Using Sales Order Revenue Forecasting](chapter_N1750747.md) — chapter_N1750747
+    - [Forecasting Project Revenue](section_N1751957.md) — section_N1751957
+      - [Associating a Revenue Recognition Forecast Template with a Project](section_N1752091.md) — section_N1752091

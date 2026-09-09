@@ -1,0 +1,42 @@
+{
+  "branch": "ask-oracle-skills",
+  "generatedAt": null,
+  "pages": {
+    "article_8075016347": {
+      "path": "corpus/ask-oracle-skills/article_8075016347.md",
+      "title": "Ask Oracle Skills",
+      "type": "article",
+      "breadcrumb": "Artificial Intelligence in NetSuite > Ask Oracle Skills",
+      "parent": "book_5131850092",
+      "category": "artificial-intelligence-in-netsuite",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_8075016347.html",
+      "etag": "\"6cc643073ebd1360cd20bbf540a0dd23:1786980333.507633\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:02:03.169Z",
+      "sha256": "d1f2d976a19182c38501c71b2e253fc5975b703d7e0fe078224104e3e67bf9f5",
+      "bytes": 2189,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "article_0611075648": {
+      "path": "corpus/ask-oracle-skills/article_0611075648.md",
+      "title": "Core Skills",
+      "type": "article",
+      "breadcrumb": "Artificial Intelligence in NetSuite > Ask Oracle Skills > Core Skills",
+      "parent": "article_8075016347",
+      "category": "artificial-intelligence-in-netsuite",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_0611075648.html",
+      "etag": "\"05ef6d9289a36749a547a61dfb3ec9b4:1786980201.645384\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:02:03.419Z",
+      "sha256": "a8cae098987aa1f6b5d0ef19a1245344ca34a541c1bbe998c0e02932f3834425",
+      "bytes": 11309,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

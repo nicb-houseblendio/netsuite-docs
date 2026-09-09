@@ -1,0 +1,62 @@
+# Order Management Reports
+
+58 pages, category: Order Management
+
+- [Order Management Reports](chapter_N1314532.md) — chapter_N1314532
+  - [Sales Order Reports](section_N1314720.md) — section_N1314720
+    - [Open Sales Orders Report](section_N1314794.md) — section_N1314794
+    - [Sales Back Order Report](section_N1315076.md) — section_N1315076
+    - [Sales Order Register Report](section_N1315449.md) — section_N1315449
+    - [Sales Orders Pending Fulfillment Report](section_N1315755.md) — section_N1315755
+  - [Return Authorization Reports](section_N1316044.md) — section_N1316044
+    - [Return Authorizations Register](section_N1316135.md) — section_N1316135
+    - [Open Return Authorizations Report](section_N1318019.md) — section_N1318019
+    - [Return Authorizations Pending Receipt Report](section_N1318260.md) — section_N1318260
+  - [Open Invoices Report](section_N1318734.md) — section_N1318734
+  - [Shipping Report](section_N1318966.md) — section_N1318966
+  - [Transaction Detail Report](section_N1319264.md) — section_N1319264
+  - [Lot and Serial Number Trace](article_159411874111.md) — article_159411874111
+    - [Installing Lot and Serial Number Trace](section_159412055773.md) — section_159412055773
+    - [Setting Roles and Permissions to Use Lot and Serial Number Trace](section_159412105932.md) — section_159412105932
+    - [Trace Preferences](section_159412315135.md) — section_159412315135
+    - [Working with Lot and Serial Number Trace](section_159412341222.md) — section_159412341222
+      - [Viewing Trace Results](section_159412460136.md) — section_159412460136
+      - [Emailing Trace Results](section_159539371767.md) — section_159539371767
+  - [Estimating Gross Profit](chapter_N1752442.md) — chapter_N1752442
+    - [What is Gross Profit?](section_N1752846.md) — section_N1752846
+    - [Who Uses Gross Profit and Why?](section_N1753013.md) — section_N1753013
+      - [Sales and Sales Management Gross Profit Users](section_N1753207.md) — section_N1753207
+      - [Sales Operations Gross Profit Users](section_N1753452.md) — section_N1753452
+      - [Executive Gross Profit Users](section_N1753819.md) — section_N1753819
+      - [Administrator Gross Profit Users](section_N1753999.md) — section_N1753999
+    - [Setting Up Gross Profit](section_N1756747.md) — section_N1756747
+      - [Enabling the Gross Profit Feature](section_N1756926.md) — section_N1756926
+      - [Setting the Recalculate Estimated Cost on Creation of Linked Transactions Preference](section_N1757197.md) — section_N1757197
+      - [Granting the Override Estimated Costs on Transactions Permission](section_N1757391.md) — section_N1757391
+    - [Working with Cost Estimate Types](section_N1757575.md) — section_N1757575
+      - [Cost Estimate Type Descriptions](section_N1757784.md) — section_N1757784
+      - [Cost Estimate Types in NetSuite OneWorld](section_N1758108.md) — section_N1758108
+      - [Available Cost Estimate Types for Each Item Type](section_N1758354.md) — section_N1758354
+      - [Modifying a Cost Estimate Type on an Item Record](section_N1761469.md) — section_N1761469
+      - [Item Cost Estimate Type Mass Update](section_N1761708.md) — section_N1761708
+      - [Modifying a Cost Estimate Type on a Transaction](section_N1761948.md) — section_N1761948
+    - [Using Gross Profit Fields](section_N1762134.md) — section_N1762134
+      - [Using Gross Profit Fields on Transaction Forms](section_N1762276.md) — section_N1762276
+      - [Including Gross Profit Values in Reports, Searches, and KPIs](section_N1763752.md) — section_N1763752
+      - [Using Gross Profit Values in CSV Import, SOAP Web Services, and SuiteScript](section_N1764294.md) — section_N1764294
+    - [Frequently Asked Questions about Gross Profit](section_N1764883.md) — section_N1764883
+  - [Same-Store Sales Report](chapter_161822696040.md) — chapter_161822696040
+    - [Requirements of the Same-Store Sales Report SuiteApp](section_161831147661.md) — section_161831147661
+    - [Limitations of the Same-Store Sales Report](section_161831250141.md) — section_161831250141
+    - [Installing the Same-Store Sales Report SuiteApp](section_161831256460.md) — section_161831256460
+    - [Roles and Permissions for Using the Same-Store Sales Report](section_161831344908.md) — section_161831344908
+    - [Understanding Custom Retail Calendars](section_161831488163.md) — section_161831488163
+    - [Creating and Importing Same-Store Sales Calendars](section_161831569773.md) — section_161831569773
+    - [Editing Same-Store Sales Calendars](section_161833533477.md) — section_161833533477
+    - [Deleting Same-Store Sales Calendars](section_161833611566.md) — section_161833611566
+    - [Specifying Location Type and Store Opening Date](section_161833642401.md) — section_161833642401
+    - [Specifying Same-Store Sales Preferences](section_161833733188.md) — section_161833733188
+    - [Understanding the Same-Store Sales Report](section_161834152751.md) — section_161834152751
+    - [Generating the Same-Store Sales Report](section_161834539428.md) — section_161834539428
+    - [Examples on Determining Comparable and Non-comparable Stores](section_161840049229.md) — section_161840049229
+    - [Using the Same-Store Sales Report Portlet](section_161840287343.md) — section_161840287343

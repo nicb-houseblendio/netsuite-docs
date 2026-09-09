@@ -1,0 +1,14 @@
+# NetSuite for Mobile Glossary
+
+NetSuite for Mobile Glossary (3 pages): NetSuite for Mobile Glossary
+
+## Chapters
+- [NetSuite for Mobile Glossary](chapter_1556006042.md): The next two sections cover mobile icons and supported record types.
+  - [Mobile Icons Glossary](section_158581482645.md): This glossary contains a list of icons used in NetSuite for Mobile help documentation.
+  - [Mobile Supported Record Types](section_1553696109.md): The app supports the following record types: | Record Type | Supported Actions (Basic Actions = Create, Delete, Edit, Reset, Save) | | --- | --- | | Bills | Basic Actions, Autofill, Cancel Bill, Recalculate | | Cases | Basic Actions, Grab | | Contacts | Basic Actions | | Customers | Basic Actions, Accept Payment | | Custom Records | Basic Actions | | Employees | Basic Actions | | Estimates | Basic Actions, Autofill, Cash Sale, Invoice, Sales Order | | Events | Basic Actions, Accept, Decline, Decline this Date, Quick Accept, Tentative | | Expense Reports | Basic Actions, Approve, Complete Later, Reject, Submit.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-for-mobile-glossary

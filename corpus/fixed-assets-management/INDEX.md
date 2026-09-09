@@ -1,0 +1,266 @@
+# Fixed Assets Management
+
+262 pages, category: Accounting
+
+- [Fixed Assets Management](preface_3710626334.md) — preface_3710626334
+  - [Fixed Assets Management Overview](chapter_N2126441.md) — chapter_N2126441
+  - [Installing the Fixed Assets Management SuiteApp](chapter_N2126830.md) — chapter_N2126830
+    - [Fixed Assets Management SuiteApp Prerequisites](bridgehead_4683871588.md) — bridgehead_4683871588
+    - [Fixed Assets Management SuiteApp Installation](bridgehead_4683874218.md) — bridgehead_4683874218
+    - [Making the Fixed Assets Tab Available to Custom Roles](section_N2129964.md) — section_N2129964
+    - [Setting Fixed Assets Management Permission Levels](section_N2130365.md) — section_N2130365
+      - [Record Permissions for Fixed Assets Management](bridgehead_N2130466.md) — bridgehead_N2130466
+      - [Form Permissions for Fixed Assets Management](bridgehead_N2132392.md) — bridgehead_N2132392
+  - [Setting Up the Fixed Assets Management System](chapter_N2135031.md) — chapter_N2135031
+    - [General Ledger Accounts for Fixed Assets Management](section_164861717992.md) — section_164861717992
+      - [Setting Up General Ledger Accounts to be Included in Fixed Assets Management](bridgehead_N2136491.md) — bridgehead_N2136491
+      - [Verifying Successful Account Definition in Asset Type and Asset Records](subsect_1118050311.md) — subsect_1118050311
+    - [Fixed Assets General Preferences](section_164861799775.md) — section_164861799775
+      - [FAM Asset Setup Subtab](article_1118051118.md) — article_1118051118
+      - [FAM Asset Management Subtab](article_1118051157.md) — article_1118051157
+      - [FAM Lease Setup Subtab](article_1118051311.md) — article_1118051311
+      - [Summarizing Journal Entries](section_3902819755.md) — section_3902819755
+    - [Fixed Assets Report Preferences](section_164861832847.md) — section_164861832847
+    - [Fixed Assets Country Specific Preferences](section_164861834272.md) — section_164861834272
+    - [FAM Diagnostics Portlet](section_157970301580.md) — section_157970301580
+      - [Setting Up FAM Diagnostics](section_164862635744.md) — section_164862635744
+      - [Adding or Deleting Asset Values Using the Review Assistant](subsect_164252929316.md) — subsect_164252929316
+      - [Deleting Orphaned DHRs Using the Review Assistant](subsect_88214815513.md) — subsect_88214815513
+      - [Deleting Duplicate and Stale DHRs Using the Review Assistant](article_0615071156.md) — article_0615071156
+      - [Scheduling a Diagnostic Scan](section_164861923724.md) — section_164861923724
+    - [Asset Transfer Accounts](section_164862663749.md) — section_164862663749
+    - [FAM Asset Types](section_164862669287.md) — section_164862669287
+      - [Asset Type General Subtab](bridgehead_N2142208.md) — bridgehead_N2142208
+      - [Asset Type Accounts Subtab](bridgehead_N2142366.md) — bridgehead_N2142366
+      - [Asset Type Maintenance Subtab](bridgehead_N2142485.md) — bridgehead_N2142485
+      - [Asset Type Other Methods Subtab](bridgehead_N2142565.md) — bridgehead_N2142565
+      - [Asset Type Lifetimes Subtab](bridgehead_N2142773.md) — bridgehead_N2142773
+    - [Depreciation Methods](section_164862696596.md) — section_164862696596
+      - [Preconfigured Depreciation Methods](section_N2137654.md) — section_N2137654
+        - [Nordic Countries and Benelux Methods](subsect_1118074836.md) — subsect_1118074836
+        - [Japan Depreciation Methods](subsect_1118074915.md) — subsect_1118074915
+        - [Asset Usage (Asset Activity) Depreciation Method](bridgehead_N2137764.md) — bridgehead_N2137764
+        - [Fixed Declining (Declining Balance) Depreciation Method](bridgehead_N2138448.md) — bridgehead_N2138448
+        - [Straight Line Depreciation Method](bridgehead_N2138790.md) — bridgehead_N2138790
+        - [Sum of Years' Digits Depreciation Method](bridgehead_N2139089.md) — bridgehead_N2139089
+        - [Straight Line Remaining Depreciation Method](bridgehead_N2139576.md) — bridgehead_N2139576
+        - [Sum of Years/Straight Line Depreciation Method](bridgehead_N2139588.md) — bridgehead_N2139588
+        - [150DB and 200DB Depreciation Method](bridgehead_N2139600.md) — bridgehead_N2139600
+        - [4-4-5 Calendar Depreciation Method](bridgehead_4302913229.md) — bridgehead_4302913229
+      - [Japan Depreciation](section_164906195239.md) — section_164906195239
+        - [Japan Special Depreciation](subsect_159473993983.md) — subsect_159473993983
+        - [Adding Japan Special Depreciation Details](subsect_159474008557.md) — subsect_159474008557
+      - [French Degressive Depreciation](section_164906222373.md) — section_164906222373
+      - [French Derogatory Depreciation](section_159474268019.md) — section_159474268019
+        - [Setting Up and Using the French Derogatory Depreciation Method](subsect_159474273272.md) — subsect_159474273272
+        - [Reviewing French Derogatory Depreciation](subsect_159474281985.md) — subsect_159474281985
+      - [Creating a New Depreciation Method](section_N2139727.md) — section_N2139727
+      - [Depreciation Formula](section_N2140095.md) — section_N2140095
+        - [Formula Example: Straight Line Depreciation](bridgehead_N2140285.md) — bridgehead_N2140285
+        - [Formula Example: Maximum of Two Values](bridgehead_N2140329.md) — bridgehead_N2140329
+        - [Formula Example: Diminishing Value Method for Tax](bridgehead_N2140427.md) — bridgehead_N2140427
+    - [Alternate Methods (Tax Depreciation Methods)](section_164862707730.md) — section_164862707730
+      - [Creating Alternate Methods (Tax Depreciation Methods)](section_N2140809.md) — section_N2140809
+      - [Viewing or Editing Alternate Methods (Tax Depreciation Methods)](section_N2141236.md) — section_N2141236
+      - [Adding Tax Depreciation Methods to an Asset](section_N2141463.md) — section_N2141463
+      - [Using Tax Depreciation Methods](section_N2141684.md) — section_N2141684
+    - [Custom Segments and Custom Fields in Fixed Assets Management Records and Transactions](section_1501725267.md) — section_1501725267
+      - [Applying Custom Segments to Fixed Asset Management Records and Transactions](bridgehead_1519179315.md) — bridgehead_1519179315
+      - [Mapping Custom Segments and Custom Fields to Fixed Assets Management Records](bridgehead_1519179376.md) — bridgehead_1519179376
+  - [Creating Fixed Assets Management Records](chapter_164699062962.md) — chapter_164699062962
+    - [Creating Asset Records from Transactions](section_164689333704.md) — section_164689333704
+      - [Asset Proposal and Generation](section_N2155572.md) — section_N2155572
+        - [Proposing New Assets](subsect_1118114816.md) — subsect_1118114816
+        - [Managing Asset Proposals](subsect_1118115208.md) — subsect_1118115208
+        - [Customizing the Asset Proposal Sublist](subsect_1118115246.md) — subsect_1118115246
+        - [Editing Asset Proposal Records](subsect_1118115311.md) — subsect_1118115311
+        - [Splitting Asset Proposal Records](subsect_1118115334.md) — subsect_1118115334
+          - [Asset Split Process Stages](article_1120063731.md) — article_1120063731
+        - [Rejecting Asset Proposals](bridgehead_N2157282.md) — bridgehead_N2157282
+        - [Changing the Status of a Rejected Proposal](subsect_1118115542.md) — subsect_1118115542
+      - [Asset Creation](section_N2157428.md) — section_N2157428
+        - [Asset Creation Process Stages](article_1120063923.md) — article_1120063923
+      - [Multiple Asset Proposal](section_N2157628.md) — section_N2157628
+    - [Creating Asset Records through CSV Import](section_164689335971.md) — section_164689335971
+      - [Setting CSV Import Preferences](section_163420347473.md) — section_163420347473
+      - [General Guidelines for Importing Fixed Asset Records](section_163350867712.md) — section_163350867712
+      - [Guidelines for Importing Mid-life Asset Records](section_164689891147.md) — section_164689891147
+      - [Guidelines for Importing Fully Depreciated or Disposed Asset Records](section_164689895007.md) — section_164689895007
+      - [Importing Fixed Asset Records](section_163350902208.md) — section_163350902208
+        - [CSV Fields for Importing Fixed Asset Records](article_1120064917.md) — article_1120064917
+        - [Uploading Fixed Asset Records through CSV Import](article_1120065424.md) — article_1120065424
+      - [Importing Asset Depreciation History Records (DHRs)](section_163350918113.md) — section_163350918113
+        - [CSV Fields for Importing Asset DHRs](article_1201043830.md) — article_1201043830
+        - [Uploading Asset DHRs through CSV Import](article_1201043729.md) — article_1201043729
+      - [Updating Tax Methods](section_163350910591.md) — section_163350910591
+        - [Create a Saved Search and Export to a CSV file](article_1201045458.md) — article_1201045458
+        - [Import CSV File as Alternate Depreciation](article_1201045622.md) — article_1201045622
+      - [Importing Tax Method DHRs](section_163350926740.md) — section_163350926740
+        - [CSV Fields for Importing Tax Method DHRs](article_1201050345.md) — article_1201050345
+        - [Uploading Tax Method DHRs through CSV Import](article_1201050450.md) — article_1201050450
+      - [Setting Default Values and Reference Types](section_163350933700.md) — section_163350933700
+    - [Creating Asset Records Manually](section_164689339824.md) — section_164689339824
+      - [Asset Values Record](bridgehead_1506382738.md) — bridgehead_1506382738
+        - [Recovering Asset Values](bridgehead_1551831398.md) — bridgehead_1551831398
+      - [Compound Assets](bridgehead_4609649173.md) — bridgehead_4609649173
+        - [Building Compound Assets](article_1201062621.md) — article_1201062621
+      - [General Subtab](bridgehead_N2151888.md) — bridgehead_N2151888
+      - [Accounts Subtab](bridgehead_N2152269.md) — bridgehead_N2152269
+      - [Lease Subtab](bridgehead_N2152301.md) — bridgehead_N2152301
+      - [Insurance Subtab](bridgehead_N2153588.md) — bridgehead_N2153588
+      - [Maintenance Subtab](bridgehead_N2153700.md) — bridgehead_N2153700
+      - [Components Subtab](bridgehead_4522188043.md) — bridgehead_4522188043
+      - [Asset Sale/Disposal Tab](bridgehead_N2154456.md) — bridgehead_N2154456
+      - [Depreciation History Subtab](bridgehead_N2154557.md) — bridgehead_N2154557
+        - [Creating FAM Alternate Depreciation](bridgehead_N2153972.md) — bridgehead_N2153972
+      - [Asset Usage Subtab](bridgehead_N2154643.md) — bridgehead_N2154643
+      - [Sub-Assets Subtab](bridgehead_N2154774.md) — bridgehead_N2154774
+      - [Income/Expense Subtab](bridgehead_N2154956.md) — bridgehead_N2154956
+      - [Notes Subtab](bridgehead_N2154992.md) — bridgehead_N2154992
+      - [Files Subtab](bridgehead_N2155005.md) — bridgehead_N2155005
+  - [Updating Fixed Assets Management Records](chapter_N2147919.md) — chapter_N2147919
+    - [Updating Asset Records Using CSV Import](section_N2148181.md) — section_N2148181
+    - [Adding Alternate Depreciation Methods Using CSV Import](section_N2148707.md) — section_N2148707
+    - [Triggering the Asset Reset Process](section_1530828764.md) — section_1530828764
+      - [Field Changes That Trigger an Asset Reset](article_1201080802.md) — article_1201080802
+      - [Asset Reset Process Stages](article_1201080808.md) — article_1201080808
+    - [Manually Editing Asset Records](section_N2150682.md) — section_N2150682
+    - [Restricting the Editing of Asset Values](section_N2150936.md) — section_N2150936
+  - [Managing Assets](chapter_N2157855.md) — chapter_N2157855
+    - [Asset Depreciation](section_N2158182.md) — section_N2158182
+      - [Depreciating Assets for the Period](subsect_1201085716.md) — subsect_1201085716
+        - [Asset Depreciation Process Stages](subsect_1201085800.md) — subsect_1201085800
+      - [Generating Depreciation Schedule Values](bridgehead_1501564204.md) — bridgehead_1501564204
+      - [Depreciation of Compound Assets](bridgehead_4522209887.md) — bridgehead_4522209887
+        - [Sample Scenarios for Compound Asset Depreciation](bridgehead_4524900608.md) — bridgehead_4524900608
+      - [Depreciation of Assets with Zero and Negative Costs](bridgehead_N2158349.md) — bridgehead_N2158349
+    - [Asset Disposal by Sale or Write-Off](section_N2160101.md) — section_N2160101
+      - [Selling an Asset](subsect_1201095115.md) — subsect_1201095115
+      - [Disposing or Writing-Off an Asset](subsect_1201095109.md) — subsect_1201095109
+        - [Asset Disposal Process Stages](subsect_1201095159.md) — subsect_1201095159
+      - [Bulk Asset Disposal through CSV Import](article_1201094656.md) — article_1201094656
+        - [CSV File Mapping for Asset Disposal](article_1201094505.md) — article_1201094505
+      - [Partial Disposal of an Asset](section_N2160572.md) — section_N2160572
+    - [Asset Revaluation](section_N2160799.md) — section_N2160799
+      - [Single Asset Revaluation](subsect_0116010755.md) — subsect_0116010755
+        - [Asset Revaluation Process Stages](article_1202121058.md) — article_1202121058
+      - [Multiple Asset Revaluation](subsect_0116010942.md) — subsect_0116010942
+        - [Guidelines and Limitations when Revaluing Multiple Assets](bridgehead_0116011011.md) — bridgehead_0116011011
+        - [Revaluing Multiple Assets through CSV Import](article_1202121333.md) — article_1202121333
+    - [Asset Split](section_N2161132.md) — section_N2161132
+      - [Splitting an Asset](subsect_0718035642.md) — subsect_0718035642
+        - [Asset Split Process Stages](article_1202025537.md) — article_1202025537
+      - [Splitting Assets in Bulk](subsect_0717030319.md) — subsect_0717030319
+        - [Guidelines and Limitations for Splitting Assets in Bulk using CSV Import](bridgehead_0717030348.md) — bridgehead_0717030348
+        - [Splitting Multiple Assets through CSV Import](subsect_1202025103.md) — subsect_1202025103
+      - [Creating a Saved Search for Asset Split User Notes](subsect_0718035919.md) — subsect_0718035919
+    - [Asset Transfer](section_N2161434.md) — section_N2161434
+      - [Transferring an Asset](article_1202041617.md) — article_1202041617
+        - [Asset Transfer Process Stages](article_1202041624.md) — article_1202041624
+      - [Transferring Multiple Assets through CSV Import](article_1202041510.md) — article_1202041510
+        - [CSV File Mapping for Asset Transfer](article_1202043630.md) — article_1202043630
+      - [Transferring Assets Across Subsidiaries](bridgehead_N2161496.md) — bridgehead_N2161496
+      - [Transferring Assets Across Classes, Departments, or Locations](bridgehead_N2161600.md) — bridgehead_N2161600
+      - [Transferring Assets Across Asset Types](bridgehead_N2161634.md) — bridgehead_N2161634
+    - [Deleting Assets](section_1515625259.md) — section_1515625259
+    - [Group Tax Depreciation](section_N2158836.md) — section_N2158836
+      - [Create an Alternate Depreciation Method for Group Tax Depreciation](article_1202052250.md) — article_1202052250
+      - [Define Assets for Group Tax Depreciation](article_1202052244.md) — article_1202052244
+      - [Create a Group Master Record for Group Tax Depreciation](article_1202052238.md) — article_1202052238
+    - [Viewing and Approving Custom Journal Entries](section_4429921189.md) — section_4429921189
+  - [Asset Reports](chapter_N2162621.md) — chapter_N2162621
+    - [Asset Register Report](bridgehead_4466048022.md) — bridgehead_4466048022
+    - [Asset Summary Report](bridgehead_4466017128.md) — bridgehead_4466017128
+    - [Depreciation Schedule Report (Net Book Value and Period Depreciation)](bridgehead_4466155792.md) — bridgehead_4466155792
+    - [Depreciation Monthly Report](bridgehead_1521669892.md) — bridgehead_1521669892
+    - [Asset Listing Report (Anlagenspiegel)](bridgehead_1531379853.md) — bridgehead_1531379853
+    - [Schedule 16 Reports](bridgehead_157969033717.md) — bridgehead_157969033717
+    - [Asset Report Generation](section_1016023910.md) — section_1016023910
+      - [Generating Fixed Asset Reports](subsect_1202061114.md) — subsect_1202061114
+      - [Exporting Asset Reports to an Excel File](bridgehead_4466141321.md) — bridgehead_4466141321
+    - [Fixed Assets Report Template](section_1549417359.md) — section_1549417359
+      - [Customizing the Fixed Assets Report Template through the User Interface (UI)](section_1549418117.md) — section_1549418117
+        - [Customizing FAM Report Template through the UI](article_1202065815.md) — article_1202065815
+        - [Reverting to the Standard FAM Report Template](subsect_1549419838.md) — subsect_1549419838
+      - [Customizing the Fixed Assets Report XML Template](section_4651735494.md) — section_4651735494
+        - [Supported Asset Fields](section_4708099314.md) — section_4708099314
+        - [Downloading the Default Asset Report Templates](section_4688295855.md) — section_4688295855
+        - [Adding a Placeholder for New Fields in the Asset Report](section_4688264574.md) — section_4688264574
+        - [Adding or Removing a Field from the Default Asset Report Template](section_4688267909.md) — section_4688267909
+        - [Mapping Asset Values to FAM Reports](section_1551764176.md) — section_1551764176
+        - [Setting a Custom Template for Asset Reports](section_4688268217.md) — section_4688268217
+    - [Viewing Fixed Asset Reports](section_4397780650.md) — section_4397780650
+  - [Fixed Assets Saved Searches](chapter_N2161877.md) — chapter_N2161877
+    - [Standard Fixed Asset Saved Searches](article_1202074148.md) — article_1202074148
+    - [Additional Fixed Asset Saved Searches](article_1202073949.md) — article_1202073949
+    - [Lease Accounting Reports](subsect_1563346759.md) — subsect_1563346759
+      - [Lease Liability Detail Report](article_1202072855.md) — article_1202072855
+      - [Right-of-Use Asset Listing Report](article_1202073056.md) — article_1202073056
+      - [Short Term Lease Liability Report](article_1202072428.md) — article_1202072428
+      - [Long Term Lease Liability Report](article_1202072423.md) — article_1202072423
+  - [Managing Fixed Assets Scripts](chapter_164857349671.md) — chapter_164857349671
+    - [Fixed Assets Management Script Priority](section_164857361903.md) — section_164857361903
+      - [Prerequisites for Prioritizing FAM Scripts](bridgehead_1530858413.md) — bridgehead_1530858413
+      - [Setting a Priority for FAM Scripts](subsect_1203031742.md) — subsect_1203031742
+    - [Changing the Scheduled Script Runtime](section_1508315379.md) — section_1508315379
+    - [Updating Script Deployment Settings for Suitelets Available Without Login](section_0714041106.md) — section_0714041106
+    - [Running the Migration Script to Update the Fixed Assets Management SuiteApp](section_164857381791.md) — section_164857381791
+    - [Fixed Asset Error Recovery Script](section_1016064026.md) — section_1016064026
+      - [Modifying the Script Deployment to Create Summary Records](bridgehead_1506473057.md) — bridgehead_1506473057
+      - [Modifying the Script Deployment to Update Asset Values](bridgehead_1511919774.md) — bridgehead_1511919774
+    - [Background Processing of Fixed Assets](section_164861655712.md) — section_164861655712
+      - [Process Status Page](bridgehead_1492665860.md) — bridgehead_1492665860
+      - [Process Stage Details](bridgehead_1492665879.md) — bridgehead_1492665879
+      - [Process List](bridgehead_N2163967.md) — bridgehead_N2163967
+      - [Fixed Assets Custom Plug-In](bridgehead_162194842171.md) — bridgehead_162194842171
+      - [Scheduled Server Scripts for Controlling Asset Transactions](bridgehead_N2164126.md) — bridgehead_N2164126
+    - [Viewing Script Error Notification Settings for Fixed Assets Management](section_N2133657.md) — section_N2133657
+  - [Multi-Book Accounting for Fixed Assets Management](chapter_4041921808.md) — chapter_4041921808
+    - [Setting Up Multi-Book Accounting for Fixed Assets Management](section_4260545800.md) — section_4260545800
+      - [Prerequisites for Fixed Assets Multi-Book Accounting](bridgehead_4042028728.md) — bridgehead_4042028728
+      - [Roles and Permissions for Fixed Assets Multi-Book Accounting](bridgehead_4065045543.md) — bridgehead_4065045543
+      - [Updating Depreciation History Records](bridgehead_4043477823.md) — bridgehead_4043477823
+        - [Updating Depreciation History Records through Mass Update](subsect_1203042729.md) — subsect_1203042729
+        - [Updating Depreciation History Records through CSV Import](subsect_1203042840.md) — subsect_1203042840
+    - [Managing Assets in Multiple Books](section_4260539226.md) — section_4260539226
+      - [Defining Asset Accounts and Values for Multiple Books](section_4260545982.md) — section_4260545982
+      - [Assets and Accounting Books in Multi-Book Accounting](section_4260546459.md) — section_4260546459
+        - [Linking Accounting Books to an Asset](article_88230949989.md) — article_88230949989
+      - [Asset Proposal](section_4260546760.md) — section_4260546760
+      - [Running Depreciation on an Accounting Book](section_4260547210.md) — section_4260547210
+      - [Transferring Fixed Assets Within Multi-Book Accounting](section_4260547461.md) — section_4260547461
+      - [Revaluing an Asset in Multiple Books](section_4260549499.md) — section_4260549499
+      - [Disposing an Asset in Multiple Books](section_4260551018.md) — section_4260551018
+      - [Splitting an Asset in Multiple Books](section_4260557758.md) — section_4260557758
+  - [Fixed Assets Lease Accounting](chapter_1543968584.md) — chapter_1543968584
+    - [FAM Lease Accounting Prerequisites](section_1543977717.md) — section_1543977717
+      - [Setting up Permissions for Lease Accounting](subsect_1544023841.md) — subsect_1544023841
+      - [Setting Up General Ledger Accounts for Lease Accounting](subsect_1543978200.md) — subsect_1543978200
+    - [Creating a Lease Record](section_1543968614.md) — section_1543968614
+      - [Creating a Lease Record Manually](subsect_1203074757.md) — subsect_1203074757
+        - [Lease Record Status](article_1203075206.md) — article_1203075206
+      - [Importing Lease Records](subsect_1203074838.md) — subsect_1203074838
+      - [Posting Reference Subtab (Lease Accounting)](subsect_1543971320.md) — subsect_1543971320
+      - [Accounting Books Subtab (Lease Accounting)](subsect_1543971336.md) — subsect_1543971336
+      - [Lease Amortization Schedule Subtab](subsect_1543971350.md) — subsect_1543971350
+    - [Adding Lease Payments](section_1543971704.md) — section_1543971704
+      - [Adding Lease Payments through the Lease Amortization Schedule Subtab](subsect_1203081126.md) — subsect_1203081126
+      - [Adding or Updating Lease Payments through CSV Import](subsect_1543972101.md) — subsect_1543972101
+        - [Lease Payment Import Guidelines](subsect_1543972357.md) — subsect_1543972357
+        - [Creating a Saved Search for the Lease Payments](subsect_1551252116.md) — subsect_1551252116
+        - [Adding Interest Journals to the CSV File](subsect_1551252109.md) — subsect_1551252109
+        - [Importing Lease Payments](subsect_1543972424.md) — subsect_1543972424
+    - [Generating the Lease Amortization Schedule](section_1543971736.md) — section_1543971736
+    - [Lease Journal Entries](section_1543971770.md) — section_1543971770
+      - [Creating a Lease Journal Entry](subsect_1203082810.md) — subsect_1203082810
+      - [Reversing a Lease Journal](subsect_158392742508.md) — subsect_158392742508
+    - [Recording Lease Interest](section_1543971788.md) — section_1543971788
+    - [Lease Asset Proposal and Generation](section_1543977465.md) — section_1543977465
+      - [Initial Measurement of the Right-of-Use Asset](subsect_0717035330.md) — subsect_0717035330
+      - [Re-measurement of the Right-of-Use Asset](subsect_0717035836.md) — subsect_0717035836
+    - [Migrating Existing Lease Details](section_1550097769.md) — section_1550097769
+    - [Lease Record Modification](section_157969052439.md) — section_157969052439
+      - [Modifying Lease Records](subsect_1203083826.md) — subsect_1203083826
+      - [Processes Triggered by Lease Modifications](subsect_1203083902.md) — subsect_1203083902
+      - [Calculating the Lease Modification Adjustment](subsect_57144015248.md) — subsect_57144015248
+      - [Viewing Lease Modification Details](subsect_158392741685.md) — subsect_158392741685

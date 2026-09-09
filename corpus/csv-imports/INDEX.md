@@ -1,0 +1,338 @@
+# CSV Imports
+
+334 pages, category: Account Administration
+
+- [CSV Imports](book_4470700566.md) — book_4470700566
+  - [CSV Imports Overview](chapter_N342646.md) — chapter_N342646
+  - [Importing CSV Files with the Import Assistant](chapter_N343158.md) — chapter_N343158
+    - [Step One Scan & Upload File](section_N343532.md) — section_N343532
+      - [Select an Import Type](section_N343713.md) — section_N343713
+      - [Select a Record Type for Import](section_N344030.md) — section_N344030
+      - [Choose Import Character Encoding](section_N344158.md) — section_N344158
+      - [Choose CSV Column Delimiter](section_4341195935.md) — section_4341195935
+      - [Select a File for Import](section_N344348.md) — section_N344348
+    - [Step Two Import Options](section_N344550.md) — section_N344550
+      - [Choose Data Handling for Import](section_N345294.md) — section_N345294
+      - [Required Permissions for CSV Imports](section_N345544.md) — section_N345544
+      - [Set Advanced CSV Import Options](section_N345887.md) — section_N345887
+        - [Log System Notes For Custom Fields](section_3751051117.md) — section_3751051117
+        - [Overwrite Missing Fields](section_3751050565.md) — section_3751050565
+        - [Validate Mandatory Custom Fields](section_3751048115.md) — section_3751048115
+        - [Overwrite Sublists](section_3751046270.md) — section_3751046270
+        - [Ignore Read Only Fields](section_3751046796.md) — section_3751046796
+        - [Prevent Duplicate Records](section_3751045493.md) — section_3751045493
+        - [Custom Multi-Select Value Delimiter](section_3751045259.md) — section_3751045259
+        - [CSV Decimal Delimiter](section_4341202053.md) — section_4341202053
+        - [Custom Form](section_3751044597.md) — section_3751044597
+        - [Server Scripting and Workflow Execution](section_4676525683.md) — section_4676525683
+        - [Use Multi-Threading](section_3751043993.md) — section_3751043993
+        - [Queue Number](section_3751039561.md) — section_3751039561
+      - [Use Multiple Threads and Multiple Queues to Run CSV Import Jobs](section_N347015.md) — section_N347015
+    - [Step Three File Mapping](section_N347303.md) — section_N347303
+    - [Step Four Field Mapping](section_N347418.md) — section_N347418
+      - [CSV Field Mapping Tasks](section_N348870.md) — section_N348870
+      - [General CSV Field Mapping Tips](section_N349148.md) — section_N349148
+      - [Required Fields on Records](section_N349431.md) — section_N349431
+      - [Select Reference Types](section_N349594.md) — section_N349594
+      - [Assign Default Values during Field Mapping](section_N349918.md) — section_N349918
+      - [Assign Null Values during Field Mapping](section_N350094.md) — section_N350094
+    - [Step Five Save Mapping & Start Import](section_N350233.md) — section_N350233
+      - [Checking CSV Import Status](section_N350581.md) — section_N350581
+      - [Canceling a CSV Import](section_N353181.md) — section_N353181
+      - [CSV Import Error Reporting](section_N353446.md) — section_N353446
+      - [Deleting Incorrect CSV Data](section_N353700.md) — section_N353700
+    - [Working with Saved CSV Imports](section_N353796.md) — section_N353796
+      - [Editing a Saved Import](section_N354236.md) — section_N354236
+      - [Sharing Imports](section_N354513.md) — section_N354513
+      - [Translating Import Map Name and Description](section_N354788.md) — section_N354788
+      - [Including Import Maps and CSV Files in SuiteBundler](section_N355009.md) — section_N355009
+    - [Setting CSV Import Preferences](section_N355760.md) — section_N355760
+    - [Setting Integration Preferences](section_N356104.md) — section_N356104
+  - [Guidelines for CSV Import Files](chapter_N356211.md) — chapter_N356211
+    - [Supported Record Types for CSV Import](section_N356360.md) — section_N356360
+    - [Accounting Import Type](section_N357752.md) — section_N357752
+      - [Budget Exchange Rates Import](section_1551794720.md) — section_1551794720
+      - [Chart of Accounts Import](section_N357847.md) — section_N357847
+      - [Consolidated Exchange Rates Import](section_4823507991.md) — section_4823507991
+      - [Currency Exchange Rates Import](section_N359131.md) — section_N359131
+      - [Expense Categories Import](section_3743320632.md) — section_3743320632
+      - [Fair Value Price CSV Import](section_4364431329.md) — section_4364431329
+      - [Global Account Mapping Import](section_3899767690.md) — section_3899767690
+      - [Item Account Mapping Import](section_3899781115.md) — section_3899781115
+      - [Item Collection Import](section_157565660234.md) — section_157565660234
+      - [Item Collection Item Map Import](section_157599533377.md) — section_157599533377
+      - [Revenue Recognition Field Map Import](section_0108041240.md) — section_0108041240
+      - [Units Type Import](article_0622010835.md) — article_0622010835
+    - [Activities Import Type](section_N359586.md) — section_N359586
+      - [Events Import](section_3743314536.md) — section_3743314536
+        - [Event Date and Time Fields](section_3752840756.md) — section_3752840756
+          - [How Mapped Event Date Values Display in the UI](section_3758815076.md) — section_3758815076
+          - [Avoiding Event Date/Time Formatting Errors](section_3758780817.md) — section_3758780817
+        - [Event Body Fields](section_3751124305.md) — section_3751124305
+        - [Event Sublists](section_3754445434.md) — section_3754445434
+        - [Event CSV File Examples](section_3757027142.md) — section_3757027142
+        - [Common Errors When Importing Events](section_3754448437.md) — section_3754448437
+      - [Phone Calls Import](section_N359696.md) — section_N359696
+      - [Resource Allocations Import](section_1536261544.md) — section_1536261544
+      - [Tasks Import](section_N360296.md) — section_N360296
+    - [Classification Import Type](section_N360930.md) — section_N360930
+      - [Class Import](section_N362626.md) — section_N362626
+      - [Custom Segment Value Import](section_4358372117.md) — section_4358372117
+        - [Custom Segment Value Body Fields](section_4358393734.md) — section_4358393734
+        - [Custom Segment Value Translations](section_4358397292.md) — section_4358397292
+      - [Department Import](section_N362786.md) — section_N362786
+      - [Location Import](section_N362936.md) — section_N362936
+      - [Merchandise Hierarchy Node Import](section_1530005074.md) — section_1530005074
+    - [Communications Import Type](section_N363101.md) — section_N363101
+      - [Messages Import](section_N363195.md) — section_N363195
+      - [Notes Import](section_N363414.md) — section_N363414
+    - [CPQ Product Import](section_1001031908.md) — section_1001031908
+    - [Custom Records Import](section_N363599.md) — section_N363599
+    - [Customization Import Type](section_N363750.md) — section_N363750
+      - [Custom List Import](section_N363830.md) — section_N363830
+        - [Custom List Body Fields](section_N363990.md) — section_N363990
+        - [Custom List Sublist Data](section_N364491.md) — section_N364491
+        - [Custom List CSV Multiple File Examples](section_N365834.md) — section_N365834
+        - [Custom List CSV Single File Examples](section_157890910739.md) — section_157890910739
+        - [Common Errors When Importing Custom Lists](section_N369759.md) — section_N369759
+    - [Employees Import Type](section_3743324177.md) — section_3743324177
+      - [Bonus Import](section_161401151814.md) — section_161401151814
+      - [Employees Import](section_N369952.md) — section_N369952
+      - [Import of Employee Record Changes with Effective Dating](section_158134577532.md) — section_158134577532
+      - [Expense Report Import](section_3743326792.md) — section_3743326792
+        - [Expense Report Body Fields](section_3746635244.md) — section_3746635244
+        - [Expense Report Sublist Fields](section_3746635562.md) — section_3746635562
+        - [Expense Report CSV Examples](section_3746675443.md) — section_3746675443
+        - [Common Errors When Importing Expense Reports](section_3750986962.md) — section_3750986962
+      - [Imported Employee Expense Import](section_164482935592.md) — section_164482935592
+      - [Job Import](section_1498462977.md) — section_1498462977
+      - [Time-Off Change CSV Import](section_4647243358.md) — section_4647243358
+      - [Track Time Import](section_3743327620.md) — section_3743327620
+        - [Track Time Body Fields](section_3757809592.md) — section_3757809592
+        - [Track Time CSV Example](section_3757813400.md) — section_3757813400
+    - [Items Import](section_N370470.md) — section_N370470
+      - [Item Record Types that Can Be Imported](section_N370727.md) — section_N370727
+      - [Item Sublists Available for Import](section_N371212.md) — section_N371212
+      - [Notes about Items Imports](section_N372644.md) — section_N372644
+      - [Selecting General Ledger Accounts for Item Imports](section_N373097.md) — section_N373097
+      - [Importing Demand Planning Data for Items](section_N373888.md) — section_N373888
+      - [Importing Shipping Items for NetSuite Ship Central](section_0401023430.md) — section_0401023430
+      - [Importing Related Items Groups](section_N375476.md) — section_N375476
+      - [Importing Matrix Options for Items](section_N375701.md) — section_N375701
+        - [Item Types that Support Matrix Options Import](bridgehead_N375858.md) — bridgehead_N375858
+        - [Prerequisites for Importing Matrix Items](bridgehead_N375963.md) — bridgehead_N375963
+        - [Setting Up Custom Lists and Item Fields for Matrix Options](bridgehead_N376031.md) — bridgehead_N376031
+        - [Setting Up Your CSV File for Matrix Items Import](bridgehead_N376239.md) — bridgehead_N376239
+        - [Mapping Fields for Matrix Items Import](bridgehead_N376956.md) — bridgehead_N376956
+        - [Tips for Matrix Items Import](bridgehead_N377033.md) — bridgehead_N377033
+      - [Importing Pricing Data for Items](section_N377331.md) — section_N377331
+        - [Imports Using Multiple Price Levels and Quantities Example](section_N379537.md) — section_N379537
+        - [Imports Using Quantity Pricing Schedules Example](section_N380976.md) — section_N380976
+      - [Replacing the Bill of Materials Sublist with the CSV File](section_4583275282.md) — section_4583275282
+    - [Payment Instruments Import Type](section_1536677968.md) — section_1536677968
+    - [Relationships Import Type](section_N383063.md) — section_N383063
+      - [Billing Account Import](section_4780428560.md) — section_4780428560
+      - [Contacts Only Import](section_N383204.md) — section_N383204
+      - [Customer-Subsidiary Relationship Import](section_1529503002.md) — section_1529503002
+      - [Customers Only Import](section_N383794.md) — section_N383794
+      - [Group Import](section_159282407440.md) — section_159282407440
+      - [Projects (Jobs) Import](section_N385885.md) — section_N385885
+      - [Project Tasks Import](article_0804012344.md) — article_0804012344
+      - [Leads Only Import](section_N386282.md) — section_N386282
+      - [Partners Import](section_N388987.md) — section_N388987
+      - [Prospects Only Import](section_N389753.md) — section_N389753
+      - [Sales Channel Import](section_163171987796.md) — section_163171987796
+      - [Vendor-Subsidiary Relationship Import](section_1529508258.md) — section_1529508258
+      - [Vendors Import](section_N390628.md) — section_N390628
+      - [Importing Entities and Contacts Together](section_N391803.md) — section_N391803
+      - [Understanding Leads, Prospects, and Customers](section_N394436.md) — section_N394436
+    - [Rules Setup Import Type](section_1557337546.md) — section_1557337546
+      - [Foreign Currency Variance Posting Rule Import](section_1557344663.md) — section_1557344663
+    - [Subscription Billing Import Type](section_1489599497.md) — section_1489599497
+      - [Price Book Import](section_1489600476.md) — section_1489600476
+      - [Price Plan Import](section_1489601137.md) — section_1489601137
+      - [Subscription Import](section_1489602021.md) — section_1489602021
+      - [Subscription Change Order Import](section_1489602323.md) — section_1489602323
+      - [Subscription Line Import](section_1489602738.md) — section_1489602738
+      - [Subscription Plan Import](section_1489603288.md) — section_1489603288
+      - [Usage Import](section_1489603628.md) — section_1489603628
+    - [Supply Chain Import Type](section_N394620.md) — section_N394620
+      - [Bill of Materials Import](section_1551190038.md) — section_1551190038
+      - [Bill of Materials Revision Import](section_1551194432.md) — section_1551194432
+      - [Bin Import](section_N394777.md) — section_N394777
+      - [Item Location Configuration Import](section_1547670749.md) — section_1547670749
+      - [Item Process Family Import](section_158593641657.md) — section_158593641657
+      - [Item Process Group Import](section_158593669927.md) — section_158593669927
+      - [Item Revision Import](section_N395019.md) — section_N395019
+      - [Manufacturing Cost Template Import](section_N395199.md) — section_N395199
+        - [Prerequisite Records for Cost Template Import](section_N395402.md) — section_N395402
+        - [Cost Template Body and Sublist Fields](section_N396186.md) — section_N396186
+        - [Cost Template CSV File Examples](section_N398462.md) — section_N398462
+        - [Common Errors When Importing Cost Templates](section_N399710.md) — section_N399710
+      - [Manufacturing Routing Import](section_N399906.md) — section_N399906
+        - [Prerequisite Records for Routing Import](section_N400118.md) — section_N400118
+        - [Routing Body and Sublist Fields](section_N400811.md) — section_N400811
+        - [Routing CSV File Examples](section_N401643.md) — section_N401643
+        - [Common Errors When Importing Routing Records](section_N404433.md) — section_N404433
+      - [Order Type Import](section_158593595182.md) — section_158593595182
+      - [Pick Strategy Import](section_158593750732.md) — section_158593750732
+      - [Planning Item Category Import](section_161298975826.md) — section_161298975826
+      - [Planning Item Group Import](section_161299019101.md) — section_161299019101
+      - [Planning Rule Group Import](section_161299038460.md) — section_161299038460
+      - [Supply Plan Definition Import](section_161299087109.md) — section_161299087109
+      - [Zone Import](section_158593715954.md) — section_158593715954
+    - [Support Import Type](section_N404668.md) — section_N404668
+      - [Issues Import](section_N404746.md) — section_N404746
+      - [Solutions Import](section_N404868.md) — section_N404868
+      - [Support Cases Import](section_N405092.md) — section_N405092
+      - [Topics Import](section_N405456.md) — section_N405456
+    - [Transactions Import Type](section_N405613.md) — section_N405613
+      - [Advanced Intercompany Journal Entry Import](section_1498465157.md) — section_1498465157
+      - [Bin Putaway Worksheet Import](section_0717090855.md) — section_0717090855
+      - [Bin Transfer Import](section_0319121833.md) — section_0319121833
+      - [Cash Refund Import](article_0304033212.md) — article_0304033212
+      - [Cash Sale Import](section_N407231.md) — section_N407231
+      - [Check Import](section_1529578227.md) — section_1529578227
+      - [Credit Card Charge Import](section_4676571596.md) — section_4676571596
+      - [Credit Card Refund Import](section_4676571713.md) — section_4676571713
+      - [Credit Memo Import](section_N408112.md) — section_N408112
+      - [Custom Transactions Import](section_4174435473.md) — section_4174435473
+        - [Custom Transaction Body and Sublist Fields](section_4271206591.md) — section_4271206591
+        - [How List Styles Affect Your Import](section_4271236880.md) — section_4271236880
+        - [Custom Transaction CSV File Examples](section_4271206853.md) — section_4271206853
+      - [Customer Payment Import](section_N410731.md) — section_N410731
+      - [Estimate Import](section_N411251.md) — section_N411251
+      - [Inventory Details on an Inbound Shipment](section_158136489199.md) — section_158136489199
+      - [Inventory Adjustment Import](section_4676544313.md) — section_4676544313
+      - [Inventory Cost Revaluation Import](section_3743317066.md) — section_3743317066
+        - [Prerequisite Records for Inventory Cost Revaluation Import](section_3761408093.md) — section_3761408093
+        - [Common Errors When Importing Inventory Cost Revaluation Records](section_3761449045.md) — section_3761449045
+      - [Inventory Transfer Import](section_4314530899.md) — section_4314530899
+      - [Invoice Import](section_N411794.md) — section_N411794
+      - [Item Demand Plan Import](section_N414602.md) — section_N414602
+        - [Demand Plan Body Data](section_N414956.md) — section_N414956
+        - [Demand Plan Sublist Data](section_N415164.md) — section_N415164
+        - [Monthly Item Demand Plan Import](section_N415398.md) — section_N415398
+        - [Weekly Item Demand Plan Import](section_N415713.md) — section_N415713
+        - [Daily Item Demand Plan Import](section_N416059.md) — section_N416059
+        - [Supported Fields for Item Demand Plan Imports](section_N416996.md) — section_N416996
+      - [Item Fulfillment Import](section_0220095644.md) — section_0220095644
+      - [Item Receipt Import](section_0220100422.md) — section_0220100422
+      - [Item Supply Plan Import](section_N417879.md) — section_N417879
+      - [Journal Entry Import and Intercompany Journal Entry Import](section_N418118.md) — section_N418118
+        - [Permissions for Importing Journal Entries with the Import Assistant](section_1534489333.md) — section_1534489333
+        - [Journal Entry CSV Files](section_1534489651.md) — section_1534489651
+        - [Journal Entry Import Supported Fields](section_1534489954.md) — section_1534489954
+        - [Journal Entry and Intercompany Journal Entry Header Fields Table](section_1534492479.md) — section_1534492479
+        - [Journal Entry and Intercompany Journal Entry Line-Level Fields Table](section_1534492737.md) — section_1534492737
+        - [Using Journal Entry Import for Updates](section_1534490251.md) — section_1534490251
+        - [Custom Form Specification for Journal Entry Imports](section_1534490534.md) — section_1534490534
+      - [Opportunity Import](section_N421452.md) — section_N421452
+      - [Order Reservation Import](section_163171739670.md) — section_163171739670
+      - [Paycheck Import](section_1498459867.md) — section_1498459867
+      - [Period End Journal Entry Import](section_1550160681.md) — section_1550160681
+      - [Purchase Order Import](section_N423495.md) — section_N423495
+      - [Return Authorization Import](section_N425745.md) — section_N425745
+      - [Sales Order Import](section_N426302.md) — section_N426302
+        - [Custom Form Specification for Sales Order Imports](section_4698171281.md) — section_4698171281
+        - [Supported Sales Order Sublist Data Imports](section_4698170486.md) — section_4698170486
+        - [Supported Sales Order Subrecord Data Imports](section_4698169967.md) — section_4698169967
+        - [Setting Imported Sales Orders' Status](section_4698169438.md) — section_4698169438
+        - [Setting Sales Orders to Closed](section_4698168976.md) — section_4698168976
+        - [Importing Currency Values for Sales Orders](section_4698168642.md) — section_4698168642
+        - [Charging Custom Credit Cards for Imported Sales Orders](section_4698168054.md) — section_4698168054
+        - [Using Import Assistant for Sales Orders Mass Update](section_4698166132.md) — section_4698166132
+        - [Sales Order Import Multi-File Example](section_4698175690.md) — section_4698175690
+      - [Statistical Journal Entry Import](section_3899783100.md) — section_3899783100
+        - [Statistical Journal Entry Body and Sublist Fields](section_3983596075.md) — section_3983596075
+        - [Statistical Journal Entry CSV File Examples](section_3954209072.md) — section_3954209072
+      - [Transfer Order Import](section_1529583019.md) — section_1529583019
+      - [Vendor Bill Import](section_N427250.md) — section_N427250
+      - [Vendor Credit Import](section_N428672.md) — section_N428672
+      - [Vendor Payment Import](section_N429286.md) — section_N429286
+      - [Vendor Prepayment Import](section_159462844377.md) — section_159462844377
+      - [Vendor Return Authorization Import](section_N429795.md) — section_N429795
+      - [Work Order Import](section_1221125458.md) — section_1221125458
+      - [Importing Transaction Item Options](section_N430392.md) — section_N430392
+      - [Creating Transaction Saved Searches for Reimport](section_N432599.md) — section_N432599
+    - [Website Import Type](section_N433102.md) — section_N433102
+      - [Commerce Category Import](section_1512587491.md) — section_1512587491
+      - [CMS Page Import](section_1560800028.md) — section_1560800028
+      - [Site Category Import](section_N433181.md) — section_N433181
+    - [Simple Imports](section_N433480.md) — section_N433480
+      - [Single Journal Entry Import](section_N433632.md) — section_N433632
+      - [Budget Import](section_N433988.md) — section_N433988
+      - [Single Inventory Worksheet Import](section_N434282.md) — section_N434282
+        - [Using the Inventory Worksheet Import Assistant](section_N434577.md) — section_N434577
+        - [Requirements for Inventory Worksheet CSV File Data](section_N435556.md) — section_N435556
+      - [Project Tasks Import](section_N438898.md) — section_N438898
+      - [Web Site Redirects Import](section_N439127.md) — section_N439127
+    - [Tips for Successful CSV Imports](section_N439220.md) — section_N439220
+      - [Sublist Data Import](section_N439392.md) — section_N439392
+        - [Supported Sublist Imports](section_N439528.md) — section_N439528
+        - [Importing Sublist Data in a Single File](section_1493384282.md) — section_1493384282
+          - [Import Format and Mapping Considerations](section_1534420642.md) — section_1534420642
+          - [Performance Considerations During Record Updates](section_1534420582.md) — section_1534420582
+          - [Import File Examples](section_1534420343.md) — section_1534420343
+          - [Limits of Using Multi-threaded CSV Import](section_1534420070.md) — section_1534420070
+        - [Multiline Sublists for CSV Import](section_1493796058.md) — section_1493796058
+        - [Required Fields for Sublist Import Mapping](section_N451547.md) — section_N451547
+        - [Line Item Updates on Transactions Imports](section_N451889.md) — section_N451889
+      - [Importing Subrecord Data](section_4314672015.md) — section_4314672015
+      - [Supported Subrecord Imports](section_4314686228.md) — section_4314686228
+      - [Effects of Auto-Generated Numbers during Imports](section_N452342.md) — section_N452342
+      - [General CSV File Conventions](section_N453326.md) — section_N453326
+      - [Tips for Using Numbers in CSV Files](section_N453795.md) — section_N453795
+      - [Values in CSV Files](section_N453857.md) — section_N453857
+      - [Avoiding Errors for Commas and Other Delimiter Symbols within CSV File Fields](section_N453950.md) — section_N453950
+      - [Delimiters for Hierarchical and Multi-Select Fields](section_N454061.md) — section_N454061
+      - [Name References](section_N454355.md) — section_N454355
+      - [State and Province Names for CSV Import](section_N454550.md) — section_N454550
+      - [Country Names for CSV Import](section_N454670.md) — section_N454670
+  - [CSV Import Error Messages](chapter_4568635774.md) — chapter_4568635774
+    - [General Import Errors](section_4568642498.md) — section_4568642498
+    - [Relationship Import Errors](section_4568661059.md) — section_4568661059
+      - [General Relationship Import Errors](section_4570061540.md) — section_4570061540
+      - [Customer Import Errors](section_4568672490.md) — section_4568672490
+      - [Customers and Contacts Import Errors](section_4568677178.md) — section_4568677178
+      - [Prospects and Contacts Import Errors](section_4568678135.md) — section_4568678135
+    - [Items Import Errors](section_4568643335.md) — section_4568643335
+      - [General Item Import Errors](section_4568683617.md) — section_4568683617
+        - [Please Enter Missing Price(s)](section_1534426053.md) — section_1534426053
+        - [Invalid Purchaseunit Reference Key](section_1534426135.md) — section_1534426135
+        - [Invalid Custitem Reference Key xxx](section_1534426278.md) — section_1534426278
+        - [Invalid Item Reference Key xx](section_1534426643.md) — section_1534426643
+        - [Adding New Line to Sublist Locations is not Allowed](section_1534427025.md) — section_1534427025
+        - [You cannot remove subsidiary: xxx because this record is used on a transaction for subsidiary: xxx](section_1534427412.md) — section_1534427412
+        - [Please enter value(s) for: Type](section_1534428607.md) — section_1534428607
+        - [If you are not replacing the entire matrix you may only update existing headers. X is not in the existing matrix](section_1534428723.md) — section_1534428723
+        - [Invalid assetaccount reference key xxx or Invalid cogsaccount reference key xxx](section_1534428980.md) — section_1534428980
+        - [Unexpected Error](section_1534429388.md) — section_1534429388
+        - [Invalid price level reference key XXX](section_1534429620.md) — section_1534429620
+        - ['Invalid parent reference key' on Item Record Import](section_1534429813.md) — section_1534429813
+        - [Could not find any records by this name](section_1534429898.md) — section_1534429898
+        - [You have entered an Invalid Field Value for [CostEstimate]](section_1534429970.md) — section_1534429970
+        - [Invalid Parent Reference Key](section_1534430023.md) — section_1534430023
+      - [Assembly Item Import Errors](section_4569175605.md) — section_4569175605
+      - [Item Demand Plan Import Errors](section_4569177775.md) — section_4569177775
+      - [Inventory Detail Import Errors](section_4569179830.md) — section_4569179830
+      - [Inventory Item Import Errors](section_4569181039.md) — section_4569181039
+      - [Kit/Package Import Errors](section_4570007314.md) — section_4570007314
+    - [Transactions Import Errors](section_4568643476.md) — section_4568643476
+      - [General Transaction Import Errors](section_4570011199.md) — section_4570011199
+      - [Customer Payment Errors](section_4570023326.md) — section_4570023326
+      - [Invoice Import Errors](section_4570024634.md) — section_4570024634
+      - [Journal Entry Import Errors](section_4570029068.md) — section_4570029068
+      - [Purchase Order Import Errors](section_4570035686.md) — section_4570035686
+      - [Sales Order Import Errors](section_4570036567.md) — section_4570036567
+      - [Vendor Bills Import Errors](section_4570039432.md) — section_4570039432
+      - [Vendor Payment Import Errors](section_4570046360.md) — section_4570046360
+      - [Item Demand Plan Import Errors](section_161520605618.md) — section_161520605618
+    - [Website Import Errors](section_4568643764.md) — section_4568643764
+  - [Additional Import and Export Options](chapter_N463253.md) — chapter_N463253
+    - [Importing a Peachtree CSV File](section_N463422.md) — section_N463422
+    - [Exporting Selected Lists and Reports as CSV Files (CSV Export)](section_N464443.md) — section_N464443
+    - [Extracting Data from NetSuite](section_N464759.md) — section_N464759
+    - [Replacements for smbXML](section_N464943.md) — section_N464943
+    - [Emailing or Faxing NetSuite Forms](section_N465450.md) — section_N465450
+  - [CSV Import FAQ](chapter_N3924743.md) — chapter_N3924743

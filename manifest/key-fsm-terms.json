@@ -1,0 +1,24 @@
+{
+  "branch": "key-fsm-terms",
+  "generatedAt": null,
+  "pages": {
+    "article_0302025945": {
+      "path": "corpus/key-fsm-terms/article_0302025945.md",
+      "title": "Key FSM Terms",
+      "type": "article",
+      "breadcrumb": "Field Service Management > Key FSM Terms",
+      "parent": "article_1140906473",
+      "category": "field-service-management",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_0302025945.html",
+      "etag": "\"5cda0b1a8c5482442b38f25aef35142e:1786980238.557586\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:32:19.304Z",
+      "sha256": "2a8f755568c401d1a2643a0441a4aef8032620ca22711277e9605a068f8c2791",
+      "bytes": 2696,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# SuiteCloud Agent Skills
+
+SuiteCloud Agent Skills (7 pages): SuiteCloud Agent Skills
+
+## Chapters
+- [SuiteCloud Agent Skills](book_9115320377.md): - SuiteCloud Agent Skills Overview(https://docs.
+  - [SuiteCloud Agent Skills Overview](article_7122549123.md): SuiteCloud Agent Skills support NetSuite business and development workflows by providing reusable, structured guidance for AI-assisted development and automation.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitecloud-agent-skills

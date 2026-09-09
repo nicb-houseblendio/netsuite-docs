@@ -1,0 +1,27 @@
+# Managing Connectors
+
+Managing Connectors (168 pages): Managing Connectors
+
+## Chapters
+- [Managing Connectors](article_164681449212.md): In this chapter, you will learn more about the connectors provided for different storefronts and 3PLs.
+  - [Managing the Amazon Connector in NetSuite Connector](section_162627481052.md): Using the Amazon connector, you can connect NetSuite with Amazon storefront.
+  - [Managing the Amazon Vendor Central Connector in NetSuite Connector](section_0113014721.md): Using the Amazon Vendor Central connector, you can connect NetSuite with your Amazon Vendor Central Account.
+  - [Managing the BigCommerce Connector in NetSuite Connector](section_163757692332.md): This section discusses the following topics about BigCommerce connector: - Mapping BigCommerce Call For Pricing Message(https://docs.
+  - [Managing the eBay Connector in NetSuite Connector](section_163759011553.md): This section discusses the following topics about eBay connector: - Managing eBay Categories in NetSuite Connector(https://docs.
+  - [Managing Loop Returns Connector in NetSuite Connector](article_0410021522.md): This section discusses the following topics about the Loop Returns connector: - Loop Returns Connector(https://docs.
+  - [Managing Magento 2 Connector in NetSuite Connector](section_164846304955.md): This section discusses the following topics about Magento 2 connector: - Default Mappings for Magento 2 Connector(https://docs.
+  - [Managing the Oracle Simphony Connector in NetSuite](section_0628042535.md): This section discusses the following topics about Oracle Simphony connector: - NetSuite Connector Settings for Simphony Connector(https://docs.
+  - [Managing the Shopify Connector in NetSuite Connector](section_163162040081.md): This section discusses the following topics about Shopify connector: - Setting Up Real-Time Order Sync for Shopify in NetSuite Connector(https://docs.
+  - [Managing the Walmart Connector in NetSuite Connector](section_164846447124.md): This section discusses the following topics about Walmart connector: - Walmart State Tax Remittance(https://docs.
+  - [Managing the WooCommerce Connector in NetSuite Connector](section_163162049630.md): This section discusses about WooCommerce connector: - Default Mappings for WooCommerce Connector(https://docs.
+  - [Managing Third-Party Logistics (3PL) Connectors in NetSuite Connector](section_163162017304.md): Using 3PL connectors, you can export orders from NetSuite to 3PLs.
+  - [Managing the ShipStation Connector in NetSuite Connector](section_163162030389.md): This section discusses the following about ShipStation connector: - Custom Store Connection with ShipStation Connector(subsect87145803639) - Fields that can be Mapped to and from ShipStation(https://docs.
+  - [Managing the Square Connector in NetSuite Connector](section_0930083228.md): This section discusses the following about Square connector: - Square Connector(subsect0930084630) - Square Connector Syncs(subsect0930085845) - Order Types in Square Connector(subsect0930085953) Square Connector The Square connector and NetSuite integration ensures data synchronization by seamlessly connection, eliminating the need for manual data entry and maintenance between the two systems.
+  - [Managing NetSuite Connector for Outlook](article_0413120748.md): This section discusses the following topics NetSuite Connector for Outlook: - NetSuite Connector for Outlook Overview(https://docs.
+  - [Troubleshooting Common Connector Issues](section_165027375383.md): This section covers the troubleshooting of common connector issues.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch managing-connectors

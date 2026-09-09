@@ -1,0 +1,553 @@
+# Customization
+
+549 pages, category: SuiteCloud Platform
+
+- [Customization](book_N2823893.md) — book_N2823893
+  - [Customization Overview](chapter_N2824008.md) — chapter_N2824008
+    - [Forms](bridgehead_N2824615.md) — bridgehead_N2824615
+      - [Forms Use Case](subsect_1542229523.md) — subsect_1542229523
+    - [Record Types](bridgehead_N2824771.md) — bridgehead_N2824771
+      - [Equipment Service Example using Custom Record Types](subsect_162092311855.md) — subsect_162092311855
+        - [Creating the Equipment Custom Record Type for the Equipment Service Example](subsect_162092326625.md) — subsect_162092326625
+        - [Creating the Parent-Child Relationship for the Equipment Service Example](subsect_162092342312.md) — subsect_162092342312
+        - [Creating a New Service Record Instance for the Equipment Service Example](subsect_162092352234.md) — subsect_162092352234
+        - [Customizing the Form Used to Enter Custom Records for the Equipment Service Example](subsect_162092384856.md) — subsect_162092384856
+    - [Transaction Types](section_1542227073.md) — section_1542227073
+    - [Segments](section_1542227070.md) — section_1542227070
+    - [Advanced Templates](section_1542227029.md) — section_1542227029
+    - [Centers](bridgehead_N2824967.md) — bridgehead_N2824967
+  - [Customization Best Practices](article_163039950342.md) — article_163039950342
+    - [Optimize Your Custom Fields and Custom Forms](article_163040072046.md) — article_163040072046
+    - [Plan Ahead and Make Use of Existing Standard Features](article_163040198313.md) — article_163040198313
+    - [Set Up Internal Controls](article_163040278533.md) — article_163040278533
+    - [Know When to Use SuiteFlow and SuiteScript](article_163040353694.md) — article_163040353694
+      - [SuiteFlow vs. SuiteScript](subsect_163040404806.md) — subsect_163040404806
+    - [Conventions for Naming Custom Objects](article_162428958352.md) — article_162428958352
+    - [Changing the ID of a Custom Object](article_162428789058.md) — article_162428789058
+    - [AI Description for Custom Object Definitions](article_0109014837.md) — article_0109014837
+      - [Adding an AI Description for a Custom Object](article_0109015544.md) — article_0109015544
+      - [Guidelines for Writing an AI Description](article_0109020149.md) — article_0109020149
+      - [Example Description for a Custom Record Type AI Description Field](article_0109021649.md) — article_0109021649
+      - [Example Description for a Custom Transaction Type AI Description Field](article_0109021750.md) — article_0109021750
+      - [Example Description for a Custom Field AI Description Field](article_0109021719.md) — article_0109021719
+  - [Customizing Field Level Help for Standard Fields](chapter_1530729846.md) — chapter_1530729846
+    - [Standard Field Level Help Customization Page](subsect_1530731515.md) — subsect_1530731515
+  - [Custom Fields](chapter_N2826978.md) — chapter_N2826978
+    - [Custom Fields Videos](article_0510123425.md) — article_0510123425
+    - [Field Type Descriptions for Custom Fields](section_N2842731.md) — section_N2842731
+      - [Using Account-Specific Domains for URLS in Custom Fields](subsect_162263823971.md) — subsect_162263823971
+    - [System Notes for Changes Made in Text Type Fields](article_0429092902.md) — article_0429092902
+    - [Custom Field Types](section_N2827140.md) — section_N2827140
+    - [Available Standard Fields and Field Types](section_N2843906.md) — section_N2843906
+      - [Transaction Body Fields](bridgehead_N2843917.md) — bridgehead_N2843917
+      - [Transaction Line Fields](bridgehead_N2846812.md) — bridgehead_N2846812
+      - [Transaction Item Options](bridgehead_N2849333.md) — bridgehead_N2849333
+      - [CRM Fields](bridgehead_N2849651.md) — bridgehead_N2849651
+      - [Entity Fields](bridgehead_N2850856.md) — bridgehead_N2850856
+      - [Item Fields](bridgehead_N2851231.md) — bridgehead_N2851231
+    - [Creating a Custom Field](section_N2829580.md) — section_N2829580
+      - [Creating Custom Fields by Type](section_161732113352.md) — section_161732113352
+        - [Creating Custom CRM Fields](section_N2827328.md) — section_N2827328
+        - [Creating Custom Entity Fields](section_N2827562.md) — section_N2827562
+        - [Creating Custom Item Fields](section_N2827818.md) — section_N2827818
+        - [Creating Custom Transaction Body Fields](section_N2828059.md) — section_N2828059
+        - [Creating Custom Transaction Line Fields](section_N2828307.md) — section_N2828307
+        - [Creating Custom Item Number Fields](section_N2829121.md) — section_N2829121
+        - [Creating Custom Transaction Item Options](section_N2828730.md) — section_N2828730
+        - [Creating Other Record Fields](section_N2829304.md) — section_N2829304
+        - [Creating Other Sublist Fields](section_1515582937.md) — section_1515582937
+      - [Assigning Custom Fields to Specific Record Types](section_N2830027.md) — section_N2830027
+      - [Behavior of View from Order Only Settings on Transaction Line and Transaction Body Custom Fields](article_0528113109.md) — article_0528113109
+        - [Behavior of View from Order Only Settings on Item Receipts and Item Fulfillments](subsect_0531111922.md) — subsect_0531111922
+      - [Setting Display Options for Custom Fields](section_N2830238.md) — section_N2830238
+        - [Adding Field-Level Help for Custom Fields](article_164519258566.md) — article_164519258566
+        - [Adding a Field that Spans the Top or Bottom of a Page](article_164192730235.md) — article_164192730235
+      - [Setting Validation and Defaulting Properties](section_N2830711.md) — section_N2830711
+        - [Customizing Delete Behavior for Records Referenced by Custom Fields](section_3910292537.md) — section_3910292537
+      - [Setting Sourcing Criteria](section_N2839623.md) — section_N2839623
+        - [Setting Sourcing and Filtering Criteria for a Custom Field](article_1024121621.md) — article_1024121621
+        - [Custom Fields Sourcing Videos](article_1024122002.md) — article_1024122002
+        - [Note about Custom Transaction Line Field Sourcing](bridgehead_N2839850.md) — bridgehead_N2839850
+        - [Troubleshooting Common Sourcing Issues](article_0709095341.md) — article_0709095341
+      - [Sourcing and Filtering Examples](section_N2839994.md) — section_N2839994
+      - [Setting Filtering Criteria](section_N2840153.md) — section_N2840153
+      - [Dependent Dropdown Lists](section_N2840468.md) — section_N2840468
+        - [Dependent Dropdown Lists Videos](article_0529034107.md) — article_0529034107
+        - [Creating Dependent Dropdown Lists](subsect_162153721460.md) — subsect_162153721460
+          - [Creating the Custom Lists and Custom Record Type for Dependent Dropdown Lists](subsect_162153739862.md) — subsect_162153739862
+          - [Creating Custom Fields and Setting up Filtering for Dependent Dropdown Lists](subsect_162153750701.md) — subsect_162153750701
+        - [Dependent Dropdown Lists Example](section_162153822814.md) — section_162153822814
+          - [Steps for Creating Dependent Dropdown Lists](subsect_162153893012.md) — subsect_162153893012
+            - [Steps for Creating the Custom Lists and Custom Record Type for Dependent Dropdown Lists](subsect_162153908411.md) — subsect_162153908411
+            - [Steps for Creating Custom Transaction Line Fields and Setting up Filtering for Dependent Dropdown Lists](subsect_162154004530.md) — subsect_162154004530
+        - [Dependent Dropdown Lists Vehicle Specification Example](article_0923085842.md) — article_0923085842
+          - [Summary of Setup Requirements to Create the Vehicle Specification Example](subsect_0923092841.md) — subsect_0923092841
+        - [Troubleshooting Dependent Dropdown List Issues](article_1016111656.md) — article_1016111656
+          - [Filter Using Dropdown List is Empty in Dependent Dropdown List](article_1016113223.md) — article_1016113223
+          - [Dependent Dropdown List Filtering Doesn't Restrict Options](article_1016120546.md) — article_1016120546
+          - [Options Missing in Dependent Dropdown List Fields](article_1016123954.md) — article_1016123954
+          - [Dependent Dropdown List Doesn't Update After Changing the Field Source](article_1016124637.md) — article_1016124637
+          - [Dependent Dropdown Fields List Don't Appear on the Form](article_1016124944.md) — article_1016124944
+          - [Filtering for a Dependent Dropdown List Doesn't Work on the Form as Expected](article_1016125509.md) — article_1016125509
+          - [SuiteScript or Workflow Interference with Dependent Dropdown List Filtering](article_1016012113.md) — article_1016012113
+          - [Role or Permission Issues Affect Dependent Dropdown List Field Visibility](article_1016013142.md) — article_1016013142
+          - [Dependent Dropdown Lists with Multiple Dependencies Don't Filter as Expected](article_1016014102.md) — article_1016014102
+          - [Test Dependent Dropdown List Filters with Sample Data](article_1016014730.md) — article_1016014730
+          - [Browser Cache or UI Caching Prevents Field Updates for Dependent Dropdown Lists](article_1016015156.md) — article_1016015156
+          - [Dependent Dropdown List Fields Show Unexpected Results in Reports](article_1016020116.md) — article_1016020116
+          - [General Troubleshooting Steps for Dependent Dropdown Lists](article_1016020408.md) — article_1016020408
+      - [Restricting Access to Custom Fields](section_N2841053.md) — section_N2841053
+        - [Setting Role, Department, or Subsidiary Access Restrictions for a Custom Field](article_1106091633.md) — article_1106091633
+        - [Access Level History for Custom Fields](bridgehead_N2842230.md) — bridgehead_N2842230
+        - [Bundling Fields with Access Restrictions](bridgehead_N2842249.md) — bridgehead_N2842249
+      - [Restricting Access to Employee Custom Fields](section_1514478336.md) — section_1514478336
+      - [Creating Read-Only Custom Fields](section_N2842596.md) — section_N2842596
+      - [Adding Translations for Custom Fields](section_4308565496.md) — section_4308565496
+      - [Setting Currency Context for a Currency Custom Field](article_0511114806.md) — article_0511114806
+        - [Effects of Setting Currency Context](article_0511115851.md) — article_0511115851
+        - [Setting the Currency Symbol Field on the Currency Context Subtab](article_0511120459.md) — article_0511120459
+        - [Currency Symbol Field Example](article_0511121552.md) — article_0511121552
+        - [Currency Symbol Field Behavior for New and Existing Fields](article_0511014357.md) — article_0511014357
+      - [Adding Custom Fields to Transaction Forms](section_N2828541.md) — section_N2828541
+      - [Tracking Changes to Custom Fields](article_54095541974.md) — article_54095541974
+    - [Inactivating a Custom Field](section_4352401817.md) — section_4352401817
+    - [Editing a Custom Field](section_4314473404.md) — section_4314473404
+      - [Maintaining Saved Searches that Include Edited Custom Fields](article_1122060904.md) — article_1122060904
+      - [Converting the Field Type of a Custom Field](article_160640754252.md) — article_160640754252
+        - [Converting Field Types Through a Bundle or SDF](subsect_161538326259.md) — subsect_161538326259
+        - [Verifying the Amount of Data for Conversion](subsect_161538329345.md) — subsect_161538329345
+        - [Supported Field Type Conversions](subsect_160640791624.md) — subsect_160640791624
+      - [Account-Specific Domains in Custom Fields](subsect_157954495748.md) — subsect_157954495748
+      - [Renaming Custom Fields](section_N2851885.md) — section_N2851885
+      - [Mass Updating Custom Fields](section_N2852019.md) — section_N2852019
+    - [Advanced Features for Custom Fields](section_4388569541.md) — section_4388569541
+      - [Encrypted Custom Field Stored Values](section_3908498467.md) — section_3908498467
+      - [Creating Custom Fields with Values Derived from Summary Search Results](section_3746191995.md) — section_3746191995
+        - [Steps for Creating a Summary Search Custom Field](bridgehead_3746193386.md) — bridgehead_3746193386
+        - [Custom Fields that Support Summary Search Derived Values](bridgehead_3746193961.md) — bridgehead_3746193961
+        - [Custom Field Data Types that Support Summary Search Derived Values](bridgehead_3746194501.md) — bridgehead_3746194501
+        - [Example Summary Search Custom Field](bridgehead_3746194784.md) — bridgehead_3746194784
+        - [Current Limitations for Summary Search Custom Fields](bridgehead_3746196618.md) — bridgehead_3746196618
+      - [Dynamic Defaults and Dynamic Hyperlinks](section_N2832010.md) — section_N2832010
+        - [NetSuite Tags](bridgehead_N2832058.md) — bridgehead_N2832058
+        - [Dynamic Hyperlinks](bridgehead_N2832147.md) — bridgehead_N2832147
+        - [Setting the Store Value Field](bridgehead_1487762215.md) — bridgehead_1487762215
+        - [Setting the Formula Field](bridgehead_1487762294.md) — bridgehead_1487762294
+        - [Predefined Formula Tags](subsect_160492514847.md) — subsect_160492514847
+      - [Creating Formula Fields](section_N2832369.md) — section_N2832369
+        - [Referencing Related Records in Formula Fields](bridgehead_N2832533.md) — bridgehead_N2832533
+        - [Creating a Formula Field Example](bridgehead_N2832724.md) — bridgehead_N2832724
+        - [Creating a Formula Field to Display Transaction Line Numbers](bridgehead_N2832808.md) — bridgehead_N2832808
+        - [Using a Field Formula to Remove Extra Spaces After Date/Time Field Values](bridgehead_4322174650.md) — bridgehead_4322174650
+        - [Formulas with Various Field Types](article_163612417610.md) — article_163612417610
+    - [Custom Lists](section_N2852109.md) — section_N2852109
+      - [Creating a Custom List](section_N2852278.md) — section_N2852278
+      - [Adding Translations for Custom Lists](section_N2852517.md) — section_N2852517
+      - [Managing Large Custom Lists](section_4823380225.md) — section_4823380225
+  - [Custom Forms](chapter_N2852749.md) — chapter_N2852749
+    - [Form Templates](article_163605126400.md) — article_163605126400
+      - [Advanced PDF/HTML Templates](bridgehead_N2853189.md) — bridgehead_N2853189
+      - [Basic Layouts for Transaction Forms](bridgehead_N2852853.md) — bridgehead_N2852853
+    - [Creating Custom Entry and Transaction Forms](section_N2853340.md) — section_N2853340
+      - [Viewing Completed Custom Entry and Custom Transaction Forms](subsect_164813510950.md) — subsect_164813510950
+      - [Custom Entry Form Properties](bridgehead_N2853525.md) — bridgehead_N2853525
+      - [Custom Transaction Forms Properties](bridgehead_N2853604.md) — bridgehead_N2853604
+      - [Storing Custom Forms with Transactions](section_N2854025.md) — section_N2854025
+      - [Configuring Subtabs for Custom Entry and Transaction Forms](section_N2855162.md) — section_N2855162
+      - [Moving Fields and Lists Between Subtabs](section_N2860592.md) — section_N2860592
+      - [Configuring Field Groups](section_N2856559.md) — section_N2856559
+        - [Adding Field Groups to Custom Forms of Custom Records](bridgehead_N2856753.md) — bridgehead_N2856753
+      - [Configuring Fields or Screens](section_N2856992.md) — section_N2856992
+        - [Filtering the Items Dropdown List on Transactions](section_N551064.md) — section_N551064
+        - [Associating Related Fields on Custom Forms](section_N2857453.md) — section_N2857453
+      - [Configuring Buttons and Actions](section_N2857647.md) — section_N2857647
+        - [Working with Standard Buttons](bridgehead_N2857736.md) — bridgehead_N2857736
+        - [Working with Custom Buttons](bridgehead_N2857802.md) — bridgehead_N2857802
+        - [About Button and Action Layout](bridgehead_N2857884.md) — bridgehead_N2857884
+      - [Configuring Printing Fields](section_N2858172.md) — section_N2858172
+      - [Configuring Sublists](section_N2858591.md) — section_N2858591
+      - [Configuring Sublist Fields](section_1515597095.md) — section_1515597095
+      - [Configuring QuickViews](section_N2859666.md) — section_N2859666
+        - [Configuring QuickViews for Upgraded Forms](bridgehead_N2859744.md) — bridgehead_N2859744
+        - [Configuring QuickViews for Custom Records](article_95152126340.md) — article_95152126340
+        - [Configuring QuickViews for Nonupgraded Forms](ridgehead_N2860013.md) — ridgehead_N2860013
+          - [How to Tell if the Custom Forms in Your Account are Upgraded](bridgehead_N2860381.md) — bridgehead_N2860381
+      - [Associating Custom Code (Client SuiteScript) Files With Custom Forms](section_N2860797.md) — section_N2860797
+      - [Defining Preferred Forms](section_N2873968.md) — section_N2873968
+        - [Defining Preferred Entry and Transaction Forms for Roles](bridgehead_4453608888.md) — bridgehead_4453608888
+      - [Adding Disclaimers to Transaction Form Footers](section_N2874493.md) — section_N2874493
+      - [Specifying Check Layout by Subsidiary](section_1513338497.md) — section_1513338497
+      - [Customizing Multiple Page Transaction Forms](section_N2874772.md) — section_N2874772
+      - [Linking Transaction Forms](section_N2861289.md) — section_N2861289
+    - [Transaction Form Printing Preferences](section_4453516555.md) — section_4453516555
+      - [Transaction Forms and Company Printing Preferences](bridgehead_4453520361.md) — bridgehead_4453520361
+      - [Setting Transaction Forms to Print in Landscape](bridgehead_4453535297.md) — bridgehead_4453535297
+      - [Transaction Forms and User Printing Preferences](bridgehead_4453528352.md) — bridgehead_4453528352
+      - [Browser Print Settings for Transaction Forms](subsect_1515667719.md) — subsect_1515667719
+    - [Creating Custom Subtabs](section_N2862348.md) — section_N2862348
+      - [Creating a Subtab from the Custom Subtabs Page](article_162437271618.md) — article_162437271618
+        - [Managing Custom Subtabs](subsect_162437230715.md) — subsect_162437230715
+    - [Creating Custom Note Forms](section_3914780887.md) — section_3914780887
+      - [Creating a Custom Note Form](subsect_163655385484.md) — subsect_163655385484
+      - [Creating a Custom Field for use in Custom Note Forms](subsect_163655437424.md) — subsect_163655437424
+      - [Using Custom Note Forms](bridgehead_3914783458.md) — bridgehead_3914783458
+    - [Customizing Address Forms](section_N2874310.md) — section_N2874310
+      - [Creating a Custom Address Form](article_1105123400.md) — article_1105123400
+      - [Change to Required Permission for Attaching Scripts to Custom Address Forms](bridgehead_4583413826.md) — bridgehead_4583413826
+      - [Creating Custom Address Fields](section_4084990241.md) — section_4084990241
+      - [Country-Specific Address Forms](section_4135282978.md) — section_4135282978
+    - [Custom Sublists](section_N2861522.md) — section_N2861522
+      - [Saved Searches for Custom Sublists](section_4453543527.md) — section_4453543527
+        - [Creating a Saved Search for a Custom Sublist](article_0105011622.md) — article_0105011622
+      - [Applying Custom Sublists to Standard Records](section_4453542818.md) — section_4453542818
+        - [Example of Adding Custom Sublist to Standard Record](bridgehead_4750803592.md) — bridgehead_4750803592
+      - [Applying Custom Sublists in SDF-Enabled Accounts](section_1500307988.md) — section_1500307988
+      - [Applying Custom Sublists to Custom Record Types](section_4453542165.md) — section_4453542165
+        - [Example of Adding Custom Sublists to Custom Record Types](section_1506505992.md) — section_1506505992
+      - [Example of Dynamically Filtering a Custom Sublist by a Record Field](article_1211012200.md) — article_1211012200
+      - [Custom Child Record Sublist Creation with SuiteScript](section_1506017984.md) — section_1506017984
+        - [Custom Child Record Sublists](section_1502309188.md) — section_1502309188
+        - [Creating Custom Child Record Sublists](section_1502309059.md) — section_1502309059
+        - [Custom Child Record Sublist IDs Overview](section_1502309332.md) — section_1502309332
+          - [Determining the Sublist ID for a Child Record](bridgehead_N3211618.md) — bridgehead_N3211618
+          - [Determining Field IDs on a Child Record Sublist](bridgehead_N3211830.md) — bridgehead_N3211830
+        - [Scripting with Custom Child Record Sublists](section_1502309483.md) — section_1502309483
+    - [Customizing a Transaction Sublist](section_N551202.md) — section_N551202
+      - [Filtering and Sorting Bills by Custom On Hold Field Example](bridgehead_N551301.md) — bridgehead_N551301
+  - [Custom Records Overview](chapter_N2875173.md) — chapter_N2875173
+    - [Custom Records](article_0108010202.md) — article_0108010202
+    - [Creating Custom Record Types](section_N2876492.md) — section_N2876492
+      - [Creating a New Custom Record Type](section_1501860307.md) — section_1501860307
+      - [Entering Name and Display Settings](section_1501860247.md) — section_1501860247
+      - [Specifying Permission and UI Settings](section_1501860092.md) — section_1501860092
+        - [Setting Permissions for a Custom Record Type](section_N2879388.md) — section_N2879388
+          - [Define the Permission Model for a Custom Record Type](bridgehead_N2879432.md) — bridgehead_N2879432
+          - [Changes to 'No Permission Required' Access on Custom Record Types](subsect_0816050536.md) — subsect_0816050536
+          - [Prevent Access to a Custom Record Type through the User Interface](bridgehead_N2879618.md) — bridgehead_N2879618
+      - [Configuring File and Child Record Settings](section_1501859968.md) — section_1501859968
+      - [Defining Search and Edit Settings](section_1501859705.md) — section_1501859705
+        - [Defining Hierarchies among Custom Record Values](section_4362612928.md) — section_4362612928
+        - [Enabling Optimistic Locking for Custom Records](section_N2877583.md) — section_N2877583
+        - [Adding an AI Description to Custom Records](article_0120031604.md) — article_0120031604
+      - [Adding Fields to Custom Record Types](section_N2878340.md) — section_N2878340
+      - [Limiting Search Access to Custom Records](section_N2880332.md) — section_N2880332
+        - [Limiting Search and Reporting Access to a Custom Field](subsect_161955053124.md) — subsect_161955053124
+        - [Limiting Access for a Custom Record Saved Search](subsect_161955058767.md) — subsect_161955058767
+      - [Applying Role-Based Restrictions to Custom Records](section_N2880594.md) — section_N2880594
+        - [Applying Role-Based Access Restrictions to Custom Records if the Class, Department, Location, Employee, or Subsidiary Field Does Not Yet Exist](subsect_161955076550.md) — subsect_161955076550
+        - [Applying Role-Based Access Restrictions to a Custom Record if the Field Already Exists](subsect_161955113705.md) — subsect_161955113705
+      - [Adding Subtabs to a Custom Record](section_N2877748.md) — section_N2877748
+      - [Choosing an Icon for a Custom Record](section_N2881257.md) — section_N2881257
+        - [Creating Icons for Custom Records](section_N2881458.md) — section_N2881458
+          - [The Four Icon Versions for Custom Records](bridgehead_N2881553.md) — bridgehead_N2881553
+          - [The Icon Sprite Image File for Custom Records](bridgehead_N2881626.md) — bridgehead_N2881626
+          - [File Format for Custom Record Icons](bridgehead_N2881880.md) — bridgehead_N2881880
+          - [Constructing Your Custom Record Icon File](article_1117120409.md) — article_1117120409
+          - [Sample Icons for Custom Records](bridgehead_N2882057.md) — bridgehead_N2882057
+      - [Numbering Custom Record Types](section_N2878042.md) — section_N2878042
+      - [Adding Custom Forms for a Record](section_N2878636.md) — section_N2878636
+      - [Online Custom Record Forms](section_N2882522.md) — section_N2882522
+        - [Adding Custom Online Forms for a Record](section_N2879167.md) — section_N2879167
+        - [Creating Online Custom Record Forms](section_N2882662.md) — section_N2882662
+        - [Linking Online Custom Record Forms to My Website](section_N2883101.md) — section_N2883101
+        - [Creating HTML Templates for Online Custom Record Forms](section_N2885246.md) — section_N2885246
+          - [Creating an HTML Template Locally](bridgehead_N2885320.md) — bridgehead_N2885320
+          - [Using NetSuite Tags](bridgehead_N2885392.md) — bridgehead_N2885392
+          - [Uploading an HTML Template](bridgehead_N2885453.md) — bridgehead_N2885453
+          - [Creating an HTML Form Template](bridgehead_N2885567.md) — bridgehead_N2885567
+      - [Setting Up a Permissions List for a Custom Record Type](section_N2879931.md) — section_N2879931
+      - [Creating Links to Custom Records](section_N2880942.md) — section_N2880942
+      - [Adding Translations for Custom Records](section_N2882154.md) — section_N2882154
+        - [Multiple Languages Translation Management](subsect_163475565174.md) — subsect_163475565174
+        - [Translating a Custom Record Name](bridgehead_N2882240.md) — bridgehead_N2882240
+        - [Translating Custom Record Subtab Titles](bridgehead_N2882272.md) — bridgehead_N2882272
+          - [Translating Custom Record Sublist Labels](bridgehead_N2882316.md) — bridgehead_N2882316
+        - [Translating Custom Record Instance Names](bridgehead_3746164319.md) — bridgehead_3746164319
+    - [Parent-Child Record Relationships](section_N2885788.md) — section_N2885788
+      - [Establishing a Parent-Child Relationship](bridgehead_N2885814.md) — bridgehead_N2885814
+        - [Defining a Parent-Child Relationship Using the Custom Field Configuration Page](subsect_158229274539.md) — subsect_158229274539
+        - [Defining a Parent-Child Relationship from a Custom Record Type Page](subsect_158229291316.md) — subsect_158229291316
+        - [Setting the Display Subtab for Child Records](subsect_158229331667.md) — subsect_158229331667
+      - [Creating a Parent-Child Relationship](section_158229389859.md) — section_158229389859
+        - [Parent-Child Record Relationship Training Videos](article_1126110031.md) — article_1126110031
+        - [Triggering User Events for Parent-Child Records](subsect_158229509196.md) — subsect_158229509196
+      - [Types of Parent-Child Relationships](section_158229565989.md) — section_158229565989
+        - [Types of Relationships Between Parent-Child Record Instances](subsect_158229675650.md) — subsect_158229675650
+        - [Custom Record Type Fields that Affect Parent-Child Relationship on Custom Record](subsect_158230137245.md) — subsect_158230137245
+        - [One Parent Record Type to One Child Record Type](subsect_158230205382.md) — subsect_158230205382
+          - [Example of One Parent Record Type to One Child Record Type](subsect_158230224057.md) — subsect_158230224057
+          - [One-to-One Parent-Child Relationship Between Instances of Different Record Types](subsect_158230236728.md) — subsect_158230236728
+          - [One Child Instance Associated with Many Parent Instances](subsect_158230243030.md) — subsect_158230243030
+          - [Example of Many Parent Instances to One Child Instance](subsect_158230266680.md) — subsect_158230266680
+        - [Many Parent Record Types to Many Child Record Types](subsect_158230302057.md) — subsect_158230302057
+        - [Hierarchy of Parent-Child Instances of the Same Record Type](subsect_158230568711.md) — subsect_158230568711
+          - [Steps for Creating Hierarchical Custom Records](article_0917015107.md) — article_0917015107
+            - [Creating the Custom Record Type for Steps in Creating Hierarchical Custom Records](subsect_0917015524.md) — subsect_0917015524
+            - [Creating the Record Instances for Steps in Creating Hierarchical Custom Records](subsect_0917020033.md) — subsect_0917020033
+            - [Creating the Custom Field for Steps in Creating Hierarchical Custom Records](subsect_0917021613.md) — subsect_0917021613
+        - [Parent-Child Relationship Limitations](subsect_158230608989.md) — subsect_158230608989
+      - [Using Child Records](section_N2886136.md) — section_N2886136
+        - [Entering Data in Child Records from the Child Record List](subsect_163785148436.md) — subsect_163785148436
+        - [Entering Data in Child Records from the Parent Record](subsect_163785168566.md) — subsect_163785168566
+    - [Sourcing with Custom Records](section_N2886428.md) — section_N2886428
+      - [Available Standard Fields and Field Types for Custom Record Types and Source Lists](bridgehead_N2886648.md) — bridgehead_N2886648
+    - [Updating Custom Record Types](section_1501860753.md) — section_1501860753
+      - [Viewing or Editing a Custom Record Type](section_4724998380.md) — section_4724998380
+      - [Updating Custom Record Type Print Templates](section_1532022858.md) — section_1532022858
+      - [Custom Record Types Associated with a Custom Segment](section_4724997481.md) — section_4724997481
+    - [Using Custom Record Entries](section_N2888872.md) — section_N2888872
+      - [Viewing a Custom Record Entries List](bridgehead_N2889431.md) — bridgehead_N2889431
+      - [Viewing or Editing a Custom Record Entry](bridgehead_N2889641.md) — bridgehead_N2889641
+      - [Creating a Custom Record Entry](bridgehead_N2889692.md) — bridgehead_N2889692
+      - [Copying a Custom Record Entry](bridgehead_N2889728.md) — bridgehead_N2889728
+      - [Making Entries of a Custom Record Inactive](subsect_77151251001.md) — subsect_77151251001
+      - [Searching Custom Record Entries](section_4724996770.md) — section_4724996770
+  - [Custom Transactions Overview](chapter_4172599049.md) — chapter_4172599049
+    - [Custom Transactions](article_0109122906.md) — article_0109122906
+    - [Benefits of Custom Transaction Types](section_4183028789.md) — section_4183028789
+      - [Custom Transaction Type Naming Enables Better Organization](bridgehead_4183033649.md) — bridgehead_4183033649
+      - [Custom Transaction Types Support Key NetSuite Features](bridgehead_4183033724.md) — bridgehead_4183033724
+      - [Multiple Custom Transaction Styles Supported](bridgehead_4205550514.md) — bridgehead_4205550514
+    - [Sales and Purchase Transaction Types Overview](section_1549038060.md) — section_1549038060
+      - [Sales and Purchase Functionality Available in Custom Transactions](subsect_156589081289.md) — subsect_156589081289
+      - [Sales and Purchase Custom Transaction Types in Integrations](section_156819156837.md) — section_156819156837
+    - [Custom Transaction Type Setup](section_4172853747.md) — section_4172853747
+      - [Enabling the Custom Transactions Feature](section_4230577490.md) — section_4230577490
+      - [Granting a Role Permission to Manage Custom Transaction Types](section_4229706425.md) — section_4229706425
+    - [Creating and Editing Custom Transaction Types](section_4172784423.md) — section_4172784423
+      - [Custom Transaction Styles Overview](section_4187530024.md) — section_4187530024
+        - [Basic](bridgehead_4210694826.md) — bridgehead_4210694826
+        - [Journal](bridgehead_4210694937.md) — bridgehead_4210694937
+        - [Header Only](bridgehead_4210695023.md) — bridgehead_4210695023
+        - [Sales](bridgehead_1546599788.md) — bridgehead_1546599788
+        - [Purchase](bridgehead_1546599828.md) — bridgehead_1546599828
+      - [Creating a Custom Transaction Type](section_4172789910.md) — section_4172789910
+        - [Ability to Close Sales Order](article_161115890343.md) — article_161115890343
+        - [System Notes for Custom Transaction Type Configuration](section_156476900450.md) — section_156476900450
+      - [Editing a Custom Transaction Type](section_4172785713.md) — section_4172785713
+      - [Locked Custom Transaction Types](section_4235025481.md) — section_4235025481
+      - [Custom Transaction Type Classification Fields](section_4187532711.md) — section_4187532711
+        - [Impact of Global Preferences on a Custom Transaction Type](bridgehead_4210751454.md) — bridgehead_4210751454
+        - [Classification Fields in Numbering for a Custom Transaction Type](bridgehead_4217715748.md) — bridgehead_4217715748
+        - [Behavior of Classification Fields Following Edits to a Custom Transaction Type](bridgehead_4210738192.md) — bridgehead_4210738192
+      - [Custom Fields in Custom Transaction Types](section_4177824353.md) — section_4177824353
+        - [Creating a Custom Field and Adding it to a Custom Transaction Type](section_4232270432.md) — section_4232270432
+        - [Adding an Existing Custom Field to a Custom Transaction Type](section_4232270008.md) — section_4232270008
+      - [Numbering for a Custom Transaction Type](section_4177822615.md) — section_4177822615
+        - [Document Numbers for a Custom Transaction Type](bridgehead_4437793888.md) — bridgehead_4437793888
+        - [Transaction Numbers for a Custom Transaction Type](bridgehead_4437797214.md) — bridgehead_4437797214
+        - [Components of a Custom Transaction Type's Entry Number](section_4230484446.md) — section_4230484446
+        - [Defining Numbering for a Custom Transaction Type](section_4230484089.md) — section_4230484089
+        - [Defining Numbering Preferences for Subsidiaries and Locations](section_4230481550.md) — section_4230481550
+          - [Autogenerated Transaction Number with Transaction Type and Location Prefixes Examples](article_14110249068.md) — article_14110249068
+            - [Transaction Type Prefix on a Custom Transaction Type Record](subsect_9110101366.md) — subsect_9110101366
+            - [Location Prefix on a Location Record](subsect_92110126501.md) — subsect_92110126501
+            - [Prefixes and Autogenerated Transaction Numbering on a Transaction Instance](subsect_94110150690.md) — subsect_94110150690
+            - [Autogenerated Transaction Number Examples](subsect_98110202291.md) — subsect_98110202291
+      - [Account Field Setup for Custom Transaction Types](section_4187566241.md) — section_4187566241
+        - [Entering the Account for a Basic Transaction Type](subsect_1549040027.md) — subsect_1549040027
+        - [Entering the Account for Sales and Purchase Transaction Types](subsect_1549040298.md) — subsect_1549040298
+      - [Statuses for a Custom Transaction Type](section_4177822224.md) — section_4177822224
+        - [Custom Transaction Type Statuses Overview](section_4225285410.md) — section_4225285410
+        - [Creating Statuses for Custom Transaction Types](section_4222863092.md) — section_4222863092
+        - [Modifying or Deleting a Custom Transaction Type Status](section_4222862543.md) — section_4222862543
+        - [Displaying or Hiding the Status Field for a Custom Transaction Type](section_4222860341.md) — section_4222860341
+          - [Configuring the Transaction Type to Include the Status Field in the UI](bridgehead_4225530626.md) — bridgehead_4225530626
+          - [Controlling User Access to the Status Field for Custom Transactions](bridgehead_4225530781.md) — bridgehead_4225530781
+        - [Referencing Custom Transaction Type Status in a Workflow](section_4222860103.md) — section_4222860103
+      - [Creating Links for a Custom Transaction Type](section_4177822787.md) — section_4177822787
+        - [Planning for Custom Transaction Type Links](bridgehead_4235016819.md) — bridgehead_4235016819
+        - [Creating Links for a Custom Transaction Type by Editing the Transaction Type](bridgehead_4235017244.md) — bridgehead_4235017244
+        - [Creating Links for a Custom Transaction Type by Using the Customization Menu](bridgehead_4235018237.md) — bridgehead_4235018237
+      - [Adding Custom Forms for a Custom Transaction Type](section_4177824997.md) — section_4177824997
+        - [Configuring Custom Forms for a Custom Transaction Type](bridgehead_4230558097.md) — bridgehead_4230558097
+        - [Designating a Custom Form as Preferred](bridgehead_4230560582.md) — bridgehead_4230560582
+      - [Permissions for Custom Transaction Instances](section_4177822908.md) — section_4177822908
+        - [Configuring Permissions by Editing the Custom Transaction Type](section_4235803682.md) — section_4235803682
+        - [Configuring Permissions by Editing the Role](section_4235803431.md) — section_4235803431
+      - [Adding Translations for a Custom Transaction Type](section_4177823001.md) — section_4177823001
+    - [Custom Transaction Type Association with a Custom GL-Lines Plug-in Implementation](section_4234787810.md) — section_4234787810
+    - [Custom Transaction Type Association with a SuiteTax Plug-in](section_158161222153.md) — section_158161222153
+    - [Deleting Custom Transaction Types](section_4172848282.md) — section_4172848282
+      - [Deleting Individual Custom Transaction Types](bridgehead_4521911881.md) — bridgehead_4521911881
+      - [Deleting Custom Transaction Types with a Bundle](bridgehead_4521912535.md) — bridgehead_4521912535
+    - [Creating Sales and Purchase Custom Transaction Instances](section_157911898130.md) — section_157911898130
+      - [Creating a Sales Custom Transaction Instance](section_157911961960.md) — section_157911961960
+        - [Items Subtab of a Sales Custom Transaction](subsect_157912024985.md) — subsect_157912024985
+          - [Promotions for Items on a Sales Custom Transaction](subsect_157918363178.md) — subsect_157918363178
+          - [Discounts for Items on a Sales Custom Transaction](subsect_157918596671.md) — subsect_157918596671
+          - [Gift Certificates for Items on a Sales Custom Transaction](subsect_157918626937.md) — subsect_157918626937
+          - [Revenue Recognition for Items on a Sales Custom Transaction](subsect_157918790999.md) — subsect_157918790999
+        - [Promotions Subtab of a Sales Custom Transaction](subsect_157918690422.md) — subsect_157918690422
+        - [Shipping Subtab of a Sales Custom Transaction](subsect_158022908978.md) — subsect_158022908978
+        - [Billing Subtab of a Sales Custom Transaction](subsect_157918835766.md) — subsect_157918835766
+          - [Gift Certificates for Billing on a Sales Custom Transaction](subsect_157918844485.md) — subsect_157918844485
+          - [Installments for Billing on a Sales Custom Transaction](subsect_157918901684.md) — subsect_157918901684
+        - [SuiteTax Subtab of a Sales Custom Transaction](subsect_158108186035.md) — subsect_158108186035
+      - [Creating a Purchase Custom Transaction Instance](section_157911967123.md) — section_157911967123
+        - [Expenses and Items Subtab of a Purchase Custom Transaction](subsect_157918973796.md) — subsect_157918973796
+          - [Landed Costs for Expenses and Items on a Purchase Custom Transaction](subsect_157919042626.md) — subsect_157919042626
+          - [Amortization for Expenses and Items on a Purchase Custom Transaction](subsect_157919006834.md) — subsect_157919006834
+        - [Landed Costs Subtab of a Purchase Custom Transaction](subsect_157919106901.md) — subsect_157919106901
+        - [Billing Subtab of a Purchase Custom Transaction](subsect_157919368056.md) — subsect_157919368056
+        - [SuiteTax Subtab of a Purchase Custom Transaction](subsect_158108225166.md) — subsect_158108225166
+    - [Printing Custom Transaction Instances](section_4172748647.md) — section_4172748647
+    - [Custom Transaction Types in Workflows](section_4172859930.md) — section_4172859930
+      - [Referencing Status in a Transaction Type Workflow Action](bridgehead_4255599778.md) — bridgehead_4255599778
+      - [Using Status as a Transaction Type Workflow Condition](bridgehead_4255618965.md) — bridgehead_4255618965
+      - [Sales Custom Transaction Transform Action Workflow Example](subsect_156466531774.md) — subsect_156466531774
+      - [Using Workflows with SuiteScript for Custom Transaction Transformations](subsect_157668245871.md) — subsect_157668245871
+  - [Custom Segments](chapter_4313464438.md) — chapter_4313464438
+    - [Benefits of Custom Segments](section_4313464596.md) — section_4313464596
+      - [Configure Segment Values to Be Hierarchical](bridgehead_4325673489.md) — bridgehead_4325673489
+      - [Configure a Segment to Default Statically or Dynamically](bridgehead_4325674176.md) — bridgehead_4325674176
+      - [Filter a Segments Values Based on Other Segments](bridgehead_4358551341.md) — bridgehead_4358551341
+      - [Filter a Segment's Values Based on Class, Department, Location, and Subsidiary](bridgehead_4471744984.md) — bridgehead_4471744984
+      - [Configure a Segment to Appear on the GL Impact Page](bridgehead_4471745392.md) — bridgehead_4471745392
+      - [Create Segments as Multi-Select Fields](bridgehead_4325673845.md) — bridgehead_4325673845
+      - [Display Segments Selectively](bridgehead_4328888382.md) — bridgehead_4328888382
+      - [Set Custom Segment Values](bridgehead_4551232900.md) — bridgehead_4551232900
+    - [Custom Segments Overview](section_4313464871.md) — section_4313464871
+      - [Enabling the Custom Segments Feature](section_4313465000.md) — section_4313465000
+      - [Transaction Types Supported by Custom Segments](section_4587400833.md) — section_4587400833
+      - [Settings that Affect Where Custom Segments are Applied](section_4384299589.md) — section_4384299589
+        - [Dynamic Defaults for Custom Segments](bridgehead_4383541760.md) — bridgehead_4383541760
+        - [Filtering Custom Segments by Another Custom Segment](bridgehead_4383527289.md) — bridgehead_4383527289
+        - [Filtering Custom Segments by Class, Department, Location, or Subsidiary](bridgehead_4413862174.md) — bridgehead_4413862174
+        - [GL Impact for Custom Segments](bridgehead_4384307564.md) — bridgehead_4384307564
+        - [Custom Segment Type Constraints](bridgehead_4413856792.md) — bridgehead_4413856792
+    - [Permissions for Managing Custom Segments and Values](section_4365567665.md) — section_4365567665
+      - [Granting a Role Permission to Manage Custom Segments](section_4313465560.md) — section_4313465560
+        - [Scope of the Custom Segments Permission](bridgehead_4375568459.md) — bridgehead_4375568459
+        - [Assigning the Custom Segments Permission](bridgehead_4375630308.md) — bridgehead_4375630308
+      - [Granting a Role Permission to Manage Custom Segment Values](section_4365642580.md) — section_4365642580
+        - [Required Permissions for Creating Custom Segment Values](bridgehead_4586401096.md) — bridgehead_4586401096
+        - [Scope of the Value Management Access Permission](bridgehead_4374676839.md) — bridgehead_4374676839
+        - [Assigning the Value Management Access Permission](bridgehead_4371613838.md) — bridgehead_4371613838
+    - [Custom Segment Creation](section_4313465797.md) — section_4313465797
+      - [Custom Segment Types](section_4368830364.md) — section_4368830364
+        - [Limitations of the Multiple Select Custom Segment Type](bridgehead_4373926611.md) — bridgehead_4373926611
+        - [Ramifications of Changing the Type Field of a Segment](bridgehead_4373898731.md) — bridgehead_4373898731
+        - [Changes that Can Indirectly Modify the Type Field of a Segment](bridgehead_4373899332.md) — bridgehead_4373899332
+      - [Creating a Custom Segment](section_4313465979.md) — section_4313465979
+      - [Configuring GL Impact for a Custom Segment Overview](section_4385199949.md) — section_4385199949
+        - [Custom Segments on GL Impact Hidden Lines](bridgehead_4677124348.md) — bridgehead_4677124348
+        - [GL Impact and Hidden Custom Segment Fields](subsect_1024085558.md) — subsect_1024085558
+        - [Segment Values Available for Generated COGS and Revenue Lines](bridgehead_4528710345.md) — bridgehead_4528710345
+        - [Custom Segments in Automatically-Generated Journals](bridgehead_4677127968.md) — bridgehead_4677127968
+        - [Configuring GL Impact for a Custom Segment](article_0220115918.md) — article_0220115918
+      - [Filtering for a Custom Segment](section_4376692773.md) — section_4376692773
+        - [Filtering Segments by Class, Department, Location, or Subsidiary](article_43104707091.md) — article_43104707091
+          - [Record Types that Support Filtering by Class, Department, Location, and Subsidiary](subsect_40105008662.md) — subsect_40105008662
+          - [Record Types that Do Not Support Filtering by Class, Department, Location, and Subsidiary](subsect_29105256537.md) — subsect_29105256537
+        - [Applying Custom Segments to Custom Records with Standard Segment Classification Filtering](article_0707111415.md) — article_0707111415
+        - [Filtering Custom Segment Values on Custom Records Example](article_0707113855.md) — article_0707113855
+        - [Setting Up Filtering for a Custom Segment](section_4383337117.md) — section_4383337117
+          - [Setting the Segment's Filtered by Field](bridgehead_4382560236.md) — bridgehead_4382560236
+          - [Setting Filters for Each of the Segment's Values](bridgehead_4382569992.md) — bridgehead_4382569992
+            - [Editing Values Within the Segment Definition](bridgehead_4385387462.md) — bridgehead_4385387462
+            - [Editing Each Segment Value Directly](bridgehead_4385387733.md) — bridgehead_4385387733
+        - [Filtering Across Body and Line Segments](section_4527837324.md) — section_4527837324
+        - [Removing Filtering from a Custom Segment](section_4382684979.md) — section_4382684979
+        - [Viewing a Custom Segment's Filtering Relationships](section_4385390178.md) — section_4385390178
+      - [Applying a Custom Segment to Record Types](section_4384305776.md) — section_4384305776
+      - [Apply to Kit or Assembly Components Setting for Custom Segments and Transaction Line Custom Fields](article_161540199813.md) — article_161540199813
+        - [Configuring Custom Segments for Kit and Assembly Component Value Carryover](subsect_161540707958.md) — subsect_161540707958
+        - [Configuring Transaction Line Custom Fields for Kit Assembly Value Transfer](subsect_161540711702.md) — subsect_161540711702
+        - [Kit and Assembly Components Behavior](subsect_161540730328.md) — subsect_161540730328
+        - [Example of Overriding the Value of a Segment or Field on a Line with an Assembly Component](subsect_161540738994.md) — subsect_161540738994
+        - [Example of Kit and Assembly Values Being Copied to the Item Fulfillment](subsect_161540743514.md) — subsect_161540743514
+      - [Dynamic Default Value Sourcing for Custom Segments](section_4384326119.md) — section_4384326119
+        - [Dynamic Defaulting for Custom Segments](section_4384362043.md) — section_4384362043
+          - [Source List Choices for Custom Segments Dynamic Defaulting](bridgehead_4384362849.md) — bridgehead_4384362849
+          - [Choose a Target for Custom Segments Dynamic Defaulting](bridgehead_4384344138.md) — bridgehead_4384344138
+          - [Prerequisites for Creation of a Dynamic Default](bridgehead_4384357613.md) — bridgehead_4384357613
+        - [Creating Dynamic Default Logic for Custom Segments](section_4384362215.md) — section_4384362215
+        - [Dynamic Default Values in Custom Segments Example](section_161946314530.md) — section_161946314530
+          - [Creating a Custom Segment Type that Determines the Dynamic Default Value](subsect_161946331340.md) — subsect_161946331340
+          - [Creating a Custom Segment Type that Displays the Dynamic Default Value](subsect_161946393319.md) — subsect_161946393319
+          - [Setting Dynamic Default Values](subsect_161946426768.md) — subsect_161946426768
+          - [Using the Segments on a Transaction Form](subsect_161946462505.md) — subsect_161946462505
+      - [Validation and Static Default Values for Custom Segments](section_4384398039.md) — section_4384398039
+        - [Making a Custom Segment Mandatory](section_4385117425.md) — section_4385117425
+        - [Configuring Static Defaults for Custom Segments](section_4384398405.md) — section_4384398405
+      - [User Permissions for a Custom Segment](section_4385127974.md) — section_4385127974
+        - [Granting Roles Permission to Set Segment Values on Records](section_4317002357.md) — section_4317002357
+          - [Scope of the Record Access Permission on Custom Segments](bridgehead_4374802236.md) — bridgehead_4374802236
+          - [Assigning the Record Access Permission to Roles for Custom Segments](bridgehead_4374805196.md) — bridgehead_4374805196
+        - [Granting Roles Permission to Use Segments in Searches and Reports](section_4317000329.md) — section_4317000329
+          - [Scope of the Search/Reporting Access Permission on Custom Segments](bridgehead_4374808861.md) — bridgehead_4374808861
+          - [Assigning the Search/Reporting Access Permission to Roles for Custom Segments](bridgehead_4374809622.md) — bridgehead_4374809622
+      - [Dependent Segments](section_4585727637.md) — section_4585727637
+      - [Setting Display Order of All Custom Segments](section_4527888154.md) — section_4527888154
+    - [Editing Custom Segments](section_4385121331.md) — section_4385121331
+      - [Required Permissions for Editing Custom Segments](section_4385121418.md) — section_4385121418
+      - [Inactivating a Custom Segment](section_4520740541.md) — section_4520740541
+      - [Deleting a Custom Segment Definition](section_4392098880.md) — section_4392098880
+    - [Custom Segment Values](section_4392097896.md) — section_4392097896
+      - [Value Creation for Custom Segments](section_4313451357.md) — section_4313451357
+        - [Creating Values Within the Segment Definition](section_4380806824.md) — section_4380806824
+        - [Creating Values by Clicking Manage Values](section_4380806541.md) — section_4380806541
+        - [Creating Values Using the New Button](section_4380881353.md) — section_4380881353
+        - [Creating Values from the Setup Menu](section_4677274206.md) — section_4677274206
+      - [Creating Hierarchies Among the Values of a Custom Segment](section_4376484409.md) — section_4376484409
+        - [Limitation on Reordering Hierarchical Segment Values](article_1120080700.md) — article_1120080700
+      - [Edit the Values of a Custom Segment](section_4381094119.md) — section_4381094119
+        - [Required Permissions for Editing Custom Segment Values](section_4381110812.md) — section_4381110812
+        - [Editing the Values of a Custom Segment by Updating the Segment Definition](section_4381112161.md) — section_4381112161
+        - [Editing Values of a Custom Segment by Clicking Manage Values](section_4381112394.md) — section_4381112394
+      - [Changing the Order of Values for a Custom Segment](section_4313482444.md) — section_4313482444
+      - [Making Values of a Custom Segment Inactive](section_4383432320.md) — section_4383432320
+        - [Making a Value Inactive by Editing the Segment Definition](bridgehead_4383433493.md) — bridgehead_4383433493
+        - [Making a Value Inactive by Clicking Manage Values](bridgehead_4383432320.md) — bridgehead_4383432320
+      - [Deleting the Values of a Custom Segment](section_4316016599.md) — section_4316016599
+        - [Deleting Values Within the Custom Segment Definition](bridgehead_4383420757.md) — bridgehead_4383420757
+        - [Deleting Values by Clicking Manage Values](bridgehead_4383423975.md) — bridgehead_4383423975
+    - [Using the Script ID to Access Custom Segment Body, Line, and Filter By Fields](section_1530795048.md) — section_1530795048
+    - [Custom Segments in Record Searches](section_4317008667.md) — section_4317008667
+    - [Customizing a Report by Using Custom Segments](section_4317008587.md) — section_4317008587
+    - [Using Custom Segments in Workflows](section_4405928126.md) — section_4405928126
+      - [Custom Segments as Fields](bridgehead_4410260924.md) — bridgehead_4410260924
+      - [Records that Represent Custom Segment Values](bridgehead_4410257732.md) — bridgehead_4410257732
+    - [SuiteScript and Custom Segments](section_4558998136.md) — section_4558998136
+    - [SOAP Web Services and Custom Segments](section_4559001981.md) — section_4559001981
+    - [CSV Import and Custom Segments](section_4559003398.md) — section_4559003398
+  - [Custom Centers](chapter_N2890160.md) — chapter_N2890160
+    - [Account-Specific Domains in Custom Center Links](subsect_157954623778.md) — subsect_157954623778
+    - [Creating and Editing Custom Centers](section_N2890334.md) — section_N2890334
+      - [Creating a Custom Center](subsect_161659739764.md) — subsect_161659739764
+        - [Entering Translation Labels for a Custom Center](subsect_161660013773.md) — subsect_161660013773
+        - [Changing the Order of Tabs in a Custom Center](subsect_161660005458.md) — subsect_161660005458
+        - [Managing Centers with SuiteCloud Development Framework (SDF)](subsect_161660059367.md) — subsect_161660059367
+    - [Creating Center Tabs](section_N2890512.md) — section_N2890512
+      - [Creating a Center Tab](article_0202010955.md) — article_0202010955
+    - [Creating Center Categories](section_N2890916.md) — section_N2890916
+    - [Creating Center Links](section_N2891250.md) — section_N2891250
+      - [Creating Center Links to NetSuite Pages](subsect_161650692409.md) — subsect_161650692409
+      - [Creating Center Links to Web Pages](subsect_161650705377.md) — subsect_161650705377
+    - [Assigning a Custom Center to a Custom Role](section_4363781223.md) — section_4363781223
+      - [Testing a New Custom Center](bridgehead_4363794753.md) — bridgehead_4363794753
+  - [Deploying Upgraded Forms](chapter_N2894013.md) — chapter_N2894013
+    - [Form Layout Enhancements](section_N472127.md) — section_N472127
+      - [Field Groups](bridgehead_N472396.md) — bridgehead_N472396
+      - [Sublists and Subtabs](bridgehead_N472528.md) — bridgehead_N472528
+    - [Custom Form Deployment Process (Summary)](section_N2894227.md) — section_N2894227
+      - [Custom Form Deployment Process (In Detail)](section_N2894362.md) — section_N2894362
+    - [Deploying Upgraded Custom Forms](section_N2896089.md) — section_N2896089
+      - [Previewing Undeployed Custom Forms](section_N2896302.md) — section_N2896302
+      - [Editing the Layout of Custom Forms Prior to Deployment](section_N2896507.md) — section_N2896507
+      - [Avoid Editing Custom Forms in Tandem](section_N2896749.md) — section_N2896749
+      - [Testing Undeployed Custom Forms](section_N2896824.md) — section_N2896824
+      - [Deploying Custom Forms](section_N2897031.md) — section_N2897031
+      - [Deploying Skipped Custom Forms](section_N2897360.md) — section_N2897360
+    - [Understanding Form Deployment Statuses](section_N2897563.md) — section_N2897563
+    - [Understanding Form Layout Enhancement Upgrade Logic](section_N2897877.md) — section_N2897877
+      - [Upgrade Logic for Custom Forms](section_N2898251.md) — section_N2898251
+      - [Upgrade Logic for Subtabs](section_N2898743.md) — section_N2898743
+      - [Upgrade Logic for Fields (Diagram)](section_N2898929.md) — section_N2898929
+      - [Field Ordering](section_N2899497.md) — section_N2899497
+  - [Advanced Record Customization](article_2144345458.md) — article_2144345458
+    - [Advanced Record Customization AI Descriptions](article_0617030257.md) — article_0617030257
+    - [Managing Effective AI Descriptions in Advanced Record Customization](article_0617031336.md) — article_0617031336
+    - [Reverting Advanced Record Customization AI Description Overrides](article_0618022252.md) — article_0618022252
+    - [Advanced Record Customization FAQs](article_0618023526.md) — article_0618023526

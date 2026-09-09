@@ -1,0 +1,13 @@
+# Non-Profit Financial Management
+
+Non-Profit Financial Management (65 pages): Non-Profit Management
+
+## Chapters
+- [Non-Profit Management](preface_1548271679.md): Non-Profit SuiteApps tackle the unique accounting and reporting challenges nonprofits face.
+  - [Non-Profit Financial Management](chapter_1544043337.md): NFP Financials is the main bundle for Social Impact SuiteSuccess editions.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch non-profit-financial-management

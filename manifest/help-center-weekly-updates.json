@@ -1,0 +1,24 @@
+{
+  "branch": "help-center-weekly-updates",
+  "generatedAt": null,
+  "pages": {
+    "chapter_3798389663": {
+      "path": "corpus/help-center-weekly-updates/chapter_3798389663.md",
+      "title": "Help Center Weekly Updates",
+      "type": "chapter",
+      "breadcrumb": "What's New > Help Center Weekly Updates",
+      "parent": "set_N20140200",
+      "category": "what-s-new",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_3798389663.html",
+      "etag": "\"1c8e77ff5f6873c0303662923cbf207e:1786980393.631852\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:56:12.444Z",
+      "sha256": "13a1765bdb6a91128a7bbc02f72a0f4b24acdf95a98e0bd5255d1132977d3a24",
+      "bytes": 191,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,17 @@
+# India Help Topics
+
+India Help Topics (134 pages): India Help Topics
+
+## Chapters
+- [India Help Topics](section_4198421457.md): Overview The following help topics provide information about NetSuite features that are specific to companies doing business in India.
+  - [India Terminology](article_0424122228.md): The following table explains terms NetSuite uses for India-specific business processes and SuiteApps.
+  - [India Account Setup](section_156505353585.md): Setting up an account for a business in India usually requires you to enable several features and install some additional SuiteApps.
+  - [Setting Up India-specific Preferences](section_156507253436.md): To set up your NetSuite account according to India-specific preferences, you must adjust your NetSuite Company settings.
+  - [India Localization SuiteTax Engine](section_1543359686.md): Overview Note: The following topics are for NetSuite accounts with SuiteTax.
+  - [India Localization SuiteTax Reports](section_1543360158.md): Overview These topics are for NetSuite accounts with SuiteTax.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch india-help-topics

@@ -1,0 +1,12 @@
+# NetSuite Basics
+
+NetSuite Basics (1 pages): NetSuite Basics
+
+## Chapters
+- [NetSuite Basics](article_161703043885.md): Watch the videos in this section to learn how to set up Two-Factor Authentication (2FA), change your NetSuite password, and opt in to and use Release Preview, as well as how to use other basic NetSuite features.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-basics

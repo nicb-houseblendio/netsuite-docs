@@ -1,0 +1,17 @@
+# Germany Help Topics
+
+Germany Help Topics (94 pages): Germany Help Topics
+
+## Chapters
+- [Germany Help Topics](section_4169634910.md): Overview The following help topics provide information about NetSuite features that are specific for companies doing business in Germany.
+  - [Functional Areas](bridgehead_160156190769.md): German users can activate and get access to different features from the following functional areas: - Accounting(https://docs.
+  - [Germany Account Setup](section_1554726737.md): Setting up an account for an organization doing business in Germany usually requires enabling several features and installing some additional SuiteApps.
+  - [Setting Up Germany-Specific Preferences Page](section_1554726820.md): To setup your NetSuite account according to Germany-specific preferences, you must adjust your NetSuite Company and Subsidiary settings.
+  - [Germany-specific SuiteApps](section_158529777788.md): - DATEV Connector Role(https://docs.
+  - [Germany Tax Topics For Accounts Without SuiteTax](section_1554981475.md): If you have a Germany subsidiary and nexus and you have the International Tax Reports SuiteApp installed in your NetSuite account, you can generate the VAT declaration for Germany, in English or German.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch germany-help-topics

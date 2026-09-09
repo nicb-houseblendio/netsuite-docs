@@ -1,0 +1,24 @@
+{
+  "branch": "non-profit-editions",
+  "generatedAt": null,
+  "pages": {
+    "chapter_157260149625": {
+      "path": "corpus/non-profit-editions/chapter_157260149625.md",
+      "title": "Non-Profit Editions",
+      "type": "chapter",
+      "breadcrumb": "Non-Profit Management > Non-Profit Editions",
+      "parent": "preface_1548271679",
+      "category": "non-profit-management",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_157260149625.html",
+      "etag": "\"69e34e343d6045c164b32ee6aeb7d2fd:1786980392.053689\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:40:44.614Z",
+      "sha256": "669ca1b4c15da74acefa6956188a666b8c4a5d0a3e54f42081361273562f9068",
+      "bytes": 2718,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

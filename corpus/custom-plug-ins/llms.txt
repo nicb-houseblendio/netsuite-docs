@@ -1,0 +1,14 @@
+# Custom Plug-ins
+
+Custom Plug-ins (15 pages): Custom Plug-ins
+
+## Chapters
+- [Custom Plug-ins](book_4060648050.md): - Custom Plug-in Overview(https://docs.
+  - [Custom Plug-in Overview](chapter_3976781171.md): A custom plug-in is customizable functionality that is defined by an interface.
+  - [Custom Plug-in Creation](chapter_3976789939.md): Important: To create your own custom plug-ins and implementation scripts, you need some JavaScript experience and an understanding of SuiteScript.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch custom-plug-ins

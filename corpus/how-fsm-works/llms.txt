@@ -1,0 +1,12 @@
+# How FSM Works
+
+How FSM Works (1 pages): How FSM Works
+
+## Chapters
+- [How FSM Works](article_0302025910.md): The core Field Service Management (FSM) workflow includes the following steps: 1.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch how-fsm-works

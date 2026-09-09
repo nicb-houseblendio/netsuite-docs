@@ -1,0 +1,17 @@
+# Online Donations
+
+Online Donations (11 pages): Online Donations
+
+## Chapters
+- [Online Donations](article_164794383122.md): The Online Donations SuiteApp lets you integrate your online donations right into NetSuite.
+  - [Installing the Online Donations SuiteApp](section_164794396424.md): This section includes the prerequisites and instructions for installing the Online Donations SuiteApp.
+  - [Setting Up Online Donations](section_164794402409.md): To set up Online Donations, perform the following tasks: 1.
+  - [Viewing Transactions in Online Donations](section_0124112919.md): You can set up saved searches to see transactions in the Online Donations SuiteApp.
+  - [Online Donation Types](section_164800493468.md): The Online Donation SuiteApp lets you accept one-time, anonymous, and recurring donations from your nonprofit website.
+  - [Online Donations Workbook](section_164862980434.md): The Online Donations SuiteApp provides an Online Donations Report Workbook and a Donor Report Workbook.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch online-donations

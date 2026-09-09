@@ -1,0 +1,15 @@
+# SCM Mobile
+
+SCM Mobile (92 pages): SCM Mobile
+
+## Chapters
+- [SCM Mobile](book_161557401927.md): - SCM Mobile Setup(https://docs.
+  - [SCM Mobile Setup](article_161495429711.md): SCM Mobile provides the mobile capabilities and user interface for the following standard mobile apps: - NetSuite WMS - For use with the Warehouse Management(https://docs.
+  - [SCM Mobile App Basics](article_161556703949.md): SCM Mobile provides the following components for each mobile process: - Mobile process icon - From the Main Menu, you can access a mobile process by tapping its icon.
+  - [SCM Mobile App Customization](article_163614460343.md): Mobile customization enables you to create your copy of a standard process and modify it according to your business requirements.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch scm-mobile

@@ -1,0 +1,42 @@
+{
+  "branch": "netsuite-cpq-overview",
+  "generatedAt": null,
+  "pages": {
+    "book_6185324445": {
+      "path": "corpus/netsuite-cpq-overview/book_6185324445.md",
+      "title": "NetSuite CPQ",
+      "type": "book",
+      "breadcrumb": "NetSuite CPQ",
+      "parent": null,
+      "category": "netsuite-cpq",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/book_6185324445.html",
+      "etag": "\"b18026e1eb42427851b1cf2ec52c43c8:1786980353.59345\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:33.708Z",
+      "sha256": "77c11b790615c034469558b171685ccf0bb46358bf1a472a94837a0af45b1864",
+      "bytes": 1217,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "article_1154831163": {
+      "path": "corpus/netsuite-cpq-overview/article_1154831163.md",
+      "title": "NetSuite CPQ Overview",
+      "type": "article",
+      "breadcrumb": "NetSuite CPQ > NetSuite CPQ Overview",
+      "parent": "book_6185324445",
+      "category": "netsuite-cpq",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_1154831163.html",
+      "etag": "\"4804d6b8702609923f8ae23a293a9cba:1786980277.470006\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:34.054Z",
+      "sha256": "3204cc30e97cedfa3b8ea2e4e18be76ffeace7d6bb0fc36bd4fcf44f0e0a981c",
+      "bytes": 6798,
+      "anchors": 1,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,165 @@
+# Workbook
+
+161 pages, category: SuiteAnalytics
+
+- [Workbook](book_1527274324.md) — book_1527274324
+  - [SuiteAnalytics Workbook Overview](chapter_1503949328.md) — chapter_1503949328
+    - [Getting Started with SuiteAnalytics Workbook](section_158874665729.md) — section_158874665729
+    - [Enabling SuiteAnalytics Workbook in Your NetSuite Account](section_1504014192.md) — section_1504014192
+    - [The Analytics Administrator Permission](section_1536693720.md) — section_1536693720
+    - [Data Refresh in SuiteAnalytics Workbook](article_0726032356.md) — article_0726032356
+      - [Comparison of Standard Data Refresh and Optimized Data Refresh](article_0726032613.md) — article_0726032613
+      - [Standard Data Refresh](article_0726032646.md) — article_0726032646
+        - [Understanding Data Caching in Pivot Tables and Charts](section_0727022719.md) — section_0727022719
+        - [Clearing the Cache for Pivot Tables and Charts](section_6143352958.md) — section_6143352958
+      - [Optimized Data Refresh](article_0726032719.md) — article_0726032719
+        - [Enabling the Cached Data in Datasets Feature](article_0728110840.md) — article_0728110840
+        - [Using Cached Data in SuiteAnalytics Workbook](article_0728110107.md) — article_0728110107
+          - [Cached Data in Connected Datasets and Workbooks](subsect_84110326620.md) — subsect_84110326620
+          - [Working with Cached Response Mode](subsect_98110402212.md) — subsect_98110402212
+          - [Monitoring Cached Data for Datasets](subsect_28110435246.md) — subsect_28110435246
+          - [Known Limitations in Cached Response Mode](subsect_31095530621.md) — subsect_31095530621
+        - [Using Real-Time Data in SuiteAnalytics Workbook](article_0728110150.md) — article_0728110150
+        - [Data Refresh Changes in Connected Datasets and Workbooks](article_0728123930.md) — article_0728123930
+    - [Accessing and Sharing Workbooks and Datasets](section_1531766899.md) — section_1531766899
+      - [Saving and Sharing Workbooks and Datasets](subsect_1547241303.md) — subsect_1547241303
+    - [Known Limitations in SuiteAnalytics Workbook](section_1551206597.md) — section_1551206597
+  - [Analytics Data Source Overview](chapter_1543418336.md) — chapter_1543418336
+    - [The Analytics Data Source and SuiteAnalytics Workbook](section_158618649135.md) — section_158618649135
+      - [Available Record Types](section_1543418356.md) — section_1543418356
+      - [Analytics Data Source Changes](section_1543418431.md) — section_1543418431
+        - [Open Sales Orders Lines](section_1548363056.md) — section_1548363056
+        - [Number of Fulfillments](section_1548786582.md) — section_1548786582
+        - [Journal Entry to Approve](section_1548862974.md) — section_1548862974
+      - [Guidelines for Joining Record Types in SuiteAnalytics Workbook](section_1543418452.md) — section_1543418452
+        - [Data Duplication Based on Record Joins](section_1548791727.md) — section_1548791727
+        - [Joining Transaction Line and Transaction Accounting Line in a Dataset](section_1548805090.md) — section_1548805090
+        - [Join Order in SuiteAnalytics Workbook](section_1548806494.md) — section_1548806494
+    - [SuiteQL](section_156257770590.md) — section_156257770590
+      - [Using SuiteQL](section_156257799794.md) — section_156257799794
+        - [Using SuiteQL with the Connect Service](section_156257805177.md) — section_156257805177
+        - [Using SuiteQL with the N/query Module in SuiteScript](section_158316295024.md) — section_158316295024
+        - [Using SuiteQL with SuiteTalk REST Web Services](section_158394344595.md) — section_158394344595
+        - [Finding Record Type and Field Names](section_156475462055.md) — section_156475462055
+          - [Using the NetSuite UI](subsect_0621034919.md) — subsect_0621034919
+          - [Using the SuiteAnalytics Workbook UI](subsect_156475679282.md) — subsect_156475679282
+          - [Using the Export Option from SuiteAnalytics Workbook](subsect_0325042706.md) — subsect_0325042706
+          - [Using the Records Catalog](subsect_160397886310.md) — subsect_160397886310
+      - [SuiteQL Join Types](section_160045092035.md) — section_160045092035
+      - [Cross Joins](subsect_160045164588.md) — subsect_160045164588
+      - [Inner Joins](subsect_160045244658.md) — subsect_160045244658
+      - [Outer Joins](subsect_160045333353.md) — subsect_160045333353
+      - [SuiteQL Syntax and Examples](section_156257790831.md) — section_156257790831
+      - [SuiteQL Limitations and Exceptions](section_156257796125.md) — section_156257796125
+      - [SuiteQL Supported and Unsupported Functions](section_158513731864.md) — section_158513731864
+      - [SuiteQL Supported Built-in Functions](article_161950565221.md) — article_161950565221
+        - [BUILTIN.CF](article_1029114514.md) — article_1029114514
+        - [BUILTIN.CONSOLIDATE](article_1029114527.md) — article_1029114527
+        - [BUILTIN.CURRENCY](article_1029114544.md) — article_1029114544
+        - [BUILTIN.CURRENCY_CONVERT](article_1029114601.md) — article_1029114601
+        - [BUILTIN.DF](article_1029114613.md) — article_1029114613
+        - [BUILTIN.HIERARCHY](article_1029114623.md) — article_1029114623
+        - [BUILTIN.MNFILTER](article_1029114633.md) — article_1029114633
+        - [BUILTIN.NAMED_GROUP](article_1029114801.md) — article_1029114801
+        - [BUILTIN.PERIOD](article_1029114816.md) — article_1029114816
+        - [BUILTIN.RELATIVE_RANGES](article_1029114825.md) — article_1029114825
+      - [SuiteQL Performance and Best Practices](article_0824094533.md) — article_0824094533
+  - [Custom Workbooks and Datasets](chapter_1544122127.md) — chapter_1544122127
+    - [Defining a Dataset](section_1544122173.md) — section_1544122173
+      - [Editing a Dataset](section_158041505315.md) — section_158041505315
+      - [Exporting Dataset Definitions to SuiteQL](article_0918121629.md) — article_0918121629
+      - [Formula Fields](section_1544128605.md) — section_1544128605
+        - [Creating Formula Fields in SuiteAnalytics Workbook](section_158798424898.md) — section_158798424898
+          - [Creating a Custom Formula Field in SuiteAnalytics Workbook](subsect_158798445870.md) — subsect_158798445870
+          - [Creating Criteria Filters Using Formula Fields](subsect_158798460969.md) — subsect_158798460969
+          - [Using Context Values in Formula Fields](subsect_158798466313.md) — subsect_158798466313
+          - [Adding Formula Fields to a Workbook Visualization](subsect_158798469185.md) — subsect_158798469185
+        - [Basic Sample Formula Fields](section_1206103522.md) — section_1206103522
+        - [Advanced Sample Formula Fields](section_1554307527.md) — section_1554307527
+          - [Calculating Duration Values with TO_NUMBER and TO_NCHAR](subsect_156460411506.md) — subsect_156460411506
+          - [Combining CONCAT and other Functions to Calculate String Values](subsect_156528520694.md) — subsect_156528520694
+          - [Casting Field Values using TO_NUMBER and TO_NCHAR](subsect_156528465319.md) — subsect_156528465319
+          - [Currency Consolidation and Conversion Using Custom Formula Fields](subsect_160406520801.md) — subsect_160406520801
+          - [Conditional Evaluations Using CASE WHEN](subsect_159302146246.md) — subsect_159302146246
+          - [Calculating Amounts for Relative Date Ranges](subsect_161418884855.md) — subsect_161418884855
+          - [Calculating Specific Dates](subsect_161608343585.md) — subsect_161608343585
+      - [Hierarchical Fields](section_1544128671.md) — section_1544128671
+      - [Advanced Sorting Options](section_1544128698.md) — section_1544128698
+      - [Joining Record Types in a Dataset](section_1544129148.md) — section_1544129148
+        - [Locating Fields in Workbook](section_159303686294.md) — section_159303686294
+    - [Linking Datasets](section_162627283560.md) — section_162627283560
+    - [Dataset Criteria Filters](section_1544211200.md) — section_1544211200
+      - [Filter Types](section_1544211212.md) — section_1544211212
+      - [Grouping Filters](section_1544211236.md) — section_1544211236
+    - [Creating a Workbook](section_1544211284.md) — section_1544211284
+      - [Creating a Workbook or Workbook Visualization Using a New Dataset](article_0207014541.md) — article_0207014541
+      - [Creating a Workbook or Workbook Visualization Using an Existing Dataset](article_0207015022.md) — article_0207015022
+      - [Creating a Workbook Visualization](article_0207015301.md) — article_0207015301
+      - [Workbook Table Views](section_158083630457.md) — section_158083630457
+        - [Table View Portlets](section_159353034835.md) — section_159353034835
+      - [Workbook Pivot Tables](section_158042187611.md) — section_158042187611
+        - [Pivot Table Customization](section_1544211304.md) — section_1544211304
+          - [Customizing Numeric Values](subsect_1546889213.md) — subsect_1546889213
+          - [Custom Number Formatting](subsect_164640281508.md) — subsect_164640281508
+          - [Grouping Pivot Table Fields](subsect_1546889165.md) — subsect_1546889165
+          - [Compact and Expanded Mode](subsect_1546889588.md) — subsect_1546889588
+          - [Additional Pivot Table Customization Options](subsect_1549562544.md) — subsect_1549562544
+        - [Pivot-based Portlets](section_156326644450.md) — section_156326644450
+      - [Workbook Charts](section_1544211366.md) — section_1544211366
+        - [Chart Types](section_1544211543.md) — section_1544211543
+        - [Chart-based Portlets](section_1544211554.md) — section_1544211554
+      - [Workbook Visualization Filters](section_1544211325.md) — section_1544211325
+        - [Available Filters for Aggregate and Non-Aggregate Fields](subsect_159403125296.md) — subsect_159403125296
+        - [Value-based Filters](subsect_1549660695.md) — subsect_1549660695
+        - [Condition-based Filters](subsect_159403128506.md) — subsect_159403128506
+        - [Measure-based Filters](subsect_1549664308.md) — subsect_1549664308
+        - [Date Filters](subsect_158213353111.md) — subsect_158213353111
+      - [Calculated Measures](article_160794526958.md) — article_160794526958
+        - [Working with Calculated Measures](article_160794532119.md) — article_160794532119
+          - [Creating Calculated Measures](subsect_160866153169.md) — subsect_160866153169
+          - [Calculated Measure Editor](subsect_161055077490.md) — subsect_161055077490
+        - [Supported Calculations](article_160104116842.md) — article_160104116842
+          - [Numeric values](subsect_160881777497.md) — subsect_160881777497
+          - [Single currency values](subsect_160881779392.md) — subsect_160881779392
+          - [Multiple currency values](subsect_160881781187.md) — subsect_160881781187
+          - [Duration values](subsect_160881782668.md) — subsect_160881782668
+        - [Examples of Calculated Measures](article_161416685541.md) — article_161416685541
+      - [Conditional Formatting](section_161125973915.md) — section_161125973915
+        - [Conditional Formatting in Table Views](subsect_161126020427.md) — subsect_161126020427
+        - [Conditional Formatting in Pivot Tables](subsect_161126650582.md) — subsect_161126650582
+    - [Dataset Linking in SuiteAnalytics Workbook](article_162627392718.md) — article_162627392718
+      - [Joining Record Types Versus Linking Datasets](article_164461291307.md) — article_164461291307
+      - [Link Datasets in a Workbook](article_164461322478.md) — article_164461322478
+        - [Common Keys](article_164461410683.md) — article_164461410683
+      - [Create Visualizations Based on Linked Datasets](article_162627420967.md) — article_162627420967
+    - [Currency in Datasets and Workbooks](section_1544129169.md) — section_1544129169
+      - [Currency Consolidation in Workbook](section_159235098258.md) — section_159235098258
+        - [Currency Consolidation Using Custom Formula Fields](subsect_159235534320.md) — subsect_159235534320
+        - [Currency Consolidation from the User Interface](subsect_159235538275.md) — subsect_159235538275
+      - [Currency Conversion in Workbook](section_159234533531.md) — section_159234533531
+        - [Currency Conversion Using Custom Formula Fields](subsect_1548714767.md) — subsect_1548714767
+        - [Currency Conversion from the User Interface](subsect_1548714713.md) — subsect_1548714713
+    - [Formula Fields and Calculated Measures](article_161398993205.md) — article_161398993205
+      - [Creating a formula field and using it as a measure](subsect_161399026594.md) — subsect_161399026594
+      - [Creating a calculated measure](subsect_161399030881.md) — subsect_161399030881
+  - [Workbook and Dataset Templates](chapter_1544220378.md) — chapter_1544220378
+    - [Dataset Templates](section_158085103375.md) — section_158085103375
+    - [Workbook Templates](section_158085159253.md) — section_158085159253
+    - [Analytical Record Types](section_160614258917.md) — section_160614258917
+  - [Workbook-based Portlets](chapter_1544220560.md) — chapter_1544220560
+  - [SuiteAnalytics Workbook Tutorial](chapter_1544220685.md) — chapter_1544220685
+    - [Select a Root Record Type](section_1544220722.md) — section_1544220722
+    - [Add Fields and Join Record Types](section_1544220741.md) — section_1544220741
+    - [Filter Your Dataset](section_1544220778.md) — section_1544220778
+    - [Create a Workbook Based on Your Dataset](section_158171457414.md) — section_158171457414
+    - [Pivot Your Dataset Query Results](section_1544220809.md) — section_1544220809
+    - [Connect a Second Dataset to Your Workbook](section_159259230666.md) — section_159259230666
+    - [Set up a Table View](section_1544220850.md) — section_1544220850
+  - [Navigating SuiteAnalytics Workbook](chapter_1544220943.md) — chapter_1544220943
+    - [Analytics Home Page](section_1546886779.md) — section_1546886779
+    - [Dataset Builder](section_1544220977.md) — section_1544220977
+    - [Table Tab](section_158204357886.md) — section_158204357886
+    - [Pivot Tab](section_1544221045.md) — section_1544221045
+    - [Chart Tab](section_1544221024.md) — section_1544221024
+  - [SuiteAnalytics Workbook Glossary](chapter_158498698111.md) — chapter_158498698111
+  - [SuiteAnalytics Workbook FAQs](article_160164903592.md) — article_160164903592

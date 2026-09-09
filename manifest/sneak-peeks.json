@@ -1,0 +1,42 @@
+{
+  "branch": "sneak-peeks",
+  "generatedAt": null,
+  "pages": {
+    "chapter_N3859207": {
+      "path": "corpus/sneak-peeks/chapter_N3859207.md",
+      "title": "Sneak Peeks",
+      "type": "chapter",
+      "breadcrumb": "What's New > Sneak Peeks",
+      "parent": "set_N20140200",
+      "category": "what-s-new",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_N3859207.html",
+      "etag": "\"44bdd1d0f6c256c428973418f5e2385e:1786980403.603937\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:55:45.646Z",
+      "sha256": "ddfe7684151f6f6e4fff5b69263dff54a9745214fd57f1280803d9b6bbbf0911",
+      "bytes": 814,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "set_N20140200": {
+      "path": "corpus/sneak-peeks/set_N20140200.md",
+      "title": "What's New",
+      "type": "set",
+      "breadcrumb": "What's New",
+      "parent": null,
+      "category": "what-s-new",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/set_N20140200.html",
+      "etag": "\"35698b27e132f51ef6b89d90717252cb:1786980797.431945\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:55:45.764Z",
+      "sha256": "ff9c6990f56e0e086e22e94069aa10bf3447cb1f0a816b439bf278053c589eb2",
+      "bytes": 655,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

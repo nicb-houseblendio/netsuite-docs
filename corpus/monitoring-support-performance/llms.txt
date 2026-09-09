@@ -1,0 +1,15 @@
+# Monitoring Support Performance
+
+Monitoring Support Performance (22 pages): Monitoring Support Performance
+
+## Chapters
+- [Monitoring Support Performance](chapter_1483444833.md): NetSuite provides a variety of alert and reporting tools to help support professionals effectively manage support cases and meet SLA requirements.
+  - [Case Alerts on Support Cases](section_1483445388.md): Important: This document describes a beta feature.
+  - [Performance Metrics for Support Cases](section_1483445494.md): NetSuite provides a comprehensive set of metrics for each support case, so support managers can see how effectively a case is being handled.
+  - [Support Reports](chapter_N2449461.md): You can use the following standard support reports in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch monitoring-support-performance

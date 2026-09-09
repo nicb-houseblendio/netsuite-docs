@@ -1,0 +1,13 @@
+# NetSuite Connector FAQ
+
+NetSuite Connector FAQ (2 pages): NetSuite Connector FAQ
+
+## Chapters
+- [NetSuite Connector FAQ](article_162937385531.md): Following are the links to FAQ sections of NetSuite Connector: - General NetSuite Connector FAQ(https://docs.
+  - [General NetSuite Connector FAQ](section_164025511298.md): The following are some frequently asked questions for NetSuite Connector.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-connector-faq

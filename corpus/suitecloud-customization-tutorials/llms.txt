@@ -1,0 +1,25 @@
+# SuiteCloud Customization Tutorials
+
+SuiteCloud Customization Tutorials (14 pages): SuiteCloud Customization Tutorials
+
+## Chapters
+- [SuiteCloud Customization Tutorials](article_159163143019.md): Here you'll find a variety of tutorials that walk you through creating sample customization projects using SuiteCloud concepts, such as custom forms and fields, saved searches, and script parameters.
+  - [Hide Body Fields and Sublist Columns on Transaction Forms](article_1112112278.md): This script runs when a transaction loads in the UI (Create/Edit/View).
+  - [Hide a Column in a Sublist](section_157305280561.md): This sample shows you how to hide a field column in a standard sublist.
+  - [Validate Order on Entry](section_157297763683.md): This use case shows you how to validate the number of items in an order.
+  - [Set Default Values in a Sublist](section_157375587585.md): This use case shows you how to set default values for fields in a sublist.
+  - [Set the Item Amount to Zero for Marketing Orders](section_157243821278.md): This use case shows you how to use a checkbox to indicate a sales order is a marketing order, so the amount is automatically set to zero.
+  - [Add Custom Button to Run a Suitelet](section_157169557654.md): This use case shows you how to add a custom button on a sales order when the status is Pending Fulfillment.
+  - [Calculate Commission on Sales Orders](section_157227646073.md): This customization calculates a custom commission amount when a sales order is saved.
+  - [Copy a Value to the Item Column](section_157365998080.md): This use case shows you how to use a custom transaction line field and a client script to change the value of a standard column field, such as the Item column.
+  - [Set a Default Posting Period in a Custom Field](section_157297685416.md): This use case shows you how to set a default posting period using a custom transaction body field and then copy that value to the standard Posting Period field.
+  - [Track Customer Deposit Balances](section_157141180023.md): This use case shows you how to track deposit and refund balances on sales orders, which you could use to track layaways.
+  - [Set Purchase Order Exchange Rate](section_157176640777.md): This use case shows you how to convert the transaction total on a purchase order to a user-specific currency rather than the vendor's currency.
+  - [Disable Tax Fields](section_157174758775.md): Note: This customization is for accounts that use Legacy Tax, where SuiteTax feature is not enabled.
+  - [Populate Item Substitution](section_163631599694.md): This use case shows you how to let a user select pre-defined substitute items for a sales order when there's not enough of a selected item.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitecloud-customization-tutorials

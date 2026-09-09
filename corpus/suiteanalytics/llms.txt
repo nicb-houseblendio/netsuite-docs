@@ -1,0 +1,12 @@
+# SuiteAnalytics
+
+SuiteAnalytics (1 pages): SuiteAnalytics
+
+## Chapters
+- [SuiteAnalytics](article_161702871346.md): SuiteAnalytics is the suite of business intelligence tools available in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suiteanalytics

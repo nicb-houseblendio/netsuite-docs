@@ -1,0 +1,24 @@
+{
+  "branch": "merchandising-article_161703098926",
+  "generatedAt": null,
+  "pages": {
+    "article_161703098926": {
+      "path": "corpus/merchandising-article_161703098926/article_161703098926.md",
+      "title": "Merchandising",
+      "type": "article",
+      "breadcrumb": "Videos > Merchandising",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_161703098926.html",
+      "etag": "\"5c718c87bfcbe20c4938714bc8c60df3:1786980304.352435\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:36.732Z",
+      "sha256": "ae550698a9b1efe3e8d8d4bf5d59f75a6094bb75866f60cf274bee044c0a9dcf",
+      "bytes": 1767,
+      "anchors": 3,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

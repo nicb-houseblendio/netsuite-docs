@@ -1,0 +1,17 @@
+# File Cabinet for Administrators
+
+File Cabinet for Administrators (16 pages): File Cabinet for Administrators
+
+## Chapters
+- [File Cabinet for Administrators](article_163759166381.md): Only users with the Administrator role and users with the Documents and Files permission can use the File Cabinet.
+  - [System Folders in the File Cabinet](article_0429022434.md): To support your activity in the system, NetSuite creates folders in the File Cabinet and automatically adds relevant files to these folders.
+  - [Making Web Site Hosting Files Always Available](section_4799275557.md): You can use the Available Without Login box on file records to restrict external access to individual files.
+  - [Hiding Attachment Folders](section_163759199565.md): Users with the Administrator role can set the Hide Attachment Folders preference at Setup Company General Preferences to prevent access to the following folders: - Attachments Received - Attachments Sent - Mail Merge When you set this preference, employees and partners still have access to files attached to customer and other record types, even if those files are in one of the folders listed above.
+  - [Enabling the Use of Employee-Specific Expense Folders](section_163759207606.md): You can configure NetSuite to predefine dedicated folders where employee-specific expense report attachments are automatically saved.
+  - [Uploading and Setting Your Logo](section_N542584.md): When you upload your logo to the File Cabinet, you can print it on all forms except checks.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch file-cabinet-for-administrators

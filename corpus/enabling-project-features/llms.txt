@@ -1,0 +1,13 @@
+# Enabling Project Features
+
+Enabling Project Features (2 pages): Projects
+
+## Chapters
+- [Projects](preface_3714107248.md): Use project records to organize your resources and manage the time required to complete tasks for company projects.
+  - [Enabling Project Features](chapter_4740572949.md): Note: Depending on your subscription, some features may not be available to you.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch enabling-project-features

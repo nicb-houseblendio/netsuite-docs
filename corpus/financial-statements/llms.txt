@@ -1,0 +1,16 @@
+# Financial Statements
+
+Financial Statements (75 pages): Financial Statements
+
+## Chapters
+- [Financial Statements](book_N2092473.md): - Financial Statements Overview(https://docs.
+  - [Financial Statements Overview](chapter_N2092547.md): You can access financial statements, including income statements, balance sheets, and cash flow statements, at Reports Financial and at Reports Banking/Budgeting.
+  - [Available Financial Statements](chapter_N2092953.md): The following financial statement reports are available in NetSuite: - Income Statements(https://docs.
+  - [Financial Report Builder](chapter_N2105415.md): You can use the Financial Report Builder to customize NetSuite financial statements, including their columns, filters, sorting, and audience.
+  - [OneWorld Financial Statements](chapter_N2119691.md): When you use NetSuite OneWorld, you can view and customize country-specific financial statements to display focused data for a selected subsidiary or consolidated data for multiple related subsidiaries.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch financial-statements

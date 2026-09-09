@@ -1,0 +1,24 @@
+{
+  "branch": "performance",
+  "generatedAt": null,
+  "pages": {
+    "article_54151955419": {
+      "path": "corpus/performance/article_54151955419.md",
+      "title": "Performance",
+      "type": "article",
+      "breadcrumb": "Videos > Performance",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_54151955419.html",
+      "etag": "\"7cad4ca411a20d9bb6007d88a553dd9b:1786980332.566363\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:38.148Z",
+      "sha256": "d5098f86cc057744d2c72f0777870cad642db5550bbca46abf0f073caaed2003",
+      "bytes": 1116,
+      "anchors": 1,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

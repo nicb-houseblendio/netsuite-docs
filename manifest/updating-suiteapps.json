@@ -1,0 +1,42 @@
+{
+  "branch": "updating-suiteapps",
+  "generatedAt": null,
+  "pages": {
+    "article_3134602194": {
+      "path": "corpus/updating-suiteapps/article_3134602194.md",
+      "title": "SuiteApps",
+      "type": "article",
+      "breadcrumb": "SuiteApps",
+      "parent": null,
+      "category": "suiteapps",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_3134602194.html",
+      "etag": "\"8704f143b8abc54f0a54198e29b28518:1786980325.09131\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:40:59.018Z",
+      "sha256": "dfa93d84418db49d93f3207e4c187d0c2971a9c9a743eee7397c68962358a845",
+      "bytes": 120574,
+      "anchors": 29,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_4452518839": {
+      "path": "corpus/updating-suiteapps/section_4452518839.md",
+      "title": "Updating SuiteApps",
+      "type": "section",
+      "breadcrumb": "SuiteApps > Updating SuiteApps",
+      "parent": "article_3134602194",
+      "category": "suiteapps",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_4452518839.html",
+      "etag": "\"2877de350341fcb200bbe027c8fb9df4:1786980679.557607\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:40:59.515Z",
+      "sha256": "c53218c5222fb4be56dd9b69ba15e7d3e71300e119577ea60e67136eafb67027",
+      "bytes": 1146,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

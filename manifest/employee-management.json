@@ -1,0 +1,24 @@
+{
+  "branch": "employee-management",
+  "generatedAt": null,
+  "pages": {
+    "article_161718113403": {
+      "path": "corpus/employee-management/article_161718113403.md",
+      "title": "Employee Management",
+      "type": "article",
+      "breadcrumb": "Videos > Employee Management",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_161718113403.html",
+      "etag": "\"d2fc8991a02608aa66ab5e981ce17f29:1786980303.855786\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:43:20.325Z",
+      "sha256": "a626b5776002c6fdc5818f2d5401220589f3965f0fb8cfd24664cd2ea794d18d",
+      "bytes": 8576,
+      "anchors": 12,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# Basic Projects
+
+Basic Projects (5 pages): Basic Projects
+
+## Chapters
+- [Basic Projects](chapter_N1178959.md): - Basic Projects Overview(https://docs.
+  - [Basic Projects Overview](section_N1179020.md): Use the Projects feature to track information about projects you are working on for customers, including time, contacts, and transactions.
+  - [Creating a Basic Project Record](section_N1179164.md): Create project records to track projects for your customers.
+  - [Additional Basic Project Fields](section_4588475450.md): You can customize the standard basic project entry form to add extra fields to your project record.
+  - [Attach Contacts to Basic Projects](section_N1179740.md): When you create a basic project record, the contacts on the customer aren't copied to the new project record.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch basic-projects

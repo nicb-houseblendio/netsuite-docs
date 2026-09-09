@@ -1,0 +1,17 @@
+# NetSuite Connector Deployment to Production
+
+NetSuite Connector Deployment to Production (6 pages): NetSuite Connector Deployment to Production
+
+## Chapters
+- [NetSuite Connector Deployment to Production](section_163003075284.md): When deploying NetSuite Connector to production, you may need to activate or deactivate certain processes.
+  - [Checking Syncs for NetSuite Connector Deployment](section_163003117707.md): Validate the following configurations: - Order and fulfilment sync - Product or Price/Qty sync - Refund sync (or Amazon settlement sync) - Sandbox vs.
+  - [Checking Accounts for NetSuite Connector Deployment](section_163004074146.md): Before going live, switch from your sandbox account to your production account if you haven't already.
+  - [Switching to NetSuite Connector from an Existing Integration](section_163004656755.md): You might have an existing integration outside NetSuite Connector that's syncing your items, orders, or other data.
+  - [Deploying NetSuite Connector to Production](section_163005621009.md): After completing all the necessary checks, use the following procedure to activate NetSuite Connector.
+  - [NetSuite Connector Deployment to Production FAQ](section_164353671201.md): Review the questions and answers below when you want to deploy NetSuite Connector into production.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-connector-deployment-to-production

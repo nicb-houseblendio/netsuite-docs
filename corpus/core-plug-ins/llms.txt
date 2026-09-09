@@ -1,0 +1,22 @@
+# Core Plug-ins
+
+Core Plug-ins (248 pages): Core Plug-ins
+
+## Chapters
+- [Core Plug-ins](book_4616046155.md): - Core Plug-in Overview(https://docs.
+  - [Core Plug-in Overview](chapter_4567788235.md): A plug-in is functionality, defined by an interface, that can be customized.
+  - [Core Plug-in Creation](chapter_3976787574.md): NetSuite develops core plug-ins and releases them to partners or customers usually as part of a major release.
+  - [Custom GL Lines Plug-in](book_4019053558.md): - Custom GL Lines Plug-in Overview(https://docs.
+  - [Email Capture Plug-in](book_4286894970.md): - Email Capture Plug-in Overview(https://docs.
+  - [Financial Institution Connectivity Plug-in](part_157859146675.md): - Financial Institution Connectivity Plug-in Interface Overview(https://docs.
+  - [Bank Connectivity Plug-in](part_156296229948.md): - Bank Connectivity Plug-in Interface Overview(https://docs.
+  - [Financial Institution Parser Plug-in](part_159078999530.md): - Financial Institution Parser Plug-in Interface Overview(https://docs.
+  - [Bank Statement Parser Plug-in](part_156294612382.md): - Bank Statement Parser Plug-in Interface Overview(https://docs.
+  - [Dataset Builder Plug-in](part_160199594697.md): - Dataset Builder Plug-in Interface Overview(https://docs.
+  - [Workbook Builder Plug-in](part_160199602236.md): - Workbook Builder Plug-in Interface Overview(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch core-plug-ins

@@ -1,0 +1,24 @@
+{
+  "branch": "creating-new-records-for-projects",
+  "generatedAt": null,
+  "pages": {
+    "chapter_4740587135": {
+      "path": "corpus/creating-new-records-for-projects/chapter_4740587135.md",
+      "title": "Creating New Records for Projects",
+      "type": "chapter",
+      "breadcrumb": "Projects > Creating New Records for Projects",
+      "parent": "preface_3714107248",
+      "category": "projects",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_4740587135.html",
+      "etag": "\"b483330aaaef29852a3a00e3245280d2:1786980397.08424\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:24:24.348Z",
+      "sha256": "c5027b417a06934f85e1690b771e08a4dd30166afb6a00848db32bfb7ec06f13",
+      "bytes": 2065,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

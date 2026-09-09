@@ -1,0 +1,17 @@
+# SuiteTalk Web Services
+
+SuiteTalk Web Services (913 pages): SuiteTalk Web Services
+
+## Chapters
+- [SuiteTalk Web Services](set_22152129.md): - SuiteTalk SOAP Web Services Platform Guide(https://docs.
+  - [SuiteTalk SOAP Web Services Platform Guide](book_156388532579.md): - SuiteTalk SOAP Web Services Platform Overview(https://docs.
+  - [SuiteTalk SOAP Web Services Records Guide](book_156388697975.md): - SuiteTalk SOAP Records Overview(https://docs.
+  - [SOAP Web Services To Rest Web Services Upgrade Guide](book_8110600984.md): - SOAP Web Services to REST Web Services Upgrade Guide(https://docs.
+  - [SuiteTalk REST Web Services API Guide](book_1559132836.md): - Overview of SuiteTalk REST Web Services(https://docs.
+  - [SuiteTalk REST Web Services Records Guide](book_157830111504.md): - REST Web Services Supported Records(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitetalk-web-services

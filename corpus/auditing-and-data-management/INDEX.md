@@ -1,0 +1,56 @@
+# Auditing and Data Management
+
+52 pages, category: Account Administration
+
+- [Auditing and Data Management](book_4607606682.md) — book_4607606682
+  - [Tracking Changes in NetSuite](chapter_4604099319.md) — chapter_4604099319
+    - [Auditing Primary Data and Configuration Changes in NetSuite](section_4577281258.md) — section_4577281258
+      - [Auditing Changes to Enabled Features](bridgehead_4591970320.md) — bridgehead_4591970320
+      - [Auditing Changes to Configuration Settings](bridgehead_4591970097.md) — bridgehead_4591970097
+      - [Tracking Roles and Permissions](bridgehead_4591976451.md) — bridgehead_4591976451
+      - [Tracking User Logins](bridgehead_4591976836.md) — bridgehead_4591976836
+      - [Tracking Emails](bridgehead_157172836655.md) — bridgehead_157172836655
+      - [Tracking GL Audit Numbering](bridgehead_1500321879.md) — bridgehead_1500321879
+      - [System-Generated Journal for NetSuite OneWorld](bridgehead_1536776735.md) — bridgehead_1536776735
+      - [Auditing Changes to Customization Objects](bridgehead_4591955112.md) — bridgehead_4591955112
+      - [Tracking Key Financial Record Audit Trails](bridgehead_4591977989.md) — bridgehead_4591977989
+    - [Auditing Account Preferences](section_N250284.md) — section_N250284
+    - [Documenting Changes](section_4604115194.md) — section_4604115194
+    - [Audit Enablement](section_4604128838.md) — section_4604128838
+  - [Internal Controls in NetSuite](chapter_4750134868.md) — chapter_4750134868
+    - [Standard Internal Controls](section_4750146419.md) — section_4750146419
+    - [Internal Controls that Require Basic Configuration](section_4750146818.md) — section_4750146818
+  - [Managing Transactions](chapter_4470653255.md) — chapter_4470653255
+    - [Recording a Reason for Deleting a Transaction](section_4338624600.md) — section_4338624600
+    - [Reviewing Transaction History](section_N554247.md) — section_N554247
+      - [Transaction System Information and Communication Subtabs](section_N554714.md) — section_N554714
+      - [Granting User Access to Transaction History](section_N555081.md) — section_N555081
+      - [Viewing Transaction System Notes](section_N555355.md) — section_N555355
+      - [Using the Transaction Audit Trail](section_N556825.md) — section_N556825
+      - [Tracking Financial Account Changes](section_N557197.md) — section_N557197
+      - [Line-Level Audit Trail for Transactions](section_N557476.md) — section_N557476
+      - [Transaction Line-Level History Window](section_N557750.md) — section_N557750
+  - [Personal Information (PI) Removal](chapter_156596387080.md) — chapter_156596387080
+    - [Permissions Required for Personal Information Removal](subsect_156597317228.md) — subsect_156597317228
+    - [Supported Field Types for Personal Information Removal](subsect_160806216562.md) — subsect_160806216562
+    - [Enabling the Remove Personal Information Feature](section_157044103464.md) — section_157044103464
+    - [Reviewing PI Removal Requests](section_156597280900.md) — section_156597280900
+      - [Using PI Removal Request Icons](subsect_156597327174.md) — subsect_156597327174
+    - [Creating and Approving a New PI Removal Request](section_156597435833.md) — section_156597435833
+      - [Removing Personal Information on a Sublist Field](section_0505041319.md) — section_0505041319
+      - [Removing Customer Name Information](section_0505041652.md) — section_0505041652
+    - [Checking Pl Removal Results in the System Notes](section_156597617492.md) — section_156597617492
+  - [Auditing Data Changes using Searches](chapter_4774167775.md) — chapter_4774167775
+    - [Searching System Notes](section_N673560.md) — section_N673560
+    - [Viewing an Audit Trail for a Record Type](section_N675070.md) — section_N675070
+    - [Searching for Deleted Records](section_4031815869.md) — section_4031815869
+      - [Searching Deleted Records That Use the Old Data Source](section_163584617278.md) — section_163584617278
+      - [Searching for Deleted Records That Use the New Analytics Data Source](section_163584624721.md) — section_163584624721
+    - [Understanding the Context for Changes](section_4032860783.md) — section_4032860783
+      - [Available Context Values](bridgehead_4032898139.md) — bridgehead_4032898139
+  - [Avoiding Duplicates](chapter_4470654298.md) — chapter_4470654298
+    - [Avoiding Duplicate Transaction Numbers](section_N546911.md) — section_N546911
+    - [Duplicate Number Warnings](section_N547300.md) — section_N547300
+    - [Using Auto-Generated Numbering for Transactions](section_N547392.md) — section_N547392
+    - [Avoiding Duplicate Processing of Memorized Transactions](section_4431121865.md) — section_4431121865
+  - [Activity Log Overview](article_9131939592.md) — article_9131939592

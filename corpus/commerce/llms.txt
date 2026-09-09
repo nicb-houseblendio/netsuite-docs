@@ -1,0 +1,12 @@
+# Commerce
+
+Commerce (1 pages): Commerce
+
+## Chapters
+- [Commerce](article_161701906490.md): Commerce videos are categorized into the following areas: - Website Setup(subsect161702274721) - Website Management and Performance(subsect161702232170) - SuiteCommerce Solutions (SC/SCMA/SCA)(subsect161701941500) - SuiteCommerce Instore (SCIS)(subsect161702293127) - NetSuite Point of Sale (NSPOS)(subsect161702418408) Website Setup Watch the videos in this section to learn how to perform basic website setup activities.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch commerce

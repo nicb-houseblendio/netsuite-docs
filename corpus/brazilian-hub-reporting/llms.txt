@@ -1,0 +1,16 @@
+# Brazilian Hub Reporting
+
+Brazilian Hub Reporting (32 pages): Brazilian Hub Reporting
+
+## Chapters
+- [Brazilian Hub Reporting](article_159680641660.md): Note: To access the Brazilian Hub Reporting SuiteApp documentation in Brazilian Portuguese (Português do Brasil), see Brazilian Hub Reporting(https://system.
+  - [Brazilian Hub Reporting SuiteApp Installation](article_159680647481.md): This topic guides you through the installation of the Brazilian Hub Reporting SuiteApp (BRHub Reporting).
+  - [Roles and Permissions for Brazilian Hub Reporting](article_159681020937.md): Access to Brazilian Hub Reporting (BRHub Reporting) features requires several specific permissions.
+  - [Fiscal Reports for Brazil (Brazilian Hub Reporting SuiteApp)](article_160684281426.md): Fiscal reports enable Brazilian businesses to view and retrieve fiscal information from transactions recorded in NetSuite.
+  - [Statutory Reports for Brazil (Brazilian Hub Reporting SuiteApp)](article_159836471589.md): The Brazilian Hub Reporting SuiteApp enables you to issue specific types of reports to federal tax authorities, considering revenues, tax retentions, contributions, and tax returns.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch brazilian-hub-reporting

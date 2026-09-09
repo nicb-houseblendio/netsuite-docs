@@ -1,0 +1,13 @@
+# NetSuite Connector Overview
+
+NetSuite Connector Overview (60 pages): NetSuite Connector
+
+## Chapters
+- [NetSuite Connector](book_163214400180.md): - NetSuite Connector Overview(https://docs.
+  - [NetSuite Connector Overview](article_164681347904.md): NetSuite Connector offers integration solutions for top ecommerce, logistics, and point-of-sale providers, helping businesses automate data transfer between systems.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-connector-overview

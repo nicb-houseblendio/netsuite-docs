@@ -1,0 +1,12 @@
+# SuiteCloud Supported Records
+
+SuiteCloud Supported Records (1 pages): SuiteCloud Supported Records
+
+## Chapters
+- [SuiteCloud Supported Records](preface_3710625923.md): This topic provides a comparison of the record types supported for SuiteScript, web services integration, CSV import, and REST Web Services.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitecloud-supported-records

@@ -1,0 +1,12 @@
+# Internationalization through Global E-commerce
+
+Internationalization through Global E-commerce (1 pages): Internationalization through Global E-commerce
+
+## Chapters
+- [Internationalization through Global E-commerce](article_9212740579.md): Internationalization through global e-commerce means using a web store set up in one country to sell products and services in other countries.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch internationalization-through-global-e-commerce

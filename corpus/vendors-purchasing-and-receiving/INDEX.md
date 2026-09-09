@@ -1,0 +1,380 @@
+# Vendors, Purchasing, and Receiving
+
+376 pages, category: SCM (Supply Chain Management)
+
+- [Vendors, Purchasing, and Receiving](set_N2360130.md) — set_N2360130
+  - [Vendors](book_N2360175.md) — book_N2360175
+    - [Vendors](preface_3714113773.md) — preface_3714113773
+    - [Vendor Records](chapter_N2360272.md) — chapter_N2360272
+      - [Vendor Records Overview](section_N2360495.md) — section_N2360495
+      - [Vendor Record Management](article_161951406143.md) — article_161951406143
+        - [Creating a Vendor Record](section_N2362161.md) — section_N2362161
+        - [Creating a Tax Agency Vendor Record](section_N2365187.md) — section_N2365187
+        - [Editing a Vendor Record](section_4443197067.md) — section_4443197067
+        - [Inactivating Vendor Records](section_4443201053.md) — section_4443201053
+        - [Deleting a Vendor Record](section_4443213535.md) — section_4443213535
+        - [Merging Vendor Records](section_4443233738.md) — section_4443233738
+        - [Vendor Dashboards](section_4849482517.md) — section_4849482517
+        - [Printing Mailing Labels for Vendors](section_N2368875.md) — section_N2368875
+      - [Vendor Record Configuration](article_161952107343.md) — article_161952107343
+        - [Enabling the Vendor Access Feature](article_161952527878.md) — article_161952527878
+        - [The Vendor Center Role](section_N2369118.md) — section_N2369118
+        - [Assigning a Role to a Vendor](section_N2363606.md) — section_N2363606
+        - [Manually Setting a Vendor's Password](article_162341016930.md) — article_162341016930
+        - [Giving Vendors Access to Time Tracking](section_N2364581.md) — section_N2364581
+        - [Vendor Records for 1099 Contractors](section_N2364122.md) — section_N2364122
+          - [Making a Vendor 1099 Eligible](article_161959846727.md) — article_161959846727
+          - [Associating an Expense Account with 1099-MISC Categories](article_161960062509.md) — article_161960062509
+        - [Vendor Credit Limits](section_N2365918.md) — section_N2365918
+          - [Setting Vendor Credit Limits](article_161960732270.md) — article_161960732270
+          - [Vendor Credit Limit Warnings](article_161960739869.md) — article_161960739869
+            - [Setting Company Preferences to Receive Vendor Credit Limit Warnings](article_161960744012.md) — article_161960744012
+            - [Setting Individual Preferences for Vendor Credit Limit Warnings](article_161960744896.md) — article_161960744896
+        - [Associating a Vendor With an Item](section_N2367376.md) — section_N2367376
+        - [Associating a Vendor With a Payroll Item](section_N2367472.md) — section_N2367472
+          - [Assigning a Vendor to the Tax Agency Category](article_162151358618.md) — article_162151358618
+        - [Importing a Vendor Price List](section_N2368077.md) — section_N2368077
+        - [Preferred Transaction Delivery on Vendor Records](section_N2368449.md) — section_N2368449
+        - [The Multiple Vendors Feature](section_N2369578.md) — section_N2369578
+          - [Enabling the Multiple Vendors Feature](section_N2369744.md) — section_N2369744
+          - [Associating an Item With Multiple Vendors](section_N2369863.md) — section_N2369863
+          - [Multiple Vendors Saved Search](section_4115931525.md) — section_4115931525
+    - [Vendor Bills](chapter_N2370131.md) — chapter_N2370131
+      - [Entering a Vendor Bill](article_161968486146.md) — article_161968486146
+      - [Bill Capture](article_164726334180.md) — article_164726334180
+        - [Prerequisites for Bill Capture](article_1021104845.md) — article_1021104845
+        - [Bill Capture Preferences](article_0120015107.md) — article_0120015107
+        - [Uploading Vendor Bills Into NetSuite](article_1021105256.md) — article_1021105256
+        - [Working with Bill Capture Templates](article_1217105627.md) — article_1217105627
+        - [Bill Capture Considerations](article_0417034348.md) — article_0417034348
+        - [Transaction Email Capture SuiteApp](article_9121955260.md) — article_9121955260
+          - [Transaction Email Capture Prerequisites](article_1114011947.md) — article_1114011947
+          - [Installing the Transaction Email Capture SuiteApp](article_1114013251.md) — article_1114013251
+          - [Setting Up Transaction Email Capture](article_1114020511.md) — article_1114020511
+            - [Creating or Customizing Roles to Use Transaction Email Capture](article_0609063607.md) — article_0609063607
+            - [Enabling the Email Capture Plug-in](article_1114020734.md) — article_1114020734
+            - [Setting Up Transaction Email Capture Preferences](article_1114023845.md) — article_1114023845
+            - [Managing Vendor Email Addresses Using Transaction Email Capture](article_1114024729.md) — article_1114024729
+          - [Sending Vendor Bills to NetSuite](article_1114030021.md) — article_1114030021
+          - [Transaction Email Capture Considerations](article_1114032632.md) — article_1114032632
+          - [Transaction Email Capture Error Messages](article_1114030542.md) — article_1114030542
+      - [Differences Between Bills and Checks](section_N2370776.md) — section_N2370776
+      - [Receiving Inventory in Advance of a Bill](section_N2370995.md) — section_N2370995
+      - [Canceling a Vendor Bill](section_N2375066.md) — section_N2375066
+      - [Vendor Bill Printing](article_161070688350.md) — article_161070688350
+        - [Printing a Single Bill](article_161968557929.md) — article_161968557929
+        - [Printing Vendor Bills in Bulk](article_161968563154.md) — article_161968563154
+      - [Vendor Bill Variances](section_N2371184.md) — section_N2371184
+        - [Posting Vendor Bill Variances](section_N2372745.md) — section_N2372745
+        - [Vendor Bill Variance Journals](section_N2373098.md) — section_N2373098
+        - [Mass Updates for Variance Accounts](section_N2373402.md) — section_N2373402
+      - [Vendor Bill Approvals](section_N2373552.md) — section_N2373552
+        - [Setting the Default Vendor Approval Status](section_N2374176.md) — section_N2374176
+        - [Approving Vendor Bills With Standard Vendor Bill Approval](section_N2374450.md) — section_N2374450
+        - [Bulk Approving Vendor Bills With Standard Vendor Bill Approval](section_N2374794.md) — section_N2374794
+        - [Standard Vendor Bill Approval FAQ](section_N2375312.md) — section_N2375312
+      - [Vendor Bill Approval Workflow](section_N2376194.md) — section_N2376194
+        - [Installing the Vendor Bill Approval Workflow](section_N2380890.md) — section_N2380890
+        - [Customizing for the Vendor Bill Approval Workflow](section_N2381204.md) — section_N2381204
+      - [3 Way Match Vendor Bill Approval Workflow](section_4096219721.md) — section_4096219721
+        - [Setting Up 3 Way Match Vendor Bill Approval](section_4096250993.md) — section_4096250993
+        - [3 Way Match Vendor Bill Approval States](section_4096454192.md) — section_4096454192
+        - [3 Way Match Vendor Bill Approval Exception Criteria](section_4096471509.md) — section_4096471509
+        - [Customizing the 3 Way Match Vendor Bill Approval](section_4096447107.md) — section_4096447107
+          - [Customizing a Workflow State](section_4096481101.md) — section_4096481101
+          - [Disabling Exception Criteria](section_4096490752.md) — section_4096490752
+          - [Setting Tolerance and Difference Limits](section_4168980481.md) — section_4168980481
+          - [Best Practices When Using the Tolerance and Difference Limits](section_4212033610.md) — section_4212033610
+      - [Vendor Bill Approvals in the Employee Center](section_157528106765.md) — section_157528106765
+        - [Configuring Vendor Bill Approvals in the Employee Center](section_157528129125.md) — section_157528129125
+        - [Configuring a Reminder for Bills Pending Approval in the Employee Center Dashboard](section_157528136729.md) — section_157528136729
+          - [If the Reminders Portlet doesn't Show the Expected Information](section_157544849918.md) — section_157544849918
+        - [Approving Vendor Bills in the Employee Center](section_157528153371.md) — section_157528153371
+    - [Vendor Payments](chapter_N2381615.md) — chapter_N2381615
+      - [Vendor Payments Overview](section_N2381751.md) — section_N2381751
+      - [Default Vendor Payment Accounts](article_161037364692.md) — article_161037364692
+        - [Setting a Company Level Default Vendor Payment Account](article_162315349034.md) — article_162315349034
+        - [Setting a Default Vendor Payment Account for a Single Subsidiary](article_162315354749.md) — article_162315354749
+        - [Setting a Default Vendor Payment Account for a Single Vendor](article_162315364436.md) — article_162315364436
+      - [Paying Bills to a Single Vendor](section_N2381924.md) — section_N2381924
+      - [Paying Bills to Multiple Vendors](section_N2383803.md) — section_N2383803
+      - [Checking the Status of a Bill Payment](section_4401801571.md) — section_4401801571
+      - [Editing a Bill Payment](section_N2384435.md) — section_N2384435
+      - [Correcting Bill Payment Applications](section_N2385178.md) — section_N2385178
+      - [Printing Bill Payments](section_N2384738.md) — section_N2384738
+      - [Printing Bill Payment Vouchers](section_N2384154.md) — section_N2384154
+      - [Vendor Payment Installments](section_1550603013.md) — section_1550603013
+        - [Vendor Payment Installments Setup](section_1550603187.md) — section_1550603187
+          - [Enabling Vendor Payment Installments](article_161978767792.md) — article_161978767792
+          - [Setting Preferences for Vendor Payment Installments](article_161978780357.md) — article_161978780357
+          - [Creating Terms for Vendor Payment Installments](article_161978785528.md) — article_161978785528
+        - [Billing a Purchase Order With Installments](section_1550607926.md) — section_1550607926
+        - [Paying Vendor Bills in Installments](section_1551288993.md) — section_1551288993
+      - [In-Transit Payments](section_1535398724.md) — section_1535398724
+        - [In-Transit Payments Setup](article_162315035085.md) — article_162315035085
+          - [Enabling the In-Transit Payments Feature](section_1535467996.md) — section_1535467996
+          - [Creating a Cash In-Transit (CIT) Clearing Account](section_1535485844.md) — section_1535485844
+        - [Setting Preferences for In-Transit Payments](section_1535560702.md) — section_1535560702
+          - [Setting Accounting Preferences for In-Transit Payments](article_162315127002.md) — article_162315127002
+          - [Setting Subsidiary Preferences for In-Transit Payments](article_162315152200.md) — article_162315152200
+          - [Setting Approval Routing Preferences for In-Transit Payments](article_162315157956.md) — article_162315157956
+          - [Setting Up a Checking Account for In-Transit Payments](article_162315167928.md) — article_162315167928
+        - [Creating an In-Transit Vendor Payment Without Approval Routing](section_1535672734.md) — section_1535672734
+        - [Confirming an In-Transit Payment](section_1539969060.md) — section_1539969060
+        - [Declining an In-Transit Payment](section_1539968733.md) — section_1539968733
+        - [In-Transit Payments with Approval Routing](section_1537056839.md) — section_1537056839
+          - [Approving an In-Transit Payment With Standard Vendor Payment Approval](article_162315241414.md) — article_162315241414
+          - [Approving In-Transit Payments Standard Vendor Payment Approval in Bulk](article_162315241867.md) — article_162315241867
+        - [Viewing In-Transit Payment Balances](section_1539714613.md) — section_1539714613
+        - [In-Transit Payment Statuses](section_1536092800.md) — section_1536092800
+      - [Custom Workflow-Based Approvals for Vendor Payments](section_1554290907.md) — section_1554290907
+    - [Vendor Prepayments](article_162332227021.md) — article_162332227021
+      - [Vendor Prepayments Overview](section_156378588624.md) — section_156378588624
+      - [Vendor Prepayments Setup](section_156379910175.md) — section_156379910175
+        - [Enabling the Vendor Prepayments Feature](article_162333116098.md) — article_162333116098
+        - [Configuring a Default Vendor Prepayment Account](article_162333140031.md) — article_162333140031
+        - [Configuring Permissions for Vendor Prepayments](article_162333147276.md) — article_162333147276
+        - [Configuring Vendor Prepayments With Auto-Apply](article_162333158540.md) — article_162333158540
+        - [Disabling the Vendor Prepayments Feature](section_156380221183.md) — section_156380221183
+      - [Entering Vendor Prepayments](section_156395631899.md) — section_156395631899
+      - [Entering Vendor Prepayments From a Purchase Order](section_157311209466.md) — section_157311209466
+      - [Reviewing the Vendor Prepayments Associated With a Purchase Order](section_157924651955.md) — section_157924651955
+      - [Vendor Prepayment Application](section_157294424267.md) — section_157294424267
+        - [Applying Vendor Prepayments With Auto-Apply](section_157372109804.md) — section_157372109804
+        - [Applying Vendor Prepayments Manually](section_156396257383.md) — section_156396257383
+        - [Editing a Vendor Bill After the Vendor Prepayment Application](section_156760027582.md) — section_156760027582
+      - [Vendor Prepayment Approvals](section_159479922545.md) — section_159479922545
+        - [Setting Preferences for Vendor Prepayment Approvals](section_159480389738.md) — section_159480389738
+        - [Approving Vendor Prepayments](section_159479931352.md) — section_159479931352
+      - [Vendor Prepayment Approvals in the Employee Center](section_159583699852.md) — section_159583699852
+        - [Verifying Prerequisites for Vendor Prepayment Approvals in the Employee Center](section_159584574236.md) — section_159584574236
+        - [Configuring Vendor Prepayment Approvals in the Employee Center](section_159583875046.md) — section_159583875046
+        - [Adding a Reminder for Vendor Prepayment Approvals to the Employee Center Dashboard](section_159584658445.md) — section_159584658445
+        - [Approving Vendor Prepayments in the Employee Center](section_159592118318.md) — section_159592118318
+      - [Viewing the List of Vendor Prepayment Transactions](section_156389791838.md) — section_156389791838
+      - [Editing or Deleting Vendor Prepayment Transactions](section_156380292896.md) — section_156380292896
+      - [Voiding a Vendor Prepayment Transaction](section_159541401977.md) — section_159541401977
+      - [Printing Vendor Prepayment Vouchers](section_157242190523.md) — section_157242190523
+      - [Customizing Vendor Prepayment Vouchers](section_157588136487.md) — section_157588136487
+    - [Vendor Returns](chapter_N2386193.md) — chapter_N2386193
+      - [Vendor Return Authorization Overview](section_N2386202.md) — section_N2386202
+      - [Creating a Vendor Return Authorization](section_N2386460.md) — section_N2386460
+      - [Creating a Vendor Return Authorization From an Existing Purchase Order](article_162003965369.md) — article_162003965369
+      - [Approving a Vendor Return Authorization](section_N2387067.md) — section_N2387067
+      - [Canceling a Vendor Return](article_162004032986.md) — article_162004032986
+      - [Shipping Authorized Vendor Returns](section_N2387332.md) — section_N2387332
+      - [Viewing the Status of a Vendor Return Authorization](section_N2387708.md) — section_N2387708
+      - [Crediting an Authorized Vendor Return](section_N2388089.md) — section_N2388089
+      - [Vendor Returns for Drop-Ship Orders](section_N2391620.md) — section_N2391620
+      - [Closing a Line Item on a Vendor Return Authorization](section_N2391809.md) — section_N2391809
+    - [Vendor Credits](chapter_N2391960.md) — chapter_N2391960
+      - [Entering Vendor Credits](section_N2392083.md) — section_N2392083
+      - [Entering a Vendor Credit Manually](section_1493669913.md) — section_1493669913
+      - [Creating a Vendor Credit Directly From a Vendor Bill](section_N2392547.md) — section_N2392547
+      - [Associating a Vendor Credit With a Deposit](section_N2392806.md) — section_N2392806
+      - [Creating a Vendor Credit Directly From a Vendor Return](section_N2393090.md) — section_N2393090
+      - [Applying a Vendor Credit](section_N2393276.md) — section_N2393276
+      - [Viewing Vendor Credits](article_162341387037.md) — article_162341387037
+      - [Removing Credits From Deleted Vendor Payments](section_N2393719.md) — section_N2393719
+      - [Vendor Credit Printing](article_161107139523.md) — article_161107139523
+        - [Printing a Single Vendor Credit](article_162004649120.md) — article_162004649120
+        - [Printing Vendor Credits in Bulk](article_162004656575.md) — article_162004656575
+    - [Payment Runs](article_1145327659.md) — article_1145327659
+      - [Payment Run Prerequisites and Permissions](article_1145327661.md) — article_1145327661
+      - [Creating a Payment Run](article_1145327665.md) — article_1145327665
+      - [Approving Payment Runs](article_0720034617.md) — article_0720034617
+      - [Creating Payments from Payment Runs](article_1145327666.md) — article_1145327666
+      - [Cancelling or Deleting Payment Runs](article_1145327667.md) — article_1145327667
+      - [Payment Run Results and Errors](article_1145327668.md) — article_1145327668
+      - [Payment Run Frequently Asked Questions](article_1145327669.md) — article_1145327669
+  - [Purchasing and Receiving](book_N2393897.md) — book_N2393897
+    - [Requisitions](chapter_3875569040.md) — chapter_3875569040
+      - [Requisitions Overview](article_162444983707.md) — article_162444983707
+      - [Requisitions Setup](section_3879054274.md) — section_3879054274
+        - [Enabling the Requisitions Feature](article_162011877530.md) — article_162011877530
+        - [Setting Requisition Preferences](article_162011885182.md) — article_162011885182
+      - [Entering a Requisition](section_3873972591.md) — section_3873972591
+      - [Ordering Requisitions in Bulk](section_3873973062.md) — section_3873973062
+      - [Processing a Requisition](section_3873972997.md) — section_3873972997
+      - [Requisition Approvals](section_3873972662.md) — section_3873972662
+        - [Setting up Suiteflow Workflow-Based Approvals for Requisitions](section_3909302265.md) — section_3909302265
+        - [Approving a Requisition Using SuiteFlow](section_3965424923.md) — section_3965424923
+      - [Requisition Approval Workflow](section_3960249592.md) — section_3960249592
+        - [Requisition Approval Workflow Setup](section_3970590063.md) — section_3970590063
+          - [Enabling Requisition Workflow Prerequisites](article_162030498543.md) — article_162030498543
+          - [Installing the Requisition Approval Workflow](article_162030503365.md) — article_162030503365
+          - [Running the Requisition Approval Workflow](article_162436783757.md) — article_162436783757
+          - [Setting Requisition Approval Workflow Preferences](article_162436794597.md) — article_162436794597
+        - [Requisition Approval Workflow States](section_4109347847.md) — section_4109347847
+        - [Customizing the Requisition Approval Workflow](section_3970591126.md) — section_3970591126
+        - [Creating a Custom Requisition Approval Workflow](section_4113690094.md) — section_4113690094
+    - [Purchase Requests](chapter_N2393987.md) — chapter_N2393987
+      - [Enabling Purchase Requests](article_162488295069.md) — article_162488295069
+      - [Entering a Purchase Request](section_N2394196.md) — section_N2394196
+      - [Approving a Purchase Request](section_N2395820.md) — section_N2395820
+      - [Creating a Purchase Order From a Purchase Request](section_N2394526.md) — section_N2394526
+      - [Notifying Supervisors of Purchase Requests](section_N2394761.md) — section_N2394761
+    - [Request for Quote](chapter_4189559896.md) — chapter_4189559896
+      - [Request for Quote Feature Setup](section_4212772813.md) — section_4212772813
+        - [Enabling the Request for Quote Feature](article_162012128770.md) — article_162012128770
+        - [Setting Preferences for the Request for Quote Feature](article_162012132347.md) — article_162012132347
+      - [Entering a Request For Quote](section_4212822856.md) — section_4212822856
+      - [Vendor Request for Quote](section_4213374003.md) — section_4213374003
+      - [Analyzing and Awarding a Request for Quote](section_4213373490.md) — section_4213373490
+    - [Purchase Contracts and Blanket Orders](chapter_4077153711.md) — chapter_4077153711
+      - [Purchase Contracts](section_4077162015.md) — section_4077162015
+      - [Enabling the Purchase Contracts Feature](section_4077183923.md) — section_4077183923
+      - [Creating Purchase Contracts](section_4077190978.md) — section_4077190978
+      - [Using Purchase Contracts on Purchase Orders](section_4077191337.md) — section_4077191337
+      - [Purchase Contract Approval Workflow](section_4210416570.md) — section_4210416570
+        - [Setting up the Purchase Contract Approval Workflow](section_4210424087.md) — section_4210424087
+        - [Customizing the Purchase Contract Approval Workflow](section_4210441527.md) — section_4210441527
+          - [Purchase Contract Approval Workflow States](section_4210443667.md) — section_4210443667
+          - [Creating a Custom Purchase Contract Approval Workflow](section_4210457294.md) — section_4210457294
+          - [Disabling Resubmit for Purchase Contracts](section_4236239031.md) — section_4236239031
+      - [Blanket Purchase Orders](section_4077867135.md) — section_4077867135
+      - [Setting up the Blanket Purchase Orders Feature](section_4083946712.md) — section_4083946712
+      - [Creating a Blanket Purchase Order](section_4083950023.md) — section_4083950023
+      - [Releasing Items on a Blanket Purchase Order](section_4083950994.md) — section_4083950994
+      - [Blanket Purchase Order Approval Workflow](section_4236988757.md) — section_4236988757
+        - [Setting up the Blanket Purchase Order Approval Workflow](section_4236992073.md) — section_4236992073
+        - [Customizing the Blanket Purchase Order Approval Workflow](section_4237001148.md) — section_4237001148
+          - [Blanket Purchase Order Approval Workflow States](section_4237001964.md) — section_4237001964
+          - [Creating a Custom Blanket Purchase Order Approval Workflow](section_4237009481.md) — section_4237009481
+          - [Disabling Resubmit for Blanket Purchase Orders](section_4237015150.md) — section_4237015150
+    - [Purchasing](chapter_N2399286.md) — chapter_N2399286
+      - [Purchase Order Management](section_N2399585.md) — section_N2399585
+        - [Setting Purchasing Preferences](section_N2400174.md) — section_N2400174
+        - [Entering a Purchase Order](section_N2400504.md) — section_N2400504
+        - [Bulk Orders](section_N2402825.md) — section_N2402825
+        - [Ordering Items](section_N2403352.md) — section_N2403352
+          - [Order Items Status](section_4714342508.md) — section_4714342508
+        - [Billing a Purchase Order With Advanced Receiving](section_N2403862.md) — section_N2403862
+        - [Editing a Purchase Order](section_N2404305.md) — section_N2404305
+        - [Closing a Purchase Order](article_163179592993.md) — article_163179592993
+        - [Viewing the Status of a Purchase Order](section_N2408514.md) — section_N2408514
+        - [Printing a Tax ID or Resale Number on Purchase Orders](section_4746558953.md) — section_4746558953
+        - [Purchase Order Printing](section_N2407704.md) — section_N2407704
+          - [Printing a Single Purchase Order](article_162013355635.md) — article_162013355635
+          - [Printing Purchase Orders in Bulk](article_162013361228.md) — article_162013361228
+          - [Printing Labels for Purchase Order Items](article_162013368875.md) — article_162013368875
+      - [Purchase Order Approval Workflow SuiteApp](section_N2398841.md) — section_N2398841
+        - [Purchase Order Approval Workflow Setup](section_N2398992.md) — section_N2398992
+          - [Setting up Purchase Order Approval Workflow SuiteApp Prerequisites](article_162617912024.md) — article_162617912024
+          - [Installing the Purchase Order Approval Workflow SuiteApp](article_162617923785.md) — article_162617923785
+          - [Purchase Order Approval Workflow SuiteApp Roles and Permissions](article_162617942635.md) — article_162617942635
+          - [Running the Purchase Order Approval Workflow SuiteApp](article_162617947654.md) — article_162617947654
+        - [Purchase Order Approval Workflow SuiteApp States](section_4158616141.md) — section_4158616141
+        - [Customizing the Purchase Order Approval Workflow SuiteApp](section_N2399147.md) — section_N2399147
+        - [Creating a Custom Purchase Order Approval Workflow](section_4158624611.md) — section_4158624611
+        - [Custom Workflow-based Approvals for Purchases](section_N2396564.md) — section_N2396564
+        - [Switching From the Approval Routing Feature to SuiteFlow for Purchases](section_3960256538.md) — section_3960256538
+      - [Accounting for Received Purchase Orders](section_N2408991.md) — section_N2408991
+      - [Drop Shipment and Special Order Purchases](section_N2409296.md) — section_N2409296
+      - [Purchase Order History Report](section_N2409777.md) — section_N2409777
+      - [Centralized Purchasing and Billing](article_161122386910.md) — article_161122386910
+        - [Enabling Centralized Purchasing and Billing](article_162013482787.md) — article_162013482787
+        - [Cross-Subsidiary Requisitions](article_162668250799.md) — article_162668250799
+          - [Ordering Cross-Subsidiary Requisitions](article_162669071331.md) — article_162669071331
+          - [Accounting Preference Considerations for Cross-Subsidiary Requisitions](article_163421835280.md) — article_163421835280
+        - [Centralized Purchase Orders](article_161124359989.md) — article_161124359989
+          - [Entering a Centralized Purchase Order](article_162013490588.md) — article_162013490588
+          - [Receiving a Centralized Purchase Order](article_162013494148.md) — article_162013494148
+          - [Centralized Purchase Order Billing](article_162013499344.md) — article_162013499344
+        - [Centralized Vendor Returns](article_161124367379.md) — article_161124367379
+          - [Creating a Centralized Vendor Return Authorization](article_162013902966.md) — article_162013902966
+          - [Shipping Centralized Vendor Returns](article_162013910683.md) — article_162013910683
+          - [Crediting a Centralized Vendor Return](article_162013917948.md) — article_162013917948
+    - [Receiving Orders](chapter_N2410585.md) — chapter_N2410585
+      - [Receipt Workflow Charts](section_N2411122.md) — section_N2411122
+      - [Receiving Purchase Orders](section_N2411320.md) — section_N2411320
+      - [Partially Receiving a Purchase Order](section_N2411754.md) — section_N2411754
+      - [Receiving a Purchase Order Before Billing](section_N2415076.md) — section_N2415076
+      - [Receiving a Purchase Orders With Advanced Receiving](section_N2412119.md) — section_N2412119
+      - [Creating a Bill From an Item Receipt](article_162020541497.md) — article_162020541497
+      - [Bulk Receiving Purchase Orders](section_N2414814.md) — section_N2414814
+      - [Closing Line Items on Purchase Orders](section_N2415338.md) — section_N2415338
+      - [Deleting an Item Receipt](article_163705803638.md) — article_163705803638
+      - [Exchange Rates on Item Receipts](section_N2415572.md) — section_N2415572
+      - [Printing Labels From Transactions](article_162626600304.md) — article_162626600304
+    - [Expenses](chapter_N2415855.md) — chapter_N2415855
+      - [Creating an Expense Category](section_N2415916.md) — section_N2415916
+      - [Creating a Saved Search With Expense Categories](article_162020704920.md) — article_162020704920
+      - [Receiving Expenses](section_N2416180.md) — section_N2416180
+      - [Receiving Expenses With Advanced Receiving](section_N2416424.md) — section_N2416424
+      - [Landed Cost](section_N2416930.md) — section_N2416930
+        - [Landed Cost Overview](section_N2417056.md) — section_N2417056
+        - [Tracking Landed Cost for Items and Expenses](article_162642325864.md) — article_162642325864
+        - [Landed Cost Categories](section_N2417902.md) — section_N2417902
+        - [Setting up an Item Record for Landed Cost](section_N2418189.md) — section_N2418189
+        - [Creating a Landed Cost Item](section_N2418506.md) — section_N2418506
+        - [Entering Landed Cost on a Transaction](section_N2418831.md) — section_N2418831
+        - [Landed Cost and Taxation](section_1554390337.md) — section_1554390337
+        - [Landed Cost Examples](section_N2419793.md) — section_N2419793
+          - [Landed Cost and Items Billed Separately](article_162021551140.md) — article_162021551140
+            - [Landed Cost Billed Separately With Advanced Receiving](article_162021560020.md) — article_162021560020
+            - [Landed Cost Billed Separately With a Cost Estimate](article_162021562398.md) — article_162021562398
+          - [Landed Cost and Items Billed Together](article_162022017017.md) — article_162022017017
+            - [Landed Cost Billed Together With an Inventory Item on One Bill With Advanced Receiving](article_162022023974.md) — article_162022023974
+            - [Landed Cost Billed Together With an Inventory Item on One Bill Without Advanced Receiving](article_162022026857.md) — article_162022026857
+          - [Landed Cost With Standard Cost Items](article_162022111260.md) — article_162022111260
+        - [Landed Cost and Commission](section_N2420792.md) — section_N2420792
+        - [Landed Cost Allocation per Line](section_3728979515.md) — section_3728979515
+      - [Estimated Landed Cost](section_4576786578.md) — section_4576786578
+        - [Estimated Landed Cost Setup Requirements](section_4683065507.md) — section_4683065507
+          - [Enabling the Estimated Landed Cost Feature](bridgehead_4605321070.md) — bridgehead_4605321070
+          - [Configuring Roles and Permissions for Estimated Landed Cost](bridgehead_4576794756.md) — bridgehead_4576794756
+        - [Estimated Landed Cost Template Setup Guide](section_4576788531.md) — section_4576788531
+          - [Creating Landed Cost Templates](section_4576805263.md) — section_4576805263
+          - [Guidelines for Assigning Landed Cost Templates to Items](article_1219073003.md) — article_1219073003
+          - [Assigning Landed Cost Templates to Items](section_4576811580.md) — section_4576811580
+          - [Guidelines for Importing Landed Cost Template Mappings](subsect_52145342005.md) — subsect_52145342005
+          - [Importing Landed Cost Template Mappings](section_4683044177.md) — section_4683044177
+          - [Viewing Landed Cost Templates on Item Records](article_1219073233.md) — article_1219073233
+        - [Guidelines for Estimated Landed Cost on Transactions](section_4576833448.md) — section_4576833448
+          - [Adding Estimated Landed Cost to Purchase Orders](bridgehead_4576842700.md) — bridgehead_4576842700
+          - [Applying Estimated Landed Cost on Item Receipts](bridgehead_4576843207.md) — bridgehead_4576843207
+          - [Estimated Landed Cost on Vendor Bills](bridgehead_4576843713.md) — bridgehead_4576843713
+          - [Viewing Estimated Landed Cost Details on Transactions](bridgehead_4576880316.md) — bridgehead_4576880316
+          - [Guidelines for Updating Transactions with Estimated Landed Cost](bridgehead_4576884608.md) — bridgehead_4576884608
+        - [Estimated Landed Cost Considerations](bridgehead_4576788130.md) — bridgehead_4576788130
+    - [Procurement Dashboard](chapter_4370304623.md) — chapter_4370304623
+      - [Setup Requirements for the Procurement Dashboard](section_4370304909.md) — section_4370304909
+      - [Setting Up the Procurement Dashboard](section_4380612316.md) — section_4380612316
+      - [Using the Procurement Dashboard](section_4370344015.md) — section_4370344015
+      - [Customizing the Procurement Dashboard](section_4373525526.md) — section_4373525526
+      - [Best Practices for Customizing the Procurement Dashboard](section_4373689120.md) — section_4373689120
+    - [Purchases Workbooks](chapter_156439261857.md) — chapter_156439261857
+      - [Purchases Dataset Templates](section_157968760205.md) — section_157968760205
+      - [Purchases Workbook Templates](section_156439263265.md) — section_156439263265
+    - [SuiteProcurement](article_9112006488.md) — article_9112006488
+      - [SuiteProcurement Overview](article_0426112435.md) — article_0426112435
+      - [SuiteProcurement Roles and Permissions](article_1014032958.md) — article_1014032958
+      - [Prerequisites for the SuiteProcurement SuiteApp](article_0426114231.md) — article_0426114231
+      - [Installing the SuiteProcurement SuiteApp](article_0426121433.md) — article_0426121433
+      - [Tracking Expenses with SuiteProcurement SuiteApp](article_0928012501.md) — article_0928012501
+      - [Setting Up SuiteProcurement Preferences](article_0426121447.md) — article_0426121447
+        - [Setting up Default Item and Expense Categories](article_0122065235.md) — article_0122065235
+        - [Syncing Trading Partners for a Subsidiary](article_0928011003.md) — article_0928011003
+        - [Mapping Trading Partners with NetSuite Vendors](article_0928011028.md) — article_0928011028
+        - [Mapping Item Categories](article_1002124423.md) — article_1002124423
+          - [Creating NetSuite Item Categories for Item Category Mapping](section_1002124559.md) — section_1002124559
+            - [Adding a Trading Partner Category](section_1002011604.md) — section_1002011604
+          - [Importing Item Categories through CSV](section_0928011924.md) — section_0928011924
+          - [Item Category Mappings Limit for Trading Partners](article_0428035601.md) — article_0428035601
+        - [Setting Up SuiteProcurement Preferences at Vendor Level](section_0928011918.md) — section_0928011918
+        - [Multicurrency Support in SuiteProcurement](article_0421040050.md) — article_0421040050
+      - [Setting Approval Preferences for Purchase Requests](article_0403043357.md) — article_0403043357
+      - [Working with SuiteProcurement](article_0426121512.md) — article_0426121512
+        - [Purchasing Items from Trading Partner Stores](article_0930111901.md) — article_0930111901
+        - [Reviewing and Saving SuiteProcurement Purchase Requests](article_0930111904.md) — article_0930111904
+        - [Submitting Purchase Requests to Trading Partners](article_1001122927.md) — article_1001122927
+        - [Receiving Items and Generating Item Receipts](article_0930111913.md) — article_0930111913
+        - [Receiving Documents from Trading Partners](article_0930111909.md) — article_0930111909
+      - [SuiteProcurement Saved Searches](article_0426121756.md) — article_0426121756
+      - [Uninstalling the SuiteProcurement SuiteApp](article_0426121812.md) — article_0426121812
+      - [SuiteProcurement Support for Non-curated Trading Partners](article_0407041433.md) — article_0407041433
+        - [Steps to Perform by NetSuite Customers (Buyer)](section_0407042954.md) — section_0407042954
+        - [Steps to Perform by Non-curated Trading Partners (Seller)](section_0407043000.md) — section_0407043000
+        - [Document Formats](section_0407051721.md) — section_0407051721
+        - [Testing and Validation](section_0407062941.md) — section_0407062941

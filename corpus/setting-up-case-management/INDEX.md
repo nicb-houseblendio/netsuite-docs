@@ -1,0 +1,54 @@
+# Setting Up Case Management
+
+50 pages, category: Support Management
+
+- [Support Management](book_N2420978.md) — book_N2420978
+  - [Setting Up Case Management](chapter_N2421072.md) — chapter_N2421072
+    - [Setting Up Support Checklist](section_N2421296.md) — section_N2421296
+      - [Creating Case Types](section_N2422185.md) — section_N2422185
+      - [Creating Case Origins](section_N2422364.md) — section_N2422364
+      - [Creating Case Statuses](section_N2422557.md) — section_N2422557
+      - [Creating Case Priorities](section_N2422747.md) — section_N2422747
+      - [Creating Case Issues](section_N2422868.md) — section_N2422868
+      - [Offering Support for Items](section_N2423026.md) — section_N2423026
+      - [Setting Up Support Groups](section_N2423204.md) — section_N2423204
+      - [Setting Customer Service Preferences](section_N2423389.md) — section_N2423389
+        - [Support Email Notification](bridgehead_N2425131.md) — bridgehead_N2425131
+        - [External Case Capture Preferences](bridgehead_N2425980.md) — bridgehead_N2425980
+        - [Inbound Support Email Preferences](bridgehead_N2426150.md) — bridgehead_N2426150
+        - [Ordering Support Lists](bridgehead_N2426304.md) — bridgehead_N2426304
+      - [Marking Employees as Support Reps](section_N2426343.md) — section_N2426343
+    - [Creating Case Profiles](section_3914420072.md) — section_3914420072
+    - [Assignment Rules & Territories](section_N2426488.md) — section_N2426488
+      - [Creating Case Rules](article_162281307642.md) — article_162281307642
+      - [Creating Case Territories](article_162281327119.md) — article_162281327119
+      - [Assigning Priorities to Territories](article_162281374632.md) — article_162281374632
+      - [Reassigning Cases to Territories](article_162281376166.md) — article_162281376166
+    - [Setting Case Escalation Rules and Assignments](section_N2427176.md) — section_N2427176
+    - [Using Email Case Capture](section_N2427546.md) — section_N2427546
+      - [Prerequisites for Setting Up Email Case Capture](article_162306863443.md) — article_162306863443
+      - [Troubleshooting Email Case Capture](article_162306924820.md) — article_162306924820
+      - [Email Case Capture Fields](article_162306926202.md) — article_162306926202
+      - [Using Variable Envelope Return Paths](section_N514666.md) — section_N514666
+    - [Online Case Forms](section_N2428291.md) — section_N2428291
+      - [Creating an Online Case Form](article_162307025197.md) — article_162307025197
+      - [Linking to Online Forms](section_N2429074.md) — section_N2429074
+      - [Uploading Files Through an Online Case Form](section_N2429734.md) — section_N2429734
+      - [Custom HTML Form Templates](section_N2429943.md) — section_N2429943
+        - [Creating Online HTML Form Templates](article_162316165956.md) — article_162316165956
+        - [Including Images in Online Forms](article_162316202006.md) — article_162316202006
+        - [Uploading Custom HTML Form Templates](article_162316262816.md) — article_162316262816
+        - [Creating a Custom HTML Template Case Form](article_162316276650.md) — article_162316276650
+    - [Help Desk](section_N2430719.md) — section_N2430719
+    - [Customizing Case Forms](section_N2430856.md) — section_N2430856
+    - [Customizing Support Notification Email](section_N2431043.md) — section_N2431043
+      - [Creating an Email Template](article_162316437163.md) — article_162316437163
+      - [Uploading Your Email Template](article_162316440035.md) — article_162316440035
+    - [Setting Up Customer Support in NetSuite OneWorld](section_N2433348.md) — section_N2433348
+      - [Setting Company-Level Support Preferences](bridgehead_N2433546.md) — bridgehead_N2433546
+      - [Setting Subsidiary-Level Support Preferences](bridgehead_N2433676.md) — bridgehead_N2433676
+      - [Setting Up Case Forms for NetSuite OneWorld](bridgehead_N2433829.md) — bridgehead_N2433829
+      - [Setting Up Online Case Forms for NetSuite OneWorld](bridgehead_N2433912.md) — bridgehead_N2433912
+      - [Customizing Support Rep Roles for NetSuite OneWorld](bridgehead_N2434051.md) — bridgehead_N2434051
+      - [Creating Case Rules and Territories Based on Subsidiary](bridgehead_N2434106.md) — bridgehead_N2434106
+      - [Setting Up Your Mail Server for Email Case Capture in NetSuite OneWorld](bridgehead_N2434142.md) — bridgehead_N2434142

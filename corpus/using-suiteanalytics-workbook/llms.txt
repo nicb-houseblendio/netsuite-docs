@@ -1,0 +1,13 @@
+# Using SuiteAnalytics Workbook
+
+Using SuiteAnalytics Workbook (4 pages): Using SuiteAnalytics Workbook
+
+## Chapters
+- [Using SuiteAnalytics Workbook](article_7112240791.md): SuiteAnalytics Workbook is an analytical tool available in NetSuite.
+  - [Workbooks and Datasets](article_0801122037.md): In SuiteAnalytics Workbook, you analyze your company data using datasets and workbooks.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch using-suiteanalytics-workbook

@@ -1,0 +1,15 @@
+# SuiteCloud SDK
+
+SuiteCloud SDK (150 pages): SuiteCloud SDK
+
+## Chapters
+- [SuiteCloud SDK](set_1502135000.md): - SuiteCloud SDK Overview(https://docs.
+  - [SuiteCloud SDK Overview](chapter_156026236161.md): SuiteCloud Software Development Kit (SuiteCloud SDK) are the tools that allow you to customize accounts through SuiteCloud Development Framework (SDF).
+  - [SuiteCloud CLI](set_1502135111.md): - SuiteCloud CLI for Java(https://docs.
+  - [SuiteCloud Plug-Ins and Extensions](set_1502135211.md): - SuiteCloud Extension for Visual Studio Code(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitecloud-sdk

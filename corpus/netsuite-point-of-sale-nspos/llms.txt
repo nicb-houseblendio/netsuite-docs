@@ -1,0 +1,17 @@
+# NetSuite Point of Sale (NSPOS)
+
+NetSuite Point of Sale (NSPOS) (262 pages): NetSuite Point of Sale (NSPOS)
+
+## Chapters
+- [NetSuite Point of Sale (NSPOS)](preface_4631540035.md): NetSuite Point of Sale (NSPOS) is the workstation-based point-of-sale application from the NetSuite family of commerce products.
+  - [NSPOS Administrator Guide](preface_1527170928.md): Use this document as your guide to administrating and using NetSuite Point of Sale (NSPOS).
+  - [NSPOS Release Notes 2024.1.X](part_1634005497.md): - NSPOS 2024.
+  - [NSPOS Release Notes 2020.1.X](part_1634008898.md): - NSPOS 2020.
+  - [NSPOS Release Notes 2025.1.0](part_0610102803.md): - NSPOS 2025.
+  - [NSPOS Security Guide](part_1523997777.md): - Introduction(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-point-of-sale-nspos

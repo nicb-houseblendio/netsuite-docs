@@ -1,0 +1,43 @@
+# NetSuite Account Types
+
+39 pages, category: Account Administration
+
+- [NetSuite Account Types](book_4607642783.md) — book_4607642783
+  - [NetSuite Account Types Overview](chapter_4607634104.md) — chapter_4607634104
+    - [Understanding NetSuite Account Types](section_4413974567.md) — section_4413974567
+      - [The Production Account](subsect_1121105140.md) — subsect_1121105140
+      - [The Release Preview Account](subsect_1121105228.md) — subsect_1121105228
+      - [The Sandbox Account](subsect_1121105332.md) — subsect_1121105332
+      - [The Development Account](subsect_1121105419.md) — subsect_1121105419
+  - [NetSuite Sandbox](chapter_N333400.md) — chapter_N333400
+    - [About Sandbox Accounts](section_4609939018.md) — section_4609939018
+    - [Features Available for Testing in a Sandbox](section_N335071.md) — section_N335071
+      - [Features Available for Full Testing in Sandbox Accounts](subsect_164330072419.md) — subsect_164330072419
+      - [Features Available for Limited Testing in Sandbox Accounts](subsect_164330096846.md) — subsect_164330096846
+    - [Requesting a Sandbox Account for the First Time](section_0901111723.md) — section_0901111723
+    - [Logging in to Your Sandbox Account](section_4430989285.md) — section_4430989285
+    - [Granting Access to Your Sandbox Account](section_N333727.md) — section_N333727
+    - [Removing Sandbox Access from Individual Users](subsect_162136754097.md) — subsect_162136754097
+    - [Working with Multiple Sandbox Accounts](section_4430991327.md) — section_4430991327
+    - [Refreshing Sandbox Accounts](section_N334348.md) — section_N334348
+      - [Requesting a Refresh](bridgehead_4177890138.md) — bridgehead_4177890138
+        - [Preserving Sandbox Changes](subsect_1516199740.md) — subsect_1516199740
+      - [Using the Sandbox Accounts Page](section_N333997.md) — section_N333997
+        - [Sandbox Accounts Page Overview](subsect_162577050921.md) — subsect_162577050921
+        - [General](subsect_162577071867.md) — subsect_162577071867
+        - [Refresh Summary](subsect_162577113826.md) — subsect_162577113826
+        - [Account Notifications](subsect_162577287711.md) — subsect_162577287711
+        - [Scheduled Version Upgrade Dates and Refresh Requests](subsect_162577313831.md) — subsect_162577313831
+        - [Sandbox Refresh Notifications](subsect_162577320168.md) — subsect_162577320168
+    - [Data That is Not Copied from Production to Sandbox](section_1516026974.md) — section_1516026974
+    - [Credit Card Processing in Your Sandbox After a Refresh](section_1516027026.md) — section_1516027026
+    - [When a Sandbox Account Expires](section_N334950.md) — section_N334950
+    - [Setting Preferences for Sandbox Email](section_N334772.md) — section_N334772
+  - [NetSuite Sandbox FAQ](chapter_4714508173.md) — chapter_4714508173
+  - [NetSuite Development Accounts](chapter_4422375565.md) — chapter_4422375565
+    - [Uses for Development Accounts](subsect_17103247407.md) — subsect_17103247407
+    - [Benefits of Development Accounts](subsect_1534793853.md) — subsect_1534793853
+    - [Features Available in Development Accounts](section_4422385398.md) — section_4422385398
+    - [Logging in to Development Accounts](section_4422387327.md) — section_4422387327
+    - [Granting Access to Development Accounts](section_4422459701.md) — section_4422459701
+    - [Contacting Support for Development Account Issues](section_4513330236.md) — section_4513330236

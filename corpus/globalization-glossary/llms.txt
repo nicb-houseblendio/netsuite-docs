@@ -1,0 +1,12 @@
+# Globalization Glossary
+
+Globalization Glossary (1 pages): Globalization Glossary
+
+## Chapters
+- [Globalization Glossary](chapter_157608114727.md): The Globalization Glossary covers General Glossary(subsect157468572385) and Manage Translations Glossary(subsect157468616084) terms.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch globalization-glossary

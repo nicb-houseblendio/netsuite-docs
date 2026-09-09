@@ -1,0 +1,17 @@
+# Field Service Management Schedule Board
+
+Field Service Management Schedule Board (15 pages): Field Service Management Schedule Board
+
+## Chapters
+- [Field Service Management Schedule Board](article_7162111704.md): The Field Service Management (FSM) Schedule Board helps schedulers (dispatchers) plan and manage work using a calendar-style board to view resources and time-based work items.
+  - [Schedule Board Layout](article_0302042617.md): The Field Service Management (FSM) Schedule Board is designed around four core areas: 1.
+  - [Schedule Board Resources, Tasks, and Filtering](article_0302042723.md): The Field Service Management (FSM) Schedule Board combines resources and tasks with navigation and filtering tools so you can find the right work items and focus the board on what you need to schedule.
+  - [Schedule Board Map](article_0302042747.md): The Field Service Management (FSM) Schedule Board Map uses Oracle Maps.
+  - [Schedule Board Settings, Scheduling, and Shortcuts](article_0302042806.md): Settings, scheduling, saving, and shortcuts in the Field Service Management (FSM) Schedule Board help you: - Personalize your view - Assign and update tasks - Use quick actions to manage changes in NetSuite Schedule Board Settings You can open Schedule Board settings from the settings icon in the board's header.
+  - [Scheduler User Guide](article_9112659368.md): The Field Service Management (formerly NextService) Schedule Board helps you manage resources and the work they do.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch field-service-management-schedule-board

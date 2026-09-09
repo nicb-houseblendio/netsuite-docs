@@ -1,0 +1,24 @@
+# Site Management Tools
+
+Site Management Tools (66 pages): Site Management Tools
+
+## Chapters
+- [Site Management Tools](book_4080362047.md): - Site Management Tools Overview(https://docs.
+  - [Site Management Tools Overview](chapter_4165123763.md): Note: Site Management Tools requires the SMT Core Content Types bundle and the Core Content Extension.
+  - [Site Management Tools Versions](chapter_4806124052.md): There are currently two supported versions of Site Management Tools (SMT), versions 2 and 3.
+  - [Site Management Tools Installation and Implementation](chapter_4098551783.md): Site Management Tools (SMT) is implemented on your Commerce web store, making the SMT user interface accessible within the application.
+  - [Users and Roles in Site Management Tools](chapter_4144397279.md): To manage content with Site Management Tools, you'll need a valid NetSuite user account with the right permissions.
+  - [Site Management Tools User Interface](chapter_4144431361.md): Note: The Site Management Tools (SMT) administrator interface supports the following web browsers: Chrome, Firefox, and Microsoft Edge.
+  - [View Site as of a Specific Date in Site Management Tools](chapter_1513783026.md): Note: This information applies to SuiteCommerce or the 2018.
+  - [Review and Publish Content in Site Management Tools](chapter_4419210472.md): You can review your unpublished changes before publishing them to your site.
+  - [Theme Skin Manager](chapter_1512491665.md): This applies to SuiteCommerce and the 2019.
+  - [Commerce Categories in Site Management Tools](chapter_4567835433.md): This information refers to SuiteCommerce or the Vinson release of SuiteCommerce Advanced or later.
+  - [Previewing Screen Sizes in Site Management Tools](chapter_4480324379.md): Your site's visitors can view your site on different devices, like smartphones, tablets, laptops, or desktop computers.
+  - [Optimizing Site Management Content for SEO](chapter_4218764847.md): Content you add with Site Management Tools (SMT) can affect your site's search engine ranking.
+  - [NetSuite Records and Site Management Tools](chapter_1547236630.md): NetSuite records provide the ability to view and manage records in the NetSuite interface.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch site-management-tools

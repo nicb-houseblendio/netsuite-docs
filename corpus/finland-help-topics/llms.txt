@@ -1,0 +1,16 @@
+# Finland Help Topics
+
+Finland Help Topics (54 pages): Finland Help Topics
+
+## Chapters
+- [Finland Help Topics](chapter_157849439820.md): Overview The following help topics provide information about NetSuite features that are specific to companies doing business in Finland.
+  - [Finland Account Setup](section_157856386594.md): Setting up an account for an organization doing business in Finland usually requires enabling several features and installing some additional SuiteApps.
+  - [Setting Up Finland-specific Preferences](section_157857294185.md): In NetSuite, users can define their personal preferences.
+  - [Finland-specific SuiteApps](section_160673174480.md): The following Finland-specific SuiteApp is currently available: - Finland Localization(https://docs.
+  - [Finland Tax Topics](section_157858109755.md): If you have a Finland subsidiary and nexus and you have the International Tax Reports SuiteApp installed in your NetSuite account, you can generate the Finland Periodic Tax Return.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch finland-help-topics

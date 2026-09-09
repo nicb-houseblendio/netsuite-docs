@@ -1,0 +1,13 @@
+# Key Components of FSM
+
+Key Components of FSM (2 pages): Field Service Management
+
+## Chapters
+- [Field Service Management](article_1140906473.md): NetSuite Field Service Management (FSM), formerly NextService, helps you coordinate and track services performed outside the office, like repairs, installations, and maintenance.
+  - [Key Components of FSM](article_0302024411.md): Field Service Management (FSM) includes four core components that support every stage of field service: - Administration - Managing features and records in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch key-components-of-fsm

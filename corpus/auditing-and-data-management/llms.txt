@@ -1,0 +1,19 @@
+# Auditing and Data Management
+
+Auditing and Data Management (52 pages): Auditing and Data Management
+
+## Chapters
+- [Auditing and Data Management](book_4607606682.md): - Tracking Changes in NetSuite(https://docs.
+  - [Tracking Changes in NetSuite](chapter_4604099319.md): The following topics provide information about tracking changes in NetSuite: - Auditing Primary Data and Configuration Changes in NetSuite(https://docs.
+  - [Internal Controls in NetSuite](chapter_4750134868.md): This section lists internal controls that are readily available in NetSuite.
+  - [Managing Transactions](chapter_4470653255.md): NetSuite offers several features that enable you to record reasons for deleting transactions and view transaction history.
+  - [Personal Information (PI) Removal](chapter_156596387080.md): Note: This topic applies to removing personal information to assist you in addressing your obligations related to privacy laws such as GDPR, CCPA and other similar regulations.
+  - [Auditing Data Changes using Searches](chapter_4774167775.md): To monitor changes made to NetSuite data, you can search system notes records.
+  - [Avoiding Duplicates](chapter_4470654298.md): The topics listed below can help you avoid unintended duplicate entries in NetSuite.
+  - [Activity Log Overview](article_9131939592.md): Important: To use the Activity Log feature, you must install the Compliance 360 SuiteApp.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch auditing-and-data-management

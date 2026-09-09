@@ -1,0 +1,22 @@
+# NetSuite Connector Setup
+
+NetSuite Connector Setup (21 pages): NetSuite Connector Setup
+
+## Chapters
+- [NetSuite Connector Setup](article_164681358277.md): This chapter gets you started with the setup of NetSuite Connector using the following sections: - NetSuite Connector Prerequisites(https://docs.
+  - [NetSuite Connector Prerequisites](section_163048972922.md): Before you begin to activate NetSuite Connector, you must first meet the following prerequisites.
+  - [NetSuite Connector IP Addresses to Safelist (Allowlist)](section_162859452018.md): Important: Oracle NetSuite does not support the use of NetSuite IP addresses to access or manage access to any NetSuite services.
+  - [Creating a NetSuite Connector Account](section_162753685891.md): To create a NetSuite Connector account, you need a valid license.
+  - [Setting Up Token-Based Authentication from NetSuite to NetSuite Connector](article_0724025719.md): Token-based authentication authenticates connections from NetSuite to NetSuite Connector.
+  - [Setting Up Token-Based Authentication from NetSuite Connector to NetSuite](section_162606561992.md): NetSuite Connector uses token-based authentication to connect to your NetSuite account.
+  - [Setting Up NetSuite Connector Order Sync](section_162755906735.md): Before using NetSuite Connector for order sync or fulfillment sync, complete these steps: 1.
+  - [Setting Up NetSuite Connector Product Sync](section_162756652235.md): Follow these procedures before using NetSuite Connector's product, price, or quantity sync features.
+  - [Setting Up NetSuite for NetSuite Connector Syncs](section_162787266185.md): Before proceeding to NetSuite Connector Activation, complete the tasks listed here.
+  - [Setting Up NetSuite Connector for Syncs](section_162945105482.md): After setting up NetSuite for integration projects or syncs, you must also set up NetSuite Connector.
+  - [Managing Connector and Account Settings in NetSuite Connector](section_164803133049.md): You can perform following operations on connectors and accounts: - Accessing Connector and Account Settings in NetSuite Connector(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-connector-setup

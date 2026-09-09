@@ -1,0 +1,13 @@
+# Accounting
+
+Accounting (2 pages): Videos
+
+## Chapters
+- [Videos](preface_1511796659.md): The help videos listed in the following sections demonstrate how to perform specific tasks in NetSuite.
+  - [Accounting](article_4104720185.md): Videos in this section are categorized into the following areas: - Banking(bridgehead0509012526) - Fixed Assets Management(bridgehead0509105005) - General Accounting(bridgehead0509105133) - Revenue and Expense Reconciliation(bridgehead0529010643) - Taxation(bridgehead0623092315) Banking Autocreating Transactions for Reconciliation(https://videohub.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch accounting

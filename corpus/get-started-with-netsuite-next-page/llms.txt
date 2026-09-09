@@ -1,0 +1,12 @@
+# Get Started with NetSuite Next Page
+
+Get Started with NetSuite Next Page (1 pages): Get Started with NetSuite Next Page
+
+## Chapters
+- [Get Started with NetSuite Next Page](article_6112744964.md): Note: This topic describes functionality available to users eligible for NetSuite Next.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch get-started-with-netsuite-next-page

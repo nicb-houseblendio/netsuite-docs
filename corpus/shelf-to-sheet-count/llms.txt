@@ -1,0 +1,21 @@
+# Shelf-to-Sheet Count
+
+Shelf-to-Sheet Count (15 pages): Shelf-to-Sheet Count
+
+## Chapters
+- [Shelf-to-Sheet Count](chapter_157493321086.md): Overview The Shelf-to-Sheet Count SuiteApp enables you to count and record the quantity of kit items, assembly items, or inventory items, at a specific location.
+  - [Prerequisites for Using the Shelf-to-Sheet Count SuiteApp](section_157493328762.md): To request access to this SuiteApp, contact your NetSuite Account Manager.
+  - [Granting Permissions to R & H Roles](section_157500732019.md): If you're using the Restaurants & Hospitality (R & H) edition or an R & H account, it's pre-configured with R & H Customization and include R & H roles.
+  - [Installing the Shelf-to-Sheet Count SuiteApp](section_157500847063.md): To install the Shelf-to-Sheet Count SuiteApp: 1.
+  - [Limitations of the Shelf-to-Sheet Count SuiteApp](section_157500869620.md): The following are the limitations of the Shelf-to-Sheet Count SuiteApp: - The Shelf-to-Sheet Template can support or contain up to 1000 items in total.
+  - [Setting Up the Shelf-to-Sheet Template](section_157500886946.md): The Shelf-to-Sheet Template enables you to create and organize virtual representations of your storage areas, shelves and items at a specific location.
+  - [Setting Up the Shelf-to-Sheet Count Record](section_157502179539.md): The Shelf-to-Sheet Count record sources or references the storage areas, shelves and items from its corresponding Shelf-to-Sheet Template and displays them on the Shelf-to-Sheet View subtab.
+  - [Starting and Completing Item Count](section_157502253168.md): You can start an item count on the Shelf-to-Sheet Count record, then enter each item's quantity on the Shelf-to-Sheet View subtab of the record.
+  - [Shelf-to-Sheet Count Errors](section_157502365292.md): The following table lists the errors that you may encounter in using and processing the Shelf-to-Sheet Template and Count record, and provides the actions you may take to resolve the issues.
+  - [Actual vs. Theoretical Variance Reports](section_159098386416.md): Overview In the restaurant business, maintaining control over food costs is a way of ensuring operational efficiency and profitability.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch shelf-to-sheet-count

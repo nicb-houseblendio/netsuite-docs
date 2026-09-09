@@ -1,0 +1,64 @@
+# NetSuite AI Connector Service
+
+60 pages, category: SuiteCloud Platform
+
+- [NetSuite AI Connector Service](article_7200233106.md) — article_7200233106
+  - [Get Started with the NetSuite AI Connector Service](article_3200541651.md) — article_3200541651
+    - [Required Features and Permissions](section_0714080625.md) — section_0714080625
+    - [Connect to the NetSuite AI Connector Service](section_0714082142.md) — section_0714082142
+    - [NetSuite AI Connector Service And Concurrency Governance](section_0827103226.md) — section_0827103226
+  - [Associated Risks, Controls, and Mitigation Strategies](article_9002708453.md) — article_9002708453
+  - [Creating Custom Tools for the NetSuite AI Connector Service](article_162020236.md) — article_162020236
+  - [MCP Standard Tools SuiteApp](article_143403258.md) — article_143403258
+    - [Installing the MCP Standard Tools SuiteApp](article_0902023450.md) — article_0902023450
+    - [Available Tools in the MCP Standard Tools SuiteApp](article_0902023508.md) — article_0902023508
+      - [Record Tools](article_0905122629.md) — article_0905122629
+        - [ns_createRecord](article_0905091322.md) — article_0905091322
+        - [ns_getRecord](article_0905091550.md) — article_0905091550
+        - [ns_getRecordTypeMetadata](article_0905091603.md) — article_0905091603
+        - [ns_updateRecord](article_0905091745.md) — article_0905091745
+      - [Report Tools](article_0905122640.md) — article_0905122640
+        - [ns_getAccountingBooks](article_32155211296.md) — article_32155211296
+        - [ns_getAccountingContexts](article_72155229519.md) — article_72155229519
+        - [ns_getNexusIds](article_9212629699.md) — article_9212629699
+        - [ns_getSubsidiaries](article_1124044101.md) — article_1124044101
+        - [ns_listAllReports](article_0905091622.md) — article_0905091622
+        - [ns_runReport](article_0905091732.md) — article_0905091732
+      - [Saved Search Tools](article_0905122646.md) — article_0905122646
+        - [ns_listSavedSearches](article_0905091635.md) — article_0905091635
+        - [ns_runSavedSearch](article_0905091703.md) — article_0905091703
+      - [SuiteQL Tools](article_0905122702.md) — article_0905122702
+        - [ns_runCustomSuiteQL](article_0905091645.md) — article_0905091645
+        - [ns_getSuiteQLMetadata](article_23123937539.md) — article_23123937539
+    - [Available MCP Apps in the MCP Standard Tools SuiteApp](article_0415010513.md) — article_0415010513
+      - [Prompt Library MCP App](article_0505095144.md) — article_0505095144
+      - [Record Selector MCP App](article_0415010614.md) — article_0415010614
+      - [Report Filters MCP App](article_0415010546.md) — article_0415010546
+    - [Best Practices for MCP Standard Tools SuiteApp](article_1017113407.md) — article_1017113407
+  - [NetSuite AI Connector Service Companion SuiteApp](article_9091153093.md) — article_9091153093
+    - [Installing the NetSuite AI Connector Service Companion SuiteApp](article_0204094545.md) — article_0204094545
+    - [Using the NetSuite AI Connector Service Companion SuiteApp](article_0309071202.md) — article_0309071202
+    - [Available Prompt Samples in the NetSuite AI Connector Service Companion SuiteApp](article_0204094725.md) — article_0204094725
+      - [Financial Prompts](article_0204100919.md) — article_0204100919
+      - [Visualization Prompts](article_0206093311.md) — article_0206093311
+      - [Order to Cash (Customer Management) Prompts](article_0206093345.md) — article_0206093345
+      - [Procure to Pay (Vendor Management) Prompts](article_0206093429.md) — article_0206093429
+      - [Item Configuration Prompts](article_0206093510.md) — article_0206093510
+      - [Record to Report Prompts](article_0206093553.md) — article_0206093553
+      - [System Administration Prompts](article_0206093633.md) — article_0206093633
+  - [MCP Sample Tools](article_8204806622.md) — article_8204806622
+    - [Available Tools in the MCP Sample Tools](section_8204806632.md) — section_8204806632
+      - [checkInventoryLevels](article_0822092849.md) — article_0822092849
+      - [createCustomer](article_0822094321.md) — article_0822094321
+      - [generateSalesReport](article_0822013310.md) — article_0822013310
+      - [getCustomerBalance](article_0822013501.md) — article_0822013501
+      - [getCustomerDetails](article_0822013443.md) — article_0822013443
+      - [getCustomerTransactions](article_0822013430.md) — article_0822013430
+      - [getFinancialPerformance](article_0822013420.md) — article_0822013420
+      - [getItemDetails](article_0822013412.md) — article_0822013412
+      - [getSalesOrder](article_0822013353.md) — article_0822013353
+      - [getSalesOrderWithFilters](article_0822013340.md) — article_0822013340
+      - [runCustomSuiteQL](article_0822013509.md) — article_0822013509
+      - [searchCustomer](article_0822013519.md) — article_0822013519
+      - [updateCustomer](article_0822013526.md) — article_0822013526
+  - [NetSuite AI Connector Service FAQ](article_4160616848.md) — article_4160616848

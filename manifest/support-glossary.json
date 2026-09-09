@@ -1,0 +1,24 @@
+{
+  "branch": "support-glossary",
+  "generatedAt": null,
+  "pages": {
+    "chapter_1551963638": {
+      "path": "corpus/support-glossary/chapter_1551963638.md",
+      "title": "Support Glossary",
+      "type": "chapter",
+      "breadcrumb": "Support Management > Support Glossary",
+      "parent": "book_N2420978",
+      "category": "support-management",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_1551963638.html",
+      "etag": "\"e02a794e74829edbc9e4761d3e2985b5:1786980390.020285\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:51:45.908Z",
+      "sha256": "0493088515718ffb0bd268c7cf526b4d1cd339a96f3ffba9612836e09d4bf3ba",
+      "bytes": 12552,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

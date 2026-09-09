@@ -1,0 +1,14 @@
+# Copy to Account
+
+Copy to Account (11 pages): Copy to Account
+
+## Chapters
+- [Copy to Account](chapter_1544019532.md): <a id="kalturaplayer313"</a Copy to Account is an administrator tool that copies a custom object between your accounts.
+  - [Setting Up Copy to Account](chapter_1543940761.md): To use Copy to Account, verify that the NetSuite accounts you want to copy to and from meet these requirements: | Requirement | Description | | --- | --- | | SDF enabled | Ensure that SDF is enabled in both NetSuite accounts.
+  - [Using Copy to Account](chapter_1544723386.md): To copy an object into another account, the Copy to Account tool goes through the following steps: 1.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch copy-to-account

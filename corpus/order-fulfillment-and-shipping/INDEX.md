@@ -1,0 +1,234 @@
+# Order Fulfillment and Shipping
+
+230 pages, category: Order Management
+
+- [Order Fulfillment and Shipping](book_4416316451.md) — book_4416316451
+  - [Order Fulfillment Automation](chapter_4440622374.md) — chapter_4440622374
+    - [Automation Overview](section_4685925848.md) — section_4685925848
+      - [Enabling Automation Features](section_4685934956.md) — section_4685934956
+      - [Automation Capacity and Usage Fees](section_156390342045.md) — section_156390342045
+        - [Viewing Automation Usage Data](section_1105050445.md) — section_1105050445
+    - [Automatic Location Assignment](section_4440622680.md) — section_4440622680
+      - [Setting Up Automatic Location Assignment](section_1530710530.md) — section_1530710530
+      - [Configuring Regions for Automatic Location Assignment](section_4440704638.md) — section_4440704638
+        - [Location Ranking in Regions](bridgehead_4478622410.md) — bridgehead_4478622410
+      - [Configuring Locations for Automatic Location Assignment](section_4440701430.md) — section_4440701430
+        - [Creating a Location for Automatic Location Assignment](section_1204114720.md) — section_1204114720
+      - [Customizing the Sales Order Form for Automatic Location Assignment](section_4440705025.md) — section_4440705025
+      - [Configuring Items for Automatic Location Assignment](section_4688492604.md) — section_4688492604
+      - [Creating Configurations and Rules](section_4482928271.md) — section_4482928271
+        - [Automatic Location Assignment Configurations](section_4485469450.md) — section_4485469450
+        - [Automatic Location Assignment Rules](section_4485469716.md) — section_4485469716
+          - [Limiting Rules to Specific Line Items](section_4800065950.md) — section_4800065950
+          - [Specifying Location Criteria in a Rule](section_4800061720.md) — section_4800061720
+          - [Choosing a Fulfillment Strategy](section_4821484799.md) — section_4821484799
+          - [Backorder Rules](section_4821595614.md) — section_4821595614
+      - [Managing Automation Settings for Automatic Location Assignment](section_4695375023.md) — section_4695375023
+      - [Stopping Automatic Location Assignment](section_4797294500.md) — section_4797294500
+      - [Troubleshooting Automatic Location Assignment](section_0811021433.md) — section_0811021433
+      - [Configuration Examples](section_4514032642.md) — section_4514032642
+        - [Warehouse Locations First, Stores Second](section_4546047370.md) — section_4546047370
+        - [Closest Fulfillment Locations](section_4550162798.md) — section_4550162798
+      - [Automatic Location Assignment Macro](section_156864454936.md) — section_156864454936
+    - [Fulfillment Request Creation](section_4642548703.md) — section_4642548703
+      - [Using Automation for Fulfillment Requests](bridgehead_157813026728.md) — bridgehead_157813026728
+      - [Delaying Fulfillment Request Creation with a Wait Period](bridgehead_157960950753.md) — bridgehead_157960950753
+      - [Viewing the Fulfillment Request Creation Log](bridgehead_157822627833.md) — bridgehead_157822627833
+    - [Running Automation](section_4482799780.md) — section_4482799780
+    - [Business Events](section_1498061964.md) — section_1498061964
+      - [Business Events Saved Searches](section_1515061644.md) — section_1515061644
+  - [Order Fulfillment](chapter_N1222915.md) — chapter_N1222915
+    - [Order Fulfillment Overview](section_4737787881.md) — section_4737787881
+    - [Fulfillment Workflow Charts](section_N1223239.md) — section_N1223239
+    - [Fulfillment Requests](section_4658324065.md) — section_4658324065
+      - [Setting Up Fulfillment Requests](section_1490179639.md) — section_1490179639
+      - [Defining Fulfillment Exception Reasons](section_1515001293.md) — section_1515001293
+      - [Fulfillment Request Statuses](section_1490179750.md) — section_1490179750
+      - [Creating Fulfillment Requests](section_4658324685.md) — section_4658324685
+      - [Acknowledging Fulfillment Requests](section_4658325658.md) — section_4658325658
+      - [Managing Exceptions on Fulfillment Requests](section_4817106573.md) — section_4817106573
+        - [Fulfillment Exceptions for Store Pickup Orders](section_1516881536.md) — section_1516881536
+          - [Entering Picking Fulfillment Exceptions](section_4817106857.md) — section_4817106857
+          - [Resolving Fulfillment Exceptions](section_4817107295.md) — section_4817107295
+          - [Confirming Fulfillment Exceptions](section_4817107511.md) — section_4817107511
+          - [Entering Pickup Fulfillment Exceptions](section_4817107795.md) — section_4817107795
+        - [Fulfillment Exceptions on Shipping Orders](section_1517421521.md) — section_1517421521
+          - [Rejecting and Canceling Fulfillment Requests](section_4658325816.md) — section_4658325816
+        - [Rejected Fulfillment Requests](section_1499176975.md) — section_1499176975
+    - [Fulfilling Orders](section_N1223349.md) — section_N1223349
+      - [Fulfilling Orders Individually](section_4576030995.md) — section_4576030995
+      - [Fulfilling Orders from Fulfillment Requests](section_4658965535.md) — section_4658965535
+      - [Bulk Fulfilling Orders](section_N1223692.md) — section_N1223692
+      - [Bulk Fulfilling Orders Using a CSV Import](section_N1226924.md) — section_N1226924
+      - [Checking the Processing Status of Bulk Fulfilled Orders](section_N1231493.md) — section_N1231493
+      - [Fulfilling Orders Across Multiple Accounting Periods](section_3997655525.md) — section_3997655525
+      - [Closing Line Items That Will Not Be Fulfilled](section_N1227091.md) — section_N1227091
+      - [Handling Order Fulfillment Issues](article_0527091947.md) — article_0527091947
+    - [Store Pickup](section_4817102617.md) — section_4817102617
+      - [Store Pickup Workflow](section_4817102915.md) — section_4817102915
+      - [Setting Up Store Pickup](section_4817104683.md) — section_4817104683
+        - [Enabling Store Pickup](section_4833712390.md) — section_4833712390
+        - [Configuring Locations for Store Pickup](section_4817104906.md) — section_4817104906
+        - [Configuring Items for Store Pickup](section_4817105218.md) — section_4817105218
+        - [Customizing the Sales Order Form for Store Pickup](section_4817105427.md) — section_4817105427
+        - [Store Pickup Email Notifications](section_4817105615.md) — section_4817105615
+      - [Fulfilling Store Pickup Orders](section_4817106057.md) — section_4817106057
+        - [Fulfilling Store Pickup Orders from Fulfillment Requests](section_4834620872.md) — section_4834620872
+        - [Fulfilling Store Pickup Orders from Sales Orders](section_1504540455.md) — section_1504540455
+        - [Canceling a Store Pickup Order](section_4817109209.md) — section_4817109209
+        - [Checking if the Store Pickup Email Notification Was Sent](section_4834612486.md) — section_4834612486
+    - [Advanced Shipping](section_N1224089.md) — section_N1224089
+      - [Fulfill a Single Order Using Advanced Shipping](section_N1224254.md) — section_N1224254
+      - [Fulfill Multiple Orders Using Advanced Shipping](section_N1225980.md) — section_N1225980
+      - [Fulfilling Orders Using Advanced Shipping with Advanced Billing](section_N1226246.md) — section_N1226246
+      - [Fulfilling Progress Sales Orders Using Advanced Shipping](section_N1226422.md) — section_N1226422
+      - [Automating the Ship Date](section_N1226820.md) — section_N1226820
+    - [Printing a Picking Ticket](section_N1227269.md) — section_N1227269
+      - [Sorting Items on Picking Tickets](section_N1227589.md) — section_N1227589
+      - [Kit Items on Picking Tickets](section_N1227764.md) — section_N1227764
+      - [Bin Numbers on Picking Tickets](section_N1229129.md) — section_N1229129
+    - [Packing Slips and Return Forms](section_N1229237.md) — section_N1229237
+      - [Printing Packing Slips and Return Forms](section_N1229362.md) — section_N1229362
+      - [Printing Packing Slips with Advanced Shipping](section_N1229588.md) — section_N1229588
+    - [Pick, Pack, and Ship](section_N1229691.md) — section_N1229691
+      - [Pick, Pack, and Ship Overview](section_N1229796.md) — section_N1229796
+      - [Pick, Pack, and Ship Workflow Charts](section_N1230081.md) — section_N1230081
+      - [Setting Up Pick, Pack, and Ship](section_N1230197.md) — section_N1230197
+      - [Commitment Settings for Reallocation of Picked or Packed Inventory](section_0525105436.md) — section_0525105436
+      - [Fulfilling Orders Using Pick, Pack, and Ship](section_N1230473.md) — section_N1230473
+      - [Marking an Order Packed](section_N1230849.md) — section_N1230849
+      - [Marking an Order Shipped](section_N1231176.md) — section_N1231176
+    - [Order Fulfillment Confirmation Email](section_N1231778.md) — section_N1231778
+      - [Sending Order Fulfillment Email](section_N1231841.md) — section_N1231841
+      - [Email Templates for OneWorld Accounts that Support Multiple Languages](bridgehead_N1232371.md) — bridgehead_N1232371
+  - [NetSuite Ship Central](article_90092747693.md) — article_90092747693
+    - [NetSuite Ship Central Setup](section_1111025719.md) — section_1111025719
+      - [Installing the SuiteApps for NetSuite Ship Central](section_1111031232.md) — section_1111031232
+      - [Enabling Features for NetSuite Ship Central](section_1111032244.md) — section_1111032244
+      - [NetSuite Ship Central Roles and Permissions](section_1111033438.md) — section_1111033438
+      - [Entering Company Information for Shipping](section_0524032659.md) — section_0524032659
+      - [Registering and Integrating Your Carrier Accounts](section_1111034346.md) — section_1111034346
+      - [Updating Shipping Settings](section_0808031602.md) — section_0808031602
+      - [Setting Up Direct Packing and Shipping on Fulfillments](section_0219030324.md) — section_0219030324
+      - [Ship Central Preferences](section_0808031849.md) — section_0808031849
+      - [Setting Ship Central Preferences](section_0219032354.md) — section_0219032354
+      - [Setting Up Records for NetSuite Ship Central](section_3093009106.md) — section_3093009106
+        - [Creating Locations for Ship Central](section_1111035559.md) — section_1111035559
+        - [Adding Location Addresses With Address Validation](section_0219015224.md) — section_0219015224
+        - [Creating Items for Ship Central](section_1111040001.md) — section_1111040001
+        - [Creating Packing Items for Cartons and Pallets](section_72093515569.md) — section_72093515569
+        - [Creating Shipping Items for your Shipping Services](section_1111040332.md) — section_1111040332
+        - [Assigning Carrier Accounts to Locations](section_0219021754.md) — section_0219021754
+        - [Defining a Shipping Cost Distribution](section_1111041307.md) — section_1111041307
+      - [Defining Autogenerated ID Formats](section_161704561857.md) — section_161704561857
+      - [Bar Code Scanning for Ship Central](section_0726023627.md) — section_0726023627
+        - [Bar Code Scanning Setup Procedures](subsect_0726023742.md) — subsect_0726023742
+      - [Mobile Printing and Weighing Scale Setup](section_0131112602.md) — section_0131112602
+      - [Configuring Ship Central Rules](section_1111041523.md) — section_1111041523
+    - [Ship Central Packing](section_1111042907.md) — section_1111042907
+      - [Packing Items into Cartons](section_1122013706.md) — section_1122013706
+      - [Packing Items that Ship Individually](section_27093732538.md) — section_27093732538
+      - [Packing All or Unpacking All Items in Cartons](section_0411092808.md) — section_0411092808
+      - [Printing Multiple Packing Labels and Documents](section_0304105236.md) — section_0304105236
+      - [Transferring Packed Cartons onto Pallets](section_26093746962.md) — section_26093746962
+    - [Ship Central Shipping](section_1111051105.md) — section_1111051105
+      - [Calculated Shipping Costs Within Ship Central](section_0809043322.md) — section_0809043322
+      - [Validating Shipping Addresses on Orders](section_0423105825.md) — section_0423105825
+      - [Rerating Orders](section_0304032152.md) — section_0304032152
+      - [Shipping Orders Through the App](section_1111051146.md) — section_1111051146
+      - [Shipping to Drop-off Points](article_0212042232.md) — article_0212042232
+      - [Generating Labels Through Bulk Shipping](section_0717014902.md) — section_0717014902
+      - [Direct Packing or Shipping on Fulfillments](section_0324093230.md) — section_0324093230
+      - [Generating and Printing Return Labels](section_0812082039.md) — section_0812082039
+      - [Generating Return Labels from an RMA](section_0717031709.md) — section_0717031709
+      - [Voiding Shipping and Return Labels](section_0921101257.md) — section_0921101257
+      - [Generating and Printing Shipping Manifests](section_0304032632.md) — section_0304032632
+      - [Scheduling Pickups with Carriers](section_0717022004.md) — section_0717022004
+      - [Viewing or Canceling Scheduled Pickups](section_0717022538.md) — section_0717022538
+    - [Viewing Packing and Shipment Details](section_1111053025.md) — section_1111053025
+    - [Tracking Delivery of Shipped Packages](section_0812085632.md) — section_0812085632
+    - [NetSuite Ship Central FAQs](section_0831022109.md) — section_0831022109
+      - [NetSuite ShipStation API Account Help Resources](subsect_31113623121.md) — subsect_31113623121
+    - [Handling Common Packing and Shipping Issues](section_1207104019.md) — section_1207104019
+  - [Shipping](chapter_N1257369.md) — chapter_N1257369
+    - [Setting Up Shipping](section_N1257579.md) — section_N1257579
+      - [Shipping Items](section_N1258840.md) — section_N1258840
+      - [Creating Shipping Items](section_N1259213.md) — section_N1259213
+      - [Charging for Shipping and Handling per Item](section_N1260542.md) — section_N1260542
+    - [Shipping Basics](section_N1262219.md) — section_N1262219
+      - [Free Shipping With an Item](section_N1262298.md) — section_N1262298
+      - [Tracking Numbers](section_N1262479.md) — section_N1262479
+      - [Accounting for Extra Packaging Weight](section_N1262574.md) — section_N1262574
+      - [Printing Shipping Labels](section_N1262680.md) — section_N1262680
+      - [Entering Shipping Information about a Sales Transaction](section_4593450742.md) — section_4593450742
+    - [Multiple Shipping Routes](section_N1263041.md) — section_N1263041
+      - [Setting a Default Shipping Method Per Item](section_N1263649.md) — section_N1263649
+      - [Item Fulfillments and Multiple Shipping Routes](section_N1263863.md) — section_N1263863
+    - [Shipping Integration with FedEx, UPS, and USPS/Endicia](section_N1263996.md) — section_N1263996
+      - [Tracking Numbers with Shipping Label Integration](section_N1265305.md) — section_N1265305
+      - [Shipping Integration with Pick, Pack, and Ship](section_N1265431.md) — section_N1265431
+      - [Shipping Integration with Multiple Locations](section_N1265568.md) — section_N1265568
+      - [Shipping Integration and Third Party Billing](section_N1265784.md) — section_N1265784
+      - [Integrating with Multiple Shipping Carriers](section_N1265937.md) — section_N1265937
+      - [Printing Integrated Shipping Labels With a Thermal Printer](section_N1266244.md) — section_N1266244
+    - [FedEx](section_N1267302.md) — section_N1267302
+      - [Getting Started with FedEx Integration](section_N1268430.md) — section_N1268430
+      - [Creating Shipping Items with FedEx Integration](section_N1268691.md) — section_N1268691
+      - [FedEx Real-Time Rates (U.S. and Canada)](section_N1268998.md) — section_N1268998
+      - [FedEx Ground Economy](section_N1269566.md) — section_N1269566
+      - [FedEx One Rate](section_4452532276.md) — section_4452532276
+      - [FedEx Customer Returns](section_N1269731.md) — section_N1269731
+      - [Shipping Dangerous Goods and Hazardous Materials](section_N1269990.md) — section_N1269990
+      - [Fulfilling Orders with FedEx Integration](section_N1271195.md) — section_N1271195
+      - [Applying Discounts to FedEx Rates](section_N1272384.md) — section_N1272384
+      - [Printing FedEx Shipping Labels and Forms](section_N1272548.md) — section_N1272548
+    - [UPS](section_N1274266.md) — section_N1274266
+      - [UPS OAuth 2.0 Authentication](section_0514094002.md) — section_0514094002
+      - [Registering a UPS Account (UK)](section_N1274638.md) — section_N1274638
+      - [UPS Integration](section_N1278000.md) — section_N1278000
+      - [Creating Shipping Items with UPS Integration](section_N1278291.md) — section_N1278291
+      - [Edit a UPS Shipping Item Name](section_4448295616.md) — section_4448295616
+      - [UPS Integration with Multiple Locations](section_N1278603.md) — section_N1278603
+      - [UPS Real-Time Rates](section_N1278765.md) — section_N1278765
+      - [Fulfilling Orders with UPS](section_N1279306.md) — section_N1279306
+      - [UPS Customer Returns](section_4344526513.md) — section_4344526513
+      - [Voiding a UPS Order](section_N1282009.md) — section_N1282009
+      - [Applying Discounts to UPS Shipping Rates](section_N1282176.md) — section_N1282176
+      - [Printing UPS Shipping Labels and Forms](section_N1282339.md) — section_N1282339
+    - [U.S. Postal Service/Endicia](section_N1283121.md) — section_N1283121
+      - [Create an Endicia (USPS) Account](section_N1283210.md) — section_N1283210
+      - [Register a USPS Account with NetSuite](section_N1283332.md) — section_N1283332
+      - [USPS Integration](section_N1283711.md) — section_N1283711
+      - [Creating Shipping Items with USPS Integration](section_N1283792.md) — section_N1283792
+      - [USPS Real-Time Rates](section_N1284088.md) — section_N1284088
+      - [Fulfilling Orders with USPS/Endicia Integration](section_N1284568.md) — section_N1284568
+      - [Applying Discounts to USPS Shipping Rates](section_N1284917.md) — section_N1284917
+      - [Printing USPS Shipping Labels and Forms](section_N1285080.md) — section_N1285080
+  - [Static Route Management](chapter_157209451439.md) — chapter_157209451439
+    - [Installing Static Route Management](section_157200085027.md) — section_157200085027
+    - [Creating and Customizing Roles to Use Static Route Management](section_157200114154.md) — section_157200114154
+    - [Creating a Truck Record](section_157200149083.md) — section_157200149083
+    - [Setting Up a Route](section_157200173609.md) — section_157200173609
+    - [Using Route Delivery in Transactions](section_157209426945.md) — section_157209426945
+    - [Managing Routes](section_157976307701.md) — section_157976307701
+  - [Shipping Integration](chapter_4599309756.md) — chapter_4599309756
+  - [Bill of Lading](article_158590680422.md) — article_158590680422
+    - [Prerequisites for Bill of Lading SuiteBundle](section_158590719797.md) — section_158590719797
+    - [Installing the Bill of Lading SuiteBundle](section_158590708268.md) — section_158590708268
+    - [Creating or Customizing Roles to Use in Bill of Lading](section_158590747588.md) — section_158590747588
+    - [Setting Bill of Lading Preferences](section_158626558182.md) — section_158626558182
+    - [Managing Bill of Lading Templates](section_163530513814.md) — section_163530513814
+      - [Creating a Custom Bill of Lading Template](section_158626549146.md) — section_158626549146
+      - [Adding a Custom Bill of Lading Template](section_158626557591.md) — section_158626557591
+      - [Removing a Custom Bill of Lading Template](section_161882994230.md) — section_161882994230
+    - [Entering Bill of Lading Information](section_163530545135.md) — section_163530545135
+      - [Adding NMFC Custom Values](section_162840408902.md) — section_162840408902
+      - [Custom Fields on Source Transactions](section_158625089004.md) — section_158625089004
+      - [Custom Fields on Item Fulfillment Transactions](section_158625066346.md) — section_158625066346
+    - [Printing Bill of Lading](section_158625120236.md) — section_158625120236
+      - [Printing from Print Bill of Lading Page](section_158625207774.md) — section_158625207774
+      - [Printing from Item Fulfillment Transactions](section_158625267241.md) — section_158625267241
+  - [Inbound Shipment Management](chapter_1490802012.md) — chapter_1490802012
+    - [Prerequisites and Setup](section_1490822316.md) — section_1490822316
+    - [Using Inbound Shipment Management](section_1490823161.md) — section_1490823161
+    - [Scripting, Customization, and Integration](section_1490822210.md) — section_1490822210

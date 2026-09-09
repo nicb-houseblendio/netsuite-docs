@@ -1,0 +1,12 @@
+# Key FSM Terms
+
+Key FSM Terms (1 pages): Key FSM Terms
+
+## Chapters
+- [Key FSM Terms](article_0302025945.md): These Field Service Management (FSM) terms cover the core records, roles, and tools used to schedule, dispatch, and complete field service work: - Asset - An item, location, or piece of equipment that requires service and is tracked in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch key-fsm-terms

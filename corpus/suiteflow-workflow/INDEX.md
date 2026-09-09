@@ -1,0 +1,252 @@
+# SuiteFlow (Workflow)
+
+248 pages, category: SuiteCloud Platform
+
+- [SuiteFlow (Workflow)](book_N2723865.md) — book_N2723865
+  - [SuiteFlow Overview](chapter_4068260113.md) — chapter_4068260113
+    - [Required Permissions for SuiteFlow](section_1489429737.md) — section_1489429737
+    - [Enabling SuiteFlow](section_1489429767.md) — section_1489429767
+    - [Workflow Manager Interface](section_4068295521.md) — section_4068295521
+      - [Workflow Definition Page](section_4071170616.md) — section_4071170616
+      - [Workflow Definition Page Fields Subtab](section_4498531520.md) — section_4498531520
+      - [Workflow Definition Page History Subtab](section_4498532139.md) — section_4498532139
+      - [Workflow Definition Scheduled Log Subtab](article_95110313249.md) — article_95110313249
+        - [Scheduled Workflow Status Notes](article_0217122413.md) — article_0217122413
+      - [Workflow Diagrammer](section_4071175874.md) — section_4071175874
+      - [Workflow Context Panel](section_4071176427.md) — section_4071176427
+    - [Workflow Elements](section_4071953058.md) — section_4071953058
+      - [Workflow Base Record](section_4071953533.md) — section_4071953533
+      - [Workflow States](section_4071953710.md) — section_4071953710
+      - [Workflow Triggers](section_4071954788.md) — section_4071954788
+        - [SuiteFlow Trigger Execution Model](section_4077993199.md) — section_4077993199
+      - [Workflow Actions](section_4071954161.md) — section_4071954161
+      - [Workflow Transitions](section_4071954244.md) — section_4071954244
+        - [Transition Properties](section_4079019023.md) — section_4079019023
+        - [Transition Triggers](section_4079591327.md) — section_4079591327
+        - [Transition Conditions](section_4079597309.md) — section_4079597309
+      - [Workflow Conditions](section_4071954369.md) — section_4071954369
+      - [Workflow Event Types](section_4071954657.md) — section_4071954657
+      - [Execution Contexts and Workflows](section_4080817850.md) — section_4080817850
+      - [Workflow Custom Fields](section_4071955161.md) — section_4071955161
+      - [Workflow Revisions](section_1497973389.md) — section_1497973389
+    - [Workflow Initiation](section_4080797941.md) — section_4080797941
+      - [Initiating a Workflow on an Event](section_N2730601.md) — section_N2730601
+      - [Initiating a Workflow on a Schedule](section_N2730900.md) — section_N2730900
+      - [Using SuiteScript to Initiate a Workflow](section_N2731126.md) — section_N2731126
+    - [Dynamic Mode for Workflows](section_4347425217.md) — section_4347425217
+    - [Workflow Audience](section_4073598374.md) — section_4073598374
+      - [Defining the Workflow Audience](section_4082045210.md) — section_4082045210
+  - [Creating Your First Workflow](chapter_N2725813.md) — chapter_N2725813
+    - [Step 1 Define Workflow Basic Information](section_N2726220.md) — section_N2726220
+    - [Step 2 Define Workflow Initiation](section_N2726358.md) — section_N2726358
+    - [Step 3 Define the Workflow Condition](section_N2726518.md) — section_N2726518
+    - [Step 4 Create Workflow States](section_N2726745.md) — section_N2726745
+    - [Step 5 Create Actions](section_N2726890.md) — section_N2726890
+    - [Step 6 Create a Transition](section_N2727164.md) — section_N2727164
+    - [Step 7 Initiate and Validate the Workflow](section_N2727383.md) — section_N2727383
+  - [Working with Workflows](chapter_4101515562.md) — chapter_4101515562
+    - [Creating a Workflow](section_4101527388.md) — section_4101527388
+      - [Execute as Admin for Workflow Instances](section_N2780140.md) — section_N2780140
+      - [Release Status for Workflow Instances](section_N2779229.md) — section_N2779229
+    - [Creating a Workflow from a Workflow Template](section_4262789514.md) — section_4262789514
+    - [Scheduling a Workflow](section_4108268619.md) — section_4108268619
+    - [Viewing Existing Workflows](section_4101532858.md) — section_4101532858
+    - [Editing a Workflow](section_4101529978.md) — section_4101529978
+      - [Editing a Workflow Script ID](section_4103046582.md) — section_4103046582
+      - [Inactivating a Workflow](section_4103046356.md) — section_4103046356
+      - [Copying a Workflow](section_4103046853.md) — section_4103046853
+    - [Working with States](section_4103045609.md) — section_4103045609
+      - [Creating a State](section_4103047700.md) — section_4103047700
+      - [Editing a State](section_4103048029.md) — section_4103048029
+        - [Editing a Workflow State Script ID](bridgehead_4126238312.md) — bridgehead_4126238312
+      - [Deleting a State](section_4103048186.md) — section_4103048186
+    - [Working with Actions](section_4103048460.md) — section_4103048460
+      - [Creating an Action](section_4103049209.md) — section_4103049209
+      - [Editing an Action](section_4103051878.md) — section_4103051878
+      - [Deleting an Action](section_4103052253.md) — section_4103052253
+      - [Ordering Actions](section_4344885256.md) — section_4344885256
+      - [Reordering Actions](section_4103058104.md) — section_4103058104
+      - [Moving an Action](section_4103058568.md) — section_4103058568
+      - [Copying an Action](section_4126340342.md) — section_4126340342
+      - [Using Action Groups](section_4103059250.md) — section_4103059250
+      - [Using Sublist Action Groups](section_1513354324.md) — section_1513354324
+        - [Creating a Sublist Action Group](subsect_1007022314.md) — subsect_1007022314
+        - [Adding Actions to Sublist Action Groups](subsect_1007022447.md) — subsect_1007022447
+          - [Configuring Actions for Sublist Action Groups](bridgehead_1515013170.md) — bridgehead_1515013170
+        - [Executing Sublist Action Groups on the Before Load Trigger](bridgehead_1515015435.md) — bridgehead_1515015435
+      - [Scheduling an Action](section_4103059488.md) — section_4103059488
+    - [Working with Transitions](section_4103063317.md) — section_4103063317
+      - [Creating a Transition](section_4103065793.md) — section_4103065793
+      - [Editing a Transition](section_4103066155.md) — section_4103066155
+      - [Deleting a Transition](section_4103066362.md) — section_4103066362
+      - [Reordering Transitions](section_4128016248.md) — section_4128016248
+      - [Scheduling a Transition](section_4103067244.md) — section_4103067244
+    - [Working with Conditions](section_4103074843.md) — section_4103074843
+      - [Defining a Condition with the Condition Builder](section_4103075208.md) — section_4103075208
+      - [Defining a Condition with Formulas](section_4103077064.md) — section_4103077064
+    - [Working with Custom Fields](section_4103077743.md) — section_4103077743
+      - [Creating and Using Workflow Fields](section_4103078253.md) — section_4103078253
+      - [Creating and Using State Fields](section_4108151274.md) — section_4108151274
+  - [Workflow Administration](chapter_4103088279.md) — chapter_4103088279
+    - [Workflow Instance and History Record Management](section_1562606255.md) — section_1562606255
+      - [Disabling History for a Workflow](section_1515097346.md) — section_1515097346
+      - [Deleting Workflow Instances and History Records](section_4671506167.md) — section_4671506167
+    - [Workflow Searches](section_4103089023.md) — section_4103089023
+      - [Workflow Definition Search](section_N2790157.md) — section_N2790157
+        - [Performing a Basic Workflow Definition Search](bridgehead_4134099456.md) — bridgehead_4134099456
+        - [Performing an Advanced Workflow Definition Search](bridgehead_4134099924.md) — bridgehead_4134099924
+      - [Workflow Instance Search](section_N2790287.md) — section_N2790287
+        - [Performing a Basic Workflow Instance Search](bridgehead_4135656335.md) — bridgehead_4135656335
+        - [Performing an Advanced Workflow Instance Search](bridgehead_4135656592.md) — bridgehead_4135656592
+      - [Adding Workflow Search Results to the Dashboard](section_N2790587.md) — section_N2790587
+    - [Canceling a Single Workflow Instance](section_N2791255.md) — section_N2791255
+    - [Workflow Mass Updates](section_N2796043.md) — section_N2796043
+      - [Mass Initiating Workflow Instances](section_N2796163.md) — section_N2796163
+      - [Mass Processing Records in a Workflow](section_N2796312.md) — section_N2796312
+      - [Mass Canceling Workflow Instances](section_4103260636.md) — section_4103260636
+      - [Mass Transitioning Workflow Instances](section_1536603582.md) — section_1536603582
+    - [Bundling a Workflow](section_4103266281.md) — section_4103266281
+    - [Editing a Locked Workflow](section_4846726513.md) — section_4846726513
+  - [SuiteFlow Reference and Examples](chapter_4103690129.md) — chapter_4103690129
+    - [Workflow Actions Overview](section_4103695593.md) — section_4103695593
+      - [Add Button Action](section_N2740335.md) — section_N2740335
+      - [Confirm Action](section_N2744159.md) — section_N2744159
+      - [Create Line Action](section_1548788365.md) — section_1548788365
+      - [Create Record Action](section_N2741165.md) — section_N2741165
+      - [Custom Action](section_N2752089.md) — section_N2752089
+      - [Go To Page Action](section_N2742608.md) — section_N2742608
+      - [Go To Record Action](section_N2742767.md) — section_N2742767
+      - [Initiate Workflow Action](section_N2743465.md) — section_N2743465
+      - [Lock Record Action](section_N2743672.md) — section_N2743672
+      - [Remove Button Action](section_N2740901.md) — section_N2740901
+      - [Return User Error Action](section_N2745741.md) — section_N2745741
+      - [Send Campaign Email Action](section_N2746219.md) — section_N2746219
+      - [Send Email Action](section_N2746447.md) — section_N2746447
+        - [Using Internal IDs in an Email](section_4148825528.md) — section_4148825528
+        - [Attaching Files to an Email](section_4148832559.md) — section_4148832559
+        - [Attaching Statements to an Email](section_4148832855.md) — section_4148832855
+        - [Attaching Transactions to an Email](section_4148833302.md) — section_4148833302
+      - [Set Field Display Label Action](section_N2750428.md) — section_N2750428
+      - [Set Field Display Type Action](section_N2750629.md) — section_N2750629
+      - [Set Field Required Action](section_N2750923.md) — section_N2750923
+      - [Set Field Value Action](section_N2751166.md) — section_N2751166
+      - [Show Message Action](section_N2743889.md) — section_N2743889
+      - [Subscribe To Record Action](section_N2751816.md) — section_N2751816
+      - [Transform Record Action](section_N2743016.md) — section_N2743016
+    - [Triggers Reference](section_4103731715.md) — section_4103731715
+      - [Workflow Triggers Quick Reference](section_4150693781.md) — section_4150693781
+      - [Server Triggers Reference](section_4103734459.md) — section_4103734459
+        - [All Trigger](section_4103737707.md) — section_4103737707
+        - [Entry Trigger](section_4103738042.md) — section_4103738042
+        - [Before Record Load Trigger](section_4103738307.md) — section_4103738307
+        - [Before Record Submit Trigger](section_4103738686.md) — section_4103738686
+        - [After Record Submit Trigger](section_4103739018.md) — section_4103739018
+        - [Exit Trigger](section_4103739227.md) — section_4103739227
+        - [Scheduled Trigger](section_4103739399.md) — section_4103739399
+      - [Client Triggers Reference](section_4103739850.md) — section_4103739850
+        - [Before User Edit Trigger](section_4103740292.md) — section_4103740292
+        - [Before Field Edit Trigger](section_4103740384.md) — section_4103740384
+        - [After Field Edit Trigger](section_4103740438.md) — section_4103740438
+        - [After Field Sourcing Trigger](section_4103740504.md) — section_4103740504
+        - [Before User Submit Trigger](section_4103742240.md) — section_4103742240
+    - [States Reference](section_4103784416.md) — section_4103784416
+      - [Exit States](section_N2734255.md) — section_N2734255
+      - [Non-Exiting Workflow States](section_N2734116.md) — section_N2734116
+    - [Event Types Reference](section_4103763960.md) — section_4103763960
+    - [Workflow Templates Reference](section_4190307127.md) — section_4190307127
+      - [Journal Entry Basic Approval Template](section_4262810512.md) — section_4262810512
+      - [Purchase Order Basic Approval Template](section_4262814339.md) — section_4262814339
+      - [Sales Order Basic Approval Template](section_4262814660.md) — section_4262814660
+      - [Lead Nurturing Template](section_4490910080.md) — section_4490910080
+    - [Action Examples](section_4103779466.md) — section_4103779466
+      - [Using Buttons to Run Transitions](section_4103786185.md) — section_4103786185
+      - [Using Buttons for Navigation](section_4103786876.md) — section_4103786876
+      - [Executing an Action with a Saved Search Condition](section_4103786947.md) — section_4103786947
+      - [Using Conditional Fields with Actions](section_4103786961.md) — section_4103786961
+      - [Setting Field Values in Action Definitions](section_4103787257.md) — section_4103787257
+      - [Creating and Subscribing to a Record](section_4144476357.md) — section_4144476357
+        - [Step 1 Create the Workflow Field](section_4154239884.md) — section_4154239884
+        - [Step 2 Create the Create Record Action](section_4154247197.md) — section_4154247197
+        - [Step 3 Create the Subscribe To Record Action](section_4154247498.md) — section_4154247498
+        - [Step 4 Create the Conditional Transition](section_4154247805.md) — section_4154247805
+    - [Transitions Examples](section_4103791650.md) — section_4103791650
+      - [Blank Transition Trigger](section_4103793996.md) — section_4103793996
+      - [Executing a Transition with a Saved Search Condition](section_4103798952.md) — section_4103798952
+      - [Specifying States for Child Workflow Transitions](section_4103799214.md) — section_4103799214
+    - [Condition Examples](section_4103799555.md) — section_4103799555
+      - [Referencing Old Record Values in a Workflow](section_4103799808.md) — section_4103799808
+      - [Defining Conditions for Customer Credit Hold Field](section_4103800262.md) — section_4103800262
+    - [Context Type Examples](section_4103800069.md) — section_4103800069
+    - [Examples of Event Types](section_4103803818.md) — section_4103803818
+    - [Workflow Search Examples](section_4103804764.md) — section_4103804764
+      - [Using the Button Filter in a Workflow Instance Search](section_4103808038.md) — section_4103808038
+  - [Testing and Troubleshooting Workflows](chapter_N2786070.md) — chapter_N2786070
+    - [Viewing Workflow Activity](section_N2788150.md) — section_N2788150
+      - [Active Workflows Subtab](section_4471797284.md) — section_4471797284
+      - [Workflow History Subtab](section_4471798307.md) — section_4471798307
+        - [Deleted and Renamed States](section_4472476277.md) — section_4472476277
+      - [Workflow Execution Log](section_4472471134.md) — section_4472471134
+        - [Server Triggers](section_4471794948.md) — section_4471794948
+        - [Event Types and Contexts](section_4471795340.md) — section_4471795340
+        - [Action and Transitions Status](section_4471795732.md) — section_4471795732
+        - [Evaluation of Conditions](section_4471796153.md) — section_4471796153
+        - [Rejected Actions and Transitions](section_4471796522.md) — section_4471796522
+        - [Asynchronous Execution for Workflows](section_3933698295.md) — section_3933698295
+      - [Error Handling for Asynchronous Workflow Tasks](section_4470946143.md) — section_4470946143
+      - [Error Handling for Scheduled Workflows](section_3862207934.md) — section_3862207934
+    - [Testing a Workflow](section_N2786153.md) — section_N2786153
+      - [Setting Up a Workflow for Testing](section_4471802671.md) — section_4471802671
+      - [Testing Workflow Conditions](section_N2786511.md) — section_N2786511
+      - [Testing Actions and Transitions](section_N2786649.md) — section_N2786649
+      - [Testing Buttons](section_4471796885.md) — section_4471796885
+      - [Testing a Send Email Action](section_4472473260.md) — section_4472473260
+      - [Testing Scheduled Workflows](section_3873172773.md) — section_3873172773
+      - [Testing Scheduled Actions and Transitions](section_4472474105.md) — section_4472474105
+      - [Testing for User Accessibility](section_N2787197.md) — section_N2787197
+    - [Troubleshooting a Workflow](section_N2787352.md) — section_N2787352
+      - [General Workflow Issues](section_4471798938.md) — section_4471798938
+      - [Action Issues](section_4472477974.md) — section_4472477974
+      - [User Accessibility Issues](section_4471799534.md) — section_4471799534
+      - [Button Issues](section_4471800092.md) — section_4471800092
+      - [Troubleshooting Workflows Examples](section_4471803868.md) — section_4471803868
+        - [Workflow Actions Did Not Execute Example](section_4471797820.md) — section_4471797820
+        - [Workflow Fails Randomly](section_160017563622.md) — section_160017563622
+        - [Approval Workflow Example](section_4471800640.md) — section_4471800640
+    - [SuiteFlow Best Practices](section_1540490044.md) — section_1540490044
+      - [Ordering Workflows](section_1543854650.md) — section_1543854650
+    - [FAQ: SuiteFlow](section_1554318378.md) — section_1554318378
+  - [Workflow Samples](chapter_N2796642.md) — chapter_N2796642
+    - [Lead Nurturing Workflow](section_N2797000.md) — section_N2797000
+      - [Designing the Lead Nurturing Workflow](section_N2798638.md) — section_N2798638
+      - [Before You Build the Lead Nurturing Workflow](section_N2797138.md) — section_N2797138
+      - [Building the Lead Nurturing Workflow](section_N2799033.md) — section_N2799033
+        - [Creating States for the Lead Nurturing Workflow](section_N2799369.md) — section_N2799369
+        - [Creating Transitions for the Lead Nurturing Workflow](section_4157473879.md) — section_4157473879
+        - [State 1 Webinar Invitation](section_N2799553.md) — section_N2799553
+        - [State 1a Wait for 1 day](section_4303454508.md) — section_4303454508
+        - [State 2 Email Case Study](section_N2800127.md) — section_N2800127
+        - [State 2a Wait for 3 days](section_4303985000.md) — section_4303985000
+        - [State 3 Customer Testimonial](section_N2800762.md) — section_N2800762
+        - [State 4 Industry Comparison](section_N2800846.md) — section_N2800846
+        - [State 5 Free Trial Offer](section_N2800930.md) — section_N2800930
+      - [Testing the Lead Nurturing Workflow](section_N2801095.md) — section_N2801095
+    - [Lead that Did Not Convert to Customer Within Three Days](section_N2801202.md) — section_N2801202
+      - [Step 1 Create the Custom Entity Field for the Lead Record](bridgehead_4157625832.md) — bridgehead_4157625832
+      - [Step 2 Create the Saved Search](bridgehead_4157634261.md) — bridgehead_4157634261
+      - [Step 3 Create the Workflow and Set the Schedule](bridgehead_4157643624.md) — bridgehead_4157643624
+    - [Estimate Approval Routing Workflow](section_N2801522.md) — section_N2801522
+      - [Designing the Estimate Approval Routing Workflow](section_N2801832.md) — section_N2801832
+      - [Before You Build the Estimate Approval Routing Workflow](section_N2801644.md) — section_N2801644
+      - [Building the Estimate Approval Routing Workflow](section_N2802225.md) — section_N2802225
+        - [Creating States for the Estimate Approval Routing Workflow](section_N2802386.md) — section_N2802386
+        - [Creating Transitions for the Estimate Approval Routing Workflow](section_4157713078.md) — section_4157713078
+        - [State 1 Entry](section_164260556832.md) — section_164260556832
+        - [State 2 Pending Approval](section_N2804001.md) — section_N2804001
+        - [State 3 Approved](section_N2804462.md) — section_N2804462
+        - [State 4 Rejected](section_N2804775.md) — section_N2804775
+      - [Testing the Estimate Approval Routing Workflow](section_N2805158.md) — section_N2805158
+    - [Welcome Email Sent to Customers Three Days After First Order Workflow](section_N2806856.md) — section_N2806856
+      - [Step 1 Create the Custom Field for the Customer Record](section_4471788460.md) — section_4471788460
+      - [Step 2 Create the Saved Search](section_4471788894.md) — section_4471788894
+      - [Step 3 Create the Workflow and Set the Schedule](section_4471789290.md) — section_4471789290
+    - [Storing a Return Value from a Custom Action Script in a Workflow Field](section_N2807069.md) — section_N2807069

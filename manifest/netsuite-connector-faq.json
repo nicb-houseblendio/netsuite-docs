@@ -1,0 +1,42 @@
+{
+  "branch": "netsuite-connector-faq",
+  "generatedAt": null,
+  "pages": {
+    "article_162937385531": {
+      "path": "corpus/netsuite-connector-faq/article_162937385531.md",
+      "title": "NetSuite Connector FAQ",
+      "type": "article",
+      "breadcrumb": "NetSuite Connector > NetSuite Connector FAQ",
+      "parent": "book_163214400180",
+      "category": "netsuite-connector",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_162937385531.html",
+      "etag": "\"98e9439e5617680a08673b2b56dd83f6:1786980313.563729\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:04:37.363Z",
+      "sha256": "b3d7f82103b2916e9d8263392d39cc5747cf344b401d830e94f24243e9198901",
+      "bytes": 1557,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_164025511298": {
+      "path": "corpus/netsuite-connector-faq/section_164025511298.md",
+      "title": "General NetSuite Connector FAQ",
+      "type": "section",
+      "breadcrumb": "NetSuite Connector > NetSuite Connector FAQ > General NetSuite Connector FAQ",
+      "parent": "article_162937385531",
+      "category": "netsuite-connector",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_164025511298.html",
+      "etag": "\"34b86ee78a24c3bd00607fd5449ef0e5:1786980601.741426\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:04:37.624Z",
+      "sha256": "c0fc405c22fd503d8ef7f7e925e555f9640e46526dff6b7df4987d9414ab6eac",
+      "bytes": 12449,
+      "anchors": 1,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# Licensing Information User Manuals
+
+Licensing Information User Manuals (2 pages): Licensing Information User Manuals
+
+## Chapters
+- [Licensing Information User Manuals](book_162866904907.md): - Licensing Information User Manuals(https://docs.
+  - [Licensing Information User Manuals](article_162866918316.md): This page includes links to the PDF versions of Oracle NetSuite's Licensing Information User Manuals (LIUM).
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch licensing-information-user-manuals

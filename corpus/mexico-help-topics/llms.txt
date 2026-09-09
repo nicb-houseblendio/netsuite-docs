@@ -1,0 +1,16 @@
+# Mexico Help Topics
+
+Mexico Help Topics (104 pages): Mexico Help Topics
+
+## Chapters
+- [Mexico Help Topics](section_4452522556.md): Note: To access the Mexico Help Topics in Spanish, select Español (Latinoamérica) from the dropdown list at the top right corner of the NetSuite Help Center.
+  - [Mexico Terminology](section_1538999964.md): The following table defines the terms used in NetSuite to support Mexico-specific business processes: | Accrual basis | Method of accounting that recognizes revenues and expenses when they are earned or incurred, respectively (regardless of when the money is received or paid).
+  - [Setting Up Mexico-specific Preferences](section_1534496584.md): In NetSuite, set up your company and personal user preferences that are specific to doing business in Mexico.
+  - [Mexico Tax Topics](section_1546442148.md): The Mexico Localization SuiteApp provides custom fields, records, validations, and other customizations for Mexican businesses to comply with tax in Mexico.
+  - [Mexico-specific SuiteApps](article_159706387553.md): The following Mexico-specific SuiteApps are currently available: - Mexico Localization(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch mexico-help-topics

@@ -1,0 +1,24 @@
+{
+  "branch": "netsuite-for-outlook",
+  "generatedAt": null,
+  "pages": {
+    "preface_1552649469": {
+      "path": "corpus/netsuite-for-outlook/preface_1552649469.md",
+      "title": "NetSuite for Outlook",
+      "type": "preface",
+      "breadcrumb": "NetSuite for Outlook",
+      "parent": null,
+      "category": "netsuite-for-outlook",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/preface_1552649469.html",
+      "etag": "\"81f0a6317cd0b5c4a495e7bfb07d475d:1786980405.908312\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:43:18.143Z",
+      "sha256": "4c76452fab0c34290ab7b0725cf09d281165b3f157386ef04f49f2297fb2b322",
+      "bytes": 1750,
+      "anchors": 1,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

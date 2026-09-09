@@ -1,0 +1,13 @@
+# Working with Email
+
+Working with Email (9 pages): Working with Email
+
+## Chapters
+- [Working with Email](chapter_N512006.md): You can send information using your NetSuite account and can track all communication between you and those you do business with.
+  - [Sending Email from NetSuite](section_N512264.md): You can send email to the people you do business with directly from NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch working-with-email

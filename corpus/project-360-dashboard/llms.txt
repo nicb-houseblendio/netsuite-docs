@@ -1,0 +1,18 @@
+# Project 360 Dashboard
+
+Project 360 Dashboard (49 pages): Project 360 Dashboard
+
+## Chapters
+- [Project 360 Dashboard](article_164121701696.md): The Project 360 Dashboard SuiteApp provides project managers with consolidated metrics, reports, and resources in one place so they can keep projects on track and within the budget.
+  - [Setting Up Project 360 Dashboard SuiteApp](section_164397374490.md): You need to complete these steps before you can start managing projects: | Step | Related Help Topic | | --- | --- | | 1\.
+  - [Accessing Project 360 Dashboard](section_0517061639.md): There are three different ways to access the Project 360 Dashboard.
+  - [Access Levels for Project 360 Dashboard](section_0427123552.md): Access levels determine which information about the Project 360 Dashboard are shown depending on your role.
+  - [Project 360 Dashboard Pages and Portlets](section_164122031425.md): The Project 360 Dashboard SuiteApp lets project managers manage multiple projects in one place with readily accessible metrics, reports, and statuses.
+  - [Error Messages in Project 360 Dashboard SuiteApp](section_164122057793.md): The error messages in the SuiteApp are caused by missing permissions for the role, or features that you must enable to view or access the data.
+  - [Project 360 Dashboard Limitations and Best Practices](section_164252378090.md): Read this section to view the best practices and known limitations when you use the Project 360 Dashboard.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch project-360-dashboard

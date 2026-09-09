@@ -1,0 +1,15 @@
+# Merchandising
+
+Merchandising (132 pages): Merchandising
+
+## Chapters
+- [Merchandising](preface_1539599504.md): As a Merchandiser, you're responsible for forecasting and planning ahead for your department.
+  - [Merchandise Hierarchy](chapter_1499435959.md): Merchandise Hierarchy lets you efficiently categorize and manage products or items across your enterprise.
+  - [Promotions](chapter_4690873883.md): Promotions let you create special offers that motivate your customers to buy more products.
+  - [Searchandising](chapter_1547549407.md): Searchandising adds extra features to your search tools, making product searches better and more profitable.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch merchandising

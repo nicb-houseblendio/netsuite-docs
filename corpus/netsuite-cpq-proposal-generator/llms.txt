@@ -1,0 +1,15 @@
+# NetSuite CPQ Proposal Generator
+
+NetSuite CPQ Proposal Generator (8 pages): NetSuite CPQ Proposal Generator
+
+## Chapters
+- [NetSuite CPQ Proposal Generator](article_5132447427.md): Note: NetSuite CPQ Proposal Generator requires NetSuite CPQ Configurator to create documents from transactions.
+  - [NetSuite CPQ Proposal Generator Setup](article_1133208531.md): Before creating documents, define settings on the options record at CPQ Proposal Generator Settings.
+  - [Creating Document Templates](article_1134727908.md): With NetSuite CPQ Proposal Generator, you can create templates to outline the document structure and store the content of your documents.
+  - [Creating Documents from Transactions](article_93712689.md): Users can create documents from saved transactions.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-cpq-proposal-generator

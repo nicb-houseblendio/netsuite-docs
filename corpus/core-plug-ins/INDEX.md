@@ -1,0 +1,252 @@
+# Core Plug-ins
+
+248 pages, category: SuiteCloud Platform
+
+- [Core Plug-ins](book_4616046155.md) — book_4616046155
+  - [Core Plug-in Overview](chapter_4567788235.md) — chapter_4567788235
+  - [Core Plug-in Creation](chapter_3976787574.md) — chapter_3976787574
+    - [Available Core Plug-ins](bridgehead_3994865673.md) — bridgehead_3994865673
+    - [Creating a New Plug-in Implementation](bridgehead_4232566030.md) — bridgehead_4232566030
+    - [Debugging a Core Plug-in Implementation](bridgehead_4232567086.md) — bridgehead_4232567086
+  - [Custom GL Lines Plug-in](book_4019053558.md) — book_4019053558
+    - [Custom GL Lines Plug-in Overview](chapter_3987870163.md) — chapter_3987870163
+      - [Custom GL Lines Plug-in Process Flow](section_4211909641.md) — section_4211909641
+      - [Transaction Types Supported By Custom GL Lines Plug-in](section_4097647398.md) — section_4097647398
+      - [Custom GL Lines Plug-in Implementation Development](section_3989534344.md) — section_3989534344
+        - [Gather Required Internal IDs](section_4088410287.md) — section_4088410287
+        - [Plug-in Implementation Script File Creation for SuiteScript 1.0](section_3996448472.md) — section_3996448472
+        - [Plug-in Implementation Script File Creation for SuiteScript 2.0](article_1122556834.md) — article_1122556834
+        - [Adding the Plug-in Implementation](section_3996453801.md) — section_3996453801
+        - [Test the Plug-in Implementation](section_3996454261.md) — section_3996454261
+        - [Bundle the Plug-in Implementation](section_3996454526.md) — section_3996454526
+      - [Custom GL Lines Plug-in Implementation Administration](section_3996515608.md) — section_3996515608
+        - [Enabling Features for a Custom GL Lines Plug-in Implementation](section_4224216932.md) — section_4224216932
+        - [Installing a Custom GL Lines Plug-in Bundle](section_3910326198.md) — section_3910326198
+        - [Configuring the Custom GL Lines Plug-in Implementation](section_3996554772.md) — section_3996554772
+        - [Enabling the Custom GL Lines Plug-in Implementation](section_3910326606.md) — section_3910326606
+        - [Custom GL Lines Plug-in Implementation System Notes](section_1515607550.md) — section_1515607550
+    - [Custom GL Lines Plug-In Interface Definition](chapter_4072802996.md) — chapter_4072802996
+      - [customizeGlImpact(transactionRecord, standardLines, customLines, book)](section_4072803104.md) — section_4072803104
+        - [StandardLines](section_4072803330.md) — section_4072803330
+          - [StandardLine](section_4072807749.md) — section_4072807749
+        - [CustomLines](section_4072804185.md) — section_4072804185
+          - [CustomLine](section_4072818715.md) — section_4072818715
+        - [AccountingBook](section_4072804487.md) — section_4072804487
+        - [Record](section_4088441380.md) — section_4088441380
+      - [Common StandardLine and CustomLine Object Methods](section_4072822491.md) — section_4072822491
+      - [customizeGlImpact(context)](article_8102434206.md) — article_8102434206
+        - [AccountingBook](section_74095018462.md) — section_74095018462
+        - [CustomLines](section_7095141731.md) — section_7095141731
+          - [CustomLine](section_97094831021.md) — section_97094831021
+        - [ReadOnlyTransactionRecord](section_42095041987.md) — section_42095041987
+          - [ReadOnlySubrecord](subsect_0813100414.md) — subsect_0813100414
+        - [StandardLines](section_48095106414.md) — section_48095106414
+          - [StandardLine](section_95095135857.md) — section_95095135857
+    - [Custom GL Lines Plug-in Reference](chapter_4221666092.md) — chapter_4221666092
+      - [Custom GL Lines Plug-in Example Code](section_4223245421.md) — section_4223245421
+        - [Utility Files for a Custom GL Lines Plug-In Implementation](section_4224037854.md) — section_4224037854
+        - [Using a Custom Record to Reference Internal NetSuite IDs Example](section_4224038929.md) — section_4224038929
+      - [Classifications](section_4222072444.md) — section_4222072444
+        - [Classification Handling on Standard Transactions](section_4222511570.md) — section_4222511570
+        - [Classification Handling on Journals](section_4222511868.md) — section_4222511868
+        - [Classification Handling on Custom Transactions](section_4222201984.md) — section_4222201984
+      - [Multiple Currencies Examples](section_4223244273.md) — section_4223244273
+        - [Find the Base Currency](section_4224130470.md) — section_4224130470
+        - [Base Currency from Accounting Book Record](section_4224130728.md) — section_4224130728
+        - [Transaction-Specific Exchange Rates](section_4224130874.md) — section_4224130874
+        - [Convert Currencies with SuiteScript](section_4224131118.md) — section_4224131118
+      - [Custom GL Lines Plug-in Guidelines and Best Practices](section_4229148151.md) — section_4229148151
+      - [Error Messages for Custom GL Lines Plug-in](section_4226525629.md) — section_4226525629
+        - [Invalid Operation Error Messages](section_163611492248.md) — section_163611492248
+        - [General Output Validation Error Messages](section_163611483016.md) — section_163611483016
+        - [Validation Error Messages for Invalid Values](section_163611511278.md) — section_163611511278
+        - [Validation Error Messages for Empty Values](section_163611878991.md) — section_163611878991
+      - [Custom Lines on Reports and in Searches](section_4298138426.md) — section_4298138426
+        - [Custom GL Lines on NetSuite Reports](section_4387500938.md) — section_4387500938
+        - [Searches for Custom GL Lines](section_4387502858.md) — section_4387502858
+      - [Custom GL Lines Audit Log](section_4344257444.md) — section_4344257444
+        - [Accessing the Custom GL Lines Audit Log](section_4386466672.md) — section_4386466672
+        - [Custom GL Lines Audit Log Page](section_4386466945.md) — section_4386466945
+          - [Custom GL Lines Audit Log Transaction Details Page](section_4386467237.md) — section_4386467237
+          - [Custom GL Lines Audit Log Segments Page](section_4557239810.md) — section_4557239810
+          - [Custom GL Lines Plug-in Revision Page](section_4386467564.md) — section_4386467564
+      - [Reviewing Custom GL Lines Plug-in Executions](section_4835567360.md) — section_4835567360
+      - [Deleting a Custom GL Lines Plug-in Implementation](section_4386467970.md) — section_4386467970
+  - [Email Capture Plug-in](book_4286894970.md) — book_4286894970
+    - [Email Capture Plug-in Overview](chapter_4235218166.md) — chapter_4235218166
+      - [Email Capture Process Flow](section_4251625075.md) — section_4251625075
+      - [Developing an Email Capture Plug-in Implementation](section_4251624480.md) — section_4251624480
+        - [Create a Plug-in Implementation Script File](section_4251629600.md) — section_4251629600
+        - [Add the Plug-in Implementation](section_4251631349.md) — section_4251631349
+        - [Test the Plug-in Implementation](section_4251631712.md) — section_4251631712
+        - [Bundle the Plug-in Implementation](section_4251632045.md) — section_4251632045
+      - [Administering an Email Capture Plug-in Implementation](section_4251627379.md) — section_4251627379
+        - [Enable Features for an Email Capture Plug-in Implementation](section_4251628119.md) — section_4251628119
+        - [Install an Email Capture Plug-in Bundle](section_4251628442.md) — section_4251628442
+        - [Enable the Email Capture Plug-in Implementation](section_4251628729.md) — section_4251628729
+        - [Create an Email Alias and Set Up Forwarding](section_4256217344.md) — section_4256217344
+    - [Email Capture Plug-in Interface Description](chapter_4251639130.md) — chapter_4251639130
+      - [process(email)](section_4251639614.md) — section_4251639614
+        - [Email](section_4251642601.md) — section_4251642601
+        - [Address](section_4251642963.md) — section_4251642963
+        - [Attachment](section_4251643145.md) — section_4251643145
+  - [Financial Institution Connectivity Plug-in](part_157859146675.md) — part_157859146675
+    - [Financial Institution Connectivity Plug-in Interface Overview](chapter_157833075219.md) — chapter_157833075219
+      - [Financial Institution Connectivity Workflows](section_159693248627.md) — section_159693248627
+      - [Default Financial Institution Connectivity Plug-in Implementations](section_159693340466.md) — section_159693340466
+      - [Capabilities of Using a Financial Institution Connectivity Plug-in](section_158031287325.md) — section_158031287325
+      - [Limitations of Using a Financial Institution Connectivity Plug-in](section_157851410470.md) — section_157851410470
+      - [Developing a Financial Institution Connectivity Plug-in](section_157850160137.md) — section_157850160137
+        - [Enabling Features for a Financial Institution Connectivity Plug-in](section_157851409564.md) — section_157851409564
+        - [Creating a Financial Institution Connectivity Plug-in Script File](section_157851408518.md) — section_157851408518
+      - [Administering a Financial Institution Connectivity Plug-in](section_157852321159.md) — section_157852321159
+        - [Enabling Features for a Financial Institution Connectivity Plug-in](section_157851419932.md) — section_157851419932
+        - [Adding the Financial Institution Connectivity Plug-in Implementation](section_157851429564.md) — section_157851429564
+        - [Configuration for a Financial Institution Connectivity Plug-in](section_157851430557.md) — section_157851430557
+        - [Conditions for Running a Financial Institution Connectivity Plug-in](section_157851439658.md) — section_157851439658
+        - [Conditions for Testing a Financial Institution Connectivity Plug-in](section_157851438706.md) — section_157851438706
+        - [Error Handling for Financial Institution Connectivity Plug-ins](section_157903137717.md) — section_157903137717
+          - [Updating Connectivity Plug-ins for Import Error Codes](article_90212014023.md) — article_90212014023
+          - [Updating Connectivity Plug-ins for Account Error Codes](article_0106075610.md) — article_0106075610
+    - [Financial Institution Connectivity Plug-in Interface Definition](chapter_157833142874.md) — chapter_157833142874
+      - [getConfigurationIFrameUrl()](section_157860435558.md) — section_157860435558
+        - [pluginConfiguration](section_157861200583.md) — section_157861200583
+          - [getConfigurationFieldValue()](section_157861212147.md) — section_157861212147
+        - [configurationIFrameUrl](section_157861106868.md) — section_157861106868
+      - [getAccounts()](section_157861151574.md) — section_157861151574
+        - [pluginConfiguration](section_157867723745.md) — section_157867723745
+          - [getConfigurationFieldValue](section_157867739463.md) — section_157867739463
+        - [addAccount()](section_157867745733.md) — section_157867745733
+          - [isRetryAllowed()](section_159695217055.md) — section_159695217055
+          - [retry()](section_159695254677.md) — section_159695254677
+      - [getTransactionData()](section_160339622086.md) — section_160339622086
+        - [pluginConfiguration](section_157868075763.md) — section_157868075763
+          - [getConfigurationFieldValue](section_157869803320.md) — section_157869803320
+        - [accountRequestsJSON](section_157902884743.md) — section_157902884743
+        - [addDataChunk()](section_157902929116.md) — section_157902929116
+        - [returnAccountRequestsJSON()](section_157902948247.md) — section_157902948247
+          - [isRetryAllowed()](section_159703493451.md) — section_159703493451
+            - [retry()](section_159703493469.md) — section_159703493469
+      - [refreshData(context)](article_0206060748.md) — article_0206060748
+        - [accountRequestsJSON](article_0206061547.md) — article_0206061547
+        - [addAccountError(options)](article_0206061706.md) — article_0206061706
+        - [pluginConfiguration](article_0206061737.md) — article_0206061737
+        - [setRefreshRequestId(options)](article_0206063031.md) — article_0206063031
+      - [getRefreshRequestStatus(context)](article_89184544006.md) — article_89184544006
+        - [pluginConfiguration](article_45184639809.md) — article_45184639809
+        - [refreshRequestId](article_71184757410.md) — article_71184757410
+        - [returnRefreshRequestStatus(options)](article_19185150999.md) — article_19185150999
+        - [status](article_98185413723.md) — article_98185413723
+  - [Bank Connectivity Plug-in](part_156296229948.md) — part_156296229948
+    - [Bank Connectivity Plug-in Interface Overview](chapter_1489160150.md) — chapter_1489160150
+      - [Limitations of Using the Bank Connectivity Plug-in](section_156597424314.md) — section_156597424314
+      - [Developing a Bank Connectivity Plug-in](section_1487704486.md) — section_1487704486
+        - [Creating the Bank Connectivity Plug-in Script File](section_3910289724.md) — section_3910289724
+        - [Obtaining the Host Key](section_1508852744.md) — section_1508852744
+      - [Administering a Bank Connectivity Plug-in](section_3910280596.md) — section_3910280596
+        - [Enabling Features for a Bank Connectivity Plug-in](section_3910314311.md) — section_3910314311
+        - [Adding the Plug-in Implementation](section_3910303584.md) — section_3910303584
+        - [Defining the Configuration Requirements](section_1489099682.md) — section_1489099682
+        - [Activating the Bank Connectivity Plug-in](section_1489087441.md) — section_1489087441
+        - [Testing the Bank Connectivity Plug-in](section_3910305351.md) — section_3910305351
+        - [Manually Running the Bank Connectivity Plug-in](section_1506524343.md) — section_1506524343
+    - [Bank Connectivity Plug-in Interface Definition](chapter_1489692081.md) — chapter_1489692081
+      - [getRequiredConfigurationFields (context)](section_1489692135.md) — section_1489692135
+      - [downloadPreviousDayBankStatementFile (context)](section_1489692225.md) — section_1489692225
+      - [Object Types](section_1488576457.md) — section_1488576457
+        - [BankAccount](section_1499714038.md) — section_1499714038
+          - [getAccountNumber()](section_1499714371.md) — section_1499714371
+          - [getId()](section_1499714542.md) — section_1499714542
+        - [BankConnectivityPluginConfiguration](section_1499715160.md) — section_1499715160
+          - [getConfigurationFieldValue](section_1499716906.md) — section_1499716906
+        - [RequiredConfigurationFieldsInput](section_1487961846.md) — section_1487961846
+          - [getLocale](section_1488829196.md) — section_1488829196
+          - [getPluginConfiguration](section_1488829515.md) — section_1488829515
+        - [DownloadPreviousDayBankStatementFileInput](section_4872781738.md) — section_4872781738
+          - [getSecureFileCabinetFolderId()](section_1500492813.md) — section_1500492813
+        - [RequiredConfigurationFieldsOutput](section_4872749035.md) — section_4872749035
+          - [addConfigurationField](section_1487949551.md) — section_1487949551
+          - [RequiredConfigurationFieldsContainer](section_1487953889.md) — section_1487953889
+        - [DownloadPreviousDayBankStatementFileOutput](section_4872781772.md) — section_4872781772
+          - [saveBankStatementFile](section_156398968105.md) — section_156398968105
+  - [Financial Institution Parser Plug-in](part_159078999530.md) — part_159078999530
+    - [Financial Institution Parser Plug-in Interface Overview](chapter_159077938079.md) — chapter_159077938079
+      - [Financial Institution Parser Workflows](section_159744937231.md) — section_159744937231
+      - [Developing a Financial Institution Parser Plug-in](section_159078122846.md) — section_159078122846
+        - [Enabling Features for a Financial Institution Parser Plug-in](section_159078131165.md) — section_159078131165
+        - [Creating a Financial Institution Parser Plug-in Script File](section_159078138928.md) — section_159078138928
+      - [Administering a Financial Institution Parser Plug-in](section_159078231054.md) — section_159078231054
+        - [Enabling Features for a Financial Institution Parser Plug-in](section_159078232795.md) — section_159078232795
+        - [Adding the Plug-in Implementation](section_159078233559.md) — section_159078233559
+        - [Conditions for Running a Financial Institution Parser Plug-in](section_159078229220.md) — section_159078229220
+        - [Testing a Financial Institution Parser Plug-in](section_159078146146.md) — section_159078146146
+        - [Error Handling for Financial Institution Parser Plug-ins](section_159534492999.md) — section_159534492999
+          - [Updating Parser Plug-ins for Import Error Codes](article_15230408833.md) — article_15230408833
+          - [Updating Parser Plug-ins for Parser Error Codes](article_94201350937.md) — article_94201350937
+    - [Financial Institution Parser Plug-in Interface Definition](chapter_159078912850.md) — chapter_159078912850
+      - [parseData()](section_159528175227.md) — section_159528175227
+        - [inputData](section_160339556833.md) — section_160339556833
+        - [pluginConfiguration](section_159528246271.md) — section_159528246271
+          - [getConfigurationFieldValue()](section_159528281588.md) — section_159528281588
+        - [createAccountData()](section_157867783812.md) — section_157867783812
+          - [accountData](section_160339768850.md) — section_160339768850
+          - [createNewTransaction()](section_159528925795.md) — section_159528925795
+        - [addError(options)](article_0106035924.md) — article_0106035924
+          - [errorCode](article_17161553103.md) — article_17161553103
+          - [lineNumber](article_21161849778.md) — article_21161849778
+          - [characterOffset](article_0106040927.md) — article_0106040927
+      - [getStandardTransactionCodes()](section_159529293181.md) — section_159529293181
+        - [createNewStandardTransactionCode()](section_159536094519.md) — section_159536094519
+      - [getExpenseCodes()](section_159536224927.md) — section_159536224927
+        - [createNewExpenseCode()](section_159536224935.md) — section_159536224935
+      - [getConfigurationPageUrl()](section_159536352376.md) — section_159536352376
+        - [pluginConfiguration](section_160339797342.md) — section_160339797342
+          - [getConfigurationFieldValue()](section_159712552166.md) — section_159712552166
+        - [configurationPageUrl](section_159536352393.md) — section_159536352393
+  - [Bank Statement Parser Plug-in](part_156294612382.md) — part_156294612382
+    - [Bank Statement Parser Plug-in Interface Overview](chapter_1539374142.md) — chapter_1539374142
+      - [Bank Statement Parser Process Flow](section_159710574221.md) — section_159710574221
+      - [Developing a Bank Statement Parser Plug-in](section_1539374153.md) — section_1539374153
+        - [Enabling Features for a Bank Statement Parser Plug-in](section_1539375521.md) — section_1539375521
+        - [Creating a Bank Statement Parser Plug-in Script File](section_1539375486.md) — section_1539375486
+        - [Testing the Bank Statement Parser Plug-in](section_1539375497.md) — section_1539375497
+      - [Administering a Bank Statement Parser Plug-in](section_1539375516.md) — section_1539375516
+        - [Enabling Features for a Bank Statement Parser Plug-in](section_157074225841.md) — section_157074225841
+        - [Adding the Plug-in Implementation](section_1542902818.md) — section_1542902818
+        - [Activating a Bank Statement Parser Plug-in](section_1539375531.md) — section_1539375531
+    - [Bank Statement Parser Plug-in Interface Definition](chapter_1539376263.md) — chapter_1539376263
+      - [parseBankStatement](section_1542919687.md) — section_1542919687
+        - [BankStatementParserInput](section_1542922993.md) — section_1542922993
+        - [BankStatementParserOutput](section_1542925722.md) — section_1542925722
+      - [getStandardTransactionCodes](section_1542919823.md) — section_1542919823
+        - [StandardTransactionCodeOutput](section_1542933820.md) — section_1542933820
+  - [Dataset Builder Plug-in](part_160199594697.md) — part_160199594697
+    - [Dataset Builder Plug-in Interface Overview](article_160129745465.md) — article_160129745465
+      - [Developing a Dataset Builder Plug-in](article_160129857137.md) — article_160129857137
+        - [Enabling Features for a Dataset Builder Plug-in](article_160129950663.md) — article_160129950663
+        - [Creating a Dataset Builder Plug-in Script File](article_160129974584.md) — article_160129974584
+        - [Guidelines for Creating a Dataset Builder Plug-in Implementation Script File](article_164201269186.md) — article_164201269186
+      - [Administering a Dataset Builder Plug-in](article_160130112685.md) — article_160130112685
+        - [Adding the Plug-in Implementation](article_160130156224.md) — article_160130156224
+    - [Dataset Builder Plug-in Interface Definition](article_160130249143.md) — article_160130249143
+      - [createDataset(context)](article_160130308704.md) — article_160130308704
+        - [dataset](article_160130368427.md) — article_160130368427
+        - [description](article_160130376765.md) — article_160130376765
+        - [name](article_160130377689.md) — article_160130377689
+        - [owner](article_160130378883.md) — article_160130378883
+        - [role](article_160130381050.md) — article_160130381050
+  - [Workbook Builder Plug-in](part_160199602236.md) — part_160199602236
+    - [Workbook Builder Plug-in Interface Overview](article_160130871855.md) — article_160130871855
+      - [Developing a Workbook Builder Plug-in](article_160130915938.md) — article_160130915938
+        - [Enabling Features for a Workbook Builder Plug-in](article_160130932075.md) — article_160130932075
+        - [Creating a Workbook Builder Plug-in Script File](article_160130942672.md) — article_160130942672
+        - [Guidelines for Creating a Workbook Builder Plug-in Implementation Script File](article_164201277992.md) — article_164201277992
+      - [Administering a Workbook Builder Plug-in](article_160130965477.md) — article_160130965477
+        - [Adding the Plug-in Implementation](article_160130995889.md) — article_160130995889
+    - [Workbook Builder Plug-in Interface Definition](article_160131032594.md) — article_160131032594
+      - [createWorkbook(context)](article_160131052559.md) — article_160131052559
+        - [description](article_160131102787.md) — article_160131102787
+        - [name](article_160131123717.md) — article_160131123717
+        - [owner](article_160131124466.md) — article_160131124466
+        - [role](article_160131125201.md) — article_160131125201
+        - [workbook](article_160131125829.md) — article_160131125829

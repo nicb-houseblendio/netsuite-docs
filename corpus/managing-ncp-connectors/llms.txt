@@ -1,0 +1,13 @@
+# Managing NCP Connectors
+
+Managing NCP Connectors (84 pages): Managing NCP Connectors
+
+## Chapters
+- [Managing NCP Connectors](article_4155442648.md): The NetSuite Connector Platform (NCP) SuiteApp handles the smart data sync between NetSuite and other marketplace or Customer Relationship Management (CRM) platforms.
+  - [Salesforce Connector](section_0602040117.md): Sales people can continue to work in Salesforce, and this information is synced with financial and inventory data in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch managing-ncp-connectors

@@ -1,0 +1,21 @@
+# Brazilian Hub
+
+Brazilian Hub (219 pages): Brazilian Hub
+
+## Chapters
+- [Brazilian Hub](article_158773778810.md): Note: To access the Brazilian Hub SuiteApp documentation in Brazilian Portuguese (Português do Brasil), see Brazilian Hub(https://system.
+  - [Brazilian Hub SuiteApp Installation](article_159740769678.md): This topic guides you through the installation of the Brazilian Hub (BRHub) SuiteApp.
+  - [Brazilian Hub Setup](article_160397782837.md): To use the Brazilian Hub SuiteApp features, you must set up your account as described in the following topics.
+  - [Taxes in Brazil (Brazilian Hub SuiteApp)](article_160337498946.md): The Brazilian Hub (BRHub) SuiteApp enables you to calculate taxes levied on different purchase and sales operations in Brazil.
+  - [Electronic Invoicing for Brazil (Brazilian Hub SuiteApp)](article_160103813525.md): In Brazil, you must document every operation involving goods or services with e-documents.
+  - [Receiving for Brazil (Brazilian Hub SuiteApp)](article_160226852080.md): To enable the purchasing and receiving of items in Brazil, the Brazilian Hub (BRHub) SuiteApp customizes purchase transactions in NetSuite by adding localization fields to the transaction records.
+  - [Payments for Brazil (Brazilian Hub SuiteApp)](article_160268939174.md): The Brazilian Hub (BRHub) SuiteApp localizes the payment process in NetSuite for Brazilian business needs.
+  - [Discounts for Brazil (Brazilian Hub SuiteApp)](article_160685440387.md): In NetSuite, you can create discount items to reduce amounts from sales transactions.
+  - [Debit Notes for Brazil (Brazilian Hub SuiteApp)](article_160760946681.md): The Brazilian Hub (BRHub) SuiteApp enables you to generate debit notes to register amounts billed from transactions which aren't compatible with an electronic invoice.
+  - [Brazilian Hub SuiteApp Known Limitations and Best Practices](article_162222962840.md): Before using the Brazilian Hub SuiteApp, be aware of the current limitations and best practice recommendations.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch brazilian-hub

@@ -1,0 +1,225 @@
+# Project Management
+
+221 pages, category: Projects
+
+- [Project Management](part_3746040281.md) — part_3746040281
+  - [Using Project Management](chapter_N1179876.md) — chapter_N1179876
+    - [Setting Up Project Management](section_N1182249.md) — section_N1182249
+    - [Specialized User: Project Manager](article_0731012800.md) — article_0731012800
+    - [Project Management Records](section_N1182526.md) — section_N1182526
+    - [Working with Project Management in OneWorld](section_N1182865.md) — section_N1182865
+    - [Creating a Project Record](section_N1183012.md) — section_N1183012
+      - [Setting Up Project Record Preferences](section_4585905289.md) — section_4585905289
+      - [Working with Project Records](section_3740077129.md) — section_3740077129
+      - [Additional Project Record Fields](section_3739104856.md) — section_3739104856
+    - [Creating Projects from Sales Transactions](section_N1185988.md) — section_N1185988
+    - [Copying an Existing Project](section_N1186284.md) — section_N1186284
+    - [Project Templates](section_3897375321.md) — section_3897375321
+      - [Creating Project Templates](section_3897375531.md) — section_3897375531
+    - [Setting a Service Item to Create a Project](section_N1186612.md) — section_N1186612
+    - [Using the Project Consolidation Preference](section_N1186943.md) — section_N1186943
+    - [Generating an Estimate from a Project](section_N1187267.md) — section_N1187267
+    - [Linking a Project to an Opportunity](section_N1187364.md) — section_N1187364
+  - [Project Tasks](section_N1192913.md) — section_N1192913
+    - [Creating a Project Task Record](section_N1194983.md) — section_N1194983
+    - [Creating Milestone Tasks](section_3740066806.md) — section_3740066806
+    - [Project Task Attributes Table](section_N1195767.md) — section_N1195767
+    - [Identifying Parent Tasks](section_N1199176.md) — section_N1199176
+    - [Scheduling Project Tasks](section_N1199494.md) — section_N1199494
+    - [Assigning Resources to Project Tasks](section_N1200642.md) — section_N1200642
+    - [Importing Project Tasks from Microsoft Project](section_N1200868.md) — section_N1200868
+    - [Copying Project Tasks](section_3897401475.md) — section_3897401475
+    - [Including CRM Tasks in Project Totals](section_N1201405.md) — section_N1201405
+  - [Project Task Manager](chapter_N1214895.md) — chapter_N1214895
+    - [Layout of the Project Task Manager](section_N1215073.md) — section_N1215073
+    - [How to Use the Project Task Manager](section_N1215277.md) — section_N1215277
+  - [Working with Resources in Project Management](section_N1187445.md) — section_N1187445
+    - [Identifying an Employee as a Project Resource](section_N1188347.md) — section_N1188347
+    - [Identifying a Vendor as a Project Resource](section_N1188644.md) — section_N1188644
+    - [Creating a Project Resource Role](section_N1188929.md) — section_N1188929
+    - [Generic Resources](section_3897338492.md) — section_3897338492
+    - [Creating Resource Groups](section_1547067026.md) — section_1547067026
+    - [Assigning Project Resources](section_N1189140.md) — section_N1189140
+    - [Bulk Project Task Reassignment](section_4193652462.md) — section_4193652462
+    - [Project Resource Work Calendars](section_N1189731.md) — section_N1189731
+    - [Setting Up a Work Calendar](section_N1190013.md) — section_N1190013
+    - [Assigning a Resource Work Calendar](section_N1190309.md) — section_N1190309
+  - [Resource Allocations](chapter_3746701142.md) — chapter_3746701142
+    - [Creating a Resource Allocation Record](section_3746899469.md) — section_3746899469
+    - [Resource Allocation Chart/Grid SuiteApp](section_3746921235.md) — section_3746921235
+      - [Setting Up and Navigating the Resource Allocation Grid](section_4168477255.md) — section_4168477255
+      - [Setting Up and Navigating the Resource Allocation Chart](section_4168476940.md) — section_4168476940
+      - [Using the Resource Allocation Chart/Grid](section_1503039257.md) — section_1503039257
+    - [Resource Skill Sets](section_3746921522.md) — section_3746921522
+    - [Resource Allocations Custom Approval Workflow](section_3887779834.md) — section_3887779834
+    - [Project Resource Management](section_4502149442.md) — section_4502149442
+      - [Setting Up Project Resource Management](section_4539020695.md) — section_4539020695
+      - [Using Project Resource Management](section_4539022975.md) — section_4539022975
+  - [Managing Time and Expenses for Project Resources](section_N1190979.md) — section_N1190979
+    - [Classifying Time for Projects](section_N1191211.md) — section_N1191211
+    - [Entering Time Against Projects](section_N1191698.md) — section_N1191698
+    - [Restricting Time Entry on Project Tasks](section_N1192197.md) — section_N1192197
+    - [Entering Project Expenses](section_N1192533.md) — section_N1192533
+    - [Approving Time and Expenses for Projects](section_N1192683.md) — section_N1192683
+  - [Tracking and Managing Projects](section_N1201734.md) — section_N1201734
+    - [Project Dashboard](section_3900008958.md) — section_3900008958
+    - [The Project Center](section_3745898783.md) — section_3745898783
+    - [Viewing Project Schedules](section_N1201840.md) — section_N1201840
+    - [Working with the Project Schedule](section_N1202036.md) — section_N1202036
+    - [Tracking Project Baselines and Variance](section_N1202265.md) — section_N1202265
+    - [Setting a Project Baseline](section_N1202427.md) — section_N1202427
+    - [Planned Work](section_1530301667.md) — section_1530301667
+    - [Refreshing Project Items on Transactions](section_N1204541.md) — section_N1204541
+    - [Creating Sales Orders from Projects](section_N1204698.md) — section_N1204698
+  - [Project Billing](section_N1204906.md) — section_N1204906
+    - [Billing and Project Consolidation](section_N1205308.md) — section_N1205308
+    - [Project Billing Rates](section_N1205608.md) — section_N1205608
+    - [Forecasting Project Billings](section_N1205824.md) — section_N1205824
+    - [Projects and Time and Materials Billing](section_N1205953.md) — section_N1205953
+    - [Projects and Interval Billing](section_N1206277.md) — section_N1206277
+    - [Projects and Milestone Billing](section_N1206555.md) — section_N1206555
+      - [Creating a Milestone Billing Schedule](section_N1207171.md) — section_N1207171
+      - [Billing Customers Using Milestone Billing](section_N1207490.md) — section_N1207490
+    - [Charge-Based Project Billing](section_3752830510.md) — section_3752830510
+      - [Using Charge-Based Billing](section_1214120416.md) — section_1214120416
+      - [Setting Up Charge-Based Billing](section_3752833114.md) — section_3752833114
+      - [Creating Charge-Based Projects](section_3752833293.md) — section_3752833293
+      - [Understanding Charge Rules](section_3752833778.md) — section_3752833778
+      - [Creating Charge Rules](section_4369706980.md) — section_4369706980
+      - [Using Billing Rate Cards](section_4689764278.md) — section_4689764278
+      - [Using Caps with Charge Rules](section_3770324541.md) — section_3770324541
+      - [Generating Charges](section_3752833920.md) — section_3752833920
+      - [Approving Pending Charges](section_3752834116.md) — section_3752834116
+      - [Billing Charge-Based Projects](section_3752834264.md) — section_3752834264
+      - [Project Billings Report](section_3752834443.md) — section_3752834443
+      - [Known Performance Issues](section_1214034728.md) — section_1214034728
+      - [Key Takeaways](section_0307024357.md) — section_0307024357
+      - [Project Revenue Recognition](section_4642885587.md) — section_4642885587
+        - [Project Revenue Rules](bridgehead_4686104306.md) — bridgehead_4686104306
+          - [Creating a Percent Complete Project Revenue Rule](bridgehead_159360894060.md) — bridgehead_159360894060
+          - [Creating As Charged Project Revenue Rules](bridgehead_159360988425.md) — bridgehead_159360988425
+          - [Creating a Purchase Charge Revenue Rule](bridgehead_159360994936.md) — bridgehead_159360994936
+          - [Creating a Fixed Amount Project Revenue Rule](bridgehead_159360996004.md) — bridgehead_159360996004
+          - [Creating a Labor-based Project Revenue Rule](bridgehead_159532607455.md) — bridgehead_159532607455
+        - [Overriding a Project Revenue Plan](bridgehead_4686092732.md) — bridgehead_4686092732
+    - [Project Revenue Reconciliation](bridgehead_4686104505.md) — bridgehead_4686104505
+    - [Marking a Project as Completely Billed](bridgehead_159361026010.md) — bridgehead_159361026010
+  - [Job Costing and Project Budgeting](chapter_3748436271.md) — chapter_3748436271
+    - [Job Costing](section_3748436379.md) — section_3748436379
+      - [Creating Project Expense Types](section_3751152449.md) — section_3751152449
+      - [Posting Time Transactions](section_3751154057.md) — section_3751154057
+      - [Job Costing and OneWorld](section_4037320943.md) — section_4037320943
+    - [Project Budgeting](section_3751156348.md) — section_3751156348
+      - [Setting Up Project Budgeting](section_3751156538.md) — section_3751156538
+      - [Creating Project Budgets](section_3751156905.md) — section_3751156905
+    - [Advanced Project Budgeting](section_156266908909.md) — section_156266908909
+      - [Activity Codes](section_156266942776.md) — section_156266942776
+      - [Project Work Breakdown Structure (WBS)](section_157354975471.md) — section_157354975471
+      - [Creating a Work Breakdown Structure](subsect_157830306842.md) — subsect_157830306842
+      - [Calculating Costs](subsect_157892029918.md) — subsect_157892029918
+      - [Editing Estimates in the Work Breakdown Structure](subsect_156267944413.md) — subsect_156267944413
+      - [Budget Burn-up Chart](subsect_157830316448.md) — subsect_157830316448
+      - [Mapping Actuals to the Work Breakdown Structure](subsect_157830322428.md) — subsect_157830322428
+      - [Displaying Unmatched Actuals](subsect_157892129072.md) — subsect_157892129072
+      - [Creating a Budget from a Work Breakdown Structure](subsect_157830326096.md) — subsect_157830326096
+      - [Copying and Editing a Budget](subsect_157830337486.md) — subsect_157830337486
+      - [Viewing Budgets in Reporting](subsect_157830339877.md) — subsect_157830339877
+  - [Project Management Reports](section_N1207852.md) — section_N1207852
+    - [Earned Value by Project Report](section_N1208234.md) — section_N1208234
+    - [Utilization by Resource Reports](section_3748733226.md) — section_3748733226
+      - [Allocated Utilization by Resource](section_3748783465.md) — section_3748783465
+      - [Planned Utilization by Resource](section_3748784072.md) — section_3748784072
+      - [Actual Utilization by Resource](section_3748784146.md) — section_3748784146
+    - [Allocated vs. Actual Hours by Resource Report](section_4225707452.md) — section_4225707452
+    - [Utilization by Project Reports](section_3748742558.md) — section_3748742558
+      - [Allocated Utilization by Project](section_3748792809.md) — section_3748792809
+      - [Planned Utilization by Project](section_3748796246.md) — section_3748796246
+      - [Actual Utilization by Project](section_3748799658.md) — section_3748799658
+    - [Time Entry Exceptions Report](section_N1209079.md) — section_N1209079
+    - [Time by Employee/Item/Customer Reports](section_N1210754.md) — section_N1210754
+    - [Actual Time Workbook](section_158255817818.md) — section_158255817818
+      - [Actual Time Dataset](section_158255835344.md) — section_158255835344
+      - [Actual Time Workbook](section_158255847757.md) — section_158255847757
+    - [Current Backlog By Resource Report](section_N1211566.md) — section_N1211566
+    - [Estimated Profitability by Project Report](section_N1211881.md) — section_N1211881
+    - [Unbilled Cost by Customer Reports](section_N1212238.md) — section_N1212238
+    - [Unbilled Time by Customer Reports](section_N1212562.md) — section_N1212562
+    - [Project Charges Forecast Report](section_4193677206.md) — section_4193677206
+    - [Project Budget vs. Actual Reports](section_3751160566.md) — section_3751160566
+      - [Project Cost Budget vs. Actual](section_3751160832.md) — section_3751160832
+      - [Project Billing Budget vs. Actual](section_3751161805.md) — section_3751161805
+    - [Project Task Budget vs. Actual Reports](section_3751162122.md) — section_3751162122
+      - [Project Task Cost Budget vs. Actual](section_3751162452.md) — section_3751162452
+      - [Project Task Billing Budget vs. Actual](section_3751162622.md) — section_3751162622
+    - [Project Profitability Report](section_4217939417.md) — section_4217939417
+    - [Project Profitability by Month Report](section_3751163267.md) — section_3751163267
+    - [Advanced Project Profitability](section_1484339384.md) — section_1484339384
+    - [SuiteAnalytics Connect Access to Project Tasks Data](section_N1214805.md) — section_N1214805
+  - [Purchase to Project](chapter_160223473105.md) — chapter_160223473105
+    - [Prerequisites for Purchase to Project](section_160249223129.md) — section_160249223129
+    - [Installing the Purchase to Project SuiteApp](section_160249230314.md) — section_160249230314
+    - [Setting Up the Purchase to Project SuiteApp](section_161553549533.md) — section_161553549533
+      - [Purchase to Project SuiteApp Roles and Permissions](section_160249222352.md) — section_160249222352
+        - [Setting Required Permissions for Purchase to Project Custom Roles](subsect_162141136600.md) — subsect_162141136600
+        - [Setting Employee Restrictions for the Purchase to Project Custom Consultant Role](subsect_161769948448.md) — subsect_161769948448
+      - [Setting Purchase Order and Vendor Bill Preferences for Projects](section_160309982949.md) — section_160309982949
+    - [Tagging a Vendor as a Project Vendor](section_160318799007.md) — section_160318799007
+    - [Entering Purchase Orders for Projects and Project Tasks](section_160318376007.md) — section_160318376007
+    - [Associating Purchase Orders and Vendor Bills to a Project or Project Task](section_161251396811.md) — section_161251396811
+    - [Viewing Project Procurement Transactions](section_161553640636.md) — section_161553640636
+      - [Viewing the Total Invoiced Amount From Billable Items and Expenses for a Project](section_161493189220.md) — section_161493189220
+      - [Viewing Purchase Orders and Vendor Bills Entered for a Project](section_160327228862.md) — section_160327228862
+      - [Viewing Purchase Orders and Vendor Bills Entered for a Project Task](section_161215046060.md) — section_161215046060
+    - [Best Practices in Using the Purchase to Project SuiteApp](section_160819926934.md) — section_160819926934
+    - [Purchase to Project SuiteApp Limitations](section_160819416572.md) — section_160819416572
+  - [Project Risk Forecast](chapter_158926773024.md) — chapter_158926773024
+    - [Prerequisites for Project Risk Forecast](section_158987853366.md) — section_158987853366
+    - [Installing Project Risk Forecast](section_159004847880.md) — section_159004847880
+    - [Assigning a Risk Level to Projects](section_159013264861.md) — section_159013264861
+    - [Customizing the Project Entry Form for Project Risk Forecast](section_159281133111.md) — section_159281133111
+    - [Viewing the Project Risk Forecast Report](section_159117914112.md) — section_159117914112
+  - [Invoice Presentation Template](article_164129342142.md) — article_164129342142
+    - [Installing the Invoice Presentation Template SuiteApp](section_164758781345.md) — section_164758781345
+    - [Prerequisites](section_164758898994.md) — section_164758898994
+    - [Roles and Permissions](section_164130243674.md) — section_164130243674
+    - [Supported Languages in Invoice Presentation Template SuiteApp](section_164571830933.md) — section_164571830933
+    - [Setting Up the Invoice Presentation Template Preference](section_164130247448.md) — section_164130247448
+    - [Working with the Invoice Presentation Template SuiteApp](section_164130255906.md) — section_164130255906
+      - [Creating Invoice Presentation Templates](section_164130276738.md) — section_164130276738
+        - [Configuring a Charge Table](section_164733940925.md) — section_164733940925
+      - [Including Expense Receipts](section_164783492549.md) — section_164783492549
+      - [Viewing and Editing Invoice Presentation Templates](section_164130278777.md) — section_164130278777
+      - [Copying Invoice Presentation Templates](section_164130284439.md) — section_164130284439
+      - [Assigning Invoice Presentation Templates](section_164130288184.md) — section_164130288184
+      - [Previewing Invoice Presentation Templates](section_164559825013.md) — section_164559825013
+      - [Deleting Invoice Presentation Templates](section_164130299979.md) — section_164130299979
+    - [Printing and Emailing Invoices with Charge Details](section_164130310830.md) — section_164130310830
+    - [Invoice Presentation Template SuiteApp Limitations](section_164130241197.md) — section_164130241197
+  - [Project Classification](article_9130222781.md) — article_9130222781
+    - [Installing the Project Classification SuiteApp](section_8110329949.md) — section_8110329949
+    - [Prerequisites for Installing Project Classification SuiteApp](section_16145238881.md) — section_16145238881
+    - [Roles and Permissions](section_93142435871.md) — section_93142435871
+    - [Transactions in Project Classification SuiteApp](section_57133755314.md) — section_57133755314
+    - [Supported Languages in Project Classification SuiteApp](section_63143217404.md) — section_63143217404
+    - [Project Classification SuiteApp Limitations](section_13113549152.md) — section_13113549152
+    - [Working with the Project Classification SuiteApp](section_61113427572.md) — section_61113427572
+      - [Configuring Project Classification Preferences](section_2150059573.md) — section_2150059573
+      - [Tagging Segments to a Project Record](section_69141905486.md) — section_69141905486
+      - [Selecting Default Values in a Transaction](section_43124847143.md) — section_43124847143
+      - [Using Default Values in a Transaction](section_28183355389.md) — section_28183355389
+      - [Update Header Based on Line](section_1143645891.md) — section_1143645891
+  - [Project Cost-to-Cost Percent Complete](article_1101144282.md) — article_1101144282
+    - [Installing the Project Cost-to-Cost Percent Complete SuiteApp](section_26102443850.md) — section_26102443850
+    - [Prerequisites for Installing the Project Cost-to-Cost Percent Complete SuiteApp](section_79103431898.md) — section_79103431898
+    - [Roles and Permissions](section_57104344296.md) — section_57104344296
+    - [Supported Languages in Project Cost-to-Cost Percent Complete SuiteApp](section_35134741269.md) — section_35134741269
+    - [Working with the Project Cost-to-Cost Percent Complete SuiteApp](section_78134806302.md) — section_78134806302
+      - [Creating a Project Cost Percent Complete Rule](section_12134824399.md) — section_12134824399
+      - [Adding a Rule to a Project Record](section_93134839266.md) — section_93134839266
+      - [Updating Project Cost Percent Complete](section_33153111816.md) — section_33153111816
+      - [Updating the Percent Complete at Project Level](section_62171517501.md) — section_62171517501
+      - [Viewing a Project Complete Execution Log](section_69111037693.md) — section_69111037693
+      - [Creating and Updating a Project Cost Percent Complete Dataset](section_48115943842.md) — section_48115943842
+    - [Project Cost-to-Cost Percent Complete SuiteApp Error Messages](section_91123953625.md) — section_91123953625
+    - [Language Specific Actual Cost Label](section_98113109087.md) — section_98113109087
+    - [Project Cost-to-Cost Percent Complete SuiteApp Limitations](section_72122215449.md) — section_72122215449

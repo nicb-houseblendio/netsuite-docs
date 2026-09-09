@@ -1,0 +1,18 @@
+# Email for Administrators
+
+Email for Administrators (17 pages): Email for Administrators
+
+## Chapters
+- [Email for Administrators](book_1556559731.md): - DomainKeys Identified Mail (DKIM)(https://docs.
+  - [DomainKeys Identified Mail (DKIM)](section_N999544.md): DomainKeys Identified Mail (DKIM) is a method of digitally signing your email messages to allow authentication.
+  - [Opportunistic TLS and NetSuite Email](article_163646559016.md): For information about how NetSuite handles the opportunistic Transport Layer Security (TLS) in email, see the following: - Opportunistic TLS for Inbound Email(subsect163646715274) - Opportunistic TLS for Outbound Email(subsect160331287062) Note: For information about TLS, see Supported TLS Protocol and Cipher Suites(https://docs.
+  - [Size Limits for Emails and Attachments](article_7130136991.md): NetSuite email size limits cover include both the message and its attachments.
+  - [Email Blocklists and Spamlists](chapter_156027670659.md): Oracle NetSuite actively monitors our outbound mail servers to make sure they're not listed by major, reputable lists.
+  - [DMARC-Compliant Messaging in NetSuite](chapter_1556559917.md): DMARC (Domain-based Message Authentication, Reporting and Conformance) is an anti-spoofing technology that lets domain owners use the Domain Name System (DNS) to inform receiving servers of their DMARC policy.
+  - [Permissions for Viewing Message Records in NetSuite2.com](article_5173754212.md): As of 2026.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch email-for-administrators

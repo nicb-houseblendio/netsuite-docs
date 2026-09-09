@@ -1,0 +1,24 @@
+{
+  "branch": "suitecloud-supported-records",
+  "generatedAt": null,
+  "pages": {
+    "preface_3710625923": {
+      "path": "corpus/suitecloud-supported-records/preface_3710625923.md",
+      "title": "SuiteCloud Supported Records",
+      "type": "preface",
+      "breadcrumb": "SuiteCloud Platform > SuiteCloud Supported Records",
+      "parent": "set_N2807372",
+      "category": "suitecloud-platform",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/preface_3710625923.html",
+      "etag": "\"e1568111487d0f9637807cc6caff6e9a:1786980406.366114\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:07:13.102Z",
+      "sha256": "60bc82868988afb41114b6dc6e8be7391dabb21f117a306e2f5b370768d9a22c",
+      "bytes": 176048,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

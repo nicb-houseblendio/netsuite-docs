@@ -1,0 +1,15 @@
+# File Drag and Drop
+
+File Drag and Drop (4 pages): File Drag and Drop
+
+## Chapters
+- [File Drag and Drop](chapter_4338346757.md): File Drag and Drop SuiteApp lets you upload one or more files from your desktop to the file cabinet or a record page.
+  - [Installing File Drag and Drop](section_4085008469.md): Prerequisite Before you install the File Drag and Drop SuiteApp, enable the following features by going to Setup Company Enable Features.
+  - [Setting Up File Drag and Drop](section_4085008840.md): Set up the File Drag and Drop SuiteApp using the Setup Assistant.
+  - [Using File Drag and Drop](section_4085009392.md): You can drag and drop one or more files from your desktop to the Drag and Drop-enabled file cabinet, or to a record or sublist line item.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch file-drag-and-drop

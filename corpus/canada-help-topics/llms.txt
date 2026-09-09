@@ -1,0 +1,17 @@
+# Canada Help Topics
+
+Canada Help Topics (36 pages): Canada Help Topics
+
+## Chapters
+- [Canada Help Topics](section_4198261632.md): Overview The following help topics provide information about NetSuite features that are specific for companies doing business in Canada.
+  - [Canada Account Setup](section_160257422045.md): Setting up an account for an organization doing business in Canada usually requires enabling several features and installing some additional SuiteApps.
+  - [Setting Up Canada-specific Preferences Page](section_160259228116.md): To setup your NetSuite account according to Canada-specific preferences, you must adjust your NetSuite Company and Subsidiary settings.
+  - [Canada SuiteTax Topics](article_160527011708.md): For more information, see Setting Up the SuiteTax Engine for Canada(https://docs.
+  - [Canada Tax Topics For Accounts Without SuiteTax](section_156941156434.md): NetSuite provides the capability to calculate and report sales-based Canadian taxes: - Goods and Services Tax (GST) - Provincial Sales Tax (PST) - Harmonized Sales Tax (HST) Note: Reverse Charge reporting on imports is currently not supported in Canada.
+  - [Canada Payment Formats](section_156941355409.md): The Electronic Bank Payments SuiteApp lets businesses in Canada to pay vendor bills and employee expenses by generating payment files formatted using the CPA-005 specifications of the Canadian Payments Association.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch canada-help-topics

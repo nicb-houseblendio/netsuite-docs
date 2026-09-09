@@ -1,0 +1,79 @@
+# Financial Statements
+
+75 pages, category: Accounting
+
+- [Financial Statements](book_N2092473.md) — book_N2092473
+  - [Financial Statements Overview](chapter_N2092547.md) — chapter_N2092547
+  - [Available Financial Statements](chapter_N2092953.md) — chapter_N2092953
+    - [Income Statements](section_N2093380.md) — section_N2093380
+      - [Income Statement Report](section_N2093552.md) — section_N2093552
+        - [Generating an Insight on an Income Statement](article_0217064412.md) — article_0217064412
+      - [Income Statement Detail Report](section_N2094110.md) — section_N2094110
+      - [Comparative Income Statement Report](section_N2095037.md) — section_N2095037
+        - [Generating an Insight on a Comparative Income Statement](article_0217065136.md) — article_0217065136
+      - [Multi-Book Income Statement Report](section_1495034629.md) — section_1495034629
+      - [Multi-Book Income Statement Detail Report](section_1495115536.md) — section_1495115536
+      - [Budget Income Statement Report](section_N2095701.md) — section_N2095701
+      - [Budget Income Statement Detail Report](section_N2096390.md) — section_N2096390
+      - [Budget vs. Actual Report](section_N2097218.md) — section_N2097218
+        - [Generating an Insight on a Budget vs. Actual](article_0217072902.md) — article_0217072902
+    - [Balance Sheets](section_N2098170.md) — section_N2098170
+      - [Balance Sheet Report](section_N2098310.md) — section_N2098310
+        - [Generating an Insight on a Balance Sheet](article_0217070335.md) — article_0217070335
+      - [Balance Sheet Detail Report](section_N2100658.md) — section_N2100658
+      - [Comparative Balance Sheet Report](section_N2101379.md) — section_N2101379
+        - [Generating an Insight on a Comparative Balance Sheet](article_0217070850.md) — article_0217070850
+      - [Multi-Book Balance Sheet Report](section_1495037141.md) — section_1495037141
+      - [Multi-Book Balance Sheet Detail Report](section_1495119693.md) — section_1495119693
+      - [Multi-Column Balance Sheets](section_N2102164.md) — section_N2102164
+    - [Cash Statements](section_N2103136.md) — section_N2103136
+      - [Cash Flow Statement Report](section_N2103273.md) — section_N2103273
+        - [Generating an Insight on a Cash Flow Statement](article_0217072307.md) — article_0217072307
+      - [Customizing Cash Flow Statement Account Sections](section_N2103948.md) — section_N2103948
+      - [Cash Statement Report](section_N2104490.md) — section_N2104490
+      - [Cash Statement Detail Report](section_N2104917.md) — section_N2104917
+  - [Financial Report Builder](chapter_N2105415.md) — chapter_N2105415
+    - [Accessing the Financial Report Builder](section_N2105846.md) — section_N2105846
+    - [Financial Report Builder Interface](section_N2106055.md) — section_N2106055
+      - [Financial Report Builder Edit Layout Page](section_N2106362.md) — section_N2106362
+      - [Financial Report Builder Edit Columns Page](section_N2106822.md) — section_N2106822
+        - [Adding a Percent of Expense Column to an Income Statement](section_N2107074.md) — section_N2107074
+        - [Adding a Percent of Income Column to an Income Statement](section_N2109173.md) — section_N2109173
+        - [Adding Budget Columns to Financial Statements](section_N2109623.md) — section_N2109623
+        - [Adding Persistent Matrix Columns to Financial Statements](section_N2109761.md) — section_N2109761
+      - [Financial Report Builder Filters Page](section_N2109902.md) — section_N2109902
+      - [Financial Report Builder Sorting Page](section_N2110083.md) — section_N2110083
+      - [Financial Report Builder More Options Page](section_N2110228.md) — section_N2110228
+    - [Financial Statement Layouts](section_N2110511.md) — section_N2110511
+      - [New Financial Report - Select Financial Statement Page](section_N2110786.md) — section_N2110786
+      - [Alternate Layouts in the Financial Report Builder](section_N2110937.md) — section_N2110937
+      - [Making a Layout Editable in the Financial Report Builder](section_N2111099.md) — section_N2111099
+      - [Editing a Financial Statement Layout](section_N2111283.md) — section_N2111283
+      - [Financial Row Layouts Page](section_N2111900.md) — section_N2111900
+      - [Renaming a Custom Financial Statement Layout](section_N2112121.md) — section_N2112121
+      - [Financial Reports: Row Layout Assignment Page](section_N2112344.md) — section_N2112344
+      - [Assigning a Layout to a Financial Statement](section_N2112565.md) — section_N2112565
+      - [Financial Layout Change Tracking](section_4534559380.md) — section_4534559380
+      - [Using the IFRS 18 Income Statement Layout](article_0812020408.md) — article_0812020408
+    - [Financial Statement Sections](section_N2112804.md) — section_N2112804
+      - [Creating a Custom Financial Statement Section](section_N2113041.md) — section_N2113041
+      - [Editing a Financial Statement Section](section_N2113644.md) — section_N2113644
+      - [Adding a Section to a Custom Financial Statement](section_N2114746.md) — section_N2114746
+      - [Adding Subsection Examples](section_N2115035.md) — section_N2115035
+    - [Financial Statement Rows](section_N2115374.md) — section_N2115374
+      - [Editing Financial Statement Header and Summary Rows](section_N2115720.md) — section_N2115720
+      - [Editing a Financial Statement Formula Row](section_N2117576.md) — section_N2117576
+      - [Editing a Financial Statement Reference Row](section_N2118055.md) — section_N2118055
+      - [Editing a Financial Statement Text Row](section_N2119004.md) — section_N2119004
+    - [Setting Financial Statement Formatting Options](section_N2119303.md) — section_N2119303
+  - [OneWorld Financial Statements](chapter_N2119691.md) — chapter_N2119691
+    - [Subsidiary Context for a Financial Statement](section_N2123544.md) — section_N2123544
+    - [Subsidiary-Specific Financial Layouts](section_N2123802.md) — section_N2123802
+    - [Organizing Financial Statement Data by Subsidiary](section_N2124036.md) — section_N2124036
+    - [Cumulative Translation Adjustment (CTA) Overview](section_N2124272.md) — section_N2124272
+      - [CTA Balance Audit Report](section_4688047790.md) — section_4688047790
+    - [Subsidiary-Specific Budget Reports](section_N2125541.md) — section_N2125541
+      - [Default Subsidiary Budget Settings for Financial Statements](section_4115034782.md) — section_4115034782
+      - [Displaying a Subsidiary's Budget Amounts in Its Local Currency](section_4115036429.md) — section_4115036429
+      - [Displaying a Subsidiary's Budget Amounts in a Parent Subsidiary's Currency](section_4115038212.md) — section_4115038212
+      - [Modifying Exchange Rates Used for Consolidated Amounts](section_4115039460.md) — section_4115039460

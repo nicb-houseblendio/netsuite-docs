@@ -1,0 +1,32 @@
+# Issue Management
+
+Issue Management (24 pages): Issue Management
+
+## Chapters
+- [Issue Management](chapter_N2438260.md): The Issue Management feature lets you set up NetSuite to document and manage issues that occur with the products you manufacture and sell.
+  - [Issue Management Overview](section_N2439679.md): The Issue Management feature expands your customer support capabilities and lets you follow up more accurately with customers who report problems.
+  - [Issue Management Setup Checklist](section_N2439844.md): Use the following checklist to help you set up the Issue Management feature: | | Task | | --- | --- | | 1 | Setting Issue Management Preferences(https://docs.
+  - [Getting Started With Issue Management](section_N2440450.md): Using the Support Management feature lets you improve your customer support by enabling and setting up the Issue Management feature.
+  - [Setting Issue Management Preferences](section_N2441221.md): You can set general preferences for the Issue Management feature on the Issue Preferences page.
+  - [Setting Up Issue Statuses](section_N2441539.md): Issue statuses define where an issue is in the resolution process.
+  - [Creating an Issue External Status](section_N2442071.md): Issue external statuses define the stages of an issue's progression the way you want customers to see them.
+  - [Setting Up Issue Severities](section_N2442248.md): Use the Issue Severities list to manage what options appear on the Severity field on issue records.
+  - [Setting Up Issue Priorities](section_N2442386.md): Use the Issue Priorities list to create new choices for the Priority field on issue records.
+  - [Setting Up Issue Types](section_N2442528.md): Issue types define the type of change needed for an issue.
+  - [Setting Up Issue Sources](section_N2442704.md): Use the Issue Sources list to create new choices for the Source field on issue records.
+  - [Setting Up Issue Reproducibility](section_N2442842.md): Use the Issue Reproducibility list to create new choices for the Reproduced field on issue records.
+  - [Setting Up Issue Tags](section_N2442980.md): Issue tags let you add consistent keywords to issue records so employees can search and classify issues by tags.
+  - [Working with Products and Modules](section_N2443140.md): Products on issue records help determine which product team should handle issue resolution.
+  - [Creating Issue Role Types](section_N2443675.md): You can create issue role types to set defaults for groups or employees who use issue records regularly.
+  - [Managing Issue Status Transitions](section_N2444542.md): On the Manage Status Transitions page, you can set the workflow of issue statuses.
+  - [Creating Employee Groups for Issues](section_N2444787.md): You can create three types of employee groups for working with issues: - Product Team groups - Can be selected in the Product Team field on issues.
+  - [Customizing Issue Notification Email](section_N2445049.md): You can customize the email sent to customers and employees when there are changes to issue records.
+  - [Logging Issues](section_N2445262.md): Tip: You can get writing help for text fields Abstract, New Details, External Abstract, and External Details from our generative AI service, NetSuite Text Enhance.
+  - [Linking Issues with Cases](section_N2445726.md): You can create or attach issue records on existing case records to associate issue resolution with case resolution.
+  - [Working with Related Issues](section_3736605424.md): In NetSuite, you can set up relationship types or links between issues.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch issue-management

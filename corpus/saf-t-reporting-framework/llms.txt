@@ -1,0 +1,19 @@
+# SAF-T Reporting Framework
+
+SAF-T Reporting Framework (8 pages): SAF-T Reporting Framework
+
+## Chapters
+- [SAF-T Reporting Framework](article_3102256279.md): To use the SAF-T Reporting Framework SuiteApp, read the following topics: - SAF-T Reporting Framework Overview(https://docs.
+  - [SAF-T Reporting Framework Overview](article_1126111604.md): SAF-T Reporting Framework provides a base for generating SAF-T reports in version 2.
+  - [Supported Languages in SAF-T Reporting Framework SuiteApp](article_0303082954.md): The SAF-T Reporting Framework SuiteApp supports the following languages: - English (U.
+  - [Known Limitations of the SAF-T Reporting Framework SuiteApp](article_1126120004.md): The SAF-T Reporting Framework SuiteApp doesn't support the following: - NetSuite accounts where the SuiteTax feature is enabled - Non-OneWorld NetSuite accounts - NetSuite accounts where the Withholding Tax SuiteApp is installed.
+  - [Prerequisites for Installing the SAF-T Reporting Framework SuiteApp](article_1126120044.md): Before you install the SAF-T Reporting Framework SuiteApp, you must do the following: 1.
+  - [Installing the SAF-T Reporting Framework SuiteApp](article_1126120135.md): The SAF-T Reporting Framework SuiteApp is available through the SuiteApp Marketplace.
+  - [Required Setup for Using the SAF-T Reporting Framework SuiteApp](article_1204025657.md): This section includes information about required steps for a proper setup of your account.
+  - [Generating the SAF-T Version 2.0 Reports](article_1129105421.md): You can generate SAF-T files in version 2.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch saf-t-reporting-framework

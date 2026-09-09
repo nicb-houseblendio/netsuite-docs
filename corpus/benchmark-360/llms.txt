@@ -1,0 +1,13 @@
+# Benchmark 360
+
+Benchmark 360 (25 pages): Benchmark 360
+
+## Chapters
+- [Benchmark 360](book_8103931390.md): - Benchmark 360(https://docs.
+  - [Benchmark 360](article_4100826319.md): The Benchmark 360 SuiteApp lets you compare your company's key metrics with others in your industry and region to boost your performance.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch benchmark-360

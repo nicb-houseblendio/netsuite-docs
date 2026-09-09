@@ -1,0 +1,24 @@
+# Country-Specific Reports
+
+Country-Specific Reports (33 pages): Country-Specific Reports
+
+## Chapters
+- [Country-Specific Reports](chapter_1526393632.md): Important: The Counry-Specific Reports SuiteApp will no longer receive feature enhancements.
+  - [Country-Specific Reports Overview](section_1526393714.md): Important: The Counry-Specific Reports SuiteApp will no longer receive feature enhancements.
+  - [Enabling Required Features for the Country-Specific Reports SuiteApp](section_1526393726.md): Before installing the Country-Specific Reports SuiteApp, go to Setup Company Setup Tasks Enable features, and make sure that you have the following features enabled in your NetSuite account: - In the Company tab: Multi-Language - In the Accounting tab: Accounting - In the SuiteCloud tab: Custom Records, Advanced PDF/HTML Templates, Server SuiteScript, Client SuiteScript, SuiteFlow For more information, see the help topic Enabling Features(https://docs.
+  - [Installing the Country-Specific Reports SuiteApp](section_1526393807.md): Important: The Counry-Specific Reports SuiteApp will no longer receive feature enhancements.
+  - [Roles and Permissions in Country-Specific Reports](section_1541408630.md): Access to certain records in the Country-Specific Reports SuiteApp is only restricted to certain user roles.
+  - [Creating Reports with the Country-Specific Reports SuiteApp](section_1108024322.md): Important: The Counry-Specific Reports SuiteApp will no longer receive feature enhancements.
+  - [Creating a Template for the Country-Specific Reports SuiteApp](section_1556609508.md): Every report created using the Country-Specific Reports SuiteApp is based on an HTML/XML template.
+  - [Adding NetSuite Data to the Template File](section_1541420619.md): To add NetSuite data to your HTML report template, use FreeMarker, a Java library used to generate text outputs based on templates and dynamic data.
+  - [Adding and Editing Report Elements](section_1540549110.md): Reports created using the Country-Specific Reports SuiteApp are based on HTML/XML report templates.
+  - [Displaying Parent-Child Hierarchy of Accounts in Country-Specific Reports](section_0907013554.md): For variables that consist of multiple accounts, you can enable a hierarchical display of the accounts in your report.
+  - [Viewing Country-Specific Reports](section_1540548990.md): Important: The Counry-Specific Reports SuiteApp will no longer receive feature enhancements.
+  - [Working with Reports](section_1542793488.md): Important: The Counry-Specific Reports SuiteApp will no longer receive feature enhancements.
+  - [Exporting Country-Specific Reports](subsect_156155136308.md): Important: The Counry-Specific Reports SuiteApp will no longer receive feature enhancements.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch country-specific-reports

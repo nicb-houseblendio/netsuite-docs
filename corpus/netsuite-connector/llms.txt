@@ -1,0 +1,12 @@
+# NetSuite Connector
+
+NetSuite Connector (1 pages): NetSuite Connector
+
+## Chapters
+- [NetSuite Connector](article_9105534539.md): NetSuite Connector (formerly known as FarApp) provides point integration solutions for leading ecommerce, logistics, and point-of-sale providers, enabling businesses to automate the data transfer between systems.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-connector

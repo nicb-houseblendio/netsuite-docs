@@ -1,0 +1,13 @@
+# NetSuite Features That Use AI
+
+NetSuite Features That Use AI (2 pages): Artificial Intelligence in NetSuite
+
+## Chapters
+- [Artificial Intelligence in NetSuite](book_5131850092.md): - NetSuite Features That Use AI(https://docs.
+  - [NetSuite Features That Use AI](article_5101751849.md): You may have questions about how NetSuite features use artificial intelligence (AI).
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-features-that-use-ai

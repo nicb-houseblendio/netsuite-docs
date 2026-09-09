@@ -1,0 +1,17 @@
+# Sweden Help Topics
+
+Sweden Help Topics (50 pages): Sweden Help Topics
+
+## Chapters
+- [Sweden Help Topics](chapter_157425969916.md): Overview The following help topics provide information about NetSuite features that are specific to companies doing business in Sweden.
+  - [Sweden Account Setup](section_157467279969.md): Setting up an account for an organization doing business in Sweden usually requires enabling several features and installing some additional SuiteApps.
+  - [Setting Up Sweden-specific Preferences](section_157468064129.md): To set up your NetSuite account according to Sweden-specific preferences, you must adjust your NetSuite company and subsidiary settings.
+  - [Sweden-specific SuiteApps](section_158590884256.md): - Sweden Localization(https://docs.
+  - [Sweden Tax Topics For Accounts Without SuiteTax](section_157476810322.md): If you have a Sweden subsidiary and nexus and you have the International Tax Reports SuiteApp installed in your NetSuite account, you can generate the VAT declaration for Sweden, in English or Swedish.
+  - [Sweden Payment Formats](section_1499240510.md): The Electronic Bank Payments SuiteApp lets businesses in Sweden to pay vendor bills and employee expenses by generating payment files formatted using the following formats: - Bankgiro (SEB) - Plusgiro (SEB) - SEPA Credit Transfer (SEB) To set up the Electronic Bank Payments SuiteApp for your company, subsidiaries, vendors, employees, customers, and partners in Sweden, read the following topics: - Setting Up Company Bank Records in Sweden(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch sweden-help-topics

@@ -1,0 +1,106 @@
+# Release Notes
+
+102 pages, category: What's New
+
+- [Release Notes](book_N3865324.md) — book_N3865324
+  - [NetSuite Version 2026.2](chapter_N3944673.md) — chapter_N3944673
+  - [NetSuite 2026.2 Release Notes](article_72152418635.md) — article_72152418635
+    - [Authentication](section_158921905537.md) — section_158921905537
+    - [Banking](section_90174746588.md) — section_90174746588
+    - [Commerce](section_162620661407.md) — section_162620661407
+      - [SC/SCMA/SCA - SuiteCommerce Solutions](section_N3945981.md) — section_N3945981
+      - [SuiteCommerce InStore](section_161833073156.md) — section_161833073156
+    - [CSV Import](section_N3949069.md) — section_N3949069
+    - [Employee Management](section_4316104783.md) — section_4316104783
+    - [Field Service Management](article_6101058185.md) — article_6101058185
+      - [2026 Releases of Field Service Management](article_92152044626.md) — article_92152044626
+      - [2025 Releases of Field Service Management](article_39091436979.md) — article_39091436979
+    - [Integrated Solutions](article_8134625068.md) — article_8134625068
+      - [Enterprise Performance Management (EPM)](article_5084829467.md) — article_5084829467
+      - [NetSuite Analytics Warehouse](article_1140446525.md) — article_1140446525
+    - [Inventory Management](section_1508852924.md) — section_1508852924
+    - [Item Record Management](section_4322136086.md) — section_4322136086
+    - [Manufacturing](section_1529087731.md) — section_1529087731
+    - [NetSuite CPQ](article_7151603539.md) — article_7151603539
+    - [Order Management](section_4316104540.md) — section_4316104540
+    - [Projects](section_3715561461.md) — section_3715561461
+    - [SuiteAnalytics](section_N3949039.md) — section_N3949039
+    - [SuiteApp Distribution](section_N3946132.md) — section_N3946132
+    - [SuiteBuilder - Customization](section_N3946228.md) — section_N3946228
+    - [SuiteCloud SDK](section_1558730192.md) — section_1558730192
+    - [SuiteTalk Web Services Integration](section_N3950559.md) — section_N3950559
+    - [Taxation](section_4316106593.md) — section_4316106593
+    - [Vendors, Purchasing, and Receiving](section_4316106140.md) — section_4316106140
+  - [Monthly Minor Release Notes](article_8174941789.md) — article_8174941789
+    - [August Minor Release](article_1175030259.md) — article_1175030259
+  - [NetSuite SuiteApps Release Notes](section_N3945762.md) — section_N3945762
+    - [Accounting SuiteApps](section_1507562099.md) — section_1507562099
+    - [Administration SuiteApps](section_1508778599.md) — section_1508778599
+    - [Inventory Management SuiteApps](section_1508778865.md) — section_1508778865
+    - [Localization SuiteApps](section_1521115850.md) — section_1521115850
+    - [Manufacturing SuiteApps](section_1508932552.md) — section_1508932552
+    - [Order Management SuiteApps](section_1508778720.md) — section_1508778720
+    - [Taxation SuiteApps](section_1508778763.md) — section_1508778763
+  - [SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced Release Notes](chapter_4410490401.md) — chapter_4410490401
+    - [Current Release](section_160285387367.md) — section_160285387367
+      - [2026.1 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_63163753220.md) — section_63163753220
+        - [2026.1.0 Release SC/SCA/SCMA](section_96164226742.md) — section_96164226742
+        - [2026.1.x Minor Releases](section_29164432535.md) — section_29164432535
+        - [Other Related Release Notes](section_4171325816.md) — section_4171325816
+      - [Commerce Themes Release Notes](section_158387080899.md) — section_158387080899
+      - [Commerce Extensions Release Notes](section_1528882174.md) — section_1528882174
+    - [Previous Releases](section_160285395548.md) — section_160285395548
+      - [2025.2 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_13065406585.md) — section_13065406585
+        - [2025.2.0 Release SC/SCA/SCMA](section_74065805175.md) — section_74065805175
+        - [2025.2.x Minor Releases](section_9071325929.md) — section_9071325929
+      - [2025.1 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_9122231548.md) — section_9122231548
+        - [2025.1.0 Release SC/SCA/SCMA](section_44122628991.md) — section_44122628991
+        - [2025.1.x Minor Releases](section_15122739758.md) — section_15122739758
+      - [2024.2 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_32124318745.md) — section_32124318745
+        - [2024.2.0 Release SC/SCA/SCMA](section_85124434756.md) — section_85124434756
+        - [2024.2.x Minor Releases](section_94125440796.md) — section_94125440796
+      - [2024.1 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_35140600728.md) — section_35140600728
+        - [2024.1.0 Release SC/SCA/SCMA](section_98141104940.md) — section_98141104940
+        - [2024.1.x Minor Releases](section_73141658131.md) — section_73141658131
+      - [2023.2 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_56171211213.md) — section_56171211213
+        - [2023.2.0 Release SC/SCA/SCMA](section_89171237588.md) — section_89171237588
+        - [2023.2.x Minor Releases](section_52101813936.md) — section_52101813936
+      - [2023.1 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_36171952540.md) — section_36171952540
+        - [2023.1.0 Release SC/SCA/SCMA](section_66155102921.md) — section_66155102921
+        - [2023.1.x Minor Releases](section_46165319635.md) — section_46165319635
+      - [2022.2 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_165338310610.md) — section_165338310610
+        - [2022.2.0 Release SC/SCA/SCMA](section_165338276588.md) — section_165338276588
+        - [2022.2.x Minor Releases](section_165338306340.md) — section_165338306340
+      - [2022.1 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_163723981215.md) — section_163723981215
+        - [2022.1.0 Release SC/SCA/SCMA](section_163724000722.md) — section_163724000722
+        - [2022.1.x Minor Releases](section_163724136597.md) — section_163724136597
+      - [2021.2 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_162143242969.md) — section_162143242969
+        - [2021.2.0 Release SC/SCA/SCMA](section_162143265201.md) — section_162143265201
+        - [2021.2.x Minor Releases](section_162143327035.md) — section_162143327035
+      - [2021.1 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_160571322153.md) — section_160571322153
+        - [2021.1.0 Release SC/SCA/SCMA](section_160571233509.md) — section_160571233509
+        - [2021.1.x Minor Releases](section_160571294776.md) — section_160571294776
+      - [2020.2 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_158894772718.md) — section_158894772718
+        - [2020.2.0 Release of SuiteCommerce, SuiteCommerce MyAccount, and SuiteCommerce Advanced](section_158894785342.md) — section_158894785342
+        - [2020.2.x Minor Releases](section_160443612519.md) — section_160443612519
+      - [2020.1 Release of SuiteCommerce and SuiteCommerce Advanced](section_157530291547.md) — section_157530291547
+        - [2020.1.0 Release of SuiteCommerce and SuiteCommerce Advanced](section_157530323192.md) — section_157530323192
+        - [2020.1.x Minor Releases](section_160494338383.md) — section_160494338383
+      - [2019.2 Release of SuiteCommerce and SuiteCommerce Advanced](section_1559335339.md) — section_1559335339
+        - [2019.2.0 Release of SuiteCommerce and SuiteCommerce Advanced](section_157185969379.md) — section_157185969379
+        - [2019.2.x Minor Releases](subsect_157246506874.md) — subsect_157246506874
+      - [2019.1 Release of SuiteCommerce and SuiteCommerce Advanced](section_1545173988.md) — section_1545173988
+        - [Commerce Applications](section_1545174531.md) — section_1545174531
+      - [2018.2 Release of SuiteCommerce and SuiteCommerce Advanced](section_1531145217.md) — section_1531145217
+        - [Commerce Applications](section_1531145829.md) — section_1531145829
+      - [Aconcagua R2 Release of SuiteCommerce Advanced](section_1528817488.md) — section_1528817488
+      - [Aconcagua Release of SuiteCommerce and SuiteCommerce Advanced](section_1511976254.md) — section_1511976254
+        - [Commerce Applications](section_1521905122.md) — section_1521905122
+      - [Kilimanjaro Release of SuiteCommerce Advanced](section_1497633679.md) — section_1497633679
+      - [Elbrus Release of SuiteCommerce Advanced](section_1489516760.md) — section_1489516760
+      - [Vinson Release of SuiteCommerce Advanced](section_4716300903.md) — section_4716300903
+      - [Mont Blanc Release of SuiteCommerce Advanced](section_4472605271.md) — section_4472605271
+      - [Denali R2 Release of SuiteCommerce Advanced](section_4431874390.md) — section_4431874390
+      - [Denali Release of SuiteCommerce Advanced](chapter_3911872967.md) — chapter_3911872967
+      - [Release Notes Prior to SuiteCommerce Advanced Denali](section_4386476459.md) — section_4386476459
+  - [NetSuite 2026.2 Translated Release Notes](chapter_N3894663.md) — chapter_N3894663

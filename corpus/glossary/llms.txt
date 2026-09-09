@@ -1,0 +1,14 @@
+# Glossary
+
+Glossary (3 pages): Glossary
+
+## Chapters
+- [Glossary](book_N3928385.md): - Glossary(https://docs.
+  - [Glossary](chapter_3794468027.md): <a id="svg1"</a svg\1 .
+  - [Area-Specific Glossaries](article_159531755298.md): The main Help Center Glossary contains the terms most commonly used in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch glossary

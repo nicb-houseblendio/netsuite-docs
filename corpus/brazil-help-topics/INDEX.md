@@ -1,0 +1,375 @@
+# Brazil Help Topics
+
+371 pages, category: Country-Specific Features
+
+- [Brazil Help Topics](section_4198261118.md) — section_4198261118
+  - [Brazil Help Topics in Portuguese](article_0203115739.md) — article_0203115739
+  - [Brazil Terminology](article_159793206719.md) — article_159793206719
+  - [Brazil Account Setup](article_162690117294.md) — article_162690117294
+  - [Setting Up Brazil-specific Preferences](article_162690108803.md) — article_162690108803
+  - [Brazil-specific SuiteApps](article_159250962270.md) — article_159250962270
+    - [Brazil Localization](article_164002729517.md) — article_164002729517
+      - [Brazil Localization SuiteApp Installation](article_164002765830.md) — article_164002765830
+        - [Prerequisites for Installing the Brazil Localization SuiteApp](subsect_164002766279.md) — subsect_164002766279
+        - [Installing the Brazil Localization SuiteApp](subsect_164002766885.md) — subsect_164002766885
+        - [Verifying the Import Status of the Brazil Localization Predefined Records](subsect_164002769902.md) — subsect_164002769902
+      - [Roles and Permissions for Brazil Localization](article_2091648269.md) — article_2091648269
+      - [Getting Started with Brazil Localization](article_0610102946.md) — article_0610102946
+        - [Brazil GL Lines Plug-in Deployment](article_164746251448.md) — article_164746251448
+        - [Enabling Withheld Tax Amounts Splitting Between Installments](article_3152139661.md) — article_3152139661
+        - [Setup for Special Taxation and Tax Accounting for Brazil](article_1010052645.md) — article_1010052645
+          - [Copying Tax Alias Mappings from Brazil](article_1010110859.md) — article_1010110859
+          - [Creating Parameter Type Alias Mappings for Brazil](article_1010110920.md) — article_1010110920
+        - [Adding the Type of Inventory Ownership and Custody to Locations for Brazil](article_0412023139.md) — article_0412023139
+        - [Defining the Import Bill Default Account](article_1001100152.md) — article_1001100152
+        - [Setting Up Subsidiaries for Brazil](article_164139168385.md) — article_164139168385
+          - [Adding Tax Substitute Registrations to Subsidiaries in Brazil](article_1218101903.md) — article_1218101903
+          - [Setting Transaction Accounts for Subsidiaries in Brazil](article_1218104649.md) — article_1218104649
+        - [Setting Up Customers for Brazil](article_0822115335.md) — article_0822115335
+        - [Setting Up Vendors for Brazil](article_0822013432.md) — article_0822013432
+          - [Adding Payment Information to Vendors in Brazil](article_1218042550.md) — article_1218042550
+          - [Adding Tax Substitute Registrations to Vendors in Brazil](article_1218042554.md) — article_1218042554
+        - [Setting Up Employees for Brazil](article_164141315213.md) — article_164141315213
+          - [Adding Payment Information to Employees in Brazil](article_1218060425.md) — article_1218060425
+        - [Addresses for Brazil](article_1223021015.md) — article_1223021015
+          - [Entering Addresses for Subsidiaries in Brazil](article_1218101900.md) — article_1218101900
+          - [Entering Addresses for Customers, Vendor, or Employees in Brazil](article_1218033009.md) — article_1218033009
+        - [Setting Up Contacts for Brazil](article_0713115925.md) — article_0713115925
+        - [Setting Up Predefined Expense Categories for Brazil](article_1109063409.md) — article_1109063409
+        - [Creating Items for Brazil](article_164684791452.md) — article_164684791452
+        - [Origin Information in Assembly, Lot, and Serial Numbered Items for Brazil](article_1001085741.md) — article_1001085741
+          - [Defining the Origin of Assembly Items for Brazil](article_1001041746.md) — article_1001041746
+          - [Defining the Origin and FCI Control Number in Inventory Details](article_1001072138.md) — article_1001072138
+      - [Electronic Invoicing for Brazil](article_0610103027.md) — article_0610103027
+        - [Setup for Electronic Invoicing for Brazil](article_0610103134.md) — article_0610103134
+          - [Creating the E-Document Sending Method for Brazil](article_0824111532.md) — article_0824111532
+          - [Creating Outbound E-Document Templates for Brazil](article_0824111606.md) — article_0824111606
+          - [Creating Additional Information Presets](article_0804022657.md) — article_0804022657
+          - [Creating Estimated Taxes for Brazil](article_0805015551.md) — article_0805015551
+          - [Setting Up Transaction Natures for Brazil](article_164139202330.md) — article_164139202330
+          - [CFOP Determination Rules](article_0112044242.md) — article_0112044242
+            - [Creating CFOP Determination Rules](article_1006105007.md) — article_1006105007
+            - [Additional Criteria for CFOP Determination Rules](article_1006115955.md) — article_1006115955
+              - [Mapping Custom Fields for CFOP Determination](article_1006120200.md) — article_1006120200
+              - [Adding Criteria to CFOP Determination Rules](article_1006114547.md) — article_1006114547
+          - [Associating the Brazil Certification Monitoring Plug-in with Tax Authorities](article_1116114637.md) — article_1116114637
+          - [Service Codes for Manaus (AM)](article_2115311951.md) — article_2115311951
+        - [Generation of Electronic Invoices for Brazil](article_0704035345.md) — article_0704035345
+          - [Adding Electronic Invoicing Information to Estimates and Sales Orders for Brazil](article_0824044715.md) — article_0824044715
+          - [Creating Invoices for Electronic Invoice Generation for Brazil](article_164121591419.md) — article_164121591419
+          - [Creating Cash Sales for Electronic Invoice Generation for Brazil](article_0824030558.md) — article_0824030558
+          - [Creating Inbound Deliveries for Electronic Invoice Generation for Brazil](article_0811110455.md) — article_0811110455
+          - [Creating Outbound Deliveries for Electronic Invoice Generation for Brazil](article_0811020108.md) — article_0811020108
+          - [Creating Outbound Deliveries for Electronic Declaration of Contents Generation for Brazil](article_0317062120.md) — article_0317062120
+          - [Importing Goods Into Brazil](article_0924025831.md) — article_0924025831
+            - [Creating Standalone Import Bills for Brazil](article_72093304056.md) — article_72093304056
+              - [Entering Acquirer or Orderer Information in Import Bills for Brazil](article_0113054547.md) — article_0113054547
+              - [Entering Shipment Information in Import Bills for Brazil](article_0113054512.md) — article_0113054512
+              - [Entering Customs Clearance Information in Import Bills for Brazil](article_0113054421.md) — article_0113054421
+              - [Adding Items and Expenses to Import Bills for Brazil](article_0113053928.md) — article_0113053928
+            - [Purchasing and Receiving Imported Goods in Brazil](article_1001094343.md) — article_1001094343
+              - [Creating Import Bills from Purchase Orders for Brazil](article_0924054452.md) — article_0924054452
+          - [Transferring Inventory Between Subsidiaries in Brazil](article_0526052239.md) — article_0526052239
+            - [Prerequisites for Transferring Inventory Between Subsidiaries in Brazil](article_0601032214.md) — article_0601032214
+            - [Creating Intercompany Inventory Transfer Orders in Brazil](article_0601115644.md) — article_0601115644
+            - [Receiving Intercompany Inventory Transfer Orders in Brazil](article_0601014855.md) — article_0601014855
+          - [Receiving Goods Returned From Customers for Brazil](article_164079114033.md) — article_164079114033
+          - [Returning Goods to Vendors for Brazil](article_0526055154.md) — article_0526055154
+          - [Transaction Information in Electronic Invoices for Brazil](article_0119120313.md) — article_0119120313
+            - [Entering Additional Information for Electronic Invoices for Brazil](article_0113054651.md) — article_0113054651
+            - [Entering Shipping Information for Electronic Invoices for Brazil](article_0113053934.md) — article_0113053934
+            - [Adding E-Document Information for Electronic Invoices for Brazil](article_0113054845.md) — article_0113054845
+          - [Generating Electronic Invoices for Brazil](article_0114113032.md) — article_0114113032
+        - [Canceling Electronic Invoices for Brazil](article_164079112843.md) — article_164079112843
+        - [Correcting Electronic Invoices for Brazil](article_164079113571.md) — article_164079113571
+        - [Voiding E-Document Numbers for Brazil](article_1108041643.md) — article_1108041643
+        - [Assigning New Numbers to E-Documents from Brazil](article_1115061510.md) — article_1115061510
+        - [Incoming Electronic Invoices for Brazil](article_0704043007.md) — article_0704043007
+          - [Adding Electronic Invoicing Information in Purchase Orders for Brazil](article_9085615288.md) — article_9085615288
+          - [Posting Incoming Electronic Invoices in Vendor Bills for Brazil](article_164684800467.md) — article_164684800467
+          - [Posting Incoming Electronic Invoices in Inbound Deliveries for Brazil](article_0406040529.md) — article_0406040529
+          - [Posting Incoming Electronic Invoices in Goods Returns for Brazil](article_0406044239.md) — article_0406044239
+        - [Entering Cash Sales with SAT Cash Receipts for Brazil](article_0526022217.md) — article_0526022217
+        - [Posting Electronic Bills of Lading for Brazil](article_0809024234.md) — article_0809024234
+        - [GNRE for Brazil](article_0706102448.md) — article_0706102448
+          - [Setup for GNRE for Brazil](article_0429043532.md) — article_0429043532
+            - [Setting GNRE Subsidiary Preferences](article_0124125544.md) — article_0124125544
+          - [Generating GNRE Forms for Brazil](article_0124045135.md) — article_0124045135
+      - [Payments for Brazil](article_0610103106.md) — article_0610103106
+        - [Setup for Payments for Brazil](article_0610103119.md) — article_0610103119
+          - [Setting Up Fine and Interest Items for Brazil](article_0523013623.md) — article_0523013623
+          - [Setting Up the Discount Item for Brazil](article_0115062157.md) — article_0115062157
+          - [Creating Terms of Payment for Brazil](article_164694494732.md) — article_164694494732
+          - [Setting Up Payment Methods for Brazil](article_0318020146.md) — article_0318020146
+          - [Finding Predefined Bank Slip Templates for Brazil](article_0512054058.md) — article_0512054058
+          - [Creating Bank Records for Brazil](article_0509023224.md) — article_0509023224
+            - [Setting Up Bank Slips Generation with Brazil Localization](article_1223031345.md) — article_1223031345
+            - [Setting Up CNAB Delivery File Generation with Brazil Localization](article_1223031426.md) — article_1223031426
+          - [Creating Banking Information Records for Brazil](article_164927732451.md) — article_164927732451
+            - [Defining CNAB 240 Information for Brazil](article_1223042331.md) — article_1223042331
+            - [Defining CNAB 400 Information for Brazil](article_1223042253.md) — article_1223042253
+            - [Defining CNAB 750 Information for Brazil](article_1223042402.md) — article_1223042402
+          - [Enabling Payments for Brazil in Custom Transactions](article_0328020130.md) — article_0328020130
+          - [Creating CNAB Return Occurrence Codes](article_0115111355.md) — article_0115111355
+          - [Setting the CNAB File Generation Capacity for Brazil](article_0730093056.md) — article_0730093056
+          - [Creating the Brazil Data for Banking Plug-in Implementation](article_0423102942.md) — article_0423102942
+        - [Payment Information in Transactions for Brazil](article_0912024757.md) — article_0912024757
+          - [Adding Payment Information to Transactions With Installments for Brazil](article_0405021416.md) — article_0405021416
+            - [Adding Payment Information in Invoices for Brazil](article_0913030538.md) — article_0913030538
+            - [Adding Payment Information in Vendor Bills for Brazil](article_0913030508.md) — article_0913030508
+          - [Adding Payment Information to Transactions Without Installments for Brazil](article_0330091602.md) — article_0330091602
+            - [Adding Payment Information to Sales Transactions Without Installments for Brazil](article_0904113106.md) — article_0904113106
+            - [Adding Payment Information to Purchase Transactions Without Installments for Brazil](article_0904113119.md) — article_0904113119
+        - [Fine and Interest Charges for Brazil](article_0108100406.md) — article_0108100406
+          - [Applying Fine and Interest Charges on Sales for Brazil](article_164933450907.md) — article_164933450907
+          - [Applying Fine and Interest Charges on Purchases for Brazil](article_66155257396.md) — article_66155257396
+        - [Applying Discounts to the Payments of Sales for Brazil](article_0115113716.md) — article_0115113716
+        - [CNAB for Brazil](article_0108101832.md) — article_0108101832
+          - [CNAB Delivery Files](article_1226111607.md) — article_1226111607
+            - [CNAB 240 Delivery Files](article_1223052306.md) — article_1223052306
+            - [CNAB 400 Delivery Files](article_1226100630.md) — article_1226100630
+            - [CNAB 750 Delivery Files](article_1226100641.md) — article_1226100641
+          - [CNAB Delivery File Generation for Brazil](article_0509034618.md) — article_0509034618
+            - [Generating CNAB 240 Delivery File](article_0927033507.md) — article_0927033507
+            - [Generating CNAB 400 Delivery Files](article_0927033437.md) — article_0927033437
+            - [Generating CNAB 750 Delivery Files](article_0927033417.md) — article_0927033417
+            - [Monitoring the Status of CNAB Delivery File Generation](article_1223050026.md) — article_1223050026
+            - [Removing Installments from CNAB Delivery Files for Brazil](article_0329054328.md) — article_0329054328
+          - [Importing CNAB Return Files for Brazil](article_0510025146.md) — article_0510025146
+          - [Downloading Bank Slips for Brazil](article_0816014935.md) — article_0816014935
+          - [Troubleshooting CNAB Files Processing](article_0630102101.md) — article_0630102101
+      - [GL Impact of Custom Transactions for Brazil](article_2121341414.md) — article_2121341414
+      - [Brazil Localization Known Limitations and Best Practices](article_0510025817.md) — article_0510025817
+        - [Best Practices for the Brazil Localization SuiteApp](subsect_73145939411.md) — subsect_73145939411
+        - [Known Limitations of the Brazil Localization SuiteApp](subsect_43145947682.md) — subsect_43145947682
+    - [SuiteTax Latam Engine - Brazil Records](article_162765674005.md) — article_162765674005
+      - [SuiteTax Latam Engine - Brazil Records SuiteApp Installation](article_162870562095.md) — article_162870562095
+        - [Prerequisites for Installing the SuiteTax Latam Engine - Brazil Records SuiteApp](subsect_162870716602.md) — subsect_162870716602
+        - [Installing the SuiteTax Latam Engine - Brazil Records SuiteApp](subsect_162870716950.md) — subsect_162870716950
+        - [Verifying the Import Status of the Brazil Predefined Records](subsect_162870726411.md) — subsect_162870726411
+      - [Roles and Permissions for the SuiteTax Latam Engine - Brazil Records](article_0704094121.md) — article_0704094121
+      - [Tax Codes and Tax Types for Brazil](article_0425094127.md) — article_0425094127
+        - [Adding Tax Accounts to the Tax Types for Brazil](article_0425094310.md) — article_0425094310
+        - [Tax Type and Tax Code Creation for Brazil](article_0425094314.md) — article_0425094314
+          - [Creating Tax Types for Brazil](article_1019112529.md) — article_1019112529
+          - [Creating Tax Codes for Brazil](article_1019112537.md) — article_1019112537
+      - [SuiteTax Latam Engine Plug-ins for Brazil](article_4172517920.md) — article_4172517920
+        - [SuiteTax Latam Engine Plug-ins for Taxes on Goods for Brazil](article_1024094616.md) — article_1024094616
+          - [CIDE Importação Brazil Plug-in](article_0902052614.md) — article_0902052614
+          - [COFINS Importação Bens Brazil Plug-in](article_0903020156.md) — article_0903020156
+          - [FCP Brazil Plug-in](article_0912055109.md) — article_0912055109
+          - [FCP ST Brazil Plug-in](article_0912060159.md) — article_0912060159
+          - [ICMS Importação Bens Brazil Plug-in](article_1016114448.md) — article_1016114448
+          - [II Importação Bens Brazil Plug-in](article_1016120139.md) — article_1016120139
+          - [IPI Brazil Plug-in](article_1016015204.md) — article_1016015204
+          - [IPI Importação Bens Brazil Plug-in](article_1016015904.md) — article_1016015904
+          - [PIS Importação Bens Brazil Plug-in](article_1016040039.md) — article_1016040039
+        - [SuiteTax Latam Engine Plug-ins for Taxes on Services from Brazil](article_1024094853.md) — article_1024094853
+          - [COFINS Importação Serviços Brazil Plug-in](article_0903023432.md) — article_0903023432
+          - [COFINS Retido Brazil Plug-in](article_0127054507.md) — article_0127054507
+          - [CSLL Retido Brazil Plug-in](article_0128052019.md) — article_0128052019
+          - [CSRF Brazil Plug-in](article_0903024701.md) — article_0903024701
+          - [INSS PF Brazil Plug-in](article_1016014524.md) — article_1016014524
+          - [INSS PJ Brazil Plug-in](article_1016015109.md) — article_1016015109
+          - [IRRF Importação Brazil Plug-in](article_1016020941.md) — article_1016020941
+          - [IRRF PF Brazil Plug-in](article_1016021208.md) — article_1016021208
+          - [IRRF PJ Brazil Plug-in](article_1016021732.md) — article_1016021732
+          - [ISS Brazil Plug-in](article_1016022331.md) — article_1016022331
+          - [ISS Importação Brazil Plug-in](article_1016022544.md) — article_1016022544
+          - [PIS Importação Serviços Brazil Plug-in](article_1016040306.md) — article_1016040306
+          - [PIS Retido Brazil Plug-in](article_0128052404.md) — article_0128052404
+        - [SuiteTax Latam Engine Plug-ins for Taxes on Goods and Services from Brazil](article_1024095241.md) — article_1024095241
+          - [CBS Brazil Plug-in](article_1105091052.md) — article_1105091052
+          - [COFINS Brazil Plug-in](article_0903082725.md) — article_0903082725
+          - [IBS Brazil Plug-in](article_1105094227.md) — article_1105094227
+          - [ICMS Brazil Plug-in](article_1010055921.md) — article_1010055921
+          - [ICMS Difal Brazil Plug-in](article_1011030516.md) — article_1011030516
+          - [ICMS ST Brazil Plug-in](article_1016115507.md) — article_1016115507
+          - [PIS Brazil Plug-in](article_1016024956.md) — article_1016024956
+      - [Creating CFOP Codes for Brazil](article_0704090833.md) — article_0704090833
+      - [Adding NBS and cIndOp Codes to Service Codes for Brazil](article_1127021052.md) — article_1127021052
+      - [Tax Determination Rules Setup for Brazil](article_162870753966.md) — article_162870753966
+        - [Finding the Predefined Tax Determination Rules Files for Brazil](article_162870772972.md) — article_162870772972
+        - [Predefined Tax Determination Rules Import for Brazil](article_162870774338.md) — article_162870774338
+          - [Importing Predefined Tax Determination Rules for Brazil](subsect_162870787289.md) — subsect_162870787289
+          - [Importing Predefined Tax Determination Settings for Brazil](subsect_162870790503.md) — subsect_162870790503
+        - [Setting Tax Determination Rules Preferences for Brazil](article_162870775934.md) — article_162870775934
+      - [Creating Tax Determination Rules for Specific CFOP, MCN, or Service Codes](article_164760698762.md) — article_164760698762
+      - [Creating Tax Determination Settings for Specific Origin Codes](article_0925050414.md) — article_0925050414
+      - [Parameter Types for Brazil](article_163664116234.md) — article_163664116234
+        - [Copying Parameters Types from Brazil](article_1009051816.md) — article_1009051816
+      - [Setting Tax Information in Subsidiary Records for Brazil](article_164149942864.md) — article_164149942864
+      - [SuiteTax Latam Engine - Brazil Records Best Practices and Known Limitations](article_0117055109.md) — article_0117055109
+    - [Brazil Reports](article_164624304276.md) — article_164624304276
+      - [Brazil Reports SuiteApp Installation](article_164624303035.md) — article_164624303035
+        - [Prerequisites for Installing the Brazil Reports SuiteApp](subsect_164624307859.md) — subsect_164624307859
+        - [Installing the Brazil Reports SuiteApp](subsect_164624318498.md) — subsect_164624318498
+        - [Verifying the Import Status of the Brazil Reports Predefined Records](subsect_72100339883.md) — subsect_72100339883
+      - [Roles and Permissions for Brazil Reports](article_1122024935.md) — article_1122024935
+      - [Brazil Reports Setup](article_0729101507.md) — article_0729101507
+        - [Setting Up Accounts to Appear in Reports for Brazil](article_0816091931.md) — article_0816091931
+        - [Cost Centers in Reports for Brazil](article_0708093202.md) — article_0708093202
+        - [Setting Up E-Document Categories for Other PIS and COFINS Sources](article_0711015217.md) — article_0711015217
+        - [Setting Up Customers for Brazil Reports](article_69173854800.md) — article_69173854800
+        - [Tax Revenue Codes for Brazil](article_0129085456.md) — article_0129085456
+          - [Associating Revenue Codes with Tax Assessments for Brazil](article_0128034945.md) — article_0128034945
+          - [Creating Tax Revenue Codes for Brazil](article_0123020924.md) — article_0123020924
+          - [Setting Up Default Revenue Codes for IRPJ and CSLL](article_1223023453.md) — article_1223023453
+        - [Setting Up the Nature of the Calculation Basis for Credit](article_0528093103.md) — article_0528093103
+        - [Associating SPED EFD Types with Items](article_93152340066.md) — article_93152340066
+        - [Setting the Subsidiary Classification for Manufacturing for Brazil](article_0804104337.md) — article_0804104337
+        - [Adjusting the ICMS Intrastate Tax Rate for SPED Reports](article_0911104931.md) — article_0911104931
+        - [Defining ICMS Posting Notes](article_1018030229.md) — article_1018030229
+        - [Creating E-Document Templates for EFD-Reinf Events](article_0113015811.md) — article_0113015811
+        - [Setting Up the EFD-Reinf Tax Authority](article_0113105137.md) — article_0113105137
+        - [Setting Up Accounting Book Numbers for ECD Files](article_0908040036.md) — article_0908040036
+        - [Adding Other Federal Registration Numbers to ECD Files](article_1208041829.md) — article_1208041829
+        - [Associating File Layouts with SPED File Types](article_0508053149.md) — article_0508053149
+        - [Importing Banking Integration Records for Tax Bills](article_0312050654.md) — article_0312050654
+      - [Country Tax Reports for Brazil](article_0924014747.md) — article_0924014747
+        - [Prerequisites for Generating Country Tax Reports for Brazil](article_0919113457.md) — article_0919113457
+          - [Prerequisites for Outbound Goods Fiscal Book](subsect_6083650745.md) — subsect_6083650745
+          - [Prerequisites for Inbound Goods Fiscal Book](subsect_0923083441.md) — subsect_0923083441
+          - [Prerequisites for Provided Services Fiscal Book](subsect_79083655079.md) — subsect_79083655079
+          - [Prerequisites for Received Services Fiscal Book](subsect_0923083634.md) — subsect_0923083634
+        - [Generating Accounting Reports for Brazil](article_0424102639.md) — article_0424102639
+        - [Generating Financial Statements for Brazil](article_82104919183.md) — article_82104919183
+        - [Generating Fiscal Books for Brazil](article_55171343950.md) — article_55171343950
+        - [Generating Auxiliary Reports for Brazil](article_6133908015.md) — article_6133908015
+      - [Tax Assessment for Brazil](article_0513012926.md) — article_0513012926
+        - [Prerequisites for Generating Tax Assessments for Brazil](article_0319020122.md) — article_0319020122
+          - [Prerequisites for ICMS Assessment](subsect_0319020334.md) — subsect_0319020334
+          - [Prerequisites for IPI Assessment](subsect_0403043646.md) — subsect_0403043646
+          - [Prerequisites for IRPJ and CSLL Assessment](article_0120102235.md) — article_0120102235
+          - [Prerequisites for ISS Assessment](subsect_0408041343.md) — subsect_0408041343
+          - [Prerequisites for PIS and COFINS Assessment](subsect_0408044427.md) — subsect_0408044427
+        - [Assessing ICMS](article_0512043231.md) — article_0512043231
+        - [Assessing IPI](article_0513020340.md) — article_0513020340
+        - [Assessing IRPJ and CSLL](article_0513020754.md) — article_0513020754
+          - [Including Revenue Codes for Withheld IRPJ and CSLL in Assessments](article_43092011308.md) — article_43092011308
+          - [Refreshing Transactions in IRPJ and CSLL Assessments](article_19135412202.md) — article_19135412202
+        - [Assessing ISS](article_0119031722.md) — article_0119031722
+        - [Assessing PIS and COFINS](article_0513020736.md) — article_0513020736
+          - [Including PIS and COFINS Withholding Information in Assessments](article_0422104848.md) — article_0422104848
+          - [Including Other Sources for PIS and COFINS in Assessments](article_0711030106.md) — article_0711030106
+          - [Including PIS and COFINS Credit Balances in Assessments](article_0918023816.md) — article_0918023816
+          - [Refreshing Transactions in PIS and COFINS Assessments](article_82112910956.md) — article_82112910956
+        - [Monitoring the Generation of Tax Assessment Reports](article_0727011526.md) — article_0727011526
+        - [Making Journal Entries from Tax Assessments for Brazil](article_0225010236.md) — article_0225010236
+        - [Tax Bills for Brazil](article_0113101733.md) — article_0113101733
+          - [Setting Up Tax Items for Brazil](article_0115032038.md) — article_0115032038
+          - [Generating Tax Bills for Brazil from Tax Assessments](article_0113045018.md) — article_0113045018
+          - [Generating Tax Bills for Brazil in Batch](article_0113020903.md) — article_0113020903
+          - [Creating Standalone Tax Bills for Brazil](article_0113105258.md) — article_0113105258
+          - [Adding Banking Integration Information to Tax Bills for Brazil](article_0311050920.md) — article_0311050920
+      - [Inventory Ownership and Custody Report for Brazil](article_0509045326.md) — article_0509045326
+        - [Generating Inventory Ownership and Custody Reports](article_0509045403.md) — article_0509045403
+        - [Adjusting Inventory Assessments](article_0509045423.md) — article_0509045423
+      - [Statutory Reports for Brazil](article_0509053952.md) — article_0509053952
+        - [Available Statutory Reports for Brazil](article_0509052242.md) — article_0509052242
+          - [ECD File](subsect_0723035727.md) — subsect_0723035727
+          - [ECF File](subsect_0723040258.md) — subsect_0723040258
+          - [EFD ICMS IPI File](subsect_0723040724.md) — subsect_0723040724
+          - [EFD Contribuições File](subsect_0723041141.md) — subsect_0723041141
+          - [EFD-Reinf Events](subsect_1231090648.md) — subsect_1231090648
+        - [Prerequisites for Generating Statutory Reports for Brazil](article_0509060252.md) — article_0509060252
+          - [Prerequisites for ECD](subsect_4134458211.md) — subsect_4134458211
+            - [Setting Journals Entries as Closing Journals for Brazil](article_1226043455.md) — article_1226043455
+          - [Prerequisites for ECF](subsect_22134503095.md) — subsect_22134503095
+          - [Prerequisites for EFD ICMS IPI](subsect_59134505962.md) — subsect_59134505962
+          - [Prerequisites for EFD Contribuições](subsect_83134509553.md) — subsect_83134509553
+          - [Prerequisites for EFD-Reinf](subsect_1231094558.md) — subsect_1231094558
+        - [Generating SPED Files](article_164874849258.md) — article_164874849258
+        - [Generating and Sending the EFD-Reinf](article_9091344046.md) — article_9091344046
+          - [Refreshing Transactions in EFD-Reinf Events](article_55091611879.md) — article_55091611879
+      - [Brazil Reports SuiteApp Best Practices and Known Limitations](article_0717035245.md) — article_0717035245
+        - [Best Practices of the Brazil Reports SuiteApp](subsect_0604092450.md) — subsect_0604092450
+        - [Known Limitations of the Brazil Reports SuiteApp](subsect_0604092408.md) — subsect_0604092408
+    - [Brazil Certification Tax Authorities](article_160518988176.md) — article_160518988176
+      - [Brazil Certification Tax Authorities SuiteApp Installation](article_160518990089.md) — article_160518990089
+        - [Prerequisites for Installing the Brazil Certification Tax Authorities SuiteApp](subsect_160519005536.md) — subsect_160519005536
+        - [Installing the Brazil Certification Tax Authorities SuiteApp](subsect_160519008409.md) — subsect_160519008409
+        - [Verifying the Import Status of the Brazil Certification Tax Authorities Predefined Records](subsect_160771232476.md) — subsect_160771232476
+      - [Roles and Permissions for Brazil Certification Tax Authorities](article_0613034617.md) — article_0613034617
+      - [Predefined E-Document Template Files for Brazil](article_0915021206.md) — article_0915021206
+        - [Downloading E-Document Template Files for Electronic Invoices for Goods for Brazil](article_0317104943.md) — article_0317104943
+        - [Downloading E-Document Template Files for Electronic Invoices for Services for Brazil](article_42105327142.md) — article_42105327142
+        - [Downloading E-Document Template Files for Electronic Declarations of Contents for Brazil](article_28110552271.md) — article_28110552271
+        - [Downloading E-Document Template Files for GNRE Tax Collection Forms](article_34111005396.md) — article_34111005396
+        - [Downloading E-Document Template Files for Receiver Acknowledgment Events](article_0317014445.md) — article_0317014445
+        - [Downloading E-Document Template Files for EFD-Reinf Events](article_5145229602.md) — article_5145229602
+      - [Setting Up Certification Service Operations for Brazil](article_0327111232.md) — article_0327111232
+        - [Predefined PDF Templates for Brazil](article_0724013953.md) — article_0724013953
+        - [PDF Templates Customization for Brazil](article_0626024017.md) — article_0626024017
+        - [Predefined E-Document Validation Files for Brazil](article_163283858825.md) — article_163283858825
+      - [Certification Custom Fields for Brazil](article_0703051829.md) — article_0703051829
+        - [Adding GIAP Standard's Certification Custom Field](article_0519031000.md) — article_0519031000
+        - [Adding Florianópolis' Certification Custom Fields](article_161523517018.md) — article_161523517018
+        - [Adding Rio Branco's Certification Custom Field](article_0830053647.md) — article_0830053647
+        - [Adding SAATRI Standard's Certification Custom Fields](article_53100232361.md) — article_53100232361
+      - [Receiver Acknowledgment](article_0517104030.md) — article_0517104030
+        - [Receiver Acknowledgment Setup](article_0623100748.md) — article_0623100748
+          - [Associating the Receiver Acknowledgment Monitoring Plug-in with the Tax Authority](article_15114506524.md) — article_15114506524
+          - [Adding Receiver Acknowledgment Custom Fields](article_0612114344.md) — article_0612114344
+          - [Inbound E-Document Validation Setup for Brazil](article_0623101116.md) — article_0623101116
+            - [Creating an Inbound E-Document Validation Plug-in for Brazil](article_0623101950.md) — article_0623101950
+            - [Associating the Validation Plug-in with an E-Document Package](article_0623011829.md) — article_0623011829
+          - [Creating Inbound E-Document Templates for Brazil](article_0620032543.md) — article_0620032543
+          - [Defining Inbound E-Document Settings](article_0517104202.md) — article_0517104202
+        - [Sending Receiver Acknowledgment Events](article_0504014909.md) — article_0504014909
+        - [Verifying the Status of Receiver Acknowledgment Requests](article_0823112919.md) — article_0823112919
+        - [Adding the Incoming E-Documents Portlet to a Dashboard](article_0131114159.md) — article_0131114159
+      - [Adding the Certification Web Services Availability Portlet to a Dashboard](article_0723034537.md) — article_0723034537
+      - [Brazil Certification Tax Authorities SuiteApp Best Practices and Known Limitations](article_162498920825.md) — article_162498920825
+        - [Best Practices for the Brazil Certification Tax Authorities SuiteApp](subsect_162499988920.md) — subsect_162499988920
+        - [Known Limitations of the Brazil Certification Tax Authorities SuiteApp](subsect_162499989484.md) — subsect_162499989484
+    - [Brazil Banking Integration](article_140904677.md) — article_140904677
+      - [Brazil Banking Integration SuiteApp Installation](article_0109021000.md) — article_0109021000
+        - [Prerequisites for Installing the Brazil Banking Integration SuiteApp](subsect_0109021438.md) — subsect_0109021438
+        - [Installing the Brazil Banking Integration SuiteApp](subsect_0109021540.md) — subsect_0109021540
+        - [Verifying the Import Status of the Brazil Banking Integration Predefined Records](subsect_0109021611.md) — subsect_0109021611
+      - [Roles and Permissions for Brazil Banking Integration](article_0123113420.md) — article_0123113420
+        - [Default Permissions for Brazil Banking Integration](article_0331100028.md) — article_0331100028
+        - [Required Permissions for Brazil Banking Integration](article_0331100030.md) — article_0331100030
+      - [Brazil Banking Integration Setup](article_0116045027.md) — article_0116045027
+        - [API Secrets for Banking Integration for Brazil](article_0223051436.md) — article_0223051436
+        - [Customizing Bank Slip and Email Templates for Brazil](article_0703095958.md) — article_0703095958
+        - [Defining Banking Integration Preferences for Brazil](article_0114014706.md) — article_0114014706
+        - [Adding the Test Field to Bank Statement Request Headers for Brazil](article_0128010259.md) — article_0128010259
+        - [Setting Up Bank Slip File Generation for Brazil](article_0605014227.md) — article_0605014227
+        - [Creating Bank Account Details for Brazil](article_0114053915.md) — article_0114053915
+          - [Defining Bank Slip Settings for Banking Integration for Brazil](article_0327111559.md) — article_0327111559
+          - [Defining Pix Settings for Banking Integration for Brazil](article_1205014141.md) — article_1205014141
+          - [Associating Pix Keys with Bank Account Details for Brazil](article_0327023701.md) — article_0327023701
+          - [Defining Accounts Payable Payment Settings for Brazil](article_0904115452.md) — article_0904115452
+          - [Setting Up Payment Methods for Bank Accounts in Brazil](article_0326054334.md) — article_0326054334
+        - [Setting Up Bank Connections for Brazil](article_0116022155.md) — article_0116022155
+          - [Adding Application Credentials to Bank Connection Settings for Brazil](article_0116053359.md) — article_0116053359
+          - [Associating Bank Accounts with Bank Connections for Brazil](article_0122042404.md) — article_0122042404
+          - [Selecting the Environment of the Connected Banking API for Brazil](article_0116051843.md) — article_0116051843
+        - [Setting Up Accounts Payable Approval for Brazil](article_0902024623.md) — article_0902024623
+        - [Scheduling the Import of Bank Statements for Brazil](article_0121032349.md) — article_0121032349
+        - [Scheduling the Verification of the Accounts Receivable Status for Brazil](article_0522021722.md) — article_0522021722
+        - [Scheduling the Verification of the Accounts Payable Integration Status for Brazil](article_0903023050.md) — article_0903023050
+      - [Bank Statement Imports for Brazil](article_0116050006.md) — article_0116050006
+        - [Viewing Bank Statement Import Errors for Brazil](article_0124033525.md) — article_0124033525
+      - [Accounts Receivable Automation for Brazil](article_0325115102.md) — article_0325115102
+        - [Adding Banking Integration Information to Invoices for Brazil](article_0326104903.md) — article_0326104903
+        - [Processing Accounts Receivable Payments for Brazil](article_0325115150.md) — article_0325115150
+        - [Monitoring Accounts Receivable Payments for Brazil](article_0423093713.md) — article_0423093713
+        - [Viewing Bank Slip and Pix Information](article_0423021812.md) — article_0423021812
+      - [Accounts Payable Automation for Brazil](article_0902020641.md) — article_0902020641
+        - [Adding Banking Integration Information to Purchase Transactions for Brazil](article_0902020724.md) — article_0902020724
+        - [Processing Accounts Payable Payments for Brazil](article_0902020810.md) — article_0902020810
+        - [Approving Accounts Payable Payments for Brazil](article_0902022859.md) — article_0902022859
+        - [Monitoring Accounts Payable Payments for Brazil](article_0127022344.md) — article_0127022344
+    - [Brazil Deferred Revenue Recognition](article_5174000891.md) — article_5174000891
+      - [Brazil Deferred Revenue Recognition SuiteApp Installation](article_0218054023.md) — article_0218054023
+        - [Prerequisites for Installing the Brazil Deferred Revenue Recognition SuiteApp](article_84165652987.md) — article_84165652987
+        - [Installing the Brazil Deferred Revenue Recognition SuiteApp](article_44165705077.md) — article_44165705077
+      - [Roles and Permissions for Brazil Deferred Revenue Recognition](article_0311034855.md) — article_0311034855
+      - [Brazil Deferred Revenue Recognition Setup](article_0709114820.md) — article_0709114820
+        - [Creating Deferred Revenue Settings for Brazil](article_0218054736.md) — article_0218054736
+        - [Creating Recognition Treatments for Brazil](article_0713113814.md) — article_0713113814
+        - [Defining Recognition Treatment Rules for Brazil](article_0713115326.md) — article_0713115326
+      - [Prerequisites for Recognizing Deferred Revenue for Brazil](article_0327023059.md) — article_0327023059

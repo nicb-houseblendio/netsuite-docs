@@ -1,0 +1,276 @@
+# Item Record Management
+
+272 pages, category: SCM (Supply Chain Management)
+
+- [SCM (Supply Chain Management)](set_N1734902.md) — set_N1734902
+  - [Item Record Management](book_N2164398.md) — book_N2164398
+    - [Using Item Records](chapter_N2164525.md) — chapter_N2164525
+      - [Creating Item Records](section_N2166469.md) — section_N2166469
+        - [Creating Item Records Using the Item Creation Assistant](article_0414025056.md) — article_0414025056
+        - [Item Record Header Fields](subsect_161918187368.md) — subsect_161918187368
+        - [Entering Purchasing and Inventory Information about Items](section_N2167714.md) — section_N2167714
+          - [Entering Item and Cost Details](section_1504280874.md) — section_1504280874
+          - [Entering Inventory Management Details](section_1504284487.md) — section_1504284487
+          - [Entering Manufacturing Details](section_1504284475.md) — section_1504284475
+          - [Entering Shipping Details](section_1504284463.md) — section_1504284463
+          - [Entering Vendor Bill Matching Details](section_1504284393.md) — section_1504284393
+          - [Lot, Serial, and Bin Numbering](section_1504285820.md) — section_1504285820
+          - [Locations](section_1504284372.md) — section_1504284372
+          - [Vendors](section_1504283563.md) — section_1504283563
+          - [Adding Components to Kits or Item Groups](section_N2170512.md) — section_N2170512
+        - [Sales and Shipping Information for Items](section_N2171993.md) — section_N2171993
+          - [Sales Information for Items](bridgehead_N2172023.md) — bridgehead_N2172023
+          - [Shipping Information for Items](bridgehead_N2172307.md) — bridgehead_N2172307
+        - [Account Information about Items](section_N2172688.md) — section_N2172688
+        - [Revenue Recognition and Amortization Information about Items](bridgehead_N2173064.md) — bridgehead_N2173064
+        - [Tax and Tariff Information about Items](bridgehead_N2173187.md) — bridgehead_N2173187
+        - [Entering Preferences on Item Records](section_N2173412.md) — section_N2173412
+        - [Copying and Importing Item Records](section_N2173669.md) — section_N2173669
+      - [Updating Item Records](section_N2173913.md) — section_N2173913
+        - [Changing the COGS and Asset Accounts on Assembly and Inventory Items](article_0324022028.md) — article_0324022028
+      - [Restricting Items](section_N2176374.md) — section_N2176374
+      - [Viewing the Items List](section_N2176664.md) — section_N2176664
+      - [Working With Multi-Language Names and Descriptions](section_N2178279.md) — section_N2178279
+      - [Related Information for Items](section_N2179943.md) — section_N2179943
+    - [Item Pricing](chapter_N2180614.md) — chapter_N2180614
+      - [Setting Up Item Pricing](section_N2181018.md) — section_N2181018
+        - [Using Multiple Prices or Currencies](bridgehead_1493655077.md) — bridgehead_1493655077
+      - [Using Multiple Pricing](section_N2181607.md) — section_N2181607
+        - [Creating Price Levels](section_N2181938.md) — section_N2181938
+        - [Setting Up Items for Multiple Price Levels](section_N2182221.md) — section_N2182221
+          - [Editing Multiple Prices on Item Records](bridgehead_N2182345.md) — bridgehead_N2182345
+        - [Setting Up Price Levels for Customers](section_N2182485.md) — section_N2182485
+        - [Editing Price Levels](section_N2182796.md) — section_N2182796
+        - [Assigning a Foreign Currency Price to a Sales Item](section_N2183023.md) — section_N2183023
+      - [Using Quantity Pricing](section_N2183333.md) — section_N2183333
+        - [Quantity Pricing Schedules](section_N2183677.md) — section_N2183677
+      - [Creating Pricing Groups](section_N2184077.md) — section_N2184077
+      - [Updating Item Prices](section_N2184312.md) — section_N2184312
+      - [Updating Item Purchase Prices](section_N2184741.md) — section_N2184741
+      - [Swapping Prices Between Price Levels](section_N2185052.md) — section_N2185052
+      - [Creating Item Coupons](section_N2185383.md) — section_N2185383
+      - [Generating Price Lists](section_N2185787.md) — section_N2185787
+        - [Customize Price List Pages and Forms](bridgehead_N2186163.md) — bridgehead_N2186163
+        - [Price List Formats](bridgehead_N2187468.md) — bridgehead_N2187468
+        - [Searching for Price Lists](article_163171136751.md) — article_163171136751
+        - [Absolute Pricing for Customers](article_163171157590.md) — article_163171157590
+        - [Generating Bulk Price Lists and Customizing Lists](section_N2187796.md) — section_N2187796
+        - [Generating an Individual Price List](section_N2188411.md) — section_N2188411
+        - [Customizing Price List Forms](section_N2188838.md) — section_N2188838
+        - [Working With Pricing Searches](section_N2189322.md) — section_N2189322
+    - [Item Costing](chapter_N2191369.md) — chapter_N2191369
+      - [Setting Inventory Costing Preferences](section_1497451045.md) — section_1497451045
+      - [Costing Methods](section_N2191818.md) — section_N2191818
+        - [Setting a Default Inventory Costing Method](section_4345703007.md) — section_4345703007
+          - [Changing Your Costing Method](bridgehead_160650437174.md) — bridgehead_160650437174
+          - [Inventory Reporting After Changing the Costing Method](section_N2193441.md) — section_N2193441
+      - [Selecting a Default Cost of Goods Sold (COGS) Account](section_N2192814.md) — section_N2192814
+      - [Inventory Costing and Assembly Items](section_N2194190.md) — section_N2194190
+      - [LIFO/FIFO Inventory Costing and Advanced Receiving](section_N2194541.md) — section_N2194541
+      - [System Cost of Goods Sold Adjustments](section_N2195087.md) — section_N2195087
+      - [Viewing Inventory Reports](section_N2197076.md) — section_N2197076
+      - [Inventory Costing Recalculations](section_N2197365.md) — section_N2197365
+        - [Inventory Costing Recalculations on Inventory Adjustments](bridgehead_N2198841.md) — bridgehead_N2198841
+      - [Troubleshoot Inventory Costing](section_4447393386.md) — section_4447393386
+        - [Underwater Sales](bridgehead_4337968219.md) — bridgehead_4337968219
+        - [Not Entering a Purchase Price](bridgehead_4337968394.md) — bridgehead_4337968394
+        - [Backdate Transactions to a Closed Period](bridgehead_4337968973.md) — bridgehead_4337968973
+        - [Reopen a Closed Period](bridgehead_4337970750.md) — bridgehead_4337970750
+        - [Custom Scripts](bridgehead_4337969428.md) — bridgehead_4337969428
+        - [FIFO/LIFO Costing on the Inventory Adjustment Worksheet](bridgehead_4337970267.md) — bridgehead_4337970267
+        - [Revalue Standard Cost Inventory and Backdate](bridgehead_4337969765.md) — bridgehead_4337969765
+        - [Stand Alone Credit Memo](bridgehead_4337971641.md) — bridgehead_4337971641
+        - [Backdate Item Distribution](bridgehead_4383713305.md) — bridgehead_4383713305
+      - [Cost Accounting Status on Item Records](section_N2199228.md) — section_N2199228
+      - [Item Return Costing](section_N2199328.md) — section_N2199328
+      - [Group Average Costing](section_4345703444.md) — section_4345703444
+        - [Enabling Group Average Costing](article_163231611059.md) — article_163231611059
+        - [Creating a Location Costing Group](section_4346482917.md) — section_4346482917
+        - [Balance Location Costing Group Accounts](section_4503902247.md) — section_4503902247
+          - [Working With the Balance Location Costing Group Accounts Page](article_163231947670.md) — article_163231947670
+          - [Balancing Location Costing Group Accounts](article_163232085623.md) — article_163232085623
+        - [Viewing the Balance Location Costing Group Accounts Status Page](section_4514906066.md) — section_4514906066
+      - [Standard Costing](section_N2199708.md) — section_N2199708
+        - [Standard Costing Workflow](subsect_162705144712.md) — subsect_162705144712
+        - [Standard Costing Example](subsect_162705257513.md) — subsect_162705257513
+        - [Enabling Standard Costing](section_N2200714.md) — section_N2200714
+        - [Creating Cost Categories](section_N2201059.md) — section_N2201059
+        - [Creating Inventory Cost Templates](section_159673804330.md) — section_159673804330
+        - [Setting Up Item Records for Standard Costing](section_N2201836.md) — section_N2201836
+        - [Defining Cost Versions](section_N2202327.md) — section_N2202327
+        - [Entering Planned Standard Cost Records](section_N2202799.md) — section_N2202799
+        - [Standard Cost Rollup](section_N2204939.md) — section_N2204939
+        - [Revalue Standard Cost Inventory](section_N2205401.md) — section_N2205401
+          - [Process a Revaluation Transaction](bridgehead_N2205507.md) — bridgehead_N2205507
+            - [Revaluing Standard Cost Inventory in Bulk](bridgehead_N2205569.md) — bridgehead_N2205569
+            - [Manually Entering an Inventory Cost Revaluation](section_N2205923.md) — section_N2205923
+            - [Deleting a Revaluation](article_163275017694.md) — article_163275017694
+          - [Revaluation and Multi-Book Accounting](bridgehead_4659460723.md) — bridgehead_4659460723
+        - [Standard Costing and Transactions](section_N2206397.md) — section_N2206397
+        - [Assembly Build Production Cost Variances](section_N2209083.md) — section_N2209083
+        - [Understanding GL Impact Small Variances in Standard Costing](article_0723035731.md) — article_0723035731
+        - [Standard Costing FAQ](section_N2211106.md) — section_N2211106
+        - [Standard Costing Reporting](section_N2211461.md) — section_N2211461
+      - [Inventory Cost Accounting Workbook](article_0420024853.md) — article_0420024853
+    - [Multiple Units of Measure](chapter_N2211898.md) — chapter_N2211898
+      - [Enabling Multiple Units of Measure](article_163283384203.md) — article_163283384203
+      - [Setting Up Units of Measure](section_N2212143.md) — section_N2212143
+        - [Assigning Units of Measure to Items](section_N2212390.md) — section_N2212390
+      - [Serial and Lot Inventory with Multiple Units of Measure](section_N2214525.md) — section_N2214525
+    - [Bar Codes and Item Labels](chapter_N2215205.md) — chapter_N2215205
+      - [Using Code 128 Bar Codes](article_163292085605.md) — article_163292085605
+      - [Enabling the Bar Coding and Item Labels Feature](article_163292087805.md) — article_163292087805
+      - [Printing Bar Code and Item Labels](section_N2215536.md) — section_N2215536
+        - [Printing Item Labels in Bulk](bridgehead_N2218255.md) — bridgehead_N2218255
+      - [Scanning Bar Codes](section_N2218627.md) — section_N2218627
+      - [Processing Orders Using Bar Codes](section_N561778.md) — section_N561778
+      - [Printing Labels From Transactions](section_N562976.md) — section_N562976
+    - [Item Types](chapter_N2222944.md) — chapter_N2222944
+      - [Item Records for Data Tracking](article_163300696254.md) — article_163300696254
+      - [Groups, Assemblies, and Kit/Packages](section_N2318089.md) — section_N2318089
+      - [Item Groups](section_N2224824.md) — section_N2224824
+        - [Showing Groups on Member Item Records](section_N2224900.md) — section_N2224900
+      - [Kit/Package Items](section_N2225190.md) — section_N2225190
+        - [Entering Serial and Lot Components on the Item Record for the Kit](section_N2225398.md) — section_N2225398
+        - [Updating Kits with Bins](section_N2225728.md) — section_N2225728
+      - [Matrix Items](section_N2227654.md) — section_N2227654
+        - [Using the Matrix Item Assistant](section_N2227918.md) — section_N2227918
+          - [Using the Matrix Item Name Template](bridgehead_4673787304.md) — bridgehead_4673787304
+        - [Creating a Matrix Item Manually](section_N2228397.md) — section_N2228397
+        - [Setting up an Item Matrix](section_N2228669.md) — section_N2228669
+        - [Adding Items to a Matrix](section_N2229184.md) — section_N2229184
+          - [Removing a Subitem From Your Item Matrix](article_163335500375.md) — article_163335500375
+        - [Editing Matrix Items](section_N2229497.md) — section_N2229497
+      - [Serial Numbered Items](section_N2230290.md) — section_N2230290
+        - [Enabling Serial Numbered Inventory](section_N2230646.md) — section_N2230646
+        - [Entering Serialized Inventory Records](section_N2230957.md) — section_N2230957
+        - [Track Serialized Inventory on Item Records](section_N2231339.md) — section_N2231339
+        - [Add New Serial Numbers to Inventory](section_N2231739.md) — section_N2231739
+          - [Using CSV Import for Serialized Items](article_163344350776.md) — article_163344350776
+        - [Searching for Serialized Inventory](section_1508171622.md) — section_1508171622
+        - [Receiving a Purchase Order With a Serialized Item](section_N2233116.md) — section_N2233116
+        - [Serialized Items on Sales Transactions](section_N2233510.md) — section_N2233510
+        - [Fulfilling a Sales Order with a Serialized Item](section_N2233933.md) — section_N2233933
+        - [Memorizing Transactions with Serialized Items](section_N2234305.md) — section_N2234305
+        - [Building a Serialized Assembly](section_N2234538.md) — section_N2234538
+        - [Adjusting Serialized Inventory](section_N2235043.md) — section_N2235043
+        - [Removing Serial Numbers on Case Forms](section_N2235383.md) — section_N2235383
+      - [Lot Numbered Items](section_N2235684.md) — section_N2235684
+        - [Enabling Lot Numbered Inventory](article_163360479619.md) — article_163360479619
+        - [Creating Lot Numbered Items](section_N2236287.md) — section_N2236287
+        - [Receiving a Purchase Order With a Lot Numbered Item](section_N2236584.md) — section_N2236584
+        - [Selling and Fulfilling Lot Numbered Items](section_N2236900.md) — section_N2236900
+        - [Building a Lot Numbered Assembly](section_N2238544.md) — section_N2238544
+        - [Viewing Lot Numbered Inventory Item Records](article_163360798322.md) — article_163360798322
+        - [Selecting Lot Numbers on Transactions](bridgehead_N2236107.md) — bridgehead_N2236107
+        - [Lot Auto Numbering SuiteApp](article_162780241331.md) — article_162780241331
+          - [Installing the Lot Auto Numbering SuiteApp](section_162798523437.md) — section_162798523437
+          - [Create Item Number Fields](section_162798687226.md) — section_162798687226
+          - [Creating Lot and Serial Number Format Elements](section_162798727651.md) — section_162798727651
+          - [Creating Lot and Serial Number Formats](section_162798739468.md) — section_162798739468
+          - [Creating Additional Lot and Serial Fields](section_162798764642.md) — section_162798764642
+            - [Mapping Additional Lot or Serial Fields to Items](bridgehead_162799065819.md) — bridgehead_162799065819
+          - [Lot and Serial Numbering Subtab](section_162804661927.md) — section_162804661927
+          - [Generating Lot Numbers](section_162804697917.md) — section_162804697917
+          - [Generating Serial Numbers](section_0217123551.md) — section_0217123551
+          - [Fixing Inventory Detail Display Issue](section_0317043140.md) — section_0317043140
+        - [Allergen Statements SuiteApp](section_1562672738.md) — section_1562672738
+          - [Installing Allergen Statements](section_163491052853.md) — section_163491052853
+          - [Enabling the Allergen Subtab in Custom Forms](bridgehead_160335030490.md) — bridgehead_160335030490
+          - [Tagging Allergens in an Item](bridgehead_1562672830.md) — bridgehead_1562672830
+          - [Printing an Allergen Statement](bridgehead_1562672866.md) — bridgehead_1562672866
+      - [Customizing Lot or Serial Numbered Item Records](section_N2238963.md) — section_N2238963
+      - [Drop Ship Items](section_N2239232.md) — section_N2239232
+        - [Setting Up Drop Shipping](section_N2239482.md) — section_N2239482
+          - [Drop Shipping Preferences](article_163412960428.md) — article_163412960428
+        - [Marking an Item for Drop Shipment](section_N2239986.md) — section_N2239986
+        - [Viewing a Drop Ship Item](section_N2241194.md) — section_N2241194
+        - [Selling a Drop Ship Item](section_N2241390.md) — section_N2241390
+          - [Drop Shipping Kit Members](bridgehead_1521820144.md) — bridgehead_1521820144
+        - [Fulfill and Receive Drop Ship Items](section_N2242062.md) — section_N2242062
+      - [Special Order Items](section_N2242662.md) — section_N2242662
+        - [Enabling Drop Shipments and Special Orders](section_N2244482.md) — section_N2244482
+        - [Identifying Special Orders](section_N2244641.md) — section_N2244641
+      - [Gift Certificates](section_N2244991.md) — section_N2244991
+        - [Enabling the Gift Certificates Feature](article_163421747294.md) — article_163421747294
+        - [Setting Preferences for Gift Certificate Authentication Codes](section_N2245256.md) — section_N2245256
+        - [Creating Gift Certificates](article_163421853651.md) — article_163421853651
+        - [Selling Gift Certificates](section_N2245916.md) — section_N2245916
+        - [Viewing and Editing Gift Certificate Status](section_N2246379.md) — section_N2246379
+        - [Applying Multiple Gift Certificates](section_N2247714.md) — section_N2247714
+      - [Inventory Items](section_N2247990.md) — section_N2247990
+      - [Service Items](section_N2248153.md) — section_N2248153
+      - [Download Items](section_N2248348.md) — section_N2248348
+      - [Discount Items](section_N2248474.md) — section_N2248474
+      - [Subtotal Items](section_N2248793.md) — section_N2248793
+      - [Description Items](section_N2248894.md) — section_N2248894
+      - [Markup Items](section_N2248975.md) — section_N2248975
+        - [Creating a Markup Item](article_163464993735.md) — article_163464993735
+      - [Expense Items](section_4042372470.md) — section_4042372470
+        - [Creating an Expense Item](article_163465063354.md) — article_163465063354
+        - [Adding an Expense Item to an Expense Category](article_163465064836.md) — article_163465064836
+      - [Non-Inventory Items](section_N2249092.md) — section_N2249092
+      - [Other Charge Items](section_N2249208.md) — section_N2249208
+      - [Payment Items](section_N2249363.md) — section_N2249363
+        - [Creating a Payment Item](article_163465164250.md) — article_163465164250
+    - [Customer Part Number](chapter_4575965810.md) — chapter_4575965810
+      - [Set Up Customer Part Number](section_4575966423.md) — section_4575966423
+        - [Setup Requirements for Customer Part Number](section_4575970034.md) — section_4575970034
+        - [Adding Customer Part Numbers to Item Records](section_4575980825.md) — section_4575980825
+        - [Setting Up Custom Forms for Printing](section_4576003899.md) — section_4576003899
+      - [Customer Part Number Usage](section_4576022723.md) — section_4576022723
+        - [Customer Part Numbers on Transactions](section_4576023346.md) — section_4576023346
+        - [Import Transactions With Customer Part Numbers](section_4576567327.md) — section_4576567327
+        - [Print Transactions with Customer Part Numbers](section_4576582361.md) — section_4576582361
+    - [Effective Date Pricing](chapter_1536354469.md) — chapter_1536354469
+      - [Effective Date Pricing Process Flow](subsect_1514442774.md) — subsect_1514442774
+      - [Required Features for Effective Date Pricing](subsect_1532549817.md) — subsect_1532549817
+      - [Permissions Required for Effective Date Pricing](subsect_1516013713.md) — subsect_1516013713
+      - [Installing Effective Date Pricing](section_1514442792.md) — section_1514442792
+      - [Supported Item Types for Effective Date Pricing](subsect_1532548320.md) — subsect_1532548320
+      - [Update Types for Creating Price Update Records](section_1516009562.md) — section_1516009562
+      - [Creating a New Item Category](article_163482735047.md) — article_163482735047
+      - [Creating Price Update Records](section_1516012245.md) — section_1516012245
+        - [Creating an Item Price Update Record](subsect_1536859410.md) — subsect_1536859410
+        - [Creating an Item Category Price Update Record](subsect_1536859987.md) — subsect_1536859987
+        - [Creating a Customer Price Update Record](subsect_1536860030.md) — subsect_1536860030
+        - [Creating a Customer Group Price Update Record](subsect_1536860062.md) — subsect_1536860062
+      - [Price Update Statuses in Effective Date Pricing](subsect_1532549271.md) — subsect_1532549271
+      - [Testing the Effective Date Pricing Solution](subsect_1536860962.md) — subsect_1536860962
+      - [Handling of Price Update Overlaps](section_1536940864.md) — section_1536940864
+      - [Viewing Price Updates](section_1530126293.md) — section_1530126293
+      - [Creating Price Detail Updates](section_1516012501.md) — section_1516012501
+        - [Creating a Price Detail Update for Item Type](subsect_1521727587.md) — subsect_1521727587
+        - [Creating a Price Detail Update for Item Category Type](subsect_1521727688.md) — subsect_1521727688
+        - [Creating a Price Detail Update for Customer Type](subsect_1523469360.md) — subsect_1523469360
+        - [Creating a Price Detail Update for Customer Group Type](subsect_1523469385.md) — subsect_1523469385
+      - [Scheduling Automatic Price Updates](section_1523897083.md) — section_1523897083
+      - [Import Price Updates Using CSV Files](section_160335109736.md) — section_160335109736
+      - [Limitations and Best Practices of Effective Date Pricing](section_1537465810.md) — section_1537465810
+      - [Troubleshooting Unprocessed Updates](section_1523897090.md) — section_1523897090
+    - [Advanced Pricing](book_8135641320.md) — book_8135641320
+      - [Advanced Pricing Overview](article_9145542621.md) — article_9145542621
+      - [Enabling Advanced Pricing](article_9154128713.md) — article_9154128713
+      - [Advanced Pricing and the Item Record](article_3143342747.md) — article_3143342747
+      - [Setting Advanced Pricing Preferences](article_5154629643.md) — article_5154629643
+      - [Advanced Pricing Narrative Insights](article_9140950914.md) — article_9140950914
+      - [Creating Price Rules](article_1154809219.md) — article_1154809219
+      - [Setting Up Customer Groups](article_8102112633.md) — article_8102112633
+      - [Setting Up Price Levels in Advanced Pricing](article_6103534687.md) — article_6103534687
+      - [Editing a Price Rule](article_2104514852.md) — article_2104514852
+      - [Deleting a Price Rule](article_5112017935.md) — article_5112017935
+      - [Updating Item Prices in Advanced Pricing](article_6112845511.md) — article_6112845511
+      - [Updating Prices in Advanced Pricing Using Mass Update](article_132401867.md) — article_132401867
+      - [Importing CSV Files in Advanced Pricing](article_2115039726.md) — article_2115039726
+      - [Managing Potential Conflicts in Advanced Pricing](article_7133941650.md) — article_7133941650
+      - [How Price Rules Use Dynamic Item Collections and Customer Groups](article_3143449978.md) — article_3143449978
+      - [Troubleshooting Price Rules in Advanced Pricing](article_162043193.md) — article_162043193
+      - [Sales Pricing Overview Workbook](article_2153411882.md) — article_2153411882
+      - [Sales Pricing Overview Workbook Details](article_122828838.md) — article_122828838
+      - [Sales Pricing Overview Dataset Details](article_2122854702.md) — article_2122854702
+      - [Price Variance by Item Pivot Details](article_9132749139.md) — article_9132749139
+      - [Sales by Price Level Pivot Details](article_3121437980.md) — article_3121437980
+      - [Sales by Price Rule Pivot Details](article_9151947846.md) — article_9151947846
+      - [Item Pricing Performance Workbook](article_5145051759.md) — article_5145051759
+      - [Item Pricing Performance Metrics Dataset Details](article_2160901976.md) — article_2160901976
+      - [Item Pricing Performance Workbook Details](article_155557612.md) — article_155557612

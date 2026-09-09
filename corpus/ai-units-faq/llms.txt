@@ -1,0 +1,12 @@
+# AI Units FAQ
+
+AI Units FAQ (1 pages): AI Units FAQ
+
+## Chapters
+- [AI Units FAQ](article_8144753226.md): What are AI Units?
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch ai-units-faq

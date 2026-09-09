@@ -1,0 +1,15 @@
+# Partners
+
+Partners (40 pages): Partners
+
+## Chapters
+- [Partners](book_N1166406.md): - Managing Partners(https://docs.
+  - [Managing Partners](chapter_N1166465.md): A partner is a company you have a business agreement with, but isn't a customer or vendor.
+  - [Partner Commissions & Royalties](chapter_N1169123.md): The NetSuite Partner Commissions/Royalties feature enables you to create commission plans that automatically calculate and pay commission to your partners.
+  - [Partner Reports](chapter_N1176274.md): The following partner reports are available in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch partners

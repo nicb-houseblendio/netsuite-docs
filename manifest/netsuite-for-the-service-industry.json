@@ -1,0 +1,24 @@
+{
+  "branch": "netsuite-for-the-service-industry",
+  "generatedAt": null,
+  "pages": {
+    "chapter_4254962659": {
+      "path": "corpus/netsuite-for-the-service-industry/chapter_4254962659.md",
+      "title": "NetSuite for the Service Industry",
+      "type": "chapter",
+      "breadcrumb": "Projects > NetSuite for the Service Industry",
+      "parent": "preface_3714107248",
+      "category": "projects",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_4254962659.html",
+      "etag": "\"6b09d424136f0bcc2f0ae5a29dc26d93:1786980395.428623\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:25:23.830Z",
+      "sha256": "d59767c1022afdb9a8ada10ab6dc0e4355f5d6e8eedba0bb42dfa639671c0ea0",
+      "bytes": 14536,
+      "anchors": 18,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

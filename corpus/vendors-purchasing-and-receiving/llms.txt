@@ -1,0 +1,14 @@
+# Vendors, Purchasing, and Receiving
+
+Vendors, Purchasing, and Receiving (376 pages): Vendors, Purchasing, and Receiving
+
+## Chapters
+- [Vendors, Purchasing, and Receiving](set_N2360130.md): - Vendors(https://docs.
+  - [Vendors](book_N2360175.md): - Vendors(https://docs.
+  - [Purchasing and Receiving](book_N2393897.md): - Requisitions(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch vendors-purchasing-and-receiving

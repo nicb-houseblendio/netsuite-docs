@@ -1,0 +1,24 @@
+{
+  "branch": "country-specific",
+  "generatedAt": null,
+  "pages": {
+    "article_175909947": {
+      "path": "corpus/country-specific/article_175909947.md",
+      "title": "Country Specific",
+      "type": "article",
+      "breadcrumb": "Videos > Country Specific",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_175909947.html",
+      "etag": "\"e9ba77ff487c423776d928caffb18ce6:1786980319.54274\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:43:19.901Z",
+      "sha256": "20c23b1d13d2aa5537c72a3c13a6cac674c6ee9a3c833c0e94e6c5338d3a3920",
+      "bytes": 2750,
+      "anchors": 5,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

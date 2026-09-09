@@ -1,0 +1,13 @@
+# Ask Oracle Skills
+
+Ask Oracle Skills (2 pages): Ask Oracle Skills
+
+## Chapters
+- [Ask Oracle Skills](article_8075016347.md): Skills help Ask Oracle respond in a more focused, business-aware way for common NetSuite tasks.
+  - [Core Skills](article_0611075648.md): Note: This topic describes functionality available in NetSuite Next.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch ask-oracle-skills

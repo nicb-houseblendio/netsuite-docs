@@ -1,0 +1,60 @@
+{
+  "branch": "exporting-reports-searches-and-lists",
+  "generatedAt": null,
+  "pages": {
+    "chapter_N575321": {
+      "path": "corpus/exporting-reports-searches-and-lists/chapter_N575321.md",
+      "title": "Exporting Reports, Searches, and Lists",
+      "type": "chapter",
+      "breadcrumb": "NetSuite Basics > Exporting Reports, Searches, and Lists",
+      "parent": "book_N473219",
+      "category": "netsuite-basics",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_N575321.html",
+      "etag": "\"2c4f72d2b50af0a690aef4ac99d28865:1786980403.994672\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:03:57.760Z",
+      "sha256": "f70982a0a79b7c9848fc1494cecaaefaa40e988f0c31f4c9ac586ea06c21e622",
+      "bytes": 7357,
+      "anchors": 6,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_N575781": {
+      "path": "corpus/exporting-reports-searches-and-lists/section_N575781.md",
+      "title": "Limitations on Exports to PDF",
+      "type": "section",
+      "breadcrumb": "NetSuite Basics > Exporting Reports, Searches, and Lists > Limitations on Exports to PDF",
+      "parent": "chapter_N575321",
+      "category": "netsuite-basics",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N575781.html",
+      "etag": "\"0417aac7f51358d35b27a8f586d079ef:1786980789.140745\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:03:58.055Z",
+      "sha256": "eb7c54eac11ae3ad070f9c64d2d14ff38c6ee062653efbc7dac39a59bc7859b1",
+      "bytes": 1995,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "section_N576068": {
+      "path": "corpus/exporting-reports-searches-and-lists/section_N576068.md",
+      "title": "Limitations on CSV Exports of Data with Special Characters",
+      "type": "section",
+      "breadcrumb": "NetSuite Basics > Exporting Reports, Searches, and Lists > Limitations on CSV Exports of Data with Special Characters",
+      "parent": "chapter_N575321",
+      "category": "netsuite-basics",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N576068.html",
+      "etag": "\"2496e72c10cedf7bed4364fde28231df:1786980789.151848\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:03:58.239Z",
+      "sha256": "6ff588549dffc9ed6dac72f5961b77f349d10248ed6273f8740e8516b45851f7",
+      "bytes": 1714,
+      "anchors": 1,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

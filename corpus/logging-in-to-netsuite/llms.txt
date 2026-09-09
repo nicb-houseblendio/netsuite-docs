@@ -1,0 +1,14 @@
+# Logging in to NetSuite
+
+Logging in to NetSuite (30 pages): Logging in to NetSuite
+
+## Chapters
+- [Logging in to NetSuite](chapter_1492022011.md): Watch the following video to learn how to log in and out of NetSuite.
+  - [Logging in to the NetSuite UI](section_1493326489.md): This section explains the simplest way to log in to the NetSuite UI using your email and password, which are your user credentials.
+  - [Logging In Using Two-Factor Authentication (2FA)](section_1493300400.md): <a id="kalturaplayer31"</a Requiring a second factor for authentication is a method of improving security.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch logging-in-to-netsuite

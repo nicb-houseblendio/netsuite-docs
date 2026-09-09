@@ -1,0 +1,24 @@
+{
+  "branch": "displaying-suiteapps-on-your-dashboard",
+  "generatedAt": null,
+  "pages": {
+    "section_4629759056": {
+      "path": "corpus/displaying-suiteapps-on-your-dashboard/section_4629759056.md",
+      "title": "Displaying SuiteApps on Your Dashboard",
+      "type": "section",
+      "breadcrumb": "SuiteApps > Displaying SuiteApps on Your Dashboard",
+      "parent": "article_3134602194",
+      "category": "suiteapps",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_4629759056.html",
+      "etag": "\"8acc44e8a99dc1d22d29df35d80035a1:1786980698.186101\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:40:59.836Z",
+      "sha256": "2206fb5f1623a589e29ad60f217a3b102c895df3bd728c01c57cfbcafd5f962d",
+      "bytes": 846,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

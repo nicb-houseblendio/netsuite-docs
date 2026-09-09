@@ -1,0 +1,730 @@
+# Employees
+
+726 pages, category: Employee Management
+
+- [Employee Management](set_N894004.md) — set_N894004
+  - [Employees](preface_3714104131.md) — preface_3714104131
+    - [SuitePeople Overview](chapter_1495573671.md) — chapter_1495573671
+      - [SuitePeople Permission Requirements](section_1502461559.md) — section_1502461559
+        - [Advanced and Basic Government-Issued ID Tracking Permission Requirements](section_1548185979.md) — section_1548185979
+        - [Compensation Tracking Permission Requirements](section_1548186061.md) — section_1548186061
+        - [Effective Dating Permission Requirements](section_1548186143.md) — section_1548186143
+        - [Employee Center Publishing Permission Requirements](section_1548186198.md) — section_1548186198
+        - [Employee Change Requests Permission Requirements](section_156164430223.md) — section_156164430223
+        - [Job Management and Job Requisitions Permission Requirements](section_1548186291.md) — section_1548186291
+        - [Kudos Permission Requirements](section_1548186348.md) — section_1548186348
+        - [Kudos Permission Requirements](bridgehead_1502463696.md) — bridgehead_1502463696
+        - [News Items Permission Requirements](section_1548186450.md) — section_1548186450
+        - [Performance Management Permission Requirements](section_161964110747.md) — section_161964110747
+        - [Termination Reason Tracking Permission Requirements](section_1548186514.md) — section_1548186514
+        - [Time-Off Management Permission Requirements](section_1548186571.md) — section_1548186571
+        - [Workforce Analytics Permission Requirements](section_1548186638.md) — section_1548186638
+    - [Employee Information Management](chapter_N894090.md) — chapter_N894090
+      - [Adding an Employee](section_N894212.md) — section_N894212
+        - [Entering Communication Information on the Employee Record](section_N894944.md) — section_N894944
+        - [Entering an Address for an Employee](section_N895137.md) — section_N895137
+        - [Entering Human Resources Information for an Employee](section_N895403.md) — section_N895403
+      - [Adding Employees by Importing a CSV File](section_162322503072.md) — section_162322503072
+      - [Editing Employee Records Using CSV Files](section_162322804075.md) — section_162322804075
+      - [Giving an Employee Access to NetSuite](section_N896195.md) — section_N896195
+        - [Assigning Roles to an Employee](section_N897798.md) — section_N897798
+      - [Assigning a Supervisor to an Employee](section_N898466.md) — section_N898466
+      - [Viewing and Editing an Employee Record with Effective Dating](section_1494510731.md) — section_1494510731
+      - [Rehiring a Terminated Employee](section_160763200766.md) — section_160763200766
+      - [Searching for Effective-Dated Changes to the Employee Record](section_1503337187.md) — section_1503337187
+      - [Viewing an Employee's Timeline](section_156216462597.md) — section_156216462597
+      - [Employee Locations](section_N899090.md) — section_N899090
+      - [Creating an Employee Template](section_N899487.md) — section_N899487
+        - [Managing Subtabs on the Employee Template](section_0830094026.md) — section_0830094026
+      - [Working with Employee Social Security Numbers](section_N901259.md) — section_N901259
+      - [Printing Mailing Labels for Employees](section_N916939.md) — section_N916939
+    - [Effective Dating for Employee Information](chapter_4659236711.md) — chapter_4659236711
+      - [Using Effective Dating With the Employee Record](section_4659237060.md) — section_4659237060
+      - [Viewing an Employee's Record as of a Date](bridgehead_4731765583.md) — bridgehead_4731765583
+      - [Editing an Employee's Record as of a Date](bridgehead_4731765927.md) — bridgehead_4731765927
+      - [Editing Employee Records Using CSV Import for Effective Dating](subsect_158264679439.md) — subsect_158264679439
+      - [Managing Employee Change Reasons](section_4863937145.md) — section_4863937145
+      - [Using Effective Dating with Other NetSuite Features](section_1504621139.md) — section_1504621139
+      - [Using Effective Dating with Employee Workflows and SuiteScripts](section_1509497251.md) — section_1509497251
+    - [Employee Change Requests](chapter_156025845557.md) — chapter_156025845557
+      - [Prerequisites for Employee Change Requests](section_156025846348.md) — section_156025846348
+        - [Enabling the Employee Change Requests Feature](section_156095852376.md) — section_156095852376
+        - [Setting Up Employee Change Request Types](section_156095903054.md) — section_156095903054
+          - [Default Employee Change Request Types](section_162148286400.md) — section_162148286400
+          - [Creating New Employee Change Request Types](section_162148309498.md) — section_162148309498
+          - [Editing or Inactivating Employee Change Request Types](section_162148334831.md) — section_162148334831
+          - [Deleting Employee Change Request Types](section_162148348780.md) — section_162148348780
+        - [Advanced Employee Permissions for Employee Change Requests](section_156095870335.md) — section_156095870335
+        - [Approval Workflow for Employee Change Requests](section_162325028710.md) — section_162325028710
+          - [Setting Up an Approval Workflow for Employee Change Requests](section_162325063818.md) — section_162325063818
+          - [Setting Up a Custom Approval Workflow for Employee Change Requests](section_156096368122.md) — section_156096368122
+            - [Sample Custom Employee Change Request Workflow](section_156096465346.md) — section_156096465346
+            - [Building the Custom Employee Change Request Workflow](section_156096468683.md) — section_156096468683
+            - [Creating States for the Employee Change Request Workflow](section_156096560490.md) — section_156096560490
+            - [Setting Up State 1: Entry](section_156096707081.md) — section_156096707081
+            - [Setting Up State 2: Next Approver](section_156096749961.md) — section_156096749961
+            - [Setting Up State 3: Final Approver](section_156096928440.md) — section_156096928440
+            - [Setting Up State 4: Complete](section_156096962712.md) — section_156096962712
+            - [Testing the Employee Change Request Workflow](section_156097178146.md) — section_156097178146
+      - [Employee Change Requests Management](section_156045150463.md) — section_156045150463
+        - [Creating an Employee Change Request From the Employee Record](section_156330883780.md) — section_156330883780
+        - [Creating a Base Pay Change Request From the Employee Record](section_162148885271.md) — section_162148885271
+        - [Creating a Promotion Change Request From the Employee Record](section_162269675808.md) — section_162269675808
+        - [Creating a Transfer Change Request From the Employee Record](section_162269735821.md) — section_162269735821
+        - [Editing or Inactivating an Employee Change Request](section_156330887492.md) — section_156330887492
+        - [Deleting an Employee Change Request](section_156330889462.md) — section_156330889462
+      - [Employee Change Requests in the Employee Center](section_156045154103.md) — section_156045154103
+        - [Creating an Employee Change Request from the Employee Center](section_156097562247.md) — section_156097562247
+        - [Approving or Declining an Employee Change Request](section_156097609979.md) — section_156097609979
+        - [Viewing an Employee Change Request](section_156097755581.md) — section_156097755581
+      - [Employee Change Request Statuses](section_156321938922.md) — section_156321938922
+    - [Employee Directory and Org Browser](chapter_4696522713.md) — chapter_4696522713
+      - [Set Up the Employee Directory SuiteApp](section_4725012454.md) — section_4725012454
+        - [Configuring the Employee Directory and Org Browser](bridgehead_4719816329.md) — bridgehead_4719816329
+        - [Updating Required Scripts for the Employee Directory and Org Browser](section_1559636878.md) — section_1559636878
+      - [Using the Employee Directory](section_1496279021.md) — section_1496279021
+      - [Using the Org Browser](section_1496279220.md) — section_1496279220
+    - [Employee Center Management](chapter_1510159679.md) — chapter_1510159679
+      - [About the Employee Center Role](section_N898173.md) — section_N898173
+      - [Employee Center Portlets](subsect_1519407120.md) — subsect_1519407120
+      - [Granting Access to the Employee Center](section_1510166674.md) — section_1510166674
+      - [Employee Center Dashboard Publishing Feature](section_1510166765.md) — section_1510166765
+      - [Working With News Items](section_1510176322.md) — section_1510176322
+      - [Download Form W-2 and Form W-2 C](article_9150746464.md) — article_9150746464
+        - [Form W-2 FAQs](article_5191744364.md) — article_5191744364
+    - [Employee Onboarding and Offboarding Plans](chapter_157240300985.md) — chapter_157240300985
+      - [Onboarding and Offboarding Plans Overview](section_157240303049.md) — section_157240303049
+        - [Limitations and Best Practices](section_157240305837.md) — section_157240305837
+        - [Frequently Asked Questions: Onboarding/Offboarding Plans](section_157240308729.md) — section_157240308729
+      - [Setting Up Onboarding and Offboarding Plans](section_157240311304.md) — section_157240311304
+        - [Prerequisites](section_157240317995.md) — section_157240317995
+        - [Installing the SuiteApp](section_157240319613.md) — section_157240319613
+        - [Granting Onboarding/Offboarding Permissions for Custom Roles](section_157240321701.md) — section_157240321701
+        - [Setting Form Preferences](section_157240322990.md) — section_157240322990
+        - [Updates Preferences](section_157240324871.md) — section_157240324871
+        - [Setting Up the Onboarding Portlet](section_161660477431.md) — section_161660477431
+      - [Getting Started With Onboarding and Offboarding Plans](section_157240328026.md) — section_157240328026
+        - [Accessing the SuiteApp](section_157240329823.md) — section_157240329823
+        - [Using the SuiteApp for Employee Onboarding](section_157240330991.md) — section_157240330991
+        - [Using the SuiteApp for Employee Offboarding](section_157240332359.md) — section_157240332359
+      - [Working With Onboarding and Offboarding Plans](section_157240334231.md) — section_157240334231
+        - [Working With Templates](section_157240335409.md) — section_157240335409
+          - [Working With Premade Templates](section_157241440141.md) — section_157241440141
+          - [Creating Templates](section_157241441501.md) — section_157241441501
+          - [Managing Templates](section_157241442807.md) — section_157241442807
+        - [Working With Plans](section_157240336522.md) — section_157240336522
+          - [Creating Plans](section_157240670706.md) — section_157240670706
+          - [Managing Plans](section_157240674013.md) — section_157240674013
+            - [Managing Plans as a Coordinator](section_157240752069.md) — section_157240752069
+            - [Managing Plans as an Assignee](section_157240753404.md) — section_157240753404
+        - [Using the Onboarding Portlet](section_161661453482.md) — section_161661453482
+        - [Working With Updates](section_157240337779.md) — section_157240337779
+    - [Employee Offboarding](chapter_1494441335.md) — chapter_1494441335
+      - [Employee Termination](section_3753809772.md) — section_3753809772
+        - [Modifying a Terminated Employee's Record](subsect_156986637782.md) — subsect_156986637782
+        - [Completing Financial Obligations to a Former Employee](subsect_156986642152.md) — subsect_156986642152
+        - [Mass Deleting an Employee's Events](section_N506354.md) — section_N506354
+      - [Termination Reason Tracking](section_1494530951.md) — section_1494530951
+        - [Managing Termination Reasons](section_4664578925.md) — section_4664578925
+        - [Default Termination Reasons](section_4531519241.md) — section_4531519241
+      - [Deleting Employee Records](section_1494515524.md) — section_1494515524
+      - [Inactivating Employee Records](section_1504014571.md) — section_1504014571
+    - [Time-Off Management](chapter_4534064270.md) — chapter_4534064270
+      - [Time-Off Management Overview](section_1519931238.md) — section_1519931238
+      - [Prerequisites for Using Time-Off Management](section_4816450696.md) — section_4816450696
+      - [Time-Off Management Setup](section_4607408864.md) — section_4607408864
+        - [Time-Off Types](section_1494524061.md) — section_1494524061
+          - [Creating a Time-Off Type](subsect_1544819200.md) — subsect_1544819200
+          - [Editing a Time-Off Type](subsect_1520527512.md) — subsect_1520527512
+          - [Inactivating or Deleting a Time-Off Type](subsect_1544819347.md) — subsect_1544819347
+          - [Setting Up Time-Off Type Auto-Approval and Time-Off Self-Approver](subsect_161535656280.md) — subsect_161535656280
+          - [Setting Up Time-Off Calendar Event Creation](section_161897351622.md) — section_161897351622
+        - [Time-Off Plans](section_1494524174.md) — section_1494524174
+          - [Creating a Time-Off Plan](subsect_1544822095.md) — subsect_1544822095
+          - [Editing a Time-Off Plan](subsect_1520527547.md) — subsect_1520527547
+          - [Inactivating or Deleting a Time-Off Plan](subsect_1544822151.md) — subsect_1544822151
+        - [Time-Off Rules](section_1494524322.md) — section_1494524322
+          - [Creating a Time-Off Rule](subsect_1544822476.md) — subsect_1544822476
+          - [Time-Off Accruals](section_1544213041.md) — section_1544213041
+            - [Setting up an Accrual Based on a Fixed Amount per Period](subsect_1558460830.md) — subsect_1558460830
+              - [Understanding How Accruals are Generated when Multiple Time Rules are in One Time-Off Plan](section_0405094707.md) — section_0405094707
+            - [Setting up an Accrual Based on Hours Worked](subsect_1558460869.md) — subsect_1558460869
+          - [Setting up Balance and Carryover Limits in a Time-off Rule](section_1544213189.md) — section_1544213189
+          - [Deleting a Time-Off Rule](section_1544213446.md) — section_1544213446
+        - [Assigning a Time-Off Plan to an Employee](section_1494510785.md) — section_1494510785
+      - [Time-Off Management Integration With SuitePeople U.S. Payroll](section_1519676814.md) — section_1519676814
+        - [Prerequisites for Integrating Time-Off Management With Payroll](subsect_1519677092.md) — subsect_1519677092
+        - [Setting up Payroll Items to Work With Time-Off Management](section_1519677315.md) — section_1519677315
+        - [Associating a Time-Off Type With a Payroll Item](section_1519677524.md) — section_1519677524
+        - [Creating a Time-Off Plan With Payroll](section_1519677578.md) — section_1519677578
+        - [Setting up a Time-Off Rule With Payroll](section_1519677616.md) — section_1519677616
+          - [Setting up an Accrual Based on a Fixed Amount With Payroll](subsect_1520001732.md) — subsect_1520001732
+          - [Setting up an Accrual Based on Hours Worked With Payroll](subsect_1520001797.md) — subsect_1520001797
+        - [Updating the Employee Record for Time-Off Management and Payroll](section_1519677675.md) — section_1519677675
+        - [Viewing an Employee's Time-Off Balance](section_1494521808.md) — section_1494521808
+      - [Time-Off Changes](section_156104510149.md) — section_156104510149
+        - [Viewing Time-Off Changes](section_1494521594.md) — section_1494521594
+        - [Creating a Time-Off Change](section_1494522058.md) — section_1494522058
+      - [Submitting Time-Off Requests on Behalf of Employees as an Administrator](section_161552140836.md) — section_161552140836
+      - [Approving or Rejecting a Time-Off Request as an Administrator](section_1522949180.md) — section_1522949180
+      - [Time-Off Management for Employees or Managers](section_1503583942.md) — section_1503583942
+        - [Submitting Time-Off Requests](section_4762828928.md) — section_4762828928
+        - [Submitting Time-Off Requests on Behalf of Employees as a Manager](section_161540143993.md) — section_161540143993
+        - [Viewing Time-Off Requests](section_4762829575.md) — section_4762829575
+        - [Viewing Time-Off Balances](section_4762829717.md) — section_4762829717
+        - [Approving or Rejecting Time-Off Requests](section_4762829774.md) — section_4762829774
+        - [Canceling Time-Off Requests](section_1509720113.md) — section_1509720113
+      - [Time-Off Reports](section_1494961556.md) — section_1494961556
+        - [Time-Off Management Ad Hoc Reports](section_1494873407.md) — section_1494873407
+    - [SuitePeople Workforce Management](article_1221923239.md) — article_1221923239
+      - [Workforce Management Terminology](article_7172308516.md) — article_7172308516
+      - [Workforce Management Setup Guide](article_3130321137.md) — article_3130321137
+        - [Installing Workforce Management](section_31223632501.md) — section_31223632501
+          - [Prerequisites](section_3223731685.md) — section_3223731685
+          - [Installing the SuitePeople Workforce Management SuiteApp](section_24214051946.md) — section_24214051946
+          - [Assigning the SuitePeople WFM Integration Role](section_25214132264.md) — section_25214132264
+          - [Deploying User Event Scripts in NetSuite](section_1214216333.md) — section_1214216333
+          - [Configuring Additional Permissions in NetSuite](section_0412121639.md) — section_0412121639
+        - [Getting Started with Workforce Management](section_0817024838.md) — section_0817024838
+          - [Finance or HR Manager Onboarding](section_0818093958.md) — section_0818093958
+          - [People Manager Onboarding](section_0818100011.md) — section_0818100011
+          - [Training #1: Scheduling](section_0818103502.md) — section_0818103502
+          - [Training #2: Five-Step Scheduling with Copy and Paste](section_0818105208.md) — section_0818105208
+          - [Training #3: Approving Time](section_0818113208.md) — section_0818113208
+          - [Training #4: Find Last-Minute Fill-ins, Drop or Swap Shifts](section_0818114133.md) — section_0818114133
+        - [Integrating Workforce Management with NetSuite](subsect_36112903912.md) — subsect_36112903912
+          - [Linking Workforce Management Fields with NetSuite](subsect_2135536161.md) — subsect_2135536161
+          - [Linking Workforce Management Records with NetSuite](bridgehead_27144903953.md) — bridgehead_27144903953
+          - [Exporting Shifts for Payroll](section_1024121204.md) — section_1024121204
+          - [Setting Up POS Imports](section_1024121635.md) — section_1024121635
+          - [Connecting Saved Searches to WFM Sales and Units Data](section_0924101446.md) — section_0924101446
+          - [Steps for Payroll Day](subsect_92181447736.md) — subsect_92181447736
+          - [NetSuite and WFM Integration FAQ](subsect_33180622012.md) — subsect_33180622012
+      - [Configuring Workforce Management](article_3125506497.md) — article_3125506497
+        - [Account Settings](section_26135046889.md) — section_26135046889
+          - [Time & Attendance](section_0914023900.md) — section_0914023900
+        - [Availability](section_0818124117.md) — section_0818124117
+        - [Configuring Brands](section_0818125723.md) — section_0818125723
+          - [Creating a New Brand](section_0818125948.md) — section_0818125948
+          - [Editing a Brand](section_0818012225.md) — section_0818012225
+          - [Deactivating and Restoring a Brand](section_0818012941.md) — section_0818012941
+          - [Labor Deployment](section_0818013733.md) — section_0818013733
+            - [Sales Subcategories](section_0109023428.md) — section_0109023428
+            - [Deployment Report](section_0109023441.md) — section_0109023441
+            - [Opening & Prep Hours](section_0109023455.md) — section_0109023455
+        - [Locations](section_0818035208.md) — section_0818035208
+          - [Location Options in WFM](section_0819100006.md) — section_0819100006
+          - [Adding a New Location in WFM](section_0818035222.md) — section_0818035222
+          - [Bulk Uploading Locations in WFM](section_0204045031.md) — section_0204045031
+          - [Deactivating a Location in WFM](section_0819100527.md) — section_0819100527
+          - [Shift Templates in WFM](section_0819101103.md) — section_0819101103
+            - [Adding Employees to a Regular Template Shift](section_0819110252.md) — section_0819110252
+            - [Copy Templates Between Locations](section_0819110725.md) — section_0819110725
+          - [Managing Public Holidays in WFM](section_0314095144.md) — section_0314095144
+          - [Automatch and Rounding Settings in WFM](section_0314095739.md) — section_0314095739
+            - [Updating WFM Automatch Settings](article_0520121308.md) — article_0520121308
+        - [Jobs](section_0819111329.md) — section_0819111329
+          - [Create a Job](section_0819112031.md) — section_0819112031
+          - [Restore a Job](section_0819112240.md) — section_0819112240
+          - [Edit a Job](section_0819112425.md) — section_0819112425
+          - [Delete a Job](section_0819112632.md) — section_0819112632
+          - [How Can I Find Out Which Shifts Don't Have Jobs](section_0819125726.md) — section_0819125726
+        - [Leave/Time Off](section_0819010252.md) — section_0819010252
+          - [Time in Lieu/Flexitime](section_0819010836.md) — section_0819010836
+          - [Quickly Create Part-Day Approved leave](section_0819011534.md) — section_0819011534
+          - [Application and Approval of Leave](section_0819011656.md) — section_0819011656
+          - [Automatic Union Holiday Leave](section_0819011921.md) — section_0819011921
+          - [Overtime Calculation in Leave and Time-Off](section_0819012954.md) — section_0819012954
+        - [Validation Rules](section_0829031754.md) — section_0829031754
+          - [Schedule Validation Rules](section_0829033559.md) — section_0829033559
+          - [Junior Validation Rules](section_0829033620.md) — section_0829033620
+        - [Shift Metrics](section_11135129019.md) — section_11135129019
+        - [Financial Configuration](section_0829031816.md) — section_0829031816
+        - [Wage Setup](section_9135444970.md) — section_9135444970
+          - [Wage Agreements for Australia and New Zealand](section_0807100528.md) — section_0807100528
+            - [Pre-configured Wage Agreements](section_0919102415.md) — section_0919102415
+              - [Awards with Pre-configured Wage Agreements](section_0926035423.md) — section_0926035423
+                - [Fast Food Industry Award [MA000003]](section_0926035616.md) — section_0926035616
+                - [General Retail Industry Award [MA000004]](section_0128042645.md) — section_0128042645
+                - [Hospitality Industry (General) Award [MA000009]](section_0926035652.md) — section_0926035652
+                - [Restaurant Industry Award [MA000119]](section_0926035554.md) — section_0926035554
+              - [Using Pre-configured Wage Agreements](section_0926035940.md) — section_0926035940
+              - [Linking New Revisions to Pre-Configured Wage Agreements](section_0926040000.md) — section_0926040000
+              - [Assigning Jobs for Pre-Configured Wage Agreements](section_1002010513.md) — section_1002010513
+            - [Structure of a Wage Agreement](section_0903101646.md) — section_0903101646
+            - [Creating a Wage Agreement](section_0909023117.md) — section_0909023117
+            - [Managing Conditions and Rules](section_0909023124.md) — section_0909023124
+              - [Types of Conditions](section_0903103248.md) — section_0903103248
+              - [Creating a Condition](section_0903103341.md) — section_0903103341
+              - [Creating or Editing a Rule](section_0909024748.md) — section_0909024748
+              - [Managing Conditions in Existing Classifications](section_0909023143.md) — section_0909023143
+            - [Setting up an Allowance](section_0909023137.md) — section_0909023137
+            - [Setting up a Penalty](section_0903102107.md) — section_0903102107
+            - [Creating a Classification](section_0909023310.md) — section_0909023310
+            - [Setting up Minimum Hours](section_0909023354.md) — section_0909023354
+            - [Creating a Revision](section_0909023146.md) — section_0909023146
+            - [Cross-Agreement Linking](section_0909023328.md) — section_0909023328
+          - [Region-Based Wages for North America](section_0909023340.md) — section_0909023340
+            - [Creating Categories for Region-Based Overrides](section_0814124420.md) — section_0814124420
+            - [Creating a Region-Based Override](section_0807030319.md) — section_0807030319
+            - [Definitions for Region-Based Overrides](section_0807015746.md) — section_0807015746
+            - [Assigning Locations to Region-Based Overrides](section_0814014852.md) — section_0814014852
+            - [Managing Conditions for Region-Based Overrides](section_0903102654.md) — section_0903102654
+              - [Setting up a Spread of Hours Condition for Region-Based Overrides](section_0903102725.md) — section_0903102725
+              - [Setting up Break Conditions for Region-Based Overrides](section_0903102805.md) — section_0903102805
+            - [Managing Multipliers](section_0903102938.md) — section_0903102938
+        - [Notifications](section_0829031829.md) — section_0829031829
+          - [Birthday Reminders](section_0829041211.md) — section_0829041211
+          - [Expiring Visas](section_0829041226.md) — section_0829041226
+          - [Expiring Documents](section_0829041238.md) — section_0829041238
+            - [Uploading Driver's License to an Employee](section_0829044047.md) — section_0829044047
+          - [New Employees](section_0909120045.md) — section_0909120045
+          - [Personal Details](section_0909120104.md) — section_0909120104
+          - [Financial Details](section_0909120143.md) — section_0909120143
+        - [Shift Reports](section_0909120836.md) — section_0909120836
+          - [Standard Week Reports](section_0909121426.md) — section_0909121426
+          - [Standard Day Reports](section_8134853991.md) — section_8134853991
+          - [Editing Day Reports](section_63135225287.md) — section_63135225287
+          - [Editing Week Reports](section_2134610911.md) — section_2134610911
+          - [Restoring or Deactivating Custom Reports](section_2135623805.md) — section_2135623805
+        - [Categories](section_90134936241.md) — section_90134936241
+          - [Assigning Manager](section_0914014537.md) — section_0914014537
+          - [Where do these appear?](section_0914014602.md) — section_0914014602
+        - [Audit Logs](section_54135311043.md) — section_54135311043
+        - [Security Settings in WFM](section_40134711868.md) — section_40134711868
+        - [User Details](section_0129020335.md) — section_0129020335
+        - [Grayscale Mode](section_25134812258.md) — section_25134812258
+        - [Login History](section_0129015512.md) — section_0129015512
+        - [Dashboard](section_0510125622.md) — section_0510125622
+      - [Managing Workforce Management Employees](article_2125430977.md) — article_2125430977
+        - [Employee List](section_0919015538.md) — section_0919015538
+        - [Viewing and Editing Employee Details](section_0919020300.md) — section_0919020300
+          - [Employee Self-Service (ESS) Extended for Australia](section_1103013420.md) — section_1103013420
+            - [Financial Details for ESS Extended](section_0919021123.md) — section_0919021123
+            - [Visa Details](section_0717041148.md) — section_0717041148
+              - [Term Breaks in WFM for ESS Extended](section_0717041303.md) — section_0717041303
+          - [Employment](section_0919022953.md) — section_0919022953
+          - [Employee Access in WFM](section_1102035209.md) — section_1102035209
+          - [Managing Wages for WFM Employees](section_1102035923.md) — section_1102035923
+            - [Understanding WFM Salary Calculations](section_1103092925.md) — section_1103092925
+          - [JobKeeper](section_1103094042.md) — section_1103094042
+          - [Jobs](section_1103102845.md) — section_1103102845
+        - [Adding New WFM Employees](section_0110104041.md) — section_0110104041
+        - [WFM Employee Availability](section_0110105441.md) — section_0110105441
+        - [Importing Employees to WFM](section_0110111058.md) — section_0110111058
+      - [Managing Workforce Management Shifts](article_9125542527.md) — article_9125542527
+        - [Scheduling in Workforce Management](section_0922044709.md) — section_0922044709
+        - [Scheduling in Workforce Management - Daily](section_0922045240.md) — section_0922045240
+          - [Statistics/KPI's - Projected Sales Data - Daily](section_0922045511.md) — section_0922045511
+          - [Shift Creation - Daily](section_0922050504.md) — section_0922050504
+          - [Daily Schedule Options](section_0926114603.md) — section_0926114603
+          - [Printing the weekly schedule](section_0926115045.md) — section_0926115045
+          - [What do shift colors mean?](section_0926115444.md) — section_0926115444
+        - [Weekly](section_0926120210.md) — section_0926120210
+          - [Creating an actual shift](section_0927100843.md) — section_0927100843
+          - [Weekly view options](section_0927100945.md) — section_0927100945
+          - [Change jobs on an actual shift](section_0927102001.md) — section_0927102001
+          - [Add sick leave to an unworked shift (if using Leave in WFM)](section_0927102107.md) — section_0927102107
+          - [Options button](section_0927103939.md) — section_0927103939
+          - [Visual verification](section_0927104522.md) — section_0927104522
+        - [Approving Shifts with Automatch](section_0927101719.md) — section_0927101719
+        - [Multi-location](section_0927104836.md) — section_0927104836
+          - [View staff hours across multiple locations](section_0927104939.md) — section_0927104939
+          - [View overtime](section_0927105120.md) — section_0927105120
+          - [Shift segments](section_0927105232.md) — section_0927105232
+        - [Forecasting](section_0927105512.md) — section_0927105512
+          - [Forecasting with sales subcategories](section_0927032142.md) — section_0927032142
+        - [Publishing schedules](section_0927032431.md) — section_0927032431
+          - [Multi-location publishing](section_0927033520.md) — section_0927033520
+        - [Copy and paste shifts](section_0928032759.md) — section_0928032759
+        - [Viewing Published Shifts](section_1019102730.md) — section_1019102730
+        - [Schedule Validation](section_1019102811.md) — section_1019102811
+        - [Printing Schedules](section_1019102952.md) — section_1019102952
+        - [Filling Shifts](section_1019103205.md) — section_1019103205
+        - [Daylight Savings Times (DST)](section_1019103257.md) — section_1019103257
+        - [Open Shift](section_1019103748.md) — section_1019103748
+          - [Creating an Open Shift](section_1019103848.md) — section_1019103848
+          - [Mobile App and Open Shifts](section_1019104709.md) — section_1019104709
+          - [Open Shift FAQ](section_1019105003.md) — section_1019105003
+        - [Contract Hours](section_1019105232.md) — section_1019105232
+          - [Enable and Configure Contract Hours](section_1019105837.md) — section_1019105837
+          - [Configure contract hour overtime rules](section_1019110908.md) — section_1019110908
+          - [Setup contract hours on Employees profile](section_1019111025.md) — section_1019111025
+          - [Scheduling with contract hours](section_1019111205.md) — section_1019111205
+          - [Reporting](section_1019111304.md) — section_1019111304
+        - [Scheduling colors reference sheet](section_1019111426.md) — section_1019111426
+        - [Tip Pooling](section_1019111709.md) — section_1019111709
+        - [Timesheet Uploader](section_0528123503.md) — section_0528123503
+      - [Weekly Timesheets with Workforce Management](article_4163136366.md) — article_4163136366
+        - [Enhanced Timesheets Using WFM Wage Rules](article_0604033425.md) — article_0604033425
+          - [User Interface of Enhanced Timesheets Using WFM](section_0812065756.md) — section_0812065756
+          - [Sample Workflow with Enhanced Timesheets Using WFM](section_0812065826.md) — section_0812065826
+          - [Automated Calculations with Enhanced Timesheets Using WFM](section_0812065844.md) — section_0812065844
+          - [Best Practices and Limitations of Enhanced Timesheets Using WFM](section_0812065855.md) — section_0812065855
+          - [Setting Up Enhanced Timesheets Using WFM](section_0812065915.md) — section_0812065915
+            - [Prerequisites of Enhanced Timesheets Using WFM](section_0812082945.md) — section_0812082945
+            - [Mapping Time Bill Fields for Enhanced Timesheets Using WFM](section_0827011145.md) — section_0827011145
+            - [Enabling Enhanced Timesheets Using WFM](section_0812083008.md) — section_0812083008
+            - [Granting Permissions for Enhanced Timesheets Using WFM](section_0812083030.md) — section_0812083030
+            - [Configuring Enhanced Timesheets Using WFM](section_0812083043.md) — section_0812083043
+            - [Disabling Enhanced Timesheets Using WFM](section_0812083020.md) — section_0812083020
+          - [Entering Time in Enhanced Timesheets Using WFM](section_0812065926.md) — section_0812065926
+          - [Approving Hours in Enhanced Timesheets Using WFM](section_0812065936.md) — section_0812065936
+        - [Tracking Weekly Timesheets with WFM and FSM Hours](section_0204014833.md) — section_0204014833
+        - [Setting Custom Forms to Show WFM Payroll Hours](section_0204015659.md) — section_0204015659
+      - [SuitePeople Workforce Management Phone App](article_4125948041.md) — article_4125948041
+        - [WFM Phone App](section_1019100259.md) — section_1019100259
+        - [Minimum Requirements for WFM Mobile Apps](section_0204054156.md) — section_0204054156
+        - [Quick Start Guide for Employees](section_1019100309.md) — section_1019100309
+        - [Quick Start Guide for Managers](section_1019101007.md) — section_1019101007
+        - [Viewing Shifts](section_1019101443.md) — section_1019101443
+        - [Filling Shifts](section_1019101643.md) — section_1019101643
+        - [Dropping Shifts](section_1019101818.md) — section_1019101818
+        - [Swapping Shifts](section_1019102056.md) — section_1019102056
+        - [Viewing Approved Hours in the SuitePeople Workforce Management Phone App](section_1019104412.md) — section_1019104412
+        - [Attestation](section_1019104631.md) — section_1019104631
+        - [Checking that the SuitePeople Workforce Management phone app is up to date](section_1019104642.md) — section_1019104642
+        - [Offline Mode](section_1019104652.md) — section_1019104652
+        - [Shift Confirmation](section_1019104707.md) — section_1019104707
+        - [Paid Rest Breaks for the SuitePeople Workforce Management Phone App](section_1019104720.md) — section_1019104720
+      - [Workforce Management AdiOrg](article_5125709002.md) — article_5125709002
+      - [SuitePeople Time Clock](article_4125910896.md) — article_4125910896
+        - [Minimum Requirements for SuitePeople Time Clock Mobile Apps](subsect_0917112543.md) — subsect_0917112543
+        - [Setting up SuitePeople Time Clock](section_1013044154.md) — section_1013044154
+        - [Troubleshooting SuitePeople Time Clock](subsect_28165043919.md) — subsect_28165043919
+        - [Updating SuitePeople Time Clock](subsect_0917011848.md) — subsect_0917011848
+        - [Breaks for SuitePeople Time Clock](subsect_5094744941.md) — subsect_5094744941
+        - [SuitePeople Time Clock for Windows](section_1014100159.md) — section_1014100159
+          - [Registering Fingerprints for SuitePeople Time Clock](subsect_32100439583.md) — subsect_32100439583
+          - [Activating SuitePeople Time Clock for Windows](subsect_72120320515.md) — subsect_72120320515
+          - [Installing SuitePeople Time Clock Components for Windows](subsect_95102310959.md) — subsect_95102310959
+          - [Verifying the SuitePeople Time Clock for Windows Installer](article_0609074252.md) — article_0609074252
+          - [Setting up SuitePeople Time Clock for Windows](section_0918111029.md) — section_0918111029
+            - [Updating SuitePeople Time Clock for Windows](subsect_17120537667.md) — subsect_17120537667
+          - [Using SuitePeople Time Clock for Windows](subsect_2105712589.md) — subsect_2105712589
+          - [Troubleshooting SuitePeople Time Clock for Windows](subsect_0920125540.md) — subsect_0920125540
+        - [Timesheets and SuitePeople Time Clock](section_1014122608.md) — section_1014122608
+        - [Contract Hours in SuitePeople Time Clock](section_1017091558.md) — section_1017091558
+      - [Workforce Management Reports](article_5125609784.md) — article_5125609784
+        - [Extracting Data Through WFM Reports](section_0625082603.md) — section_0625082603
+        - [Shifts Reports](section_1013041225.md) — section_1013041225
+          - [Timesheet Report](section_1013040305.md) — section_1013040305
+          - [Employee Payroll Query Report](section_1013035437.md) — section_1013035437
+        - [Employee Reports](section_0723104057.md) — section_0723104057
+        - [Location Reports](section_0723104651.md) — section_0723104651
+          - [Variance Report](section_1013034749.md) — section_1013034749
+      - [Workforce Management Payroll](article_2125628727.md) — article_2125628727
+        - [Linking Payroll Items in WFM](section_1003104314.md) — section_1003104314
+        - [ADP (US)](section_1003104329.md) — section_1003104329
+          - [Creating an ADP (US) Configuration in WFM](subsect_0725071314.md) — subsect_0725071314
+          - [ADP (US) Configuration Settings in WFM](subsect_0726032634.md) — subsect_0726032634
+          - [Linking Employees to ADP (US)](section_1003120757.md) — section_1003120757
+          - [Linking Locations to ADP (US)](section_1003120812.md) — section_1003120812
+          - [Linking a Location and Job to ADP (US)](section_1003120827.md) — section_1003120827
+          - [Linking Leave Types to ADP (US)](section_1003120842.md) — section_1003120842
+          - [Linking Agreements to ADP (US)](section_1003120852.md) — section_1003120852
+          - [Exporting ADP (US) Reports](section_1003120900.md) — section_1003120900
+        - [ADP (Canada)](section_1003104341.md) — section_1003104341
+          - [Linking Employees to ADP (Canada)](section_1006033135.md) — section_1006033135
+          - [Linking Locations to ADP (Canada)](section_1006033145.md) — section_1006033145
+          - [Linking Jobs to ADP (Canada)](section_1006033158.md) — section_1006033158
+          - [Exporting Data to ADP (Canada)](section_1006033207.md) — section_1006033207
+        - [MYOB AccountRight Live](section_1003104354.md) — section_1003104354
+          - [Linking Employees to MYOB](section_1011124143.md) — section_1011124143
+          - [Linking Wage Agreements to MYOB](section_1011124148.md) — section_1011124148
+          - [Linking Leave Types to MYOB](section_1011124123.md) — section_1011124123
+          - [Linking Locations to MYOB Jobs](section_1011124112.md) — section_1011124112
+        - [WageEasy](section_1003104440.md) — section_1003104440
+        - [Xero](section_1003104511.md) — section_1003104511
+          - [Setting up a Xero Integration](section_1011011911.md) — section_1011011911
+          - [Linking Multiple Xero Files to One WFM Account](section_1011014628.md) — section_1011014628
+          - [FAQ: Xero Integration with WFM](section_1011011945.md) — section_1011011945
+        - [Paypac](section_1003104521.md) — section_1003104521
+        - [Attaché](section_1003104532.md) — section_1003104532
+      - [Workforce Management Integrations](article_1130145067.md) — article_1130145067
+        - [Email Sales Importer](section_1018051844.md) — section_1018051844
+        - [Oracle Hospitality](section_1212043252.md) — section_1212043252
+        - [OrderMate](section_1018101725.md) — section_1018101725
+        - [World Manager](section_1018090915.md) — section_1018090915
+        - [Redcat POS](section_1018054307.md) — section_1018054307
+      - [Workforce Management Security Guide](article_9234945227.md) — article_9234945227
+        - [Workforce Management Security Overview](article_0311115136.md) — article_0311115136
+        - [Workforce Management Installation Security](article_0311115222.md) — article_0311115222
+        - [Maintaining Workforce Management Security](article_0311115242.md) — article_0311115242
+        - [Using Workforce Management Securely](article_0311115306.md) — article_0311115306
+      - [Workforce Management Data Management](article_8151019008.md) — article_8151019008
+    - [Performance Management](article_159551256652.md) — article_159551256652
+      - [Goal Management and Performance Reviews](chapter_156295348582.md) — chapter_156295348582
+        - [Performance Management Prerequisites](section_156380544694.md) — section_156380544694
+          - [Performance Management Permission Requirements](article_159294160832.md) — article_159294160832
+        - [Goal Management](article_159542637440.md) — article_159542637440
+          - [Goal Management for Employees and Managers](rc_670460565.md) — rc_670460565
+            - [Creating Goals](rc_1495975199.md) — rc_1495975199
+            - [Approving Goals](rc_3107616387.md) — rc_3107616387
+            - [Adding Comments to Goals](rc_1726240153.md) — rc_1726240153
+            - [Editing Goals](rc_1795296692.md) — rc_1795296692
+            - [Inactivating Goals](rc_919459180.md) — rc_919459180
+            - [Viewing Goals](rc_1495765765.md) — rc_1495765765
+            - [Deleting Goals](rc_3710532254.md) — rc_3710532254
+            - [Closing Goals](rc_3755864325.md) — rc_3755864325
+          - [Goal Tracking with Performance Metrics](rc_1051865006.md) — rc_1051865006
+            - [Default Performance Metrics](rc_3399437268.md) — rc_3399437268
+            - [Creating Performance Metrics](rc_3863814324.md) — rc_3863814324
+            - [Editing, Inactivating, or Deleting a Performance Metric](rc_1791145082.md) — rc_1791145082
+        - [Areas of Focus](section_162576581483.md) — section_162576581483
+          - [Managing Your Areas of Focus](section_162576654741.md) — section_162576654741
+          - [Creating Areas of Focus for Your Direct Reports](section_162576655855.md) — section_162576655855
+        - [Manager Digest](section_163906826822.md) — section_163906826822
+        - [Performance Reviews](section_157529458019.md) — section_157529458019
+          - [Performance Review Setup](section_157590962053.md) — section_157590962053
+            - [Performance Review Questions](section_157538096861.md) — section_157538096861
+              - [Creating a Performance Review Question](section_158620451749.md) — section_158620451749
+              - [Editing, Inactivating, or Deleting a Performance Review Question](section_157598772408.md) — section_157598772408
+            - [Performance Review Rating Scales](section_157538100220.md) — section_157538100220
+              - [Creating a Performance Review Rating Scale](section_158620086799.md) — section_158620086799
+              - [Editing a Performance Review Rating Scale](section_157600806513.md) — section_157600806513
+            - [Performance Review Templates](section_157538104209.md) — section_157538104209
+              - [Creating a Performance Review Template](section_158619957572.md) — section_158619957572
+              - [Editing a Performance Review Template](section_157592728359.md) — section_157592728359
+              - [Inactivating or Deleting a Performance Review Template](section_157592738275.md) — section_157592738275
+            - [Scheduling Performance Reviews](section_157538107652.md) — section_157538107652
+              - [Scheduling Performance Reviews with the Fixed Date Schedule](section_163881853550.md) — section_163881853550
+              - [Scheduling Performance Reviews with the Relative Date Schedule](section_163882038610.md) — section_163882038610
+              - [Editing, Inactivating, or Deleting a Performance Review Schedule](section_157600151101.md) — section_157600151101
+              - [Performance Management Dataset Templates](section_163882614060.md) — section_163882614060
+                - [Performance Management - Reviews Scheduler Dataset Template](article_164391099936.md) — article_164391099936
+                - [Reviews Scheduler by Relative Date Dataset Template](article_164391103791.md) — article_164391103791
+                - [Formula Configuration for Dataset Templates](article_163889463543.md) — article_163889463543
+            - [Individual Performance Reviews](section_157538110724.md) — section_157538110724
+              - [Editing a Performance Review](section_157600829457.md) — section_157600829457
+              - [Deleting a Performance Review](section_157669438697.md) — section_157669438697
+          - [Performance Review Process](section_157590971891.md) — section_157590971891
+            - [Completing Your Self Review](section_158619648155.md) — section_158619648155
+            - [Completing Performance Reviews as the Reviewer](section_157799109732.md) — section_157799109732
+            - [Approving Performance Reviews](section_157799116788.md) — section_157799116788
+            - [Finalizing Your Performance Review](rc_667173641.md) — rc_667173641
+            - [Canceling Performance Reviews](section_157799122952.md) — section_157799122952
+        - [Performance Management Saved Searches](section_161427985480.md) — section_161427985480
+          - [Goal Saved Searches](section_161428709201.md) — section_161428709201
+          - [Performance Review Saved Searches](section_161428788168.md) — section_161428788168
+        - [Performance Management Workbook](section_161185085251.md) — section_161185085251
+          - [Performance Management - Goals Dataset](section_161185112110.md) — section_161185112110
+          - [Performance Management - Reviews Dataset](section_161280790919.md) — section_161280790919
+          - [Performance Management - Goals and Reviews Workbook](section_161281294072.md) — section_161281294072
+      - [Kudos](chapter_4721459587.md) — chapter_4721459587
+        - [Kudos Permission Requirements](rc_4240434516.md) — rc_4240434516
+        - [Renaming Kudos](section_1546465333.md) — section_1546465333
+        - [Creating Organization Values](section_4721461590.md) — section_4721461590
+        - [Giving Kudos to Coworkers in the Employee Center](section_1494618510.md) — section_1494618510
+        - [Interacting with Kudos in the Employee Center](bridgehead_4731694029.md) — bridgehead_4731694029
+    - [Compensation Tracking](chapter_157489167446.md) — chapter_157489167446
+      - [Compensation Tracking Setup](section_157488348409.md) — section_157488348409
+        - [Enabling the Compensation Tracking Feature](section_157488916778.md) — section_157488916778
+        - [Integrating Employees' Base Pay Information with Payroll](bridgehead_1496764441.md) — bridgehead_1496764441
+        - [Integrating Bonuses with Payroll](section_157488927059.md) — section_157488927059
+        - [Creating Bonus Types](section_157488931580.md) — section_157488931580
+      - [Recording Base Pay Compensation for an Employee](section_1494510761.md) — section_1494510761
+      - [Entering a Bonus Target for an Employee](section_157489000809.md) — section_157489000809
+      - [Awarding a Bonus to an Employee](section_157489036505.md) — section_157489036505
+      - [Editing a Bonus](section_157489108457.md) — section_157489108457
+      - [Deleting a Bonus](section_157489117106.md) — section_157489117106
+      - [Canceling a Bonus that is in a Reversed Payroll Batch](section_157489118295.md) — section_157489118295
+    - [Job Management](chapter_4567731104.md) — chapter_4567731104
+      - [Job Management and Job Requisitions Prerequisites](section_4567763909.md) — section_4567763909
+      - [Managing Jobs](section_4573833039.md) — section_4573833039
+      - [Job Requisitions](section_4599671952.md) — section_4599671952
+    - [Advanced Employee Permissions](chapter_1494536002.md) — chapter_1494536002
+      - [Advanced Employee Permissions Overview](section_1513370474.md) — section_1513370474
+      - [Before Enabling the Advanced Employee Permissions Feature](section_1519678048.md) — section_1519678048
+        - [Advanced Employee Permissions and Employee Searches](section_1522331904.md) — section_1522331904
+        - [Advanced Employee Permissions and Saved Searches](subsect_1559748263.md) — subsect_1559748263
+        - [Advanced Employee Permissions and Employee List View Results](subsect_1559746809.md) — subsect_1559746809
+        - [Advanced Employee Permissions and NetSuite Reports](section_1522332083.md) — section_1522332083
+        - [Advanced Employee Permissions and Employee Templates](section_157653454002.md) — section_157653454002
+        - [Advanced Employee Permissions and Contact Records](section_1522332107.md) — section_1522332107
+        - [Advanced Employee Permissions and Subrecords](section_157365799065.md) — section_157365799065
+        - [Advanced Employee Permissions and SuiteScript](section_1522332127.md) — section_1522332127
+        - [Advanced Employee Permissions and SuiteFlow](section_1522333553.md) — section_1522333553
+        - [Advanced Employee Permissions and SuiteAnalytics Connect](section_1522333636.md) — section_1522333636
+        - [Advanced Employee Permissions and CSV Import](section_156389854571.md) — section_156389854571
+        - [Advanced Employee Permissions and SOAP Web Services](section_1522333661.md) — section_1522333661
+        - [Advanced Employee Permissions and Customizations](section_1522333898.md) — section_1522333898
+      - [Advanced Employee Permissions and Standard NetSuite Roles](section_1495116029.md) — section_1495116029
+      - [Employee Self Permission Overview](section_1502477001.md) — section_1502477001
+      - [Employee Public Permission Overview](section_1494596636.md) — section_1494596636
+      - [Employee Confidential Permission Overview](section_1494596781.md) — section_1494596781
+      - [Employee Compensation Permission Overview](section_156114123091.md) — section_156114123091
+      - [Employee Access Tab Permission Overview](section_1541786744.md) — section_1541786744
+      - [Employee Administration Permission Overview](section_1494597540.md) — section_1494597540
+      - [Employee Record Full Permission Overview](section_157409540303.md) — section_157409540303
+      - [Advanced Employee Permissions Use Cases](section_1512677335.md) — section_1512677335
+      - [Setting Employee Access for Advanced Employee Permissions](section_1494598267.md) — section_1494598267
+      - [Custom Advanced Employee Permissions](section_1494598577.md) — section_1494598577
+        - [Before Creating Custom Advanced Employee Permissions](section_156934906114.md) — section_156934906114
+        - [Prerequisites for Creating Custom Advanced Employee Permissions](section_157444723055.md) — section_157444723055
+        - [Creating Custom Advanced Employee Permissions](subsect_156166634756.md) — subsect_156166634756
+        - [Adding Standard Fields to Custom Advanced Employee Permissions](subsect_156166641612.md) — subsect_156166641612
+        - [Adding Standard Sublists to Custom Advanced Employee Permissions](subsect_156933699505.md) — subsect_156933699505
+      - [Creating Custom Fields for Advanced Employee Permissions](subsect_156166646813.md) — subsect_156166646813
+        - [Adding Custom Fields to Advanced Employee Permission](subsect_156166658151.md) — subsect_156166658151
+      - [Creating Custom Sublists for Advanced Employee Permissions](subsect_156166654861.md) — subsect_156166654861
+        - [Adding Custom Sublists to Advanced Employee Permission](section_156935597381.md) — section_156935597381
+      - [Custom Restrictions for Advanced Employee Permissions](section_1515610286.md) — section_1515610286
+        - [Prerequisites for Creating Custom Restrictions for Advanced Employee Permissions](section_157409189101.md) — section_157409189101
+        - [Creating Custom Restrictions for Advanced Employee Permissions](section_157374418437.md) — section_157374418437
+        - [Assigning Custom Restrictions to Advanced Employee Permissions](section_157374691735.md) — section_157374691735
+    - [Time Tracking](chapter_1494597174.md) — chapter_1494597174
+      - [Managing Time Tracking](section_N901953.md) — section_N901953
+        - [Understanding Time Tracking](section_N902265.md) — section_N902265
+        - [Setting Up Time Tracking Preferences](section_N902575.md) — section_N902575
+        - [Giving an Employee Access to Time Tracking](section_N902939.md) — section_N902939
+        - [Restricting Employee Time Tracking Entries](section_N898879.md) — section_N898879
+        - [Entering a Time Transaction](section_N904108.md) — section_N904108
+        - [Deleting or Editing Time Entries](bridgehead_4502096285.md) — bridgehead_4502096285
+        - [Weekly Time Tracking](section_N904728.md) — section_N904728
+        - [Using the Timer to Track Time](section_N905386.md) — section_N905386
+        - [Calculating Total Time Worked](section_N905783.md) — section_N905783
+        - [Entering Time for a Payroll Item](section_N906077.md) — section_N906077
+        - [Custom Fields in Time Tracking Pages](section_N906942.md) — section_N906942
+        - [Approving or Rejecting a Time Transaction](section_N907404.md) — section_N907404
+        - [Custom Workflow-based Approvals for Time Tracking](section_1554190531.md) — section_1554190531
+        - [Updating Time Entries](section_156408321759.md) — section_156408321759
+      - [Weekly Timesheets](section_4671374137.md) — section_4671374137
+        - [Using Weekly Timesheets](subsect_161131809908.md) — subsect_161131809908
+        - [Copying a Previous Weekly Timesheet](subsect_161252025536.md) — subsect_161252025536
+        - [Retracting Weekly Timesheets](subsect_161156810153.md) — subsect_161156810153
+        - [Retracting Individual Time Entries](subsect_161529454693.md) — subsect_161529454693
+        - [Customizing Weekly Timesheets](bridgehead_4708305766.md) — bridgehead_4708305766
+        - [Incomplete Weekly Timesheets](subsect_1549916901.md) — subsect_1549916901
+        - [Advanced Approvals for Weekly Timesheets](bridgehead_4703265023.md) — bridgehead_4703265023
+      - [Timesheets](section_3891941390.md) — section_3891941390
+    - [Expense Reports and Purchase Requests](chapter_1494449902.md) — chapter_1494449902
+      - [Expense Reporting](section_N907845.md) — section_N907845
+        - [Expense Reports](section_N908140.md) — section_N908140
+          - [Expense Reports Features and Preferences](bridgehead_N908226.md) — bridgehead_N908226
+          - [Adding Currencies to the Employee Record](subsect_1550605456.md) — subsect_1550605456
+          - [Employee Entry of Expense Reports](bridgehead_N908288.md) — bridgehead_N908288
+          - [Supervisor Approval of Expense Reports](bridgehead_N908322.md) — bridgehead_N908322
+          - [Accounting Approval of Expense Reports](bridgehead_N908360.md) — bridgehead_N908360
+          - [Voided Expense Reports](bridgehead_4556516864.md) — bridgehead_4556516864
+          - [Expense Categories](section_N913978.md) — section_N913978
+          - [Expense Report Policies](section_159122282138.md) — section_159122282138
+        - [Employee Access to Expense Reporting](section_N908637.md) — section_N908637
+        - [Enter an Expense Report](section_N911232.md) — section_N911232
+          - [Entering an Expense Report in the Employee Center](bridgehead_N911351.md) — bridgehead_N911351
+          - [Entering an Expense Report with a Role other than Employee Center](bridgehead_N911711.md) — bridgehead_N911711
+        - [Approving an Expense Report](section_N2396195.md) — section_N2396195
+          - [Using Custom Workflow-Based Approvals for Expense Reports](section_N2397278.md) — section_N2397278
+          - [Switch From the Approval Routing Feature to Suiteflow for Expenses](section_3960252081.md) — section_3960252081
+        - [Editing an Expense Report From the Expense Reports List](section_1550694498.md) — section_1550694498
+        - [Deleting an Expense Report From the Expense Reports List](section_3746063133.md) — section_3746063133
+        - [Rejecting an Expense Report From the Expense Reports List](section_3751910971.md) — section_3751910971
+        - [Corporate Card Expenses](section_1531259544.md) — section_1531259544
+          - [Non-reimbursable Expenses](section_N912353.md) — section_N912353
+          - [Importing Corporate Card Data](subsect_162885823036.md) — subsect_162885823036
+          - [American Express Integration for Expense Reporting](section_159122395131.md) — section_159122395131
+            - [Configuring the AMEX Integration](subsect_159474749891.md) — subsect_159474749891
+            - [Troubleshooting AMEX Integration](article_165105590354.md) — article_165105590354
+        - [Creating Expense Reports With Imported Transactions](subsect_159502517274.md) — subsect_159502517274
+        - [Reviewing Expense Reports](section_N913094.md) — section_N913094
+        - [Giving Accounting Approval for Expense Reports](section_N913502.md) — section_N913502
+        - [Paying Expenses on Employee Paychecks with Payroll](section_N914230.md) — section_N914230
+      - [Giving an Employee Access to Purchase Requests](section_N914882.md) — section_N914882
+      - [Notifying a Supervisor or Approver About Required Approvals](section_N910874.md) — section_N910874
+    - [Analytics and Reporting](preface_1501187756.md) — preface_1501187756
+      - [Workforce Analytics](chapter_4823553933.md) — chapter_4823553933
+        - [Workforce Analytics Overview](section_1519757745.md) — section_1519757745
+        - [Working With Headcount Analysis](section_4825081502.md) — section_4825081502
+          - [Headcount Analysis Trends](section_1514926188.md) — section_1514926188
+          - [Headcount Analysis Snapshots](section_1514926273.md) — section_1514926273
+        - [Working With Turnover Analysis](section_1493745892.md) — section_1493745892
+          - [Turnover Analysis Trends](section_1514926529.md) — section_1514926529
+          - [Turnover Analysis Snapshots](section_1514926552.md) — section_1514926552
+      - [Employee Reports and Workbooks](chapter_1494440696.md) — chapter_1494440696
+        - [Time and Billables Reports](chapter_N916981.md) — chapter_N916981
+        - [Time-Off Management Reports and Workbooks](section_1494515227.md) — section_1494515227
+          - [Available Time-Off Report](section_1494612843.md) — section_1494612843
+          - [Time-Off Balance Summary Report](section_1494612906.md) — section_1494612906
+          - [Time-Off Balance Details Report](section_1494612958.md) — section_1494612958
+          - [Time-Off Analysis Workbook](section_156148807002.md) — section_156148807002
+            - [Time-Off Analysis Dataset](section_158228751107.md) — section_158228751107
+            - [Time-Off Analysis Workbook](section_158228762090.md) — section_158228762090
+          - [Time-Off Tracking Reports](section_1494947371.md) — section_1494947371
+            - [Customizing Time-Off Tracking Reports](section_1502267109.md) — section_1502267109
+        - [Recruiting Reports](section_1488947174.md) — section_1488947174
+          - [Customizing Recruiting Reports](section_1496324629.md) — section_1496324629
+        - [Employee Change History Report](section_N901691.md) — section_N901691
+        - [Employee Saved Search Reports](section_1503953343.md) — section_1503953343
+        - [Customizing Employee Reports](section_1496322885.md) — section_1496322885
+        - [Employee Bonus History and Current Compensation Workbook](section_157661535012.md) — section_157661535012
+          - [Employee Bonus History and Current Compensation Dataset](section_158254303715.md) — section_158254303715
+        - [Performance Management Saved Searches and Workbooks](section_161185032562.md) — section_161185032562
+      - [HR Dashboard Components](chapter_156256427680.md) — chapter_156256427680
+        - [HR Dashboard Components Overview](section_156263724544.md) — section_156263724544
+          - [HR Dashboard Components Terminology](section_156757914517.md) — section_156757914517
+        - [Setting Up HR Dashboard Components](section_156263725532.md) — section_156263725532
+          - [HR Dashboard Components Prerequisites](section_156263761719.md) — section_156263761719
+          - [Installing HR Dashboard Components](section_156263762598.md) — section_156263762598
+          - [Granting HR Dashboard Components Permissions to Custom Roles](section_156263763599.md) — section_156263763599
+          - [Setting up HR Dashboard Components on Your Dashboard](section_156263764475.md) — section_156263764475
+          - [HR Dashboard Components Scripts](section_156756816079.md) — section_156756816079
+        - [Viewing HR Dashboard Components](section_156263728327.md) — section_156263728327
+          - [Viewing the Workforce Demographics Portlet](section_156263779386.md) — section_156263779386
+          - [Viewing Human Resources KPIs on a Scorecard](section_156263780277.md) — section_156263780277
+          - [Viewing HR Dashboard Components Saved Searches](section_156263781270.md) — section_156263781270
+        - [Modifying HR Dashboard Components for Custom Uses](section_156263729818.md) — section_156263729818
+          - [Customizing Workforce Demographics for Custom Roles](section_156263790450.md) — section_156263790450
+          - [Customizing HR Saved Searches for Custom Roles](section_156263784281.md) — section_156263784281
+          - [Adjusting the Start Time of Daily Metric Computations](section_156263785906.md) — section_156263785906
+    - [Compliance](preface_1494526600.md) — preface_1494526600
+      - [Workplace Incident Tracking](chapter_4442606946.md) — chapter_4442606946
+        - [Set up the Health and Safety SuiteApp](section_4442607141.md) — section_4442607141
+          - [Prerequisites for the Health and Safety SuiteApp](bridgehead_1494806282.md) — bridgehead_1494806282
+          - [Install the Health and Safety SuiteApp](bridgehead_1494806321.md) — bridgehead_1494806321
+          - [Health and Safety SuiteApp Permissions](subsect_159713263059.md) — subsect_159713263059
+          - [Enabling the Workplace Incident Forms](bridgehead_4763700189.md) — bridgehead_4763700189
+          - [Setting the Default Folder for Attachments](subsect_1537334246.md) — subsect_1537334246
+          - [Configure Your Company Settings for Incident Tracking](bridgehead_4443155723.md) — bridgehead_4443155723
+        - [Working With Workplace Incidents](section_4443292377.md) — section_4443292377
+        - [Adding a Workplace Incident](section_1494805308.md) — section_1494805308
+          - [Adding a General Workplace Incident](section_4444148926.md) — section_4444148926
+          - [Adding OSHA 301 Workplace Incidents](section_4447679851.md) — section_4447679851
+          - [Adding a RIDDOR Workplace Incident](section_4444160755.md) — section_4444160755
+        - [Generating OSHA Workplace Incident Logs and Summaries](section_4556558659.md) — section_4556558659
+      - [Affordable Care Act (ACA) Reporting](chapter_4785371646.md) — chapter_4785371646
+        - [Setting up the ACA Reporting SuiteApp](section_4795038825.md) — section_4795038825
+        - [ACA Pre-Filing](section_4785488736.md) — section_4785488736
+          - [Setting Up Employer Information](section_4785491582.md) — section_4785491582
+          - [Identifying Part-Time Employees](section_4785490786.md) — section_4785490786
+          - [Creating an ACA Offer of Coverage Plan](section_4785491102.md) — section_4785491102
+          - [Assigning an ACA Offer of Coverage Plan to Multiple Employees](section_4785491332.md) — section_4785491332
+        - [ACA Filing](section_4785491916.md) — section_4785491916
+        - [Updating Employee Records for ACA](section_4785439297.md) — section_4785439297
+        - [Assigning an ACA Offer of Coverage Plan to an Employee](section_4785444842.md) — section_4785444842
+        - [Adding Covered Individuals to an Employee](section_4785452430.md) — section_4785452430
+        - [Adding Safe Harbor Codes to an Employee](section_4785464694.md) — section_4785464694
+        - [Excluding an Employee from ACA Reporting](section_4785464986.md) — section_4785464986
+        - [State-Specific ACA Reporting (DC, NJ, CA, RI)](section_157667275947.md) — section_157667275947
+        - [Viewing ACA Filing History](section_1511930324.md) — section_1511930324
+      - [Government-Issued ID Tracking](chapter_4659166321.md) — chapter_4659166321
+        - [Government-Issued ID Tracking Overview](section_4437225290.md) — section_4437225290
+        - [Managing Government-Issued ID Types](section_4660116605.md) — section_4660116605
+        - [Managing Basic Government-Issued ID for Employees](section_4660109284.md) — section_4660109284
+        - [Managing Advanced Government-Issued ID for Employees](section_4660143379.md) — section_4660143379
+      - [Benefits Tracking](chapter_1491497608.md) — chapter_1491497608
+        - [Setting Up the Benefits Tracking SuiteApp](section_1491497680.md) — section_1491497680
+        - [Configuring Benefits Tracking](section_1493057159.md) — section_1493057159
+        - [Creating Benefit Carriers](bridgehead_1493057545.md) — bridgehead_1493057545
+        - [Creating Benefit Types](bridgehead_1498609432.md) — bridgehead_1498609432
+        - [Creating Benefits](bridgehead_1498650389.md) — bridgehead_1498650389
+        - [Assigning Benefits to an Employee](bridgehead_1499175844.md) — bridgehead_1499175844
+        - [Benefits Tracking Reports](section_1499352054.md) — section_1499352054
+        - [Importing Benefits Information from Carriers](section_1499352507.md) — section_1499352507
+          - [Benefits Tracking Import Fields](section_162787172113.md) — section_162787172113
+          - [Benefits Tracking CSV Examples](section_162796857685.md) — section_162796857685
+      - [Workforce Case Interaction](chapter_158809667672.md) — chapter_158809667672
+        - [Setting up the Workforce Case Interaction SuiteApp](section_158810334849.md) — section_158810334849
+        - [Creating an Employee Case](section_158812014532.md) — section_158812014532
+        - [Adding Interactions for an Existing Employee Case](section_158812062624.md) — section_158812062624
+        - [Viewing and Exporting Interactions for an Employee Case](section_158812385434.md) — section_158812385434
+        - [Generating an Email Distribution List for an Employee Case](section_158812452987.md) — section_158812452987

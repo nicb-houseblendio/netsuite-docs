@@ -1,0 +1,42 @@
+{
+  "branch": "netsuite-for-mobile-overview",
+  "generatedAt": null,
+  "pages": {
+    "book_1556538966": {
+      "path": "corpus/netsuite-for-mobile-overview/book_1556538966.md",
+      "title": "NetSuite for Mobile",
+      "type": "book",
+      "breadcrumb": "NetSuite for Mobile",
+      "parent": null,
+      "category": "netsuite-for-mobile",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/book_1556538966.html",
+      "etag": "\"d0f2dca3cc56701b06e963091a688ab5:1786980352.793604\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:04.137Z",
+      "sha256": "5de370bc58b1fb1bb94f8966288404528253990ef9d4e3462e68e4b68b9f88b2",
+      "bytes": 1107,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "chapter_1553504120": {
+      "path": "corpus/netsuite-for-mobile-overview/chapter_1553504120.md",
+      "title": "NetSuite for Mobile Overview",
+      "type": "chapter",
+      "breadcrumb": "NetSuite for Mobile > NetSuite for Mobile Overview",
+      "parent": "book_1556538966",
+      "category": "netsuite-for-mobile",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_1553504120.html",
+      "etag": "\"ced3a88c8206fb0a6410fbdea996ae1d:1786980390.133822\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:04.428Z",
+      "sha256": "3304a8a9b01a189131fa2c362c4a553508725a143e13466fe7cfa6e1f30c544d",
+      "bytes": 2956,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

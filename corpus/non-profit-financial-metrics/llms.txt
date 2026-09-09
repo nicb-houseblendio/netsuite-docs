@@ -1,0 +1,15 @@
+# Non-Profit Financial Metrics
+
+Non-Profit Financial Metrics (5 pages): Non-Profit Financial Metrics
+
+## Chapters
+- [Non-Profit Financial Metrics](chapter_1551126485.md): Information in this topic includes: - Social Impact KPIs(https://docs.
+  - [Social Impact KPIs](section_1548270070.md): For more information on KPIs in general, see Key Performance Indicators(https://docs.
+  - [Social Impact KPI Scorecards](section_1548270090.md): For more information on KPI Scorecards in general, see KPI Scorecards(https://docs.
+  - [Social Impact Report Snapshots](section_1549827300.md): For more information on how to manage report snapshots in general, see Report Snapshots(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch non-profit-financial-metrics

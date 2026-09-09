@@ -1,0 +1,12 @@
+# Generative AI Feature Availability in NetSuite
+
+Generative AI Feature Availability in NetSuite (1 pages): Generative AI Feature Availability in NetSuite
+
+## Chapters
+- [Generative AI Feature Availability in NetSuite](article_3132707887.md): Several factors affect whether generative AI features are available in your NetSuite account.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch generative-ai-feature-availability-in-netsuite

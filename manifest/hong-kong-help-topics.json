@@ -1,0 +1,24 @@
+{
+  "branch": "hong-kong-help-topics",
+  "generatedAt": null,
+  "pages": {
+    "section_4198421375": {
+      "path": "corpus/hong-kong-help-topics/section_4198421375.md",
+      "title": "Hong Kong Help Topics",
+      "type": "section",
+      "breadcrumb": "Country-Specific Features > Hong Kong Help Topics",
+      "parent": "book_4198429264",
+      "category": "country-specific-features",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_4198421375.html",
+      "etag": "\"533a29a4fa22b32ec26ddbb647c9486b:1786980655.220277\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:12:49.707Z",
+      "sha256": "27c674b2035efc51ed0f7feb0b60b3046476da7b8ad190a8cef5b2e403581991",
+      "bytes": 4011,
+      "anchors": 3,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

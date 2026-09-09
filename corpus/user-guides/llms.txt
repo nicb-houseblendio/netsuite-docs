@@ -1,0 +1,12 @@
+# User Guides
+
+User Guides (1 pages): User Guides
+
+## Chapters
+- [User Guides](preface_3710621755.md): These PDF guides provide conceptual details for specific areas of NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch user-guides

@@ -1,0 +1,15 @@
+# NetSuite Planning and Budgeting
+
+NetSuite Planning and Budgeting (380 pages): NetSuite Planning and Budgeting
+
+## Chapters
+- [NetSuite Planning and Budgeting](article_8124016549.md): If you want to load data and metadata from NetSuite searches to your Oracle Cloud Planning and Budgeting, read the following help topics: - Planning and Budgeting Sync SuiteApp(https://docs.
+  - [Planning and Budgeting Sync SuiteApp](article_7181743232.md): The Planning and Budgeting Sync SuiteApp enables you to extract accounting reports from NetSuite searches and use them in your Planning and Budgeting application in Oracle Cloud Enterprise Performance Management (EPM).
+  - [Planning and Budgeting Financials](article_5131022569.md): To learn about Planning and Budgeting Financials in Planning and Budgeting Cloud, read the following guides: - For information about integrating Planning and Budgeting Financials and NetSuite, see Planning and Budgeting Financials Integration Guide(https://docs.
+  - [NSPB Sync SuiteApp](chapter_163783082940.md): The NSPB Sync SuiteApp enables you to extract accounting reports from NetSuite saved searches and use them in your Oracle Cloud Planning and Budgeting application (Planning and Budgeting, hereafter).
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-planning-and-budgeting

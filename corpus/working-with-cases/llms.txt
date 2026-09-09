@@ -1,0 +1,25 @@
+# Working With Cases
+
+Working With Cases (22 pages): Working With Cases
+
+## Chapters
+- [Working With Cases](chapter_N2434254.md): When a customer reports an issue, question, or suggestion to your business, you create a case in your account.
+  - [Filtering the Cases List](section_N2434332.md): When a support rep enters a case for a customer, the new case is added to the cases list.
+  - [Case Flowchart](section_N2434588.md): Cases typically follow a smooth, assembly-line workflow until they're closed.
+  - [Create Cases](section_N2434679.md): Cases track the issues your customers report and the responses your support reps give.
+  - [Case Summary](section_1006034421.md): The Case Summary feature uses generative AI to provide a concise overview of each support case, including the history of messages, key actions, attachments, and sentiment analysis.
+  - [Assigning Cases](section_N2436819.md): When you enter a case record, it needs to be assigned to a person or a group.
+  - [Escalating Cases](section_N2437130.md): You escalate a case if the assigned support rep can't resolve it.
+  - [Locking Closed Cases](section_N2437326.md): Locked cases are closed cases you can view, but only Administrators can reopen, edit, or update them.
+  - [Tracking Time on Cases](section_3867698247.md): Time Tracking for CRM lets you keep track of time spent on cases with the option to bill that time to customers.
+  - [Responding to Customer Cases](section_N2437794.md): When a case is created and assigned, you'll want to respond to the customer as quickly as possible.
+  - [Customer Responses to Cases](section_N2438114.md): Customers first submit cases online or by contacting your customer support team.
+  - [Close Cases](section_N2438219.md): When you reply to a customer with a definitive answer, you can change the case status to Closed by selecting Close in the Status field on the case record.
+  - [Merging Cases](section_3739683565.md): In NetSuite, you can merge two support case records into one to reduce duplicates.
+  - [Deleting Cases](section_3740606757.md): In NetSuite, you can delete an unlimited number of support case records.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch working-with-cases

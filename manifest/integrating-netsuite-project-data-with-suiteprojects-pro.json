@@ -1,0 +1,24 @@
+{
+  "branch": "integrating-netsuite-project-data-with-suiteprojects-pro",
+  "generatedAt": null,
+  "pages": {
+    "chapter_N1215785": {
+      "path": "corpus/integrating-netsuite-project-data-with-suiteprojects-pro/chapter_N1215785.md",
+      "title": "Integrating NetSuite Project Data with SuiteProjects Pro",
+      "type": "chapter",
+      "breadcrumb": "Projects > Integrating NetSuite Project Data with SuiteProjects Pro",
+      "parent": "preface_3714107248",
+      "category": "projects",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_N1215785.html",
+      "etag": "\"a5e8d252f6d9052e6346b670faaf1218:1786980398.0921\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:25:24.013Z",
+      "sha256": "0ed9f6348b632504214da2afe8779c6c200bd076f715787e6f40354d55b3ac18",
+      "bytes": 1558,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

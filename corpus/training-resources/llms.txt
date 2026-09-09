@@ -1,0 +1,13 @@
+# Training Resources
+
+Training Resources (2 pages): Additional Resources
+
+## Chapters
+- [Additional Resources](set_N3859054.md): - Training Resources(https://docs.
+  - [Training Resources](preface_3710623483.md): Training how you want it, when you need it NetSuite Education Services teaches NetSuite administrators and users the knowledge and skills needed to increase their productivity and efficiency.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch training-resources

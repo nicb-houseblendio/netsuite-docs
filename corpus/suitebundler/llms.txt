@@ -1,0 +1,20 @@
+# SuiteBundler
+
+SuiteBundler (110 pages): SuiteBundler
+
+## Chapters
+- [SuiteBundler](book_N3363377.md): - SuiteBundler Overview(https://docs.
+  - [SuiteBundler Overview](chapter_N3363483.md): Note: SuiteBundler is still supported, but it will not be updated with any new features.
+  - [SuiteApp Creation and Distribution](chapter_N3364150.md): Note: SuiteBundler is still supported, but it will not be updated with any new features.
+  - [SuiteApp Installation and Update](chapter_N3394134.md): If you're the administrator of a NetSuite account or have the SuiteApp Marketplace permission, you can install any public bundle or any bundle that's been shared with your account.
+  - [SuiteApp Development Process with SuiteBundler](chapter_4444212213.md): Note: SuiteBundler is still supported, but it will not be updated with any new features.
+  - [SuiteApps and Sandbox Accounts](chapter_N3405306.md): NetSuite sandbox accounts let you develop and test bundles without disrupting your day-to-day business in your NetSuite production account.
+  - [SuiteBundler Pages](chapter_3783020489.md): This section provides links to topics about the pages used to create and install bundles with SuiteBundler.
+  - [Custom Transaction Types in Bundles](section_4177814825.md): If appropriate, you can create bundles that include custom transaction types.
+  - [Adding a Custom Segment to a Bundle](section_4520725557.md): You can create bundles that include custom segments.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch suitebundler

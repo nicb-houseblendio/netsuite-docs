@@ -1,0 +1,12 @@
+# Monthly Minor Releases
+
+Monthly Minor Releases (1 pages): Monthly Minor Releases
+
+## Chapters
+- [Monthly Minor Releases](preface_8143203769.md): NetSuite may deliver selected enhancements in monthly minor releases after the NetSuite Version 2026.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch monthly-minor-releases

@@ -1,0 +1,34 @@
+# Integrating NetSuite Connector with NetSuite
+
+Integrating NetSuite Connector with NetSuite (38 pages): Integrating NetSuite Connector with NetSuite
+
+## Chapters
+- [Integrating NetSuite Connector with NetSuite](article_164681416236.md): The NetSuite Connector SuiteApp enables integration of NetSuite Connector with NetSuite.
+  - [Verifying a NetSuite Connector Integration Record](section_163030977006.md): The NetSuite Connector integration record is used along with the token you create in NetSuite to allow NetSuite Connector to connect.
+  - [Working with NetSuite Records in NetSuite Connector](section_164967292268.md): This section covers the creation and use of different NetSuite records for use in NetSuite Connector.
+  - [Splitting an Order into Multiple Item Fulfillments Using NetSuite](section_164077219733.md): The Pick, Pack, and Ship feature of NetSuite lets you fulfill different items on an order at different times.
+  - [Changing the Primary User Information in NetSuite Connector](section_164040769899.md): Change the primary user information from the account settings in NetSuite Connector.
+  - [Exposing Internal IDs and Field IDs](section_164905582140.md): Every NetSuite record has an internal ID and every field has a field ID.
+  - [Setting Form Fields Visible Or Editable for NetSuite Connector](section_163782038938.md): NetSuite Connector requires your fields to be visible in your transaction forms for the connector to sync and send your transactions.
+  - [Showing the Fulfilled Field on Sales Orders for NetSuite Connector](section_164015944039.md): NetSuite Connector looks at the quantityFulfilled on your items on your Sales Order form when completing certain processes.
+  - [NetSuite SKU and Storefront SKU in NetSuite Connector](section_162917913231.md): SKUs (Stock Keeping Unit) are used by storefronts to identify items.
+  - [Managing Fields for NetSuite Connector](section_164433366637.md): If your NetSuite Connector account has been active for some time, when you make changes in NetSuite, marketplace, or cart, ensure those changes reflect in NetSuite Connector.
+  - [Enabling Order Email Messages in NetSuite Connector](section_164257829660.md): The To Be Emailed box in NetSuite sets NetSuite to email a copy of the order to the addresses in the email field on the sales order.
+  - [Handling Inventory Items with Alias SKU](section_162563797748.md): You should create separate inventory records for every item rather than creating alias stock keeping unit (SKU).
+  - [Viewing Inventory History in NetSuite](section_164077455773.md): Viewing inventory history in NetSuite is useful for tracking things like oversells and inventory inconsistencies.
+  - [Enabling Quantity-Based Pricing in NetSuite](section_162885136491.md): If you have quantity-based pricing enabled in NetSuite, you must also enable quantity based price levels in NetSuite Connector.
+  - [Using NetSuite Connector for Data Migration](section_164014930271.md): NetSuite Connector isn't intended for mass data migration-it's meant for incremental syncing of data.
+  - [Configuring VAT in NetSuite Connector](section_162971420334.md): Before you configure VAT in NetSuite Connector, you must first confirm whether your storefront uses pre-VAT or post-VAT prices.
+  - [Handling Incorrect Tax Rates, Tax Codes, or Tax Items in NetSuite Orders](section_163283322438.md): For each order, NetSuite calculates the tax code and applies the tax rate based on the shipping address.
+  - [Creating or Reopening an Accounting Period in NetSuite](section_163782042989.md): NetSuite links transactions to a specific accounting period.
+  - [Finding the Cost of Goods Sold (COGS) Account on Items](section_163637852301.md): NetSuite provides you a way to assign accounts to an item for things like COGS (Cost of Goods Sold), Asset, Income, and various other accounts.
+  - [NetSuite Connector Saved Search Export](section_0318013559.md): The Saved Search SuiteApp lets you export data from saved searches in a structured format.
+  - [Undeploying Scripts Installed by NetSuite Connector](section_162911892289.md): To stop using one or more NetSuite Connector's scripts, you should undeploy the script.
+  - [Variation Items in NetSuite Connector](section_0512025337.md): Variation items are items are displayed in a single listing in your storefront with details for color, size, and other variations.
+  - [Troubleshooting Common NetSuite Issues in NetSuite Connector](section_164968177266.md): This section provides information about different NetSuite issues and their possible resolution.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch integrating-netsuite-connector-with-netsuite

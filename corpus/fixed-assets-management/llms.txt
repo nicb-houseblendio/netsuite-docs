@@ -1,0 +1,23 @@
+# Fixed Assets Management
+
+Fixed Assets Management (262 pages): Fixed Assets Management
+
+## Chapters
+- [Fixed Assets Management](preface_3710626334.md): - Fixed Assets Management Overview(https://docs.
+  - [Fixed Assets Management Overview](chapter_N2126441.md): The NetSuite Fixed Assets Management SuiteApp provides automated management of fixed assets acquisition, depreciation, revaluation, and retirement, as well as maintenance schedules and insurance.
+  - [Installing the Fixed Assets Management SuiteApp](chapter_N2126830.md): To successfully install and setup Fixed Assets Management for your business needs, first prepare your NetSuite account by enabling the required features and then proceeding with the SuiteApp installation.
+  - [Setting Up the Fixed Assets Management System](chapter_N2135031.md): After installing the Fixed Assets Management SuiteApp, complete the following setup tasks: - Set up the General Ledger Accounts for Fixed Assets Management(https://docs.
+  - [Creating Fixed Assets Management Records](chapter_164699062962.md): The Fixed Assets Management SuiteApp lets you create asset records in several ways.
+  - [Updating Fixed Assets Management Records](chapter_N2147919.md): To update your asset records and depreciation methods in the Fixed Assets Management SuiteApp, read the following topics: - Updating Asset Records Using CSV Import(https://docs.
+  - [Managing Assets](chapter_N2157855.md): Important: Scripts triggered by script deployment don't have a corresponding FAM process record.
+  - [Asset Reports](chapter_N2162621.md): The Fixed Assets Management SuiteApp provides several reports that offer comprehensive reporting across assets, valuation and depreciation.
+  - [Fixed Assets Saved Searches](chapter_N2161877.md): The Fixed Assets Management SuiteApp provides the following saved searches that you can customize and export: - Standard Fixed Asset Saved Searches(https://docs.
+  - [Managing Fixed Assets Scripts](chapter_164857349671.md): Fixed Assets Management transactions trigger background scripts that require a SuiteCloud processor to run.
+  - [Multi-Book Accounting for Fixed Assets Management](chapter_4041921808.md): The Multi-Book Accounting add-on for Fixed Assets Management lets you assign assets to multiple books.
+  - [Fixed Assets Lease Accounting](chapter_1543968584.md): The Lease Accounting feature in the Fixed Assets Management SuiteApp helps you comply with the IFRS 16 and ASC 842 lease standards.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch fixed-assets-management

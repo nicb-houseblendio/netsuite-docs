@@ -1,0 +1,24 @@
+{
+  "branch": "commerce",
+  "generatedAt": null,
+  "pages": {
+    "article_161701906490": {
+      "path": "corpus/commerce/article_161701906490.md",
+      "title": "Commerce",
+      "type": "article",
+      "breadcrumb": "Videos > Commerce",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_161701906490.html",
+      "etag": "\"e3d0f09d7bdd192c627cee71bebbec86:1786980304.197351\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:43:19.507Z",
+      "sha256": "19593c55d2c94cd177c7659f948678b1db996cf2352afa557e0e5feaac8262cc",
+      "bytes": 5931,
+      "anchors": 5,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

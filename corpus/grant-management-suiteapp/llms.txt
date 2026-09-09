@@ -1,0 +1,20 @@
+# Grant Management SuiteApp
+
+Grant Management SuiteApp (9 pages): Grant Management SuiteApp
+
+## Chapters
+- [Grant Management SuiteApp](article_9155612052.md): The Grant Management SuiteApp enables you to streamline grant management processes for organizations, particularly those that rely on grants for revenue and growth.
+  - [Installing the Grant Management SuiteApp](section_0422051501.md): This section includes the prerequisites and instructions for installing the Grant Management SuiteApp.
+  - [Roles in Grant Management SuiteApp](section_0422052046.md): The Grant Management SuiteApp provides the following roles: - GM Grant Administrator Role(subsect0422052153) - GM Internal Role(subsect0422052216) GM Grant Administrator Role Administrators must assign the GM Grant Administrator role to users before using the Grant Management SuiteApp.
+  - [Grant Management Preferences](section_0422112848.md): In the Grant Management Preferences page, you can customize the grant related records shown for each grant.
+  - [Custom Segments and Custom Records for Grant Management](section_0422114410.md): The Grant Management SuiteApp provides custom segments and custom records to help your organization's grant management.
+  - [Grant Management Dashboard](section_0423010953.md): The Grant Management SuiteApp provides a visual workspace through a dashboard setup.
+  - [Grant Pre-Award Phase](section_0423011919.md): The pre-award phase is a critical initial stage in the grant life cycle, and it involves several essential steps that set the foundation for a successful grant application and management process.
+  - [Grant Post-Award Phase](section_0423014359.md): The post-award phase refers to the period when a grant opportunity or application has been awarded to your organization.
+  - [Grant Workbooks](section_0423020437.md): The Grant Management SuiteApp provides the following workbooks that help you track and manage your grant funding: Unbilled Grants Workbook This workbook shows sales orders that have not been billed or converted to invoices.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch grant-management-suiteapp

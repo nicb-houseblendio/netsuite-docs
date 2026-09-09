@@ -1,0 +1,20 @@
+# Order Fulfillment and Shipping
+
+Order Fulfillment and Shipping (230 pages): Order Fulfillment and Shipping
+
+## Chapters
+- [Order Fulfillment and Shipping](book_4416316451.md): - Order Fulfillment Automation(https://docs.
+  - [Order Fulfillment Automation](chapter_4440622374.md): Optimize your order fulfillment workflows and processes by using the automation features available with the Advanced Order Management module in NetSuite.
+  - [Order Fulfillment](chapter_N1222915.md): Fulfilling an order is shipping the items to fill an open order.
+  - [NetSuite Ship Central](article_90092747693.md): Note: This documentation is about NetSuite Ship Central only, which is a separate shipping solution from NetSuite Connector's ShipStation connector.
+  - [Shipping](chapter_N1257369.md): Use NetSuite to manage your company's shipping needs so you can: - Generate shipping labels, return labels, and manifests - Track shipping status - Use your UPS, FedEx, and USPS accounts Related Items - Setting Up Shipping(https://docs.
+  - [Static Route Management](chapter_157209451439.md): It is a common practice in the food and beverage industry that delivery trucks operate on predefined routes.
+  - [Shipping Integration](chapter_4599309756.md): NetSuite integrates with the following third-party shipping providers to extend shipping services in certain regions or countries: - Shipping Integration with Australia Post(https://docs.
+  - [Bill of Lading](article_158590680422.md): A bill of lading (BOL) is a document that primarily serves as a legally binding agreement between the carrier and shipper or freight owner.
+  - [Inbound Shipment Management](chapter_1490802012.md): An order is identified as an inbound shipment when a vendor packs the purchase order items to ship to the buyer's receiving destinations.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch order-fulfillment-and-shipping

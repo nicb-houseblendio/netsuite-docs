@@ -1,0 +1,13 @@
+# Manage Translations
+
+Manage Translations (43 pages): Globalization
+
+## Chapters
+- [Globalization](preface_8154319431.md): NetSuite Globalization features support: - Internationalization - NetSuite's ready to support users around the globe.
+  - [Manage Translations](article_158572305264.md): NetSuite has features that support translating SuiteScript, SuiteFlow, SuiteBundler and other customizations.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch manage-translations

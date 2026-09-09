@@ -1,0 +1,17 @@
+# NetSuite Pay
+
+NetSuite Pay (30 pages): NetSuite Pay
+
+## Chapters
+- [NetSuite Pay](book_6132305858.md): - NetSuite Pay Overview(https://docs.
+  - [NetSuite Pay Overview](article_5102539325.md): NetSuite Pay is an integrated payment processing solution designed for NetSuite users.
+  - [NetSuite Pay Setup](article_5133045655.md): To implement NetSuite Pay, follow these steps: Install NetSuite Pay - Install NetSuite Pay from the SuiteApp Marketplace.
+  - [Automated Settlement Reconciliation for NetSuite Pay](article_6145552647.md): Automated settlement reconciliation is also known as automatic reconciliation, auto-recon, and settlement and fee reporting.
+  - [Using NetSuite Pay](article_2160019210.md): When using NetSuite Pay, there are several common tasks you may need to do, such as refunds or resolving settlement discrepancies.
+  - [Frequently Asked Questions about NetSuite Pay](article_82100712404.md): These sections contain frequently asked questions related to setting up and using NetSuite Pay: Account Management(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-pay

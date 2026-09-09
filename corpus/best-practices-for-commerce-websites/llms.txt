@@ -1,0 +1,19 @@
+# Best Practices for Commerce Websites
+
+Best Practices for Commerce Websites (30 pages): Best Practices for Commerce Websites
+
+## Chapters
+- [Best Practices for Commerce Websites](preface_163657409932.md): When you're setting up, managing, or maintaining your Commerce website, follow the guidelines and tips in these topics: - Configure Instead of Customize(https://docs.
+  - [Configure Instead of Customize](article_163657338975.md): When you're deciding how to customize your Commerce website, like whether to develop themes and extensions to create the experience you want for your customers, ensure that you understand the capabilities of SuiteCommerce.
+  - [Reports for Commerce Website Traffic](article_164686123841.md): You can analyze and report on your Commerce site traffic using several different features and services.
+  - [Manage and Maintain Images](article_163657319049.md): Images on a web page affect how fast it loads and how well it performs.
+  - [Tips for SuiteScript Configuration and Code](article_164263033147.md): You can use SuiteScript in lots of ways when setting up and customizing your SuiteCommerce website.
+  - [Customize with Workflows](article_163830032280.md): When interacting with customers on your Commerce website, you can customize their experience with SuiteFlow (workflows), which comes with SuiteCloud.
+  - [Marketing URL Parameters](article_164137708019.md): NetSuite uses URL parameters on your Commerce website to track marketing campaigns, boost SEO, and support customization.
+  - [Page Navigation and Redirection](article_164382195722.md): Read the following sections to learn more about page navigation and redirection in Commerce websites: - URL Routing in Commerce Websites(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch best-practices-for-commerce-websites

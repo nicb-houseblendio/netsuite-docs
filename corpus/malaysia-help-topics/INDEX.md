@@ -1,0 +1,64 @@
+# Malaysia Help Topics
+
+60 pages, category: Country-Specific Features
+
+- [Malaysia Help Topics](chapter_1543986177.md) — chapter_1543986177
+  - [Setting up Malaysia-specific Features and Preferences](section_156706929537.md) — section_156706929537
+  - [Malaysia Tax Topics](chapter_4228472831.md) — chapter_4228472831
+    - [Setup Requirements for Malaysia GST Audit File (GAF)](section_4229395687.md) — section_4229395687
+    - [Malaysia GST Tax Codes](section_4228545902.md) — section_4228545902
+    - [Malaysia GST-03 Return](section_4228547399.md) — section_4228547399
+      - [What goes into each box - Malaysia GST-03 Return](section_4228574502.md) — section_4228574502
+    - [Malaysia GST Audit File (GAF)](section_4228553324.md) — section_4228553324
+    - [Malaysia SST Tax Codes](section_1535528911.md) — section_1535528911
+    - [Malaysia SST-02 Return](section_1542781602.md) — section_1542781602
+      - [What Goes Into Each Box - Malaysia Sales Tax (SST-02)](section_1543224241.md) — section_1543224241
+      - [What Goes Into Each Box - Malaysia Service Tax (SST-02)](section_156213746423.md) — section_156213746423
+  - [Malaysia Electronic Invoicing](article_1143428004.md) — article_1143428004
+    - [Malaysia Electronic Invoicing Overview](subsect_0718015325.md) — subsect_0718015325
+    - [Malaysia Electronic Invoicing Quick Start](article_0718015451.md) — article_0718015451
+      - [Prerequisites for Installing the Malaysia Electronic Invoicing SuiteApp](article_0718015959.md) — article_0718015959
+      - [Installing the Malaysia Electronic Invoicing SuiteApp](article_0718020118.md) — article_0718020118
+      - [Setting Up Malaysia Electronic Invoicing](article_0718020433.md) — article_0718020433
+        - [Setting Up a Subsidiary Record](article_0718020606.md) — article_0718020606
+        - [Setting Up a Customer Record](article_0718020707.md) — article_0718020707
+        - [Setting Up an Item Record](article_0718020906.md) — article_0718020906
+        - [Setting Up a Vendor Record for Self-billed Transactions](article_0917104107.md) — article_0917104107
+        - [Setting Up Malaysia Tax Code](article_0718021004.md) — article_0718021004
+        - [Setting Up Malaysia Reverse Charge Tax Code](article_0109023710.md) — article_0109023710
+        - [Setting Up Malaysia Classification Code on Expense Category Record](article_0502102631.md) — article_0502102631
+    - [Malaysia Electronic Invoicing Features](article_0718021031.md) — article_0718021031
+      - [Electronic Invoices](article_1023120817.md) — article_1023120817
+        - [Invoice](article_1023021942.md) — article_1023021942
+        - [Credit Note](article_1023035549.md) — article_1023035549
+        - [Debit Note](article_1023040240.md) — article_1023040240
+        - [Refund Note](article_1023092153.md) — article_1023092153
+        - [Self-billed Invoice](article_1023093016.md) — article_1023093016
+        - [Self-billed Debit Note](article_1023093032.md) — article_1023093032
+        - [Self-billed Credit Note](article_1023093104.md) — article_1023093104
+        - [Consolidate Electronic Invoices](article_1210043936.md) — article_1210043936
+          - [Assigning Custom Roles for Consolidated Electronic Invoicing](article_0916042615.md) — article_0916042615
+          - [Limitations and Guidelines for Consolidated Electronic Invoices](article_1218085149.md) — article_1218085149
+      - [Cancelling Certified E-Invoices](article_1105111418.md) — article_1105111418
+      - [Inbound E-Documents](article_1216093953.md) — article_1216093953
+      - [Customizing PDF Templates](article_0720114743.md) — article_0720114743
+      - [Viewing E-Document Status and Audit Trail](article_0722122737.md) — article_0722122737
+    - [Malaysia Electronic Invoicing Fields](article_1023090139.md) — article_1023090139
+    - [Malaysia Electronic Invoicing Scope and Limitations](article_0720114823.md) — article_0720114823
+  - [Malaysia Invoicing Features](section_1552970583.md) — section_1552970583
+    - [Setting Up Malaysia Invoicing Features](bridgehead_1552971815.md) — bridgehead_1552971815
+      - [Prerequisites for the Southeast Asia Localization SuiteApp](bridgehead_1552971869.md) — bridgehead_1552971869
+      - [Installing the Southeast Asia Localization SuiteApp](bridgehead_1552971928.md) — bridgehead_1552971928
+      - [Limitations of Malaysia Invoicing Features](bridgehead_1552972039.md) — bridgehead_1552972039
+    - [Support for Transactions in Foreign Currency](section_1552972090.md) — section_1552972090
+    - [Support for Transactions with Multiple Tax Codes](section_1552972142.md) — section_1552972142
+    - [Malaysia Invoice and Credit Note Templates](section_1552972210.md) — section_1552972210
+      - [Applying Malaysia Tax Invoice and Credit Note Templates](bridgehead_1552999336.md) — bridgehead_1552999336
+        - [Malaysia Tax Invoice PDF/HTML Template](bridgehead_1552972292.md) — bridgehead_1552972292
+        - [Malaysia Credit Note PDF/HTML Template](bridgehead_1552979541.md) — bridgehead_1552979541
+      - [Printing the Malaysia Invoice and Credit Note](bridgehead_1552999689.md) — bridgehead_1552999689
+  - [Malaysia Payment Formats](section_1549957969.md) — section_1549957969
+    - [Setting Up Company Bank Records in Malaysia](section_1549960220.md) — section_1549960220
+    - [Setting Up Bank Records of Vendors in Malaysia](section_1549963017.md) — section_1549963017
+    - [Setting Up Bank Records of Employees in Malaysia](section_1549964664.md) — section_1549964664
+    - [Setting Up Bank Records of Partners in Malaysia](section_1549965334.md) — section_1549965334

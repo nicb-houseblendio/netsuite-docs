@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T19:10:46.101Z",
+  "generatedAt": "2026-09-09T13:03:48.408Z",
   "release": "2026.2",
   "censusGeneratedAt": "2026-09-08T19:08:33.180Z",
   "tocEtag": "\"9da95a850e79e857a473f052d4be0e16:1786980826.391738\"",
@@ -20,24 +20,2072 @@
       "failed": 0,
       "degraded": 0,
       "shard": "manifest/account-setup.json"
+    },
+    {
+      "slug": "sneak-peeks",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/sneak-peeks.json"
+    },
+    {
+      "slug": "release-notes",
+      "pages": 102,
+      "fetched": 102,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/release-notes.json"
+    },
+    {
+      "slug": "help-center-weekly-updates",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/help-center-weekly-updates.json"
+    },
+    {
+      "slug": "release-preview-guide",
+      "pages": 18,
+      "fetched": 18,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/release-preview-guide.json"
+    },
+    {
+      "slug": "monthly-minor-releases",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/monthly-minor-releases.json"
+    },
+    {
+      "slug": "get-your-account-ready-for-netsuite-next",
+      "pages": 7,
+      "fetched": 7,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/get-your-account-ready-for-netsuite-next.json"
+    },
+    {
+      "slug": "get-started-with-netsuite-next-page",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/get-started-with-netsuite-next-page.json"
+    },
+    {
+      "slug": "managing-netsuite-next-access-by-role",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/managing-netsuite-next-access-by-role.json"
+    },
+    {
+      "slug": "managing-ask-oracle-access-for-roles",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/managing-ask-oracle-access-for-roles.json"
+    },
+    {
+      "slug": "switching-between-your-roles-and-companies",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/switching-between-your-roles-and-companies.json"
+    },
+    {
+      "slug": "switching-modes-between-netsuite-and-netsuite-next",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/switching-modes-between-netsuite-and-netsuite-next.json"
+    },
+    {
+      "slug": "netsuite-next-faq",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-next-faq.json"
+    },
+    {
+      "slug": "account-administration-overview",
+      "pages": 46,
+      "fetched": 46,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/account-administration-overview.json"
+    },
+    {
+      "slug": "netsuite-account-types",
+      "pages": 39,
+      "fetched": 39,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-account-types.json"
+    },
+    {
+      "slug": "netsuite-oneworld",
+      "pages": 150,
+      "fetched": 150,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-oneworld.json"
+    },
+    {
+      "slug": "email-for-administrators",
+      "pages": 17,
+      "fetched": 17,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/email-for-administrators.json"
+    },
+    {
+      "slug": "authentication",
+      "pages": 217,
+      "fetched": 217,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/authentication.json"
+    },
+    {
+      "slug": "csv-imports",
+      "pages": 334,
+      "fetched": 334,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/csv-imports.json"
+    },
+    {
+      "slug": "auditing-and-data-management",
+      "pages": 52,
+      "fetched": 52,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/auditing-and-data-management.json"
+    },
+    {
+      "slug": "system-notes",
+      "pages": 14,
+      "fetched": 14,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/system-notes.json"
+    },
+    {
+      "slug": "best-practices-for-cloud-accounts",
+      "pages": 28,
+      "fetched": 28,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/best-practices-for-cloud-accounts.json"
+    },
+    {
+      "slug": "file-cabinet-for-administrators",
+      "pages": 16,
+      "fetched": 16,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/file-cabinet-for-administrators.json"
+    },
+    {
+      "slug": "netsuite-features-that-use-ai",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-features-that-use-ai.json"
+    },
+    {
+      "slug": "generative-ai-feature-availability-in-netsuite",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/generative-ai-feature-availability-in-netsuite.json"
+    },
+    {
+      "slug": "netsuite-ai-units-and-netsuite-features",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-ai-units-and-netsuite-features.json"
+    },
+    {
+      "slug": "ai-units-faq",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/ai-units-faq.json"
+    },
+    {
+      "slug": "narrative-insights-overview",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/narrative-insights-overview.json"
+    },
+    {
+      "slug": "ask-oracle-skills",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/ask-oracle-skills.json"
+    },
+    {
+      "slug": "application-performance-management-apm",
+      "pages": 81,
+      "fetched": 81,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/application-performance-management-apm.json"
+    },
+    {
+      "slug": "optimizing-netsuite-performance",
+      "pages": 6,
+      "fetched": 6,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/optimizing-netsuite-performance.json"
+    },
+    {
+      "slug": "troubleshooting-performance-issues",
+      "pages": 6,
+      "fetched": 6,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/troubleshooting-performance-issues.json"
+    },
+    {
+      "slug": "performance-best-practices",
+      "pages": 10,
+      "fetched": 10,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/performance-best-practices.json"
+    },
+    {
+      "slug": "manage-translations",
+      "pages": 43,
+      "fetched": 43,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/manage-translations.json"
+    },
+    {
+      "slug": "internationalization",
+      "pages": 20,
+      "fetched": 20,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/internationalization.json"
+    },
+    {
+      "slug": "internationalization-through-global-e-commerce",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/internationalization-through-global-e-commerce.json"
+    },
+    {
+      "slug": "globalization-glossary",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/globalization-glossary.json"
+    },
+    {
+      "slug": "netsuite-basics-overview",
+      "pages": 4,
+      "fetched": 4,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-basics-overview.json"
+    },
+    {
+      "slug": "getting-help",
+      "pages": 43,
+      "fetched": 43,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/getting-help.json"
+    },
+    {
+      "slug": "navigating-netsuite",
+      "pages": 24,
+      "fetched": 24,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/navigating-netsuite.json"
+    },
+    {
+      "slug": "logging-in-to-netsuite",
+      "pages": 30,
+      "fetched": 30,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/logging-in-to-netsuite.json"
+    },
+    {
+      "slug": "logging-out-of-netsuite",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/logging-out-of-netsuite.json"
+    },
+    {
+      "slug": "setting-personal-preferences",
+      "pages": 13,
+      "fetched": 13,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/setting-personal-preferences.json"
+    },
+    {
+      "slug": "ask-oracle",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/ask-oracle.json"
+    },
+    {
+      "slug": "using-suiteanalytics-workbook",
+      "pages": 4,
+      "fetched": 4,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/using-suiteanalytics-workbook.json"
+    },
+    {
+      "slug": "working-with-records-transactions-and-lists",
+      "pages": 82,
+      "fetched": 82,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/working-with-records-transactions-and-lists.json"
+    },
+    {
+      "slug": "working-with-your-calendar-and-activities",
+      "pages": 38,
+      "fetched": 38,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/working-with-your-calendar-and-activities.json"
+    },
+    {
+      "slug": "working-with-email",
+      "pages": 9,
+      "fetched": 9,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/working-with-email.json"
+    },
+    {
+      "slug": "file-cabinet-overview",
+      "pages": 19,
+      "fetched": 19,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/file-cabinet-overview.json"
+    },
+    {
+      "slug": "exporting-reports-searches-and-lists",
+      "pages": 3,
+      "fetched": 3,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/exporting-reports-searches-and-lists.json"
+    },
+    {
+      "slug": "dashboards",
+      "pages": 119,
+      "fetched": 119,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/dashboards.json"
+    },
+    {
+      "slug": "workbook",
+      "pages": 161,
+      "fetched": 161,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/workbook.json"
+    },
+    {
+      "slug": "search",
+      "pages": 156,
+      "fetched": 156,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/search.json"
+    },
+    {
+      "slug": "reports",
+      "pages": 174,
+      "fetched": 174,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/reports.json"
+    },
+    {
+      "slug": "connect",
+      "pages": 134,
+      "fetched": 134,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/connect.json"
+    },
+    {
+      "slug": "netsuite-analytics-warehouse",
+      "pages": 33,
+      "fetched": 33,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-analytics-warehouse.json"
+    },
+    {
+      "slug": "overview-of-country-specific-features",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/overview-of-country-specific-features.json"
+    },
+    {
+      "slug": "region-specific-suiteapps",
+      "pages": 349,
+      "fetched": 349,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/region-specific-suiteapps.json"
+    },
+    {
+      "slug": "australia-help-topics",
+      "pages": 65,
+      "fetched": 65,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/australia-help-topics.json"
+    },
+    {
+      "slug": "belgium-help-topics",
+      "pages": 59,
+      "fetched": 59,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/belgium-help-topics.json"
+    },
+    {
+      "slug": "brazil-help-topics",
+      "pages": 371,
+      "fetched": 371,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/brazil-help-topics.json"
+    },
+    {
+      "slug": "canada-help-topics",
+      "pages": 36,
+      "fetched": 36,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/canada-help-topics.json"
+    },
+    {
+      "slug": "chile-help-topics",
+      "pages": 16,
+      "fetched": 16,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/chile-help-topics.json"
+    },
+    {
+      "slug": "china-help-topics",
+      "pages": 51,
+      "fetched": 51,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/china-help-topics.json"
+    },
+    {
+      "slug": "colombia-help-topics",
+      "pages": 39,
+      "fetched": 39,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/colombia-help-topics.json"
+    },
+    {
+      "slug": "cyprus-help-topics",
+      "pages": 5,
+      "fetched": 5,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/cyprus-help-topics.json"
+    },
+    {
+      "slug": "denmark-help-topics",
+      "pages": 45,
+      "fetched": 45,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/denmark-help-topics.json"
+    },
+    {
+      "slug": "finland-help-topics",
+      "pages": 54,
+      "fetched": 54,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/finland-help-topics.json"
+    },
+    {
+      "slug": "france-help-topics",
+      "pages": 68,
+      "fetched": 68,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/france-help-topics.json"
+    },
+    {
+      "slug": "germany-help-topics",
+      "pages": 94,
+      "fetched": 94,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/germany-help-topics.json"
+    },
+    {
+      "slug": "hong-kong-help-topics",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/hong-kong-help-topics.json"
+    },
+    {
+      "slug": "india-help-topics",
+      "pages": 134,
+      "fetched": 134,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/india-help-topics.json"
+    },
+    {
+      "slug": "ireland-help-topics",
+      "pages": 35,
+      "fetched": 35,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/ireland-help-topics.json"
+    },
+    {
+      "slug": "israel-help-topics",
+      "pages": 38,
+      "fetched": 38,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/israel-help-topics.json"
+    },
+    {
+      "slug": "japan-help-topics",
+      "pages": 161,
+      "fetched": 161,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/japan-help-topics.json"
+    },
+    {
+      "slug": "luxembourg-help-topics",
+      "pages": 14,
+      "fetched": 14,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/luxembourg-help-topics.json"
+    },
+    {
+      "slug": "malaysia-help-topics",
+      "pages": 60,
+      "fetched": 60,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/malaysia-help-topics.json"
+    },
+    {
+      "slug": "mexico-help-topics",
+      "pages": 104,
+      "fetched": 104,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/mexico-help-topics.json"
+    },
+    {
+      "slug": "netherlands-help-topics",
+      "pages": 63,
+      "fetched": 63,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netherlands-help-topics.json"
+    },
+    {
+      "slug": "new-zealand-help-topics",
+      "pages": 15,
+      "fetched": 15,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/new-zealand-help-topics.json"
+    },
+    {
+      "slug": "norway-help-topics",
+      "pages": 44,
+      "fetched": 44,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/norway-help-topics.json"
+    },
+    {
+      "slug": "philippines-help-topics",
+      "pages": 159,
+      "fetched": 159,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/philippines-help-topics.json"
+    },
+    {
+      "slug": "portugal-help-topics",
+      "pages": 63,
+      "fetched": 63,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/portugal-help-topics.json"
+    },
+    {
+      "slug": "singapore-help-topics",
+      "pages": 85,
+      "fetched": 85,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/singapore-help-topics.json"
+    },
+    {
+      "slug": "spain-help-topics",
+      "pages": 107,
+      "fetched": 107,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/spain-help-topics.json"
+    },
+    {
+      "slug": "sweden-help-topics",
+      "pages": 50,
+      "fetched": 50,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/sweden-help-topics.json"
+    },
+    {
+      "slug": "taiwan-province-of-china-help-topics",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/taiwan-province-of-china-help-topics.json"
+    },
+    {
+      "slug": "thailand-help-topics",
+      "pages": 24,
+      "fetched": 24,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/thailand-help-topics.json"
+    },
+    {
+      "slug": "united-kingdom-help-topics",
+      "pages": 87,
+      "fetched": 87,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/united-kingdom-help-topics.json"
+    },
+    {
+      "slug": "u-s-help-topics",
+      "pages": 43,
+      "fetched": 43,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/u-s-help-topics.json"
+    },
+    {
+      "slug": "employees",
+      "pages": 726,
+      "fetched": 726,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/employees.json"
+    },
+    {
+      "slug": "payroll",
+      "pages": 158,
+      "fetched": 158,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/payroll.json"
+    },
+    {
+      "slug": "marketing",
+      "pages": 153,
+      "fetched": 153,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/marketing.json"
+    },
+    {
+      "slug": "sales-force-automation",
+      "pages": 288,
+      "fetched": 288,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/sales-force-automation.json"
+    },
+    {
+      "slug": "partners",
+      "pages": 40,
+      "fetched": 40,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/partners.json"
+    },
+    {
+      "slug": "enabling-project-features",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/enabling-project-features.json"
+    },
+    {
+      "slug": "creating-new-records-for-projects",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/creating-new-records-for-projects.json"
+    },
+    {
+      "slug": "project-management",
+      "pages": 221,
+      "fetched": 221,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/project-management.json"
+    },
+    {
+      "slug": "basic-projects",
+      "pages": 5,
+      "fetched": 5,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/basic-projects.json"
+    },
+    {
+      "slug": "netsuite-for-the-service-industry",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-for-the-service-industry.json"
+    },
+    {
+      "slug": "integrating-netsuite-project-data-with-suiteprojects-pro",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/integrating-netsuite-project-data-with-suiteprojects-pro.json"
+    },
+    {
+      "slug": "project-360-dashboard",
+      "pages": 49,
+      "fetched": 49,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/project-360-dashboard.json"
+    },
+    {
+      "slug": "sales-orders-and-cash-sales",
+      "pages": 228,
+      "fetched": 228,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/sales-orders-and-cash-sales.json"
+    },
+    {
+      "slug": "order-fulfillment-and-shipping",
+      "pages": 230,
+      "fetched": 230,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/order-fulfillment-and-shipping.json"
+    },
+    {
+      "slug": "billing-and-invoices",
+      "pages": 351,
+      "fetched": 351,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/billing-and-invoices.json"
+    },
+    {
+      "slug": "payment-processing",
+      "pages": 428,
+      "fetched": 428,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/payment-processing.json"
+    },
+    {
+      "slug": "saas-metric-reporting",
+      "pages": 82,
+      "fetched": 82,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/saas-metric-reporting.json"
+    },
+    {
+      "slug": "netsuite-pay",
+      "pages": 30,
+      "fetched": 30,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-pay.json"
+    },
+    {
+      "slug": "customer-returns",
+      "pages": 31,
+      "fetched": 31,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/customer-returns.json"
+    },
+    {
+      "slug": "overdue-balances-and-collections",
+      "pages": 84,
+      "fetched": 84,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/overdue-balances-and-collections.json"
+    },
+    {
+      "slug": "order-management-reports",
+      "pages": 58,
+      "fetched": 58,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/order-management-reports.json"
+    },
+    {
+      "slug": "order-management-workbooks",
+      "pages": 12,
+      "fetched": 12,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/order-management-workbooks.json"
+    },
+    {
+      "slug": "key-components-of-fsm",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/key-components-of-fsm.json"
+    },
+    {
+      "slug": "how-fsm-works",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/how-fsm-works.json"
+    },
+    {
+      "slug": "key-fsm-terms",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/key-fsm-terms.json"
+    },
+    {
+      "slug": "field-service-management-administration",
+      "pages": 106,
+      "fetched": 106,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/field-service-management-administration.json"
+    },
+    {
+      "slug": "field-service-operations",
+      "pages": 8,
+      "fetched": 8,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/field-service-operations.json"
+    },
+    {
+      "slug": "field-service-management-schedule-board",
+      "pages": 15,
+      "fetched": 15,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/field-service-management-schedule-board.json"
+    },
+    {
+      "slug": "field-service-management-mobile",
+      "pages": 77,
+      "fetched": 77,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/field-service-management-mobile.json"
+    },
+    {
+      "slug": "field-service-management-api",
+      "pages": 44,
+      "fetched": 44,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/field-service-management-api.json"
+    },
+    {
+      "slug": "field-service-management-security-guide",
+      "pages": 15,
+      "fetched": 15,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/field-service-management-security-guide.json"
+    },
+    {
+      "slug": "general-accounting",
+      "pages": 473,
+      "fetched": 473,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/general-accounting.json"
+    },
+    {
+      "slug": "banking",
+      "pages": 464,
+      "fetched": 464,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/banking.json"
+    },
+    {
+      "slug": "revenue-and-expense-recognition",
+      "pages": 329,
+      "fetched": 329,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/revenue-and-expense-recognition.json"
+    },
+    {
+      "slug": "benchmark-360",
+      "pages": 25,
+      "fetched": 25,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/benchmark-360.json"
+    },
+    {
+      "slug": "taxation",
+      "pages": 537,
+      "fetched": 537,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/taxation.json"
+    },
+    {
+      "slug": "financial-statements",
+      "pages": 75,
+      "fetched": 75,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/financial-statements.json"
+    },
+    {
+      "slug": "fixed-assets-management",
+      "pages": 262,
+      "fetched": 262,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/fixed-assets-management.json"
+    },
+    {
+      "slug": "statistical-accounting",
+      "pages": 26,
+      "fetched": 26,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/statistical-accounting.json"
+    },
+    {
+      "slug": "item-record-management",
+      "pages": 272,
+      "fetched": 272,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/item-record-management.json"
+    },
+    {
+      "slug": "inventory-management",
+      "pages": 609,
+      "fetched": 609,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/inventory-management.json"
+    },
+    {
+      "slug": "manufacturing",
+      "pages": 414,
+      "fetched": 414,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/manufacturing.json"
+    },
+    {
+      "slug": "vendors-purchasing-and-receiving",
+      "pages": 376,
+      "fetched": 376,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/vendors-purchasing-and-receiving.json"
+    },
+    {
+      "slug": "warehouse-management",
+      "pages": 145,
+      "fetched": 145,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/warehouse-management.json"
+    },
+    {
+      "slug": "scm-mobile",
+      "pages": 92,
+      "fetched": 92,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/scm-mobile.json"
+    },
+    {
+      "slug": "setting-up-case-management",
+      "pages": 50,
+      "fetched": 50,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/setting-up-case-management.json"
+    },
+    {
+      "slug": "support-glossary",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/support-glossary.json"
+    },
+    {
+      "slug": "working-with-cases",
+      "pages": 22,
+      "fetched": 22,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/working-with-cases.json"
+    },
+    {
+      "slug": "issue-management",
+      "pages": 24,
+      "fetched": 24,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/issue-management.json"
+    },
+    {
+      "slug": "knowledge-base",
+      "pages": 10,
+      "fetched": 10,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/knowledge-base.json"
+    },
+    {
+      "slug": "monitoring-support-performance",
+      "pages": 22,
+      "fetched": 22,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/monitoring-support-performance.json"
+    },
+    {
+      "slug": "commerce-product-overview",
+      "pages": 13,
+      "fetched": 13,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/commerce-product-overview.json"
+    },
+    {
+      "slug": "store-front",
+      "pages": 592,
+      "fetched": 592,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/store-front.json"
+    },
+    {
+      "slug": "best-practices-for-commerce-websites",
+      "pages": 30,
+      "fetched": 30,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/best-practices-for-commerce-websites.json"
+    },
+    {
+      "slug": "site-management-tools",
+      "pages": 66,
+      "fetched": 66,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/site-management-tools.json"
+    },
+    {
+      "slug": "merchandising",
+      "pages": 132,
+      "fetched": 132,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/merchandising.json"
+    },
+    {
+      "slug": "suitecommerce-site-builder",
+      "pages": 225,
+      "fetched": 225,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitecommerce-site-builder.json"
+    },
+    {
+      "slug": "suitecommerce-instore-scis",
+      "pages": 222,
+      "fetched": 222,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitecommerce-instore-scis.json"
+    },
+    {
+      "slug": "netsuite-point-of-sale-nspos",
+      "pages": 262,
+      "fetched": 262,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-point-of-sale-nspos.json"
+    },
+    {
+      "slug": "system-management",
+      "pages": 325,
+      "fetched": 325,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/system-management.json"
+    },
+    {
+      "slug": "commerce-developer-documentation",
+      "pages": 443,
+      "fetched": 443,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/commerce-developer-documentation.json"
+    },
+    {
+      "slug": "netsuite-connector-overview",
+      "pages": 60,
+      "fetched": 60,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-connector-overview.json"
+    },
+    {
+      "slug": "netsuite-connector-setup",
+      "pages": 21,
+      "fetched": 21,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-connector-setup.json"
+    },
+    {
+      "slug": "netsuite-connector-sync-tests",
+      "pages": 25,
+      "fetched": 25,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-connector-sync-tests.json"
+    },
+    {
+      "slug": "netsuite-connector-deployment-to-production",
+      "pages": 6,
+      "fetched": 6,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-connector-deployment-to-production.json"
+    },
+    {
+      "slug": "integrating-netsuite-connector-with-netsuite",
+      "pages": 38,
+      "fetched": 38,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/integrating-netsuite-connector-with-netsuite.json"
+    },
+    {
+      "slug": "integrating-netsuite-connector-with-supported-storefronts-or",
+      "pages": 10,
+      "fetched": 10,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/integrating-netsuite-connector-with-supported-storefronts-or.json"
+    },
+    {
+      "slug": "netsuite-connector-sync-management",
+      "pages": 144,
+      "fetched": 144,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-connector-sync-management.json"
+    },
+    {
+      "slug": "managing-connectors",
+      "pages": 168,
+      "fetched": 168,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/managing-connectors.json"
+    },
+    {
+      "slug": "managing-ncp-connectors",
+      "pages": 84,
+      "fetched": 84,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/managing-ncp-connectors.json"
+    },
+    {
+      "slug": "netsuite-connector-faq",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-connector-faq.json"
+    },
+    {
+      "slug": "netsuite-enterprise-performance-management-overview",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-enterprise-performance-management-overview.json"
+    },
+    {
+      "slug": "netsuite-epm-connector-suiteapp",
+      "pages": 18,
+      "fetched": 18,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-epm-connector-suiteapp.json"
+    },
+    {
+      "slug": "netsuite-planning-and-budgeting",
+      "pages": 380,
+      "fetched": 380,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-planning-and-budgeting.json"
+    },
+    {
+      "slug": "netsuite-account-reconciliation",
+      "pages": 74,
+      "fetched": 74,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-account-reconciliation.json"
+    },
+    {
+      "slug": "close-management-and-consolidation-sync-suiteapp",
+      "pages": 81,
+      "fetched": 81,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/close-management-and-consolidation-sync-suiteapp.json"
+    },
+    {
+      "slug": "additional-resources",
+      "pages": 12,
+      "fetched": 12,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/additional-resources.json"
+    },
+    {
+      "slug": "suitecloud-platform-introduction",
+      "pages": 23,
+      "fetched": 23,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitecloud-platform-introduction.json"
+    },
+    {
+      "slug": "suitecloud-supported-records",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitecloud-supported-records.json"
+    },
+    {
+      "slug": "suitecloud-customization-tutorials",
+      "pages": 14,
+      "fetched": 14,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitecloud-customization-tutorials.json"
+    },
+    {
+      "slug": "records-catalog",
+      "pages": 9,
+      "fetched": 9,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/records-catalog.json"
+    },
+    {
+      "slug": "customization",
+      "pages": 549,
+      "fetched": 549,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/customization.json"
+    },
+    {
+      "slug": "suitecloud-agent-skills",
+      "pages": 7,
+      "fetched": 7,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitecloud-agent-skills.json"
+    },
+    {
+      "slug": "template-customization",
+      "pages": 135,
+      "fetched": 135,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/template-customization.json"
+    },
+    {
+      "slug": "suiteflow-workflow",
+      "pages": 248,
+      "fetched": 248,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suiteflow-workflow.json"
+    },
+    {
+      "slug": "suitescript",
+      "pages": 3595,
+      "fetched": 3595,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitescript.json"
+    },
+    {
+      "slug": "suitecloud-sdk",
+      "pages": 150,
+      "fetched": 150,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitecloud-sdk.json"
+    },
+    {
+      "slug": "suitecloud-development-framework",
+      "pages": 1182,
+      "fetched": 1182,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitecloud-development-framework.json"
+    },
+    {
+      "slug": "copy-to-account",
+      "pages": 11,
+      "fetched": 11,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/copy-to-account.json"
+    },
+    {
+      "slug": "suitecloud-developer-assistant",
+      "pages": 13,
+      "fetched": 13,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitecloud-developer-assistant.json"
+    },
+    {
+      "slug": "suiteapp-control-center",
+      "pages": 33,
+      "fetched": 33,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suiteapp-control-center.json"
+    },
+    {
+      "slug": "suiteapp-marketplace",
+      "pages": 9,
+      "fetched": 9,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suiteapp-marketplace.json"
+    },
+    {
+      "slug": "suitebundler",
+      "pages": 110,
+      "fetched": 110,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitebundler.json"
+    },
+    {
+      "slug": "suitetalk-web-services",
+      "pages": 913,
+      "fetched": 913,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitetalk-web-services.json"
+    },
+    {
+      "slug": "netsuite-ai-connector-service",
+      "pages": 60,
+      "fetched": 60,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-ai-connector-service.json"
+    },
+    {
+      "slug": "custom-plug-ins",
+      "pages": 15,
+      "fetched": 15,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/custom-plug-ins.json"
+    },
+    {
+      "slug": "core-plug-ins",
+      "pages": 248,
+      "fetched": 248,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/core-plug-ins.json"
+    },
+    {
+      "slug": "netsuite-for-mobile-overview",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-for-mobile-overview.json"
+    },
+    {
+      "slug": "working-with-netsuite-for-mobile",
+      "pages": 74,
+      "fetched": 74,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/working-with-netsuite-for-mobile.json"
+    },
+    {
+      "slug": "configuring-netsuite-for-mobile",
+      "pages": 16,
+      "fetched": 16,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/configuring-netsuite-for-mobile.json"
+    },
+    {
+      "slug": "netsuite-for-mobile-glossary",
+      "pages": 3,
+      "fetched": 3,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-for-mobile-glossary.json"
+    },
+    {
+      "slug": "netsuite-for-mobile-faq",
+      "pages": 6,
+      "fetched": 6,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-for-mobile-faq.json"
+    },
+    {
+      "slug": "netsuite-for-mobile-troubleshooting",
+      "pages": 6,
+      "fetched": 6,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-for-mobile-troubleshooting.json"
+    },
+    {
+      "slug": "netsuite-for-mobile-version-history",
+      "pages": 3,
+      "fetched": 3,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-for-mobile-version-history.json"
+    },
+    {
+      "slug": "netsuite-for-mobile-third-party-licensing",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-for-mobile-third-party-licensing.json"
+    },
+    {
+      "slug": "netsuite-cpq-overview",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-cpq-overview.json"
+    },
+    {
+      "slug": "installing-netsuite-cpq-suiteapps",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/installing-netsuite-cpq-suiteapps.json"
+    },
+    {
+      "slug": "migrating-to-netsuite-cpq-suiteapps",
+      "pages": 9,
+      "fetched": 9,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/migrating-to-netsuite-cpq-suiteapps.json"
+    },
+    {
+      "slug": "netsuite-cpq-configurator",
+      "pages": 152,
+      "fetched": 152,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-cpq-configurator.json"
+    },
+    {
+      "slug": "netsuite-cpq-ai-assistant",
+      "pages": 5,
+      "fetched": 5,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-cpq-ai-assistant.json"
+    },
+    {
+      "slug": "netsuite-cpq-proposal-generator",
+      "pages": 8,
+      "fetched": 8,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-cpq-proposal-generator.json"
+    },
+    {
+      "slug": "netsuite-cpq-suitecommerce-integration",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-cpq-suitecommerce-integration.json"
+    },
+    {
+      "slug": "netsuite-cpq-ecommerce-integration",
+      "pages": 5,
+      "fetched": 5,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-cpq-ecommerce-integration.json"
+    },
+    {
+      "slug": "netsuite-cpq-guided-selling",
+      "pages": 16,
+      "fetched": 16,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-cpq-guided-selling.json"
+    },
+    {
+      "slug": "non-profit-financial-management",
+      "pages": 65,
+      "fetched": 65,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/non-profit-financial-management.json"
+    },
+    {
+      "slug": "non-profit-financial-metrics",
+      "pages": 5,
+      "fetched": 5,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/non-profit-financial-metrics.json"
+    },
+    {
+      "slug": "non-profit-editions",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/non-profit-editions.json"
+    },
+    {
+      "slug": "social-impact-donation-edition",
+      "pages": 3,
+      "fetched": 3,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/social-impact-donation-edition.json"
+    },
+    {
+      "slug": "social-impact-starter-edition",
+      "pages": 6,
+      "fetched": 6,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/social-impact-starter-edition.json"
+    },
+    {
+      "slug": "social-impact-standard-edition",
+      "pages": 18,
+      "fetched": 18,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/social-impact-standard-edition.json"
+    },
+    {
+      "slug": "nfp-suiteapps-update-verification",
+      "pages": 6,
+      "fetched": 6,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/nfp-suiteapps-update-verification.json"
+    },
+    {
+      "slug": "online-donations",
+      "pages": 11,
+      "fetched": 11,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/online-donations.json"
+    },
+    {
+      "slug": "indirect-cost-allocation-for-grants",
+      "pages": 8,
+      "fetched": 8,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/indirect-cost-allocation-for-grants.json"
+    },
+    {
+      "slug": "updating-suiteapps",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/updating-suiteapps.json"
+    },
+    {
+      "slug": "displaying-suiteapps-on-your-dashboard",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/displaying-suiteapps-on-your-dashboard.json"
+    },
+    {
+      "slug": "third-party-suiteapps-not-provided-by-oracle",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/third-party-suiteapps-not-provided-by-oracle.json"
+    },
+    {
+      "slug": "account-warmer",
+      "pages": 9,
+      "fetched": 9,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/account-warmer.json"
+    },
+    {
+      "slug": "advanced-localization-features",
+      "pages": 22,
+      "fetched": 22,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/advanced-localization-features.json"
+    },
+    {
+      "slug": "brazilian-hub",
+      "pages": 219,
+      "fetched": 219,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/brazilian-hub.json"
+    },
+    {
+      "slug": "brazilian-hub-reporting",
+      "pages": 32,
+      "fetched": 32,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/brazilian-hub-reporting.json"
+    },
+    {
+      "slug": "compliance-360-suiteapp",
+      "pages": 32,
+      "fetched": 32,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/compliance-360-suiteapp.json"
+    },
+    {
+      "slug": "contra-account-sheet",
+      "pages": 6,
+      "fetched": 6,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/contra-account-sheet.json"
+    },
+    {
+      "slug": "country-specific-reports",
+      "pages": 33,
+      "fetched": 33,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/country-specific-reports.json"
+    },
+    {
+      "slug": "creating-stickynotes-on-record-pages",
+      "pages": 9,
+      "fetched": 9,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/creating-stickynotes-on-record-pages.json"
+    },
+    {
+      "slug": "file-drag-and-drop",
+      "pages": 4,
+      "fetched": 4,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/file-drag-and-drop.json"
+    },
+    {
+      "slug": "grant-management-suiteapp",
+      "pages": 9,
+      "fetched": 9,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/grant-management-suiteapp.json"
+    },
+    {
+      "slug": "expense-commitments-and-budget-validation",
+      "pages": 17,
+      "fetched": 17,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/expense-commitments-and-budget-validation.json"
+    },
+    {
+      "slug": "former-brazil-localization",
+      "pages": 9,
+      "fetched": 9,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/former-brazil-localization.json"
+    },
+    {
+      "slug": "inbound-asn-automation",
+      "pages": 10,
+      "fetched": 10,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/inbound-asn-automation.json"
+    },
+    {
+      "slug": "labor-expense-allocation",
+      "pages": 19,
+      "fetched": 19,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/labor-expense-allocation.json"
+    },
+    {
+      "slug": "netsuite-suiteapps-license-client",
+      "pages": 3,
+      "fetched": 3,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-suiteapps-license-client.json"
+    },
+    {
+      "slug": "saf-t-reporting-framework",
+      "pages": 8,
+      "fetched": 8,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/saf-t-reporting-framework.json"
+    },
+    {
+      "slug": "saudi-arabia-e-invoicing",
+      "pages": 33,
+      "fetched": 33,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/saudi-arabia-e-invoicing.json"
+    },
+    {
+      "slug": "shelf-to-sheet-count",
+      "pages": 15,
+      "fetched": 15,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/shelf-to-sheet-count.json"
+    },
+    {
+      "slug": "transaction-line-distribution",
+      "pages": 29,
+      "fetched": 29,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/transaction-line-distribution.json"
+    },
+    {
+      "slug": "netsuite-for-outlook",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-for-outlook.json"
+    },
+    {
+      "slug": "accounting",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/accounting.json"
+    },
+    {
+      "slug": "artificial-intelligence",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/artificial-intelligence.json"
+    },
+    {
+      "slug": "commerce",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/commerce.json"
+    },
+    {
+      "slug": "country-specific",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/country-specific.json"
+    },
+    {
+      "slug": "employee-management",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/employee-management.json"
+    },
+    {
+      "slug": "enterprise-resource-planning-erp",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/enterprise-resource-planning-erp.json"
+    },
+    {
+      "slug": "merchandising-article_161703098926",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/merchandising-article_161703098926.json"
+    },
+    {
+      "slug": "help-center-and-suiteanswers",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/help-center-and-suiteanswers.json"
+    },
+    {
+      "slug": "netsuite-connector",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-connector.json"
+    },
+    {
+      "slug": "netsuite-basics",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/netsuite-basics.json"
+    },
+    {
+      "slug": "performance",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/performance.json"
+    },
+    {
+      "slug": "project-management-article_1143713286",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/project-management-article_1143713286.json"
+    },
+    {
+      "slug": "suiteanalytics",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suiteanalytics.json"
+    },
+    {
+      "slug": "suitecloud",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/suitecloud.json"
+    },
+    {
+      "slug": "training-resources",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/training-resources.json"
+    },
+    {
+      "slug": "user-guides",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/user-guides.json"
+    },
+    {
+      "slug": "licensing-information-user-manuals",
+      "pages": 2,
+      "fetched": 2,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/licensing-information-user-manuals.json"
+    },
+    {
+      "slug": "eu-data-act",
+      "pages": 1,
+      "fetched": 1,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/eu-data-act.json"
+    },
+    {
+      "slug": "developer-doc",
+      "pages": 9,
+      "fetched": 9,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/developer-doc.json"
+    },
+    {
+      "slug": "glossary",
+      "pages": 3,
+      "fetched": 3,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/glossary.json"
+    },
+    {
+      "slug": "frequently-asked-questions",
+      "pages": 11,
+      "fetched": 11,
+      "failed": 0,
+      "degraded": 0,
+      "shard": "manifest/frequently-asked-questions.json"
     }
   ],
   "stats": {
-    "fetched": 388,
+    "fetched": 37,
     "unchanged": 0,
     "unchangedByHash": 0,
     "healed": 0,
     "failed": 0,
     "removed": 0,
     "degraded": 0,
-    "durationMs": 101492,
+    "durationMs": 12143,
     "partial": false
   },
   "lastRun": {
-    "runId": "20260908T190904Z-targeted-33e585",
-    "mode": "targeted",
-    "startedAt": "2026-09-08T19:09:04.609Z",
-    "finishedAt": "2026-09-08T19:10:46.101Z"
+    "runId": "20260908T195545Z-all-e12f2d",
+    "mode": "all",
+    "startedAt": "2026-09-09T13:03:36.265Z",
+    "finishedAt": "2026-09-09T13:03:48.408Z"
   },
   "lastFullSweep": null
 }

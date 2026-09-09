@@ -1,0 +1,178 @@
+# Reports
+
+174 pages, category: SuiteAnalytics
+
+- [Reports](book_N698399.md) — book_N698399
+  - [Reporting Overview](chapter_N698474.md) — chapter_N698474
+    - [Alternatives to Reports](section_N698706.md) — section_N698706
+    - [Access to Reports](section_N698946.md) — section_N698946
+      - [Reports Menu Links](bridgehead_N699047.md) — bridgehead_N699047
+      - [Report Menu Links on Other Tabs](bridgehead_N699371.md) — bridgehead_N699371
+      - [Permissions for Reports](bridgehead_N699547.md) — bridgehead_N699547
+      - [The Reports Page](section_N700985.md) — section_N700985
+    - [Standard Reports](section_N701428.md) — section_N701428
+      - [Banking/Budgeting](bridgehead_N702056.md) — bridgehead_N702056
+      - [Cases](bridgehead_N706597.md) — bridgehead_N706597
+      - [Commissions](bridgehead_N705302.md) — bridgehead_N705302
+      - [Cost Accounting](bridgehead_4066402683.md) — bridgehead_4066402683
+      - [Customer/Receivables](bridgehead_N705042.md) — bridgehead_N705042
+      - [Demand Planning](bridgehead_N704849.md) — bridgehead_N704849
+      - [Employees/HR](bridgehead_N702427.md) — bridgehead_N702427
+      - [Forecast](bridgehead_N706196.md) — bridgehead_N706196
+      - [Financial](bridgehead_N701570.md) — bridgehead_N701570
+      - [Integration](bridgehead_N708243.md) — bridgehead_N708243
+      - [Inventory/Items](bridgehead_N702958.md) — bridgehead_N702958
+      - [Issue Management](bridgehead_N706764.md) — bridgehead_N706764
+      - [Marketing](bridgehead_N706837.md) — bridgehead_N706837
+      - [Order Management](bridgehead_N704906.md) — bridgehead_N704906
+      - [Payroll](bridgehead_N702206.md) — bridgehead_N702206
+      - [Pipeline Analysis](bridgehead_N707388.md) — bridgehead_N707388
+      - [Projects](bridgehead_4225681394.md) — bridgehead_4225681394
+      - [Purchases](bridgehead_N702723.md) — bridgehead_N702723
+      - [Revenue](bridgehead_N701858.md) — bridgehead_N701858
+      - [Sales](bridgehead_N705595.md) — bridgehead_N705595
+      - [Sales Orders](bridgehead_N705905.md) — bridgehead_N705905
+      - [Sales Tax Canada](bridgehead_N708405.md) — bridgehead_N708405
+      - [Sales Tax US](bridgehead_N708285.md) — bridgehead_N708285
+      - [Tax](bridgehead_4066404234.md) — bridgehead_4066404234
+      - [Time & Billables](bridgehead_N702464.md) — bridgehead_N702464
+      - [VAT/GST](bridgehead_N708620.md) — bridgehead_N708620
+      - [Vendors/Payables](bridgehead_N702843.md) — bridgehead_N702843
+      - [Web Presence](bridgehead_N707836.md) — bridgehead_N707836
+    - [Ad Hoc Reports](section_N708927.md) — section_N708927
+      - [Choices for Ad Hoc Reports](section_N709168.md) — section_N709168
+        - [Choosing Report Title, Field, Format, Subtotal Grouping, and Matrix Column](section_160700524893.md) — section_160700524893
+      - [Example Ad Hoc Report Results](section_N710892.md) — section_N710892
+      - [Creating a New Report](section_N711076.md) — section_N711076
+    - [Setting Preferences for Reports](section_N716347.md) — section_N716347
+      - [Reporting Preferences on the Set Preferences Page](section_N716534.md) — section_N716534
+      - [Adding a Logo to a Report](section_N717041.md) — section_N717041
+      - [Setting Formats for Reports Exported to PDF](section_N717175.md) — section_N717175
+      - [Reporting Preferences on the Accounting Preferences Page](section_N717339.md) — section_N717339
+  - [Working with Report Results](chapter_N717676.md) — chapter_N717676
+    - [Navigating a Report](section_N718860.md) — section_N718860
+      - [Drilling Down to Records or Transactions](section_N719130.md) — section_N719130
+      - [Using the Report Navigation Pane](section_N719475.md) — section_N719475
+      - [Row Limitations for Report Results](section_N719691.md) — section_N719691
+    - [Setting Report Footer Options](section_N720025.md) — section_N720025
+      - [Report Footer Options](section_N720282.md) — section_N720282
+        - [Account](bridgehead_N720797.md) — bridgehead_N720797
+        - [Age as of](bridgehead_N720834.md) — bridgehead_N720834
+        - [As of](bridgehead_N720871.md) — bridgehead_N720871
+        - [Budget Category](bridgehead_N720928.md) — bridgehead_N720928
+        - [Class](bridgehead_N720965.md) — bridgehead_N720965
+        - [Collapse](bridgehead_N724074.md) — bridgehead_N724074
+        - [Column](bridgehead_N724112.md) — bridgehead_N724112
+        - [Customer](bridgehead_N724184.md) — bridgehead_N724184
+        - [Customize](bridgehead_N724230.md) — bridgehead_N724230
+        - [Date](bridgehead_N724325.md) — bridgehead_N724325
+        - [Department](bridgehead_N724412.md) — bridgehead_N724412
+        - [Duration](bridgehead_N724493.md) — bridgehead_N724493
+        - [Email](bridgehead_N724535.md) — bridgehead_N724535
+        - [End of](bridgehead_N724574.md) — bridgehead_N724574
+        - [Expand](bridgehead_N724612.md) — bridgehead_N724612
+        - [Export](bridgehead_N724650.md) — bridgehead_N724650
+        - [Find](bridgehead_N724691.md) — bridgehead_N724691
+        - [From and To](bridgehead_N724723.md) — bridgehead_N724723
+        - [Graph](bridgehead_N724760.md) — bridgehead_N724760
+        - [Generate Insight](article_0217021544.md) — article_0217021544
+        - [Interval (days)](bridgehead_N724801.md) — bridgehead_N724801
+        - [Is Recognized](bridgehead_N724843.md) — bridgehead_N724843
+        - [Item](bridgehead_N724882.md) — bridgehead_N724882
+        - [Location (financial statement reports)](bridgehead_N724927.md) — bridgehead_N724927
+        - [Location (inventory reports)](bridgehead_N725021.md) — bridgehead_N725021
+        - [Option](bridgehead_N725089.md) — bridgehead_N725089
+        - [Period](bridgehead_N725243.md) — bridgehead_N725243
+        - [Print](bridgehead_N725308.md) — bridgehead_N725308
+        - [Refresh](bridgehead_N725348.md) — bridgehead_N725348
+        - [Schedule](bridgehead_N725381.md) — bridgehead_N725381
+        - [Site](bridgehead_N725426.md) — bridgehead_N725426
+        - [Statement Date](bridgehead_N725472.md) — bridgehead_N725472
+        - [Subsidiary](bridgehead_N725509.md) — bridgehead_N725509
+        - [Subsidiary Context](bridgehead_N725562.md) — bridgehead_N725562
+      - [Choosing Whether to Display a Report Title](section_N725695.md) — section_N725695
+      - [Choosing a Date or Period Range for a Report](section_N725800.md) — section_N725800
+      - [Behavior Descriptors for Selectors](section_4125904112.md) — section_4125904112
+      - [Date Range Selectors](section_4083697063.md) — section_4083697063
+      - [Date As Of Selectors](section_4125897839.md) — section_4125897839
+      - [Period Selectors](section_4084585701.md) — section_4084585701
+      - [Using Multi-Select Options in Report Footer Filters](section_N734449.md) — section_N734449
+    - [Graphing a Report](section_N734603.md) — section_N734603
+    - [Printing a Report](section_N734828.md) — section_N734828
+    - [Emailing a Report](section_N734970.md) — section_N734970
+    - [Scheduling a Report](section_N735311.md) — section_N735311
+      - [Editing a Report Schedule](article_1209032837.md) — article_1209032837
+      - [Deleting a Report Schedule](article_1209033107.md) — article_1209033107
+      - [Report Schedules Page](section_N735790.md) — section_N735790
+      - [Report Results Page](section_N735894.md) — section_N735894
+    - [Exporting a Report](section_N736119.md) — section_N736119
+      - [Known Excel Limitations for Values with More Than 16 Digits](bridgehead_3849041968.md) — bridgehead_3849041968
+      - [Known Limitations for Tableau® Workbook Export](bridgehead_4374727125.md) — bridgehead_4374727125
+  - [Report Customization](chapter_N736328.md) — chapter_N736328
+    - [Report Builder Interface](section_N736822.md) — section_N736822
+    - [Report Customization Permission](section_N738489.md) — section_N738489
+    - [Adding, Removing, or Reordering Report Columns](section_N738669.md) — section_N738669
+      - [Adding Report Columns](bridgehead_N738784.md) — bridgehead_N738784
+      - [Removing Report Columns](bridgehead_N739059.md) — bridgehead_N739059
+      - [Reordering Report Columns](bridgehead_N739142.md) — bridgehead_N739142
+      - [Adding Time-Based Comparison Columns to Reports](section_N739328.md) — section_N739328
+        - [Alternate Range Types](bridgehead_N739387.md) — bridgehead_N739387
+        - [Predefined Relative Alternate Ranges](bridgehead_N739537.md) — bridgehead_N739537
+        - [Absolute Alternate Ranges](bridgehead_N739587.md) — bridgehead_N739587
+        - [Balance Forward Alternate Range](bridgehead_N739630.md) — bridgehead_N739630
+        - [Steps for Adding Alternate Date Range Columns to Reports](bridgehead_N739693.md) — bridgehead_N739693
+        - [Steps for Adding Comparison Column Formula Fields to Reports](bridgehead_1522250943.md) — bridgehead_1522250943
+        - [Standard Report Alternate Ranges Are Relative to Report Date](bridgehead_N739784.md) — bridgehead_N739784
+        - [Segmenting Alternate Period and Date Ranges](bridgehead_4054387590.md) — bridgehead_4054387590
+      - [Adding Formula Fields to Reports](section_N740229.md) — section_N740229
+      - [Adding Matrix Columns to Reports](section_N741181.md) — section_N741181
+      - [Tips for Adding Matrix Columns to a Report](article_1013122637.md) — article_1013122637
+    - [Formatting Numbers on Reports](section_N741457.md) — section_N741457
+      - [Drop Decimals on Reports](section_N741671.md) — section_N741671
+      - [Divide Report Values by 1000](section_N741835.md) — section_N741835
+      - [Negative Numbers on Reports](section_N742001.md) — section_N742001
+      - [Currency Symbols on Reports](section_N742205.md) — section_N742205
+    - [Filtering Data on Reports](section_N742381.md) — section_N742381
+      - [Adding Custom Filters to a Report](bridgehead_3842896248.md) — bridgehead_3842896248
+      - [Displaying Custom Filters in a Report Footer](bridgehead_N742591.md) — bridgehead_N742591
+      - [Predefined Report Filters](bridgehead_N742702.md) — bridgehead_N742702
+      - [Address Field Filters](bridgehead_3842899184.md) — bridgehead_3842899184
+      - [Removing a Custom Filter from a Report](bridgehead_3842898133.md) — bridgehead_3842898133
+      - [Customizing Report Date Range Filters](section_N742889.md) — section_N742889
+        - [Changing the Default Date Range Filter](bridgehead_N742965.md) — bridgehead_N742965
+        - [Adding a Date Range Filter](bridgehead_N742996.md) — bridgehead_N742996
+        - [Updating of Custom Date Range Filters](bridgehead_N743031.md) — bridgehead_N743031
+    - [Sorting Data on Reports](section_N743154.md) — section_N743154
+    - [Setting Additional Options for Custom Reports](section_N744268.md) — section_N744268
+    - [Arranging Data on Summary Reports](section_4353206428.md) — section_4353206428
+    - [Setting Up Cash Basis Reporting](section_N744837.md) — section_N744837
+    - [Sharing Custom Reports with Other Users](section_N745002.md) — section_N745002
+      - [Defining a Report Audience](bridgehead_N745036.md) — bridgehead_N745036
+      - [Extending Report Permissions to your Entire Audience Using the Access Tab](bridgehead_N745205.md) — bridgehead_N745205
+    - [Exporting a Saved Report as an Excel Web Query](section_N745334.md) — section_N745334
+      - [Updating an Excel Web Query File](section_4436900215.md) — section_4436900215
+    - [Example Report Format Changes](section_N745576.md) — section_N745576
+      - [Removing a Report Title](section_160700394954.md) — section_160700394954
+      - [Adding Grid Lines to Your Report](section_160700418081.md) — section_160700418081
+      - [Viewing Your Report in Microsoft® Word or Microsoft® Excel](section_160700434899.md) — section_160700434899
+      - [Viewing Your Report as a Pie Chart, Bar Graph or Line Graph](section_160700471432.md) — section_160700471432
+      - [Adding Your Company's Logo to Your Report](section_160700485928.md) — section_160700485928
+      - [Adding a Custom Description to Your Report](section_160700500738.md) — section_160700500738
+    - [Saving a Custom Report](section_4513909963.md) — section_4513909963
+    - [Deleting a Custom Report](section_4224521464.md) — section_4224521464
+  - [Managing Reports](chapter_N746054.md) — chapter_N746054
+    - [Inline Editing of Reports](section_N746084.md) — section_N746084
+      - [Mass Updating Reports](section_N746190.md) — section_N746190
+    - [Saved Reports Page](section_N746320.md) — section_N746320
+      - [Viewing or Editing a Saved Custom Report](section_N748491.md) — section_N748491
+  - [Reports FAQ](chapter_1555593395.md) — chapter_1555593395
+    - [Why are my custom footer filters not being applied to scheduled reports?](article_1210032030.md) — article_1210032030
+    - [Why am I receiving an error saying that I cannot run a report?](article_1210032345.md) — article_1210032345
+    - [Why am I getting a message that I need to restrict my subsidiary view before I can run a report?](article_1210032459.md) — article_1210032459
+    - [How can I filter report results by periods or dates, and what is the difference between the two?](article_1210032559.md) — article_1210032559
+    - [What is the difference between the Report Builder and the Financial Report Builder?](article_1210032652.md) — article_1210032652
+    - [Why are inactive classes, departments, and locations listed in the footer filters on my financial statements?](article_1210032746.md) — article_1210032746
+    - [How can I create a matrix report?](article_1210032837.md) — article_1210032837
+    - [Why has the running of a scheduled report suddenly stopped?](article_1210032923.md) — article_1210032923
+    - [Can I add a formula field as a column in a report?](article_1210033010.md) — article_1210033010
+    - [Are there size limits for report and search results?](article_1210033112.md) — article_1210033112

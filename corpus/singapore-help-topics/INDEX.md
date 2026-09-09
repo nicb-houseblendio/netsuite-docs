@@ -1,0 +1,89 @@
+# Singapore Help Topics
+
+85 pages, category: Country-Specific Features
+
+- [Singapore Help Topics](section_4256391369.md) — section_4256391369
+  - [Setting up Singapore-specific Features and Preferences](section_1549006623.md) — section_1549006623
+  - [Singapore Tax Topics for Accounts Without SuiteTax](chapter_N1981261.md) — chapter_N1981261
+    - [Additional Setup Requirements for Singapore](section_N1981722.md) — section_N1981722
+    - [Singapore Tax Setup](section_N1983547.md) — section_N1983547
+    - [Singapore Tax Codes](section_N1983994.md) — section_N1983994
+    - [Tracking the Unique Entity Number](section_N1986994.md) — section_N1986994
+    - [Accounting for Goods and Services Tax - Singapore](section_N1987208.md) — section_N1987208
+    - [Singapore GST Report](section_N1987604.md) — section_N1987604
+      - [What goes into each box - Singapore GST F5 Return](section_N1987905.md) — section_N1987905
+    - [Singapore Tax Audit File](section_N1989169.md) — section_N1989169
+  - [Singapore Invoicing Features](section_1523859369.md) — section_1523859369
+    - [Setting Up Singapore Invoicing Features](bridgehead_1523860855.md) — bridgehead_1523860855
+      - [Prerequisites for the Southeast Asia Localization SuiteApp](bridgehead_1523860937.md) — bridgehead_1523860937
+      - [Installing the Southeast Asia Localization SuiteApp](bridgehead_1523861295.md) — bridgehead_1523861295
+    - [Support for Transactions in Foreign Currency](section_1523878737.md) — section_1523878737
+    - [Support for Transactions with Multiple Tax Codes](section_1523883327.md) — section_1523883327
+    - [Compliance with Singapore Customer Accounting Invoice Requirements](section_1523883492.md) — section_1523883492
+    - [Singapore Tax Invoice and Credit Note Templates](section_1523862385.md) — section_1523862385
+      - [Applying Singapore Tax Invoice and Credit Note Templates](bridgehead_1523875331.md) — bridgehead_1523875331
+        - [Singapore Tax Invoice PDF/HTML Template](bridgehead_1523864833.md) — bridgehead_1523864833
+        - [Singapore Credit Note PDF/HTML Template](bridgehead_1523870968.md) — bridgehead_1523870968
+      - [Printing the Singapore Tax Invoice and Credit Note](bridgehead_1523875421.md) — bridgehead_1523875421
+  - [Singapore PEPPOL-Ready e-Invoicing](section_1003105713.md) — section_1003105713
+    - [GST InvoiceNow](article_0729015308.md) — article_0729015308
+    - [Setting Up Singapore PEPPOL-Ready e-Invoicing](section_1209033028.md) — section_1209033028
+      - [Registering and Enrolling to PEPPOL Singapore](section_1003111201.md) — section_1003111201
+      - [Prerequisites for Installing Singapore PEPPOL-Ready e-Invoicing](section_1003112114.md) — section_1003112114
+      - [Installing Singapore PEPPOL-Ready e-Invoicing](section_1003112634.md) — section_1003112634
+      - [Prerequisites for Using Singapore PEPPOL-Ready e-Invoicing](section_1003113227.md) — section_1003113227
+      - [Configuring Singapore PEPPOL-Ready e-Invoicing Preferences](article_0716042409.md) — article_0716042409
+      - [Creating a Singapore PEPPOL E-Invoicing Configuration Record](section_1003114217.md) — section_1003114217
+      - [Entering Singapore Tax Code](section_1004052001.md) — section_1004052001
+      - [Scope, Limitations and Best Practices for Using the SuiteApp](section_1003115325.md) — section_1003115325
+      - [Default Roles for Using Singapore PEPPOL-Ready e-Invoicing](section_1004122504.md) — section_1004122504
+      - [E-documents Dashboard Portlet](section_1004123032.md) — section_1004123032
+      - [Understanding E-Document Components and Records](section_1004125910.md) — section_1004125910
+      - [Understanding Errors](section_1108024844.md) — section_1108024844
+    - [GST InvoiceNow Reporting](article_0327050927.md) — article_0327050927
+    - [Transaction Response for E-Documents](section_0331075501.md) — section_0331075501
+      - [Working with Outbound Transaction Response](article_0409085023.md) — article_0409085023
+      - [Working with Inbound Transaction Response](article_0409094718.md) — article_0409094718
+    - [Working with Outbound E-Documents Using Singapore PEPPOL-Ready e-Invoicing](section_1209040228.md) — section_1209040228
+      - [Setting Automatic Selection of E-document Template and Sending Method on Transactions](section_1004023218.md) — section_1004023218
+      - [Combining E-Document Generation and Sending with the Process E-Document Button](section_1004024456.md) — section_1004024456
+      - [Generating and Sending the Outbound E-Document of a Transaction](section_1004025243.md) — section_1004025243
+        - [Submitting E-invoices to Singapore Government Agencies](article_0327114848.md) — article_0327114848
+      - [Get Network Status](section_1004030749.md) — section_1004030749
+      - [Viewing E-Document Status and Audit Trail](section_1004031323.md) — section_1004031323
+      - [GST Validation Check for GST InvoiceNow](section_0511101545.md) — section_0511101545
+      - [GST InvoiceNow Data Flow for Entity and Transaction Records](section_0511111135.md) — section_0511111135
+      - [Generating and Sending Multiple E-Documents Using Scripts](section_1004031505.md) — section_1004031505
+    - [Working with Inbound e-Documents Using Singapore PEPPOL-Ready e-Invoicing](section_1209052410.md) — section_1209052410
+      - [Importing Inbound E-Documents and Converting them to Transactions](section_1004031654.md) — section_1004031654
+      - [Handling Inbound E-Documents without Matching Customers or Vendors](section_1004032701.md) — section_1004032701
+      - [Mapping Additional Fields in Vendor Bills Created from Inbound E-Documents](section_1209060332.md) — section_1209060332
+      - [Singapore PEPPOL Inbound Sales Order Template](section_0409095904.md) — section_0409095904
+    - [Singapore PEPPOL ID Bulk Update](section_0831095643.md) — section_0831095643
+  - [Singapore Payment Formats](section_N1642722.md) — section_N1642722
+    - [Setting Up Company Bank Records in Singapore](section_N1645419.md) — section_N1645419
+    - [Setting Up Bank Records of Vendors in Singapore](section_N1646764.md) — section_N1646764
+    - [Setting Up Bank Records of Employees in Singapore](section_N1647136.md) — section_N1647136
+    - [Setting Up Bank Records of Customers in Singapore](section_N1647643.md) — section_N1647643
+    - [Setting Up Bank Records of Partners in Singapore](section_3851239814.md) — section_3851239814
+  - [Singapore Localization](article_13144320779.md) — article_13144320779
+    - [Prerequisites for Installing the Singapore Localization SuiteApp](section_1219033959.md) — section_1219033959
+    - [Installing the Singapore Localization SuiteApp](article_1219045538.md) — article_1219045538
+    - [Setting Up Singapore Localization](article_1219051338.md) — article_1219051338
+    - [Singapore Localization Tax Codes](article_1220015842.md) — article_1220015842
+    - [Singapore Localization Reports](article_1220051021.md) — article_1220051021
+      - [Singapore IRAS Audit File](article_0104020156.md) — article_0104020156
+        - [Generating the Singapore IRAS Audit File](article_1220051736.md) — article_1220051736
+      - [Singapore GST F5 Return](article_1220053809.md) — article_1220053809
+        - [Generating a Singapore GST F5 Return](article_1220053256.md) — article_1220053256
+        - [Updating GST Return Declarant Designation Details](article_50120444921.md) — article_50120444921
+      - [Singapore GST F8 Return](article_0107042831.md) — article_0107042831
+        - [Generating a Singapore GST F8 Return](article_0107043305.md) — article_0107043305
+        - [Updating Asset Details and GST Return Declarant Designation Details](article_25144551274.md) — article_25144551274
+      - [Submitting Singapore GST F5 and F8 Returns](article_19121237394.md) — article_19121237394
+        - [Understanding GST F5 and GST F8 Return Submission Errors](article_19123649698.md) — article_19123649698
+    - [Singapore Localization Custom Templates](article_73203511504.md) — article_73203511504
+      - [Singapore Tax Invoice PDF/HTML Template](article_11203804424.md) — article_11203804424
+      - [Singapore Credit Note PDF/HTML Template](article_61111953524.md) — article_61111953524
+      - [Singapore Purchase Order PDF/HTML Template](article_0113115223.md) — article_0113115223
+      - [Singapore Sales Order PDF/HTML Template](article_0113115257.md) — article_0113115257

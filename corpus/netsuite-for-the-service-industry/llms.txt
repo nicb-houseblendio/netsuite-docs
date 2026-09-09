@@ -1,0 +1,12 @@
+# NetSuite for the Service Industry
+
+NetSuite for the Service Industry (1 pages): NetSuite for the Service Industry
+
+## Chapters
+- [NetSuite for the Service Industry](chapter_4254962659.md): NetSuite offers a unique set of features and functionality that you can tailor to fit your service business, whether you're in consulting, advertising, software, web design, publishing, or marketing.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-for-the-service-industry

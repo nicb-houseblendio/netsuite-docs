@@ -1,0 +1,24 @@
+{
+  "branch": "get-started-with-netsuite-next-page",
+  "generatedAt": null,
+  "pages": {
+    "article_6112744964": {
+      "path": "corpus/get-started-with-netsuite-next-page/article_6112744964.md",
+      "title": "Get Started with NetSuite Next Page",
+      "type": "article",
+      "breadcrumb": "NetSuite Next > Get Started with NetSuite Next Page",
+      "parent": "book_1140422123",
+      "category": "netsuite-next",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_6112744964.html",
+      "etag": "\"0d601b73ec7bce35e020a62fddea0e66:1786980332.725637\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T19:56:19.497Z",
+      "sha256": "7aebbdd75f0ca3550cc51c179d3adaad64381848f879b12d2a62defbc79ddd32",
+      "bytes": 1510,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

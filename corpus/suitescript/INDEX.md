@@ -1,0 +1,3599 @@
+# SuiteScript
+
+3595 pages, category: SuiteCloud Platform
+
+- [SuiteScript](set_1502135122.md) — set_1502135122
+  - [SuiteScript Overview](article_163726005075.md) — article_163726005075
+    - [What You Can Do with the SuiteScript API](section_N2902985.md) — section_N2902985
+    - [Using SuiteScript with NetSuite Records](section_N2903330.md) — section_N2903330
+    - [SuiteScript Script Type and Execution Overview](section_158379074356.md) — section_158379074356
+  - [SuiteScript Developer Guide](book_14946590423.md) — book_14946590423
+    - [Setting Up Your SuiteScript Environment](chapter_N2903520.md) — chapter_N2903520
+      - [Showing Record and Field IDs in Your Account](article_0402065629.md) — article_0402065629
+        - [Finding Internal IDs of Records](subsect_0416030736.md) — subsect_0416030736
+        - [Finding Internal IDs of Record Fields](subsect_0416043804.md) — subsect_0416043804
+      - [Setting Roles and Permissions for SuiteScript](article_0403053450.md) — article_0403053450
+      - [Setting Up Your SuiteScript Development Environment](article_0402065535.md) — article_0402065535
+    - [SuiteScript Governance and Limits](chapter_N3350651.md) — chapter_N3350651
+      - [Script Type Usage Unit Limits](section_N3351480.md) — section_N3351480
+      - [SuiteScript 2.1 API Governance](section_157072844224.md) — section_157072844224
+      - [SuiteScript Statement and Instruction Limits](article_1118114507.md) — article_1118114507
+      - [Monitoring Script Usage](section_N3352047.md) — section_N3352047
+      - [Governance on Script Logging](section_N3352137.md) — section_N3352137
+      - [Search Result Limits](section_N3352288.md) — section_N3352288
+      - [Script Execution Time Limits](section_161591009480.md) — section_161591009480
+    - [SuiteScript Best Practices](part_N3360914.md) — part_N3360914
+      - [General Development Best Practices](chapter_N3361037.md) — chapter_N3361037
+      - [Client Script Best Practices](chapter_N3361924.md) — chapter_N3361924
+      - [Map/Reduce Script Best Practices](section_0801064715.md) — section_0801064715
+      - [Scheduled Script Best Practices](chapter_N3361671.md) — chapter_N3361671
+      - [Suitelets and UI Object Best Practices](chapter_N3361294.md) — chapter_N3361294
+      - [User Event Script Best Practices](chapter_N3361453.md) — chapter_N3361453
+      - [Optimizing SuiteScript Performance](section_4460387617.md) — section_4460387617
+    - [SuiteScript Security Considerations](chapter_159804448843.md) — chapter_159804448843
+    - [SuiteScript Debugger](chapter_N3014215.md) — chapter_N3014215
+      - [SuiteScript Debugger Overview](section_N3014224.md) — section_N3014224
+      - [Debugging Overview](section_160418473843.md) — section_160418473843
+      - [Debugging SuiteScript 1.0 and SuiteScript 2.0 Scripts](section_160418113411.md) — section_160418113411
+        - [Script Debugger Interface](chapter_N3017611.md) — chapter_N3017611
+          - [Script Debugger Buttons](section_N3017663.md) — section_N3017663
+          - [Script Debugger Subtabs](section_N3017822.md) — section_N3017822
+            - [Execution Log Debugger Subtab](bridgehead_N3017916.md) — bridgehead_N3017916
+            - [Local Variables Debugger Subtab](bridgehead_N3017956.md) — bridgehead_N3017956
+            - [Watches Debugger Subtab](bridgehead_N3017995.md) — bridgehead_N3017995
+            - [Evaluate Expressions Debugger Subtab](bridgehead_N3018068.md) — bridgehead_N3018068
+            - [Break Points Debugger Subtab](bridgehead_N3018104.md) — bridgehead_N3018104
+          - [Example Use of the Script Debugger Buttons and Tabs](section_159406913066.md) — section_159406913066
+        - [On-Demand Debugging of SuiteScript 1.0 and SuiteScript 2.0 Scripts](section_160418166434.md) — section_160418166434
+        - [Debugging Deployed SuiteScript 1.0 and SuiteScript 2.0 Server Scripts](section_160418170126.md) — section_160418170126
+        - [Tips for Debugging SuiteScript 1.0 and SuiteScript 2.0 Scripts](section_160418176245.md) — section_160418176245
+      - [Debugging SuiteScript 2.1 Scripts](section_160418115436.md) — section_160418115436
+        - [2.1 Script Debugger Overview](section_160417956946.md) — section_160417956946
+        - [Chrome DevTools for SuiteScript 2.1 Script Debugging](section_157625775882.md) — section_157625775882
+          - [Using Chrome DevTools](subsect_157626766571.md) — subsect_157626766571
+        - [On-Demand Debugging of SuiteScript 2.1 Scripts](section_157625776929.md) — section_157625776929
+        - [Debugging Deployed SuiteScript 2.1 Server Scripts](section_157625777670.md) — section_157625777670
+          - [Debugging Deployed SuiteScript 2.1 Scheduled Scripts and Suitelets](section_160833595760.md) — section_160833595760
+          - [Debugging Deployed SuiteScript 2.1 User Event Scripts](section_160833600356.md) — section_160833600356
+            - [Creating the User Event Script and Starting the Debugger Example](subsect_1128020631.md) — subsect_1128020631
+            - [Debugging the beforeLoad Entry Point Example](subsect_1128020657.md) — subsect_1128020657
+            - [Debugging the beforeSubmit and afterSubmit Entry Points Example](subsect_1128020728.md) — subsect_1128020728
+        - [Tips for Debugging SuiteScript 2.1 Scripts](section_157625804567.md) — section_157625804567
+      - [Debugging Client Scripts](section_157437352479.md) — section_157437352479
+      - [Debugging a RESTlet](section_162015275927.md) — section_162015275927
+      - [Script Debugger Metering and Permissions](chapter_N3018263.md) — chapter_N3018263
+    - [SuiteCloud Processors](chapter_1498571420.md) — chapter_1498571420
+      - [SuiteCloud Processors Terminology](section_1503612619.md) — section_1503612619
+      - [SuiteCloud Processors Basic Architecture](section_1506357231.md) — section_1506357231
+      - [SuiteCloud Processors Supported Task Types](section_1505167691.md) — section_1505167691
+      - [SuiteCloud Processors Processor Allotment Per Account](section_1518131145.md) — section_1518131145
+      - [SuiteCloud Processors Priority Levels](section_1505170702.md) — section_1505170702
+        - [SuiteCloud Processors Priority Settings Page](section_1505343059.md) — section_1505343059
+        - [SuiteCloud Processors Priority Scheduling Examples](section_1503612938.md) — section_1503612938
+          - [Default Priority Scheduling Example](bridgehead_1503613321.md) — bridgehead_1503613321
+          - [Varying Priority Scheduling Example](bridgehead_1505335274.md) — bridgehead_1505335274
+      - [SuiteCloud Processors Priority Elevation](section_1504277743.md) — section_1504277743
+      - [SuiteCloud Processors Processor Reservation Advanced Settings](bridgehead_1504277825.md) — bridgehead_1504277825
+    - [SuiteScript Monitoring, Auditing, and Logging](chapter_1494642209.md) — chapter_1494642209
+      - [Using the Script Execution Log Subtab](section_4375896105.md) — section_4375896105
+      - [Viewing a List of Script Execution Logs](section_4375937190.md) — section_4375937190
+      - [The Scripted Records Page](chapter_N2936246.md) — chapter_N2936246
+        - [Accessing the Scripted Records Page](article_1029093731.md) — article_1029093731
+        - [Scripted Records Subtabs](article_1029093904.md) — article_1029093904
+          - [User Event Scripts and Localized User Event Scripts Subtabs on the Scripted Records Page](subsect_1520896383.md) — subsect_1520896383
+          - [Client Scripts and Localized Client Scripts Subtabs on the Scripted Records Page](subsect_156409225234.md) — subsect_156409225234
+          - [Custom Forms Subtab on the Scripted Records Page](subsect_156409229908.md) — subsect_156409229908
+          - [Workflows Subtab on the Scripted Records Page](subsect_156409232168.md) — subsect_156409232168
+        - [Execution Order of Deployed Scripts](article_1029021012.md) — article_1029021012
+      - [SuiteScript Monitoring with the Application Performance Management (APM)](section_1494642343.md) — section_1494642343
+      - [Setting Runtime Options](chapter_N2996991.md) — chapter_N2996991
+        - [Setting Script Execution Event Type from the UI](chapter_N2997182.md) — chapter_N2997182
+        - [Setting Script Execution Log Levels](chapter_N2997347.md) — chapter_N2997347
+        - [Executing Scripts Using a Specific Role](chapter_N2997500.md) — chapter_N2997500
+          - [Script Types That Support Execute as Role](article_1212112429.md) — article_1212112429
+          - [Setting Your Script to Run With Administrative Privileges](bridgehead_N2997678.md) — bridgehead_N2997678
+        - [Setting Available Without Login](chapter_N2997713.md) — chapter_N2997713
+        - [Setting Script Deployment Status](chapter_N2998873.md) — chapter_N2998873
+        - [Defining Script Audience](chapter_N2999041.md) — chapter_N2999041
+        - [Using the Context Filtering Subtab](section_157496034201.md) — section_157496034201
+      - [Reviewing Outbound HTTPS and SFTP Requests](section_1555607753.md) — section_1555607753
+    - [Working with the SuiteScript Records Browser](chapter_N3169369.md) — chapter_N3169369
+      - [Finding a Record or Subrecord](section_157850914989.md) — section_157850914989
+      - [SuiteScript Record Summary Overview](section_157850915666.md) — section_157850915666
+        - [Information Available in the SuiteScript Record Summary](bridgehead_3978376893.md) — bridgehead_3978376893
+      - [Deleted Record Search](section_157850916103.md) — section_157850916103
+    - [Creating Script Parameters (Custom Fields)](part_1542289448.md) — part_1542289448
+      - [Creating Script Parameters Overview](chapter_N2999300.md) — chapter_N2999300
+      - [Creating Script Parameters](chapter_N2999459.md) — chapter_N2999459
+      - [Referencing Script Parameters](chapter_N2999784.md) — chapter_N2999784
+      - [Script Parameter Preferences](chapter_N2999849.md) — chapter_N2999849
+        - [Setting Script Parameter Preferences Example](bridgehead_N3000000.md) — bridgehead_N3000000
+        - [Script Parameter Preference Updates in Bundles](bridgehead_N3000106.md) — bridgehead_N3000106
+    - [SuiteScript IDs](chapter_1494647249.md) — chapter_1494647249
+      - [Permission Names and IDs](chapter_N3236764.md) — chapter_N3236764
+      - [Feature Names and IDs](chapter_N3247851.md) — chapter_N3247851
+      - [Preference Names and IDs](chapter_N3251359.md) — chapter_N3251359
+        - [General Preferences](bridgehead_N3251492.md) — bridgehead_N3251492
+        - [Company Information Preferences](bridgehead_N3253690.md) — bridgehead_N3253690
+        - [User Preferences](bridgehead_N3254790.md) — bridgehead_N3254790
+        - [Accounting Preferences](bridgehead_N3258805.md) — bridgehead_N3258805
+        - [Accounting Periods](bridgehead_N3263666.md) — bridgehead_N3263666
+        - [Manufacturing Preferences](bridgehead_160795960465.md) — bridgehead_160795960465
+        - [Tax Setup](bridgehead_N3263873.md) — bridgehead_N3263873
+        - [Tax Periods](bridgehead_4695736720.md) — bridgehead_4695736720
+      - [Task IDs](chapter_N3269064.md) — chapter_N3269064
+      - [Button IDs](chapter_N3265696.md) — chapter_N3265696
+    - [Working with UI Objects](chapter_1543503740.md) — chapter_1543503740
+      - [Understanding NetSuite Assistants](section_N3012608.md) — section_N3012608
+    - [Single Page Applications](article_161244635803.md) — article_161244635803
+      - [Introduction to Single Page Applications](article_48092943725.md) — article_48092943725
+        - [Components and Structure of Single Page Applications](article_14093025411.md) — article_14093025411
+          - [SuiteApp Project Structure for Single Page Applications](subsect_51093355180.md) — subsect_51093355180
+          - [Build Process for SuiteApp Projects with Single Page Applications](subsect_0124095021.md) — subsect_0124095021
+        - [Understanding the Single Page Application Execution Process](article_1213074659.md) — article_1213074659
+        - [NetSuite User Interface Framework for Single Page Applications](article_55093029536.md) — article_55093029536
+        - [Single Page Application Samples](article_1127020234.md) — article_1127020234
+      - [Single Page Application Creation And Development](article_19093035832.md) — article_19093035832
+        - [Prerequisites for Single Page Applications](article_38093045507.md) — article_38093045507
+        - [Creating a Single Page Application](article_6093100743.md) — article_6093100743
+        - [Developing Single Page Applications](article_1127015529.md) — article_1127015529
+          - [Single Page Application Client Script](article_161796598422.md) — article_161796598422
+            - [SPA Client Script Basic Examples using SuiteScript modules](article_161796611155.md) — article_161796611155
+          - [Single Page Application Server Script](article_161796599785.md) — article_161796599785
+            - [SPA Server Script Basic Examples using SuiteScript modules](article_0310014948.md) — article_0310014948
+        - [Troubleshooting Single Page Applications](article_1127015757.md) — article_1127015757
+          - [Validation and Deployment Errors](article_161608290208.md) — article_161608290208
+          - [Execution Errors](article_161780875969.md) — article_161780875969
+      - [Single Page Application Management](article_1127015945.md) — article_1127015945
+        - [Managing a Single Page Application from SuiteCloud Development Framework](section_157199063947.md) — section_157199063947
+        - [Managing a Single Page Application from the NetSuite User Interface](article_161607458214.md) — article_161607458214
+    - [SuiteScript FAQ](chapter_N3917921.md) — chapter_N3917921
+    - [SuiteScript Unit Testing Tutorial](article_4110608501.md) — article_4110608501
+      - [Before You Begin Unit Testing](section_1013111155.md) — section_1013111155
+      - [Setting Up Your IDE for Unit Testing](section_1025093934.md) — section_1025093934
+      - [Setting Up Your Unit Test File](section_1025100538.md) — section_1025100538
+      - [Identifying Test Cases](section_1025100608.md) — section_1025100608
+        - [Mocking SuiteScript Methods and Objects in Unit Tests](subsect_71090852985.md) — subsect_71090852985
+        - [Mocking Method Examples](subsect_83100622627.md) — subsect_83100622627
+        - [Mocking SuiteScript Properties in Unit Tests](subsect_47091037233.md) — subsect_47091037233
+        - [Handling Enums in Unit Tests](subsect_18091051797.md) — subsect_18091051797
+        - [Mocking Entry Point Functions in Unit Tests](subsect_67091112583.md) — subsect_67091112583
+        - [Testing Conditional Statements](subsect_24091140356.md) — subsect_24091140356
+      - [Validate Your Tests](section_1025100646.md) — section_1025100646
+      - [Complete Unit Test Script](section_1013122911.md) — section_1013122911
+    - [OAuth 2.0 for SuiteScript](article_9091812930.md) — article_9091812930
+      - [Setting Up OAuth 2.0 Authentication for SuiteScript](section_0312092148.md) — section_0312092148
+      - [Setting Up Digital Certificates for OAuth 2.0 with SuiteScript](section_0312092212.md) — section_0312092212
+      - [Using SuiteScript with OAuth 2.0](section_0312092247.md) — section_0312092247
+  - [SuiteScript Records Guide](book_1494659042.md) — book_1494659042
+    - [How to Use SuiteScript Records Help](chapter_157850690634.md) — chapter_157850690634
+    - [SuiteScript Supported Records](chapter_N3170023.md) — chapter_N3170023
+      - [Activities](chapter_N3184006.md) — chapter_N3184006
+        - [Activity](section_N3184130.md) — section_N3184130
+        - [Event](section_N3184172.md) — section_N3184172
+        - [Phone Call](section_N3184214.md) — section_N3184214
+        - [Project Task](section_N3184256.md) — section_N3184256
+        - [Resource Allocation](section_3733846138.md) — section_3733846138
+        - [Task](section_N3184314.md) — section_N3184314
+        - [Work Calendar](section_N3184356.md) — section_N3184356
+      - [Entities](chapter_N3184398.md) — chapter_N3184398
+        - [As Charged Project Revenue Rule](article_80125913437.md) — article_80125913437
+        - [Bonus](section_157373984745.md) — section_157373984745
+          - [Bonus Record Action](section_157124159674.md) — section_157124159674
+        - [Bonus Type](section_157374008038.md) — section_157374008038
+        - [Competitor](section_N3184614.md) — section_N3184614
+        - [Contact](section_N3184656.md) — section_N3184656
+        - [Customer](section_N3184698.md) — section_N3184698
+        - [Customer Status](section_4858833375.md) — section_4858833375
+        - [Employee](section_N3185342.md) — section_N3185342
+        - [Employee Status](section_156278523556.md) — section_156278523556
+        - [Employee Type](section_156278524821.md) — section_156278524821
+        - [Entity](section_N3185716.md) — section_N3185716
+        - [Entity Group](article_0302025324.md) — article_0302025324
+        - [Generic Resource](section_4230622268.md) — section_4230622268
+        - [Job](section_1497637078.md) — section_1497637078
+          - [Job Requisition](section_1497637105.md) — section_1497637105
+        - [Lead](section_N3186192.md) — section_N3186192
+        - [Other Name](section_N3187056.md) — section_N3187056
+        - [Partner](section_N3187098.md) — section_N3187098
+        - [Project](section_N3185758.md) — section_N3185758
+          - [Project Records Actions](article_0725104453.md) — article_0725104453
+            - [Mark Project as Completely Billed](article_0905014528.md) — article_0905014528
+        - [Project Status](section_4858840833.md) — section_4858840833
+        - [Project Template](section_4206752382.md) — section_4206752382
+        - [Project Type](section_4858841256.md) — section_4858841256
+        - [Prospect](section_N3187339.md) — section_N3187339
+        - [Time-Off Management](section_1497626640.md) — section_1497626640
+        - [Vendor](section_N3187808.md) — section_N3187808
+      - [Items](chapter_N3188218.md) — chapter_N3188218
+        - [Using Item Records in SuiteScript](section_N3188567.md) — section_N3188567
+        - [Pricing Sublist / Pricing Matrix](section_1502207768.md) — section_1502207768
+        - [Analytical Impact](article_6133757635.md) — article_6133757635
+        - [Assembly Item](section_N3188833.md) — section_N3188833
+        - [Description Item](section_N3188890.md) — section_N3188890
+        - [Discount Item](section_N3188932.md) — section_N3188932
+        - [Download Item](section_N3190340.md) — section_N3190340
+        - [Gift Certificate Item](section_N3190380.md) — section_N3190380
+        - [Impact Subcategory](article_65142227912.md) — article_65142227912
+        - [Inventory Item](section_N3190421.md) — section_N3190421
+        - [Item Group](section_N3190462.md) — section_N3190462
+        - [Item Search](section_N3190504.md) — section_N3190504
+        - [Kit Item](section_N3190551.md) — section_N3190551
+        - [Lot Numbered Assembly Item](section_N3190592.md) — section_N3190592
+        - [Lot Numbered Inventory Item](section_N3190632.md) — section_N3190632
+        - [Markup Item](section_N3190673.md) — section_N3190673
+        - [Non-Inventory Part](section_N3190715.md) — section_N3190715
+        - [Other Charge Item](section_N3190756.md) — section_N3190756
+        - [Payment Item](section_N3190797.md) — section_N3190797
+        - [Planned Order](section_159225064324.md) — section_159225064324
+        - [Planning Item Category](section_159225201610.md) — section_159225201610
+        - [Planning Item Group](section_159231359526.md) — section_159231359526
+        - [Planning Rule Group](section_159231457546.md) — section_159231457546
+        - [Planning View](section_164804606939.md) — section_164804606939
+        - [Reallocate Items](section_N3190839.md) — section_N3190839
+        - [SaaS Metric](article_35114359424.md) — article_35114359424
+        - [Serialized Assembly Item](section_N3190895.md) — section_N3190895
+        - [Serialized Inventory Item](section_N3190936.md) — section_N3190936
+        - [Service](section_N3190977.md) — section_N3190977
+        - [Shipping Item](section_4230845019.md) — section_4230845019
+        - [Subscription Plan](section_1493329269.md) — section_1493329269
+        - [Subscription Term](section_161402158530.md) — section_161402158530
+        - [Subtotal Item](section_N3191019.md) — section_N3191019
+        - [Supply Chain Snapshot Simulation](section_158162144206.md) — section_158162144206
+        - [Supply Change Order](section_159231558772.md) — section_159231558772
+          - [Supply Change Order Actions](section_159854541072.md) — section_159854541072
+        - [Supply Plan Definition](section_159231624834.md) — section_159231624834
+          - [Supply Plan Definition Record Action](section_159854547667.md) — section_159854547667
+      - [Communications](chapter_N3191061.md) — chapter_N3191061
+        - [Message](section_N3191112.md) — section_N3191112
+        - [Note](section_N3191182.md) — section_N3191182
+      - [Transactions](chapter_N3191224.md) — chapter_N3191224
+        - [Assembly Build](section_N3191937.md) — section_N3191937
+        - [Assembly Unbuild](section_N3191993.md) — section_N3191993
+        - [Bin Transfer](section_N3192160.md) — section_N3192160
+        - [Blanket Purchase Order](section_4030854292.md) — section_4030854292
+        - [Cash Refund](section_N3192213.md) — section_N3192213
+        - [Cash Sale](section_N3192506.md) — section_N3192506
+        - [Check](section_N3193361.md) — section_N3193361
+        - [Credit Memo](section_N3193530.md) — section_N3193530
+        - [Customer Deposit](section_N3193572.md) — section_N3193572
+        - [Customer Refund](section_N3193925.md) — section_N3193925
+        - [Deposit](section_3898858977.md) — section_3898858977
+        - [Deposit Application](section_N3194216.md) — section_N3194216
+        - [Employee Expense Source Type](section_163100330047.md) — section_163100330047
+        - [Estimate](section_N3194277.md) — section_N3194277
+        - [Expense Report](section_N3194549.md) — section_N3194549
+        - [Expense Report Policy](section_163100170941.md) — section_163100170941
+        - [Fulfillment Request](section_1491562300.md) — section_1491562300
+        - [Imported Employee Expense](section_163100356481.md) — section_163100356481
+        - [Inventory Adjustment](section_N3194630.md) — section_N3194630
+        - [Inventory Cost Revaluation](section_3743300939.md) — section_3743300939
+        - [Inventory Count](section_3898859490.md) — section_3898859490
+          - [Inventory Count Record Actions](section_0531013556.md) — section_0531013556
+        - [Inventory Status Change](section_1515701680.md) — section_1515701680
+        - [Inventory Transfer](section_N3194741.md) — section_N3194741
+        - [Invoice](section_N3194809.md) — section_N3194809
+          - [Invoice Record Actions](section_160018205567.md) — section_160018205567
+        - [Invoice Group](section_160011270327.md) — section_160011270327
+          - [Invoice Group Record Actions](section_160018254292.md) — section_160018254292
+        - [Demand Plan Detail Sublist](section_N3212114.md) — section_N3212114
+        - [Item Fulfillment](section_N3195884.md) — section_N3195884
+        - [Item Receipt](section_N3195956.md) — section_N3195956
+        - [Opportunity](section_N3196490.md) — section_N3196490
+        - [Order Reservation](section_161538417528.md) — section_161538417528
+        - [Paycheck](section_4641211943.md) — section_4641211943
+        - [Paycheck Journal](section_N3196762.md) — section_N3196762
+        - [Payroll Batch](section_4641212504.md) — section_4641212504
+        - [Payroll Batch Employee](section_4643596716.md) — section_4643596716
+        - [Period End Journal](section_1534110080.md) — section_1534110080
+        - [Project Intercompany Cross Charge Request](section_164458068956.md) — section_164458068956
+        - [Purchase Contract](section_4030834153.md) — section_4030834153
+        - [Purchase Order](section_N3196854.md) — section_N3196854
+        - [Requisition](section_3898747574.md) — section_3898747574
+        - [Resource Group](article_59132534520.md) — article_59132534520
+        - [Return Authorization](section_N3196919.md) — section_N3196919
+        - [Revenue Arrangement](section_4544311111.md) — section_4544311111
+          - [Revenue Arrangement Record Actions](section_1529337080.md) — section_1529337080
+        - [Revenue Commitment](section_N3196984.md) — section_N3196984
+        - [Revenue Commitment Reversal](section_N3197042.md) — section_N3197042
+        - [Sales Channel](section_161616070145.md) — section_161616070145
+        - [Sales Order](section_N3197103.md) — section_N3197103
+          - [Sales Order Record Macro](section_1557857229.md) — section_1557857229
+        - [Store Pickup Fulfillment](section_1491494736.md) — section_1491494736
+        - [Time Actions](section_1529337353.md) — section_1529337353
+        - [Transfer Order](section_N3199356.md) — section_N3199356
+        - [Vendor Prepayment](section_157968521114.md) — section_157968521114
+        - [Vendor Prepayment Application](section_157968523091.md) — section_157968523091
+        - [Vendor Return Authorization](section_N3199760.md) — section_N3199760
+        - [Wave](section_158439610519.md) — section_158439610519
+        - [Work Order](section_N3199912.md) — section_N3199912
+        - [Work Order Close](section_N3199954.md) — section_N3199954
+        - [Work Order Completion](section_N3200062.md) — section_N3200062
+        - [Work Order Issue](section_N3200178.md) — section_N3200178
+      - [Transactions-related Records](article_160518507969.md) — article_160518507969
+        - [Advanced Intercompany Journal Entry](section_4834689206.md) — section_4834689206
+        - [Balance Transactions by Segments](section_158109973554.md) — section_158109973554
+        - [Bin Putaway Worksheet](section_N3192034.md) — section_N3192034
+        - [Budget Machine](section_161218135180.md) — section_161218135180
+        - [Change Order](section_1493322182.md) — section_1493322182
+        - [Charge](section_3743283850.md) — section_3743283850
+        - [Credit Card Charge](section_4670599118.md) — section_4670599118
+        - [Credit Card Refund](section_4670599646.md) — section_4670599646
+        - [Customer Payment](section_N3193748.md) — section_N3193748
+        - [Demand Plan Detail Sublist](section_160018227858.md) — section_160018227858
+        - [GL Audit Numbering Sequence](section_1551964915.md) — section_1551964915
+        - [Intercompany Journal Entry](section_N3194589.md) — section_N3194589
+        - [Intercompany Transfer Order](section_4431245878.md) — section_4431245878
+        - [Inventory Detail](section_N3194671.md) — section_N3194671
+        - [Item Demand Plan](section_N3195081.md) — section_N3195081
+        - [Item Supply Plan](section_N3196058.md) — section_N3196058
+        - [Journal Entry](section_N3196172.md) — section_N3196172
+        - [Landed Cost](section_3898859613.md) — section_3898859613
+        - [Manufacturing Operation Task](section_N3196212.md) — section_N3196212
+        - [Manufacturing Planned Time](section_4036055031.md) — section_4036055031
+        - [Memorized Transaction Definition](section_157840323440.md) — section_157840323440
+        - [Multi-Book Accounting Transaction](section_4006716205.md) — section_4006716205
+        - [Order Schedule](section_4574631378.md) — section_4574631378
+        - [Pick Strategy](section_158439720543.md) — section_158439720543
+        - [Pick Task](section_158439752345.md) — section_158439752345
+        - [Statistical Journal Entry](section_3899726226.md) — section_3899726226
+        - [Subscription](section_1493328447.md) — section_1493328447
+        - [Subscription Line](section_1493328657.md) — section_1493328657
+        - [Time](section_N3197386.md) — section_N3197386
+        - [Transaction Search](section_N3197428.md) — section_N3197428
+        - [Unlocked Time Period](section_156391549339.md) — section_156391549339
+        - [Usage](section_1493329690.md) — section_1493329690
+        - [Vendor Bill](section_N3199397.md) — section_N3199397
+        - [Vendor Credit](section_N3199566.md) — section_N3199566
+        - [Vendor Payment](section_N3199719.md) — section_N3199719
+          - [Vendor Payment Record Actions](section_1530193985.md) — section_1530193985
+        - [Weekly Timesheet](section_1518113345.md) — section_1518113345
+          - [Weekly Timesheet Record Actions](section_1529337663.md) — section_1529337663
+          - [Weekly Timesheet Record Macros](section_1529337895.md) — section_1529337895
+      - [Support](chapter_N3200279.md) — chapter_N3200279
+        - [Case](section_N3200386.md) — section_N3200386
+        - [Issue](section_N3200428.md) — section_N3200428
+          - [Issue Product](section_1520288230.md) — section_1520288230
+            - [Issue Product Version](section_1520288309.md) — section_1520288309
+        - [Solution](section_N3200470.md) — section_N3200470
+        - [Topic](section_N3200554.md) — section_N3200554
+      - [File Cabinet](chapter_N3200596.md) — chapter_N3200596
+        - [File](section_4858020921.md) — section_4858020921
+        - [Folder](section_N3200631.md) — section_N3200631
+      - [Lists](chapter_N3200673.md) — chapter_N3200673
+        - [Account](section_N3201130.md) — section_N3201130
+        - [Accounting Book](section_3898754610.md) — section_3898754610
+        - [Accounting Context](section_4739558119.md) — section_4739558119
+        - [Accounting Period](section_4558350612.md) — section_4558350612
+        - [Allocation Schedule](section_4665125789.md) — section_4665125789
+        - [Amortization Schedule](section_3898722872.md) — section_3898722872
+        - [Amortization Template](section_3898722670.md) — section_3898722670
+        - [Automated Clearing House](section_161587900980.md) — section_161587900980
+        - [Billing Account](section_4780417549.md) — section_4780417549
+        - [Billing Class](section_3743295400.md) — section_3743295400
+        - [Billing Rate Card](section_4719596844.md) — section_4719596844
+          - [Billing Rate Card Record Macros](section_1529343819.md) — section_1529343819
+        - [Billing Schedule](section_3899748827.md) — section_3899748827
+        - [Bin](section_N3201172.md) — section_N3201172
+        - [BOM](section_1501787367.md) — section_1501787367
+        - [BOM Revision](section_1501787393.md) — section_1501787393
+        - [Budget Category](article_0904123846.md) — article_0904123846
+        - [Budget Exchange Rate](section_1551947973.md) — section_1551947973
+        - [Class](section_N3201225.md) — section_N3201225
+        - [Consolidated Exchange Rate](section_4685850130.md) — section_4685850130
+        - [Contact Category](section_4858829645.md) — section_4858829645
+        - [Contact Role](section_4858832041.md) — section_4858832041
+        - [Cost Category](section_4858830972.md) — section_4858830972
+        - [Currency](section_N3201267.md) — section_N3201267
+        - [Currency Rate](article_0715025503.md) — article_0715025503
+        - [Customer Category](section_N3201309.md) — section_N3201309
+        - [Customer Message](section_4858833035.md) — section_4858833035
+        - [Customer-Subsidiary Relationship](section_1507907354.md) — section_1507907354
+        - [Department](section_N3202442.md) — section_N3202442
+        - [Employee Change Request](section_156147557773.md) — section_156147557773
+        - [Employee Change Request Type](section_156511919689.md) — section_156511919689
+        - [Expense Category](section_N3202484.md) — section_N3202484
+        - [Fair Value Price](section_4544297902.md) — section_4544297902
+        - [Financial Institution](section_1557257383.md) — section_1557257383
+        - [Format Profile](section_1557261357.md) — section_1557261357
+        - [Gift Certificate](section_N3202525.md) — section_N3202525
+        - [Global Account Mapping](section_3898744340.md) — section_3898744340
+        - [Global Inventory Relationship](section_1525890729.md) — section_1525890729
+        - [Goal](section_159103978490.md) — section_159103978490
+        - [Government-Issued ID Tracking](section_1506997233.md) — section_1506997233
+        - [Group](section_3898745006.md) — section_3898745006
+        - [Inbound Shipment](section_1490344833.md) — section_1490344833
+        - [Intercompany Allocation Schedule](section_4665175273.md) — section_4665175273
+        - [Inventory Number](section_N3202566.md) — section_N3202566
+        - [Item Account Mapping](section_3898744667.md) — section_3898744667
+        - [Item Collection](section_156519004548.md) — section_156519004548
+        - [Item Collection Item Map](section_156519737521.md) — section_156519737521
+        - [Item Location Configuration](section_1504729157.md) — section_1504729157
+        - [Item Process Family](section_158594018496.md) — section_158594018496
+        - [Item Process Group](section_158594055434.md) — section_158594055434
+        - [Item Revision](section_N3202625.md) — section_N3202625
+        - [Kudos Feature Records](section_1507035251.md) — section_1507035251
+        - [Location](section_N3202694.md) — section_N3202694
+        - [Manufacturing Cost Template](section_N3202736.md) — section_N3202736
+        - [Manufacturing Routing](section_N3202804.md) — section_N3202804
+        - [Merchandise Hierarchy Level](section_1530708633.md) — section_1530708633
+        - [Merchandise Hierarchy Node](section_1530709114.md) — section_1530709114
+        - [Merchandise Hierarchy Version](section_1530709291.md) — section_1530709291
+        - [Nexus](section_N3202871.md) — section_N3202871
+        - [Note Type](section_4858844707.md) — section_4858844707
+        - [Order Type](section_158688705133.md) — section_158688705133
+        - [Other Name Category](section_4858836386.md) — section_4858836386
+        - [Partner Category](section_4858837441.md) — section_4858837441
+        - [Payment Instruments](section_1539601265.md) — section_1539601265
+        - [Payment Method](section_4858838307.md) — section_4858838307
+        - [Payroll Item](section_N3202912.md) — section_N3202912
+        - [Performance Metric](section_159104000751.md) — section_159104000751
+        - [Performance Review](section_159104003931.md) — section_159104003931
+        - [Performance Review Schedule](section_159104005841.md) — section_159104005841
+        - [Price Book](section_1493327517.md) — section_1493327517
+        - [Price Level](section_N3203012.md) — section_N3203012
+        - [Price Plan](section_1494646160.md) — section_1494646160
+        - [Price Rule](section_160581840845.md) — section_160581840845
+        - [Price Rule Entry](section_160581842963.md) — section_160581842963
+        - [Pricing Group](section_4858839518.md) — section_4858839518
+        - [Project Charge Rule](section_1487716707.md) — section_1487716707
+          - [Project Charge Rule Record Macros](section_1529345552.md) — section_1529345552
+        - [Project Expense Type](section_3763056139.md) — section_3763056139
+        - [Project Revenue Rule](section_1487710808.md) — section_1487710808
+        - [Project Work Breakdown Structure](section_157380882600.md) — section_157380882600
+          - [Project Work Breakdown Structure Macros](section_158080745851.md) — section_158080745851
+        - [Recalculate Percent Complete Override](section_86154253243.md) — section_86154253243
+        - [Revenue Recognition Event](section_4839864414.md) — section_4839864414
+        - [Revenue Recognition Field Map](article_1107125238.md) — article_1107125238
+        - [Revenue Recognition Plan](section_4544304176.md) — section_4544304176
+        - [Revenue Recognition Schedule](section_N3203054.md) — section_N3203054
+        - [Revenue Recognition Template](section_N3203112.md) — section_N3203112
+        - [Role](section_4412278953.md) — section_4412278953
+        - [Sales Role](section_4858842747.md) — section_4858842747
+        - [Sales Tax Item](section_N3203165.md) — section_N3203165
+        - [Subsidiary](section_N3203206.md) — section_N3203206
+        - [Subsidiary Settings](section_156155712481.md) — section_156155712481
+        - [Supply Chain Snapshot](section_1526333817.md) — section_1526333817
+          - [Supply Chain Snapshot Record Actions](section_1530196550.md) — section_1530196550
+        - [System Note](section_1500043125.md) — section_1500043125
+        - [Tax Control Account](section_3726875412.md) — section_3726875412
+        - [Tax Group](section_N3936956.md) — section_N3936956
+        - [Tax Period](section_N3203290.md) — section_N3203290
+        - [Tax Type](section_N3203515.md) — section_N3203515
+        - [Term](section_N3203557.md) — section_N3203557
+        - [Unit of Measure](section_N3203599.md) — section_N3203599
+        - [Vendor Category](section_N3203632.md) — section_N3203632
+        - [Vendor-Subsidiary Relationship](section_1507910510.md) — section_1507910510
+        - [Workplace](section_4641215793.md) — section_4641215793
+        - [Zone](section_158594083572.md) — section_158594083572
+      - [Customization](chapter_N3203672.md) — chapter_N3203672
+        - [Custom List](section_N3203722.md) — section_N3203722
+        - [Custom Record](section_N3204194.md) — section_N3204194
+        - [Custom Segment Fields and Values](section_4570053205.md) — section_4570053205
+          - [Using SuiteScript to Create Values for Existing Custom Segments](section_4570062298.md) — section_4570062298
+          - [Using SuiteScript to Set Values for Custom Segment Fields](section_4570062208.md) — section_4570062208
+        - [Custom Transaction](section_4174405432.md) — section_4174405432
+        - [Prompt](article_0311031737.md) — article_0311031737
+        - [Scheduled Script Instance](section_3777401104.md) — section_3777401104
+        - [Script](section_3753013810.md) — section_3753013810
+        - [Script Deployment](section_3753014009.md) — section_3753014009
+        - [Text Enhance Action](article_0311033529.md) — article_0311033529
+      - [Marketing](chapter_N3204288.md) — chapter_N3204288
+        - [Campaign](section_N3204358.md) — section_N3204358
+        - [Campaign Audience](article_0301115339.md) — article_0301115339
+        - [Campaign Category](article_0302123401.md) — article_0302123401
+        - [Campaign Channel](article_0302125211.md) — article_0302125211
+        - [Campaign Family](article_0302011355.md) — article_0302011355
+        - [Campaign Offer](article_0302012405.md) — article_0302012405
+        - [Campaign Response](section_4858827342.md) — section_4858827342
+        - [Campaign Search Engine](article_0302020636.md) — article_0302020636
+        - [Campaign Subscription](article_0302021548.md) — article_0302021548
+        - [Campaign Template](section_3735577323.md) — section_3735577323
+        - [Campaign Vertical](article_0302022817.md) — article_0302022817
+        - [Coupon Code](section_N3204400.md) — section_N3204400
+        - [Email Template](section_3735579380.md) — section_3735579380
+        - [Lead Source](article_0302031754.md) — article_0302031754
+        - [Promotion](section_N3204476.md) — section_N3204476
+        - [Sales Campaign](article_0302040421.md) — article_0302040421
+      - [Website](chapter_N3204996.md) — chapter_N3204996
+        - [CMS Content](section_1496235879.md) — section_1496235879
+        - [CMS Content Type](section_1498487313.md) — section_1498487313
+        - [CMS Page](section_1496257171.md) — section_1496257171
+        - [Commerce Category](section_4732712917.md) — section_4732712917
+        - [Website Setup](section_N3205030.md) — section_N3205030
+        - [Shopping Cart](section_4823496109.md) — section_4823496109
+        - [Site Category](article_0302042552.md) — article_0302042552
+  - [SuiteScript 2.x](article_8161516336.md) — article_8161516336
+    - [SuiteScript 2.1 API Introduction](chapter_4387172221.md) — chapter_4387172221
+      - [SuiteScript 2.1 Hello World](section_1503717063.md) — section_1503717063
+        - [SuiteScript 2.1 Development Concepts](bridgehead_1501543623.md) — bridgehead_1501543623
+        - [Completing the Hello World Tutorial](article_78144816796.md) — article_78144816796
+          - [Enabling the Client SuiteScript Feature](bridgehead_1501524368.md) — bridgehead_1501524368
+          - [Creating and Uploading the Client SuiteScript File](bridgehead_1501525523.md) — bridgehead_1501525523
+            - [Writing the Client SuiteScript File](bridgehead_1503351407.md) — bridgehead_1503351407
+            - [Copying the Full Script](bridgehead_1503351379.md) — bridgehead_1503351379
+          - [Creating a Script Record and Script Deployment Record](bridgehead_1501701799.md) — bridgehead_1501701799
+          - [Testing the Hello World Script](bridgehead_1501703294.md) — bridgehead_1501703294
+        - [Next Steps with SuiteScript 2.1](bridgehead_1502139850.md) — bridgehead_1502139850
+      - [SuiteScript 2.1 Script Basics](section_1504638761.md) — section_1504638761
+        - [Modular Architecture](subsect_1508957818.md) — subsect_1508957818
+        - [Objects in Standard Method Calls](subsect_1508957722.md) — subsect_1508957722
+        - [Context Objects in Entry Point and Custom Module Scripts](subsect_1508957748.md) — subsect_1508957748
+      - [SuiteScript 2.1 Anatomy of a Script](section_1510274310.md) — section_1510274310
+      - [SuiteScript 2.1 Script Creation Process](section_4417248719.md) — section_4417248719
+      - [SuiteScript 2.1 Advantages](section_4284471744.md) — section_4284471744
+        - [Complexity Management and Intuitive Code Organization](subsect_1511359675.md) — subsect_1511359675
+        - [Automatic Dependency Management](subsect_1511359714.md) — subsect_1511359714
+        - [Modern Programming Syntax and Behavior](subsect_1511359756.md) — subsect_1511359756
+        - [SuiteScript 2.1 Capabilities](subsect_1511359811.md) — subsect_1511359811
+      - [SuiteScript 2.1 Terminology](section_4412116230.md) — section_4412116230
+      - [SuiteScript 2.1 Developer Resources](section_1503951945.md) — section_1503951945
+      - [SuiteScript Reserved Words](section_158687368641.md) — section_158687368641
+      - [SuiteScript Versioning Guidelines](section_4417231053.md) — section_4417231053
+        - [SuiteScript 2.1](bridgehead_156044386804.md) — bridgehead_156044386804
+        - [SuiteScript Versioning](bridgehead_4562901554.md) — bridgehead_4562901554
+        - [SuiteScript Version Compatibility Rules](bridgehead_4417233130.md) — bridgehead_4417233130
+    - [SuiteScript 2.1](chapter_156042690639.md) — chapter_156042690639
+      - [Running Scripts Using SuiteScript 2.1](section_156632003699.md) — section_156632003699
+        - [Running a Single Script Using SuiteScript 2.1](section_158265516671.md) — section_158265516671
+        - [Enabling SuiteScript 2.1 at the Account Level](section_157960966997.md) — section_157960966997
+          - [Errors with SuiteScript 2.1 Scripts](subsect_0120125850.md) — subsect_0120125850
+          - [SuiteScript Version Syntax and Preferences](subsect_0120125943.md) — subsect_0120125943
+          - [Version Information in the Script Record](subsect_158265950085.md) — subsect_158265950085
+      - [SuiteScript 2.1 Language Examples](section_156042699370.md) — section_156042699370
+        - [Spread Operator](subsect_156632282242.md) — subsect_156632282242
+        - [Classes](subsect_158271579250.md) — subsect_158271579250
+        - [Destructuring](subsect_158271661119.md) — subsect_158271661119
+        - [Rest Operator](subsect_158271677319.md) — subsect_158271677319
+        - [Asynchronous Server-Side Promises](subsect_160883795035.md) — subsect_160883795035
+        - [Additional ECMAScript Features](subsect_75145948396.md) — subsect_75145948396
+      - [Differences Between SuiteScript 2.0 and SuiteScript 2.1](section_158755248128.md) — section_158755248128
+        - [Reserved Words as Identifiers](subsect_158755288674.md) — subsect_158755288674
+        - [Error Object Properties](subsect_158755291553.md) — subsect_158755291553
+        - [Invalid JSON Parsing](subsect_158755281853.md) — subsect_158755281853
+        - [Strict Mode](subsect_159526433919.md) — subsect_159526433919
+        - [Reassignment of const Variables](subsect_159526447278.md) — subsect_159526447278
+        - [Behavior of for...each...in Statement](subsect_159526486579.md) — subsect_159526486579
+        - [Formats for Converting Dates to Local Date Strings](subsect_159526522746.md) — subsect_159526522746
+        - [Conditional Catch Blocks](subsect_159526544977.md) — subsect_159526544977
+        - [The toSource Method](subsect_159526567170.md) — subsect_159526567170
+        - [Set Decimal Number with Trailing Zeros](subsect_159526585508.md) — subsect_159526585508
+        - [String Differences for RESTlet Post Method](subsect_159526606165.md) — subsect_159526606165
+        - [RESTlet Return Type Difference](subsect_159709238413.md) — subsect_159709238413
+        - [parseInt Difference](subsect_160590494301.md) — subsect_160590494301
+        - [Promises in SuiteScript 2.1 Server Scripts](subsect_24165317531.md) — subsect_24165317531
+    - [SuiteScript 2.1 AI APIs](article_3081707075.md) — article_3081707075
+      - [SuiteScript 2.1 Generative AI APIs](article_6193337927.md) — article_6193337927
+    - [SuiteScript 2.1 Analytic APIs](article_159524581218.md) — article_159524581218
+      - [Workbook API](article_159414531069.md) — article_159414531069
+        - [Workbook API Concepts](article_163353392764.md) — article_163353392764
+          - [Datasets](article_163353416302.md) — article_163353416302
+            - [Columns](article_163354436610.md) — article_163354436610
+            - [Conditions](article_163354437920.md) — article_163354437920
+            - [Dataset Linking](article_163354438805.md) — article_163354438805
+            - [Joins](article_163354439938.md) — article_163354439938
+          - [Workbooks](article_163353419512.md) — article_163353419512
+            - [Table Views](article_163353422578.md) — article_163353422578
+              - [Conditional Formatting Rules](article_163354447716.md) — article_163354447716
+              - [Table Columns](article_163354454437.md) — article_163354454437
+            - [Pivots](article_163354445351.md) — article_163354445351
+              - [Data Dimensions](article_163354455511.md) — article_163354455511
+              - [Data Measures and Calculated Measures](article_163354456290.md) — article_163354456290
+              - [Expressions](article_163386238329.md) — article_163386238329
+              - [Pivot Axes](article_163354458410.md) — article_163354458410
+              - [Selectors](article_163354461590.md) — article_163354461590
+              - [Styles](article_163354460183.md) — article_163354460183
+        - [Tutorial: Creating a Dataset Using the Workbook API](article_159414513430.md) — article_159414513430
+          - [Prerequisites](section_159421819422.md) — section_159421819422
+          - [Create an initial dataset](section_159421870770.md) — section_159421870770
+          - [Create joins with other record types](section_159422006588.md) — section_159422006588
+          - [Create columns](section_159422779524.md) — section_159422779524
+          - [Create conditions](section_159422890791.md) — section_159422890791
+          - [Add components to the initial dataset](section_159422975206.md) — section_159422975206
+          - [Save and run the dataset](section_159423152139.md) — section_159423152139
+        - [Tutorial: Creating a Workbook Using the Workbook API](article_163336268431.md) — article_163336268431
+          - [Prerequisites](section_163336410945.md) — section_163336410945
+          - [Full scripts](section_163336512698.md) — section_163336512698
+          - [Create the dataset](section_163336807925.md) — section_163336807925
+          - [Set up the workbook](section_163337159878.md) — section_163337159878
+          - [Create a table view](section_163337322117.md) — section_163337322117
+          - [Create a pivot](section_163337328205.md) — section_163337328205
+            - [Pivot data dimensions](subsect_163337435297.md) — subsect_163337435297
+            - [Pivot data measures and calculated measures](subsect_163337442603.md) — subsect_163337442603
+            - [Pivot selectors](subsect_163352888029.md) — subsect_163352888029
+            - [Pivot report style](subsect_163337449812.md) — subsect_163337449812
+            - [Pivot axes](subsect_163337453040.md) — subsect_163337453040
+            - [Final pivot creation](subsect_163337466741.md) — subsect_163337466741
+        - [Workbook API Limitations](article_159415085477.md) — article_159415085477
+    - [SuiteScript 2.1 Script Types](chapter_4387172495.md) — chapter_4387172495
+      - [SuiteScript 2.1 Bundle Installation Script Type](section_4460460309.md) — section_4460460309
+        - [SuiteScript 2.1 Bundle Installation Script Reference](section_158092073813.md) — section_158092073813
+          - [Setting Up a Bundle Installation Script](section_158134526570.md) — section_158134526570
+            - [Add the Bundle Installation Script File to the File Cabinet](subsect_158134541222.md) — subsect_158134541222
+            - [Create the Bundle Installation Script Record](subsect_158134549528.md) — subsect_158134549528
+            - [Define Bundle Installation Script Deployment](subsect_158134559577.md) — subsect_158134559577
+            - [Associate the Script with a Bundle](subsect_158134565268.md) — subsect_158134565268
+        - [SuiteScript 2.1 Bundle Installation Script Entry Points and API](section_4556570505.md) — section_4556570505
+          - [afterInstall(params)](section_4460460346.md) — section_4460460346
+          - [afterUpdate(params)](section_4460628990.md) — section_4460628990
+          - [beforeInstall(params)](section_4460629132.md) — section_4460629132
+          - [beforeUninstall(params)](section_4460629231.md) — section_4460629231
+          - [beforeUpdate(params)](section_4460629205.md) — section_4460629205
+      - [SuiteScript 2.1 Client Script Type](section_4387798404.md) — section_4387798404
+        - [SuiteScript Client Script Sample](bridgehead_4484779426.md) — bridgehead_4484779426
+        - [SuiteScript 2.1 Client Script Reference](section_1512507115.md) — section_1512507115
+          - [Using the currentRecord Module in Client Scripts](section_1512507152.md) — section_1512507152
+          - [Client Script Role Restrictions](section_1512507167.md) — section_1512507167
+          - [Interfacing with Remote Objects in Client Scripts](section_1512507271.md) — section_1512507271
+          - [Unrestricted Search Permissions in Client Scripts](section_0525064552.md) — section_0525064552
+        - [SuiteScript 2.1 Client Script Entry Points and API](section_4489981198.md) — section_4489981198
+          - [fieldChanged(scriptContext)](section_4410692508.md) — section_4410692508
+          - [lineInit(scriptContext)](section_4410693004.md) — section_4410693004
+          - [localizationContextEnter(scriptContext)](section_157495533652.md) — section_157495533652
+          - [localizationContextExit(scriptContext)](section_157495540056.md) — section_157495540056
+          - [pageInit(scriptContext)](section_4410597671.md) — section_4410597671
+          - [postSourcing(scriptContext)](section_4410692646.md) — section_4410692646
+          - [saveRecord(scriptContext)](section_4410693749.md) — section_4410693749
+          - [sublistChanged(scriptContext)](section_4410692812.md) — section_4410692812
+          - [validateDelete(scriptContext)](section_4410693608.md) — section_4410693608
+          - [validateField(scriptContext)](section_4410693152.md) — section_4410693152
+          - [validateInsert(scriptContext)](section_4410693455.md) — section_4410693455
+          - [validateLine(scriptContext)](section_4410693302.md) — section_4410693302
+      - [SuiteScript 2.1 Custom Tool Script Type](article_1185045525.md) — article_1185045525
+        - [SuiteScript 2.1 Custom Tool Script Type Reference](section_0724071739.md) — section_0724071739
+          - [Custom Tool Script Requirements](subsect_13192014863.md) — subsect_13192014863
+          - [Custom Tool JSON-RPC Schema](subsect_0822091327.md) — subsect_0822091327
+          - [Building MCP Apps (Interactive UI) with Custom Tools](article_0324030845.md) — article_0324030845
+          - [Custom Tool Script Best Practices](subsect_0804025428.md) — subsect_0804025428
+          - [Custom Tool Script Impact on Other Customizations](subsect_0724073033.md) — subsect_0724073033
+          - [Custom Tool Script Error Messages](subsect_0804032431.md) — subsect_0804032431
+        - [SuiteScript 2.1 Custom Tool Script Type Code Samples](section_0724092648.md) — section_0724092648
+        - [Managing Custom Tools in NetSuite](article_1201042732.md) — article_1201042732
+      - [SuiteScript 2.1 Event Subscriber Script Type](article_8125656702.md) — article_8125656702
+        - [SuiteScript 2.1 Event Subscriber Script Reference](article_9100524953.md) — article_9100524953
+        - [SuiteScript 2.1 Event Subscriber Script Code Samples](article_6163616630.md) — article_6163616630
+        - [SuiteScript 2.1 Event Subscriber Script Entry Points and API](article_9100524954.md) — article_9100524954
+          - [handle(options)](article_9100524955.md) — article_9100524955
+      - [SuiteScript 2.1 Map/Reduce Script Type](section_4387799161.md) — section_4387799161
+        - [SuiteScript 2.1 Map/Reduce Script Reference](section_1511298857.md) — section_1511298857
+          - [Map/Reduce Key Concepts](article_0901045042.md) — article_0901045042
+          - [Map/Reduce Terminology](section_1522350075.md) — section_1522350075
+          - [Map/Reduce Script Stages](bridgehead_4387802529.md) — bridgehead_4387802529
+          - [Map/Reduce Yielding](section_1518645558.md) — section_1518645558
+          - [Map/Reduce Script Submission](section_1504747863.md) — section_1504747863
+            - [Map/Reduce Script Deployment Record](section_1509578980.md) — section_1509578980
+            - [Scheduling a Map/Reduce Script Submission](section_1509578930.md) — section_1509578930
+            - [Submitting an On-Demand Map/Reduce Script Deployment from the UI](section_1509579025.md) — section_1509579025
+            - [Submitting an On-Demand Map/Reduce Script Deployment from a Script](section_1508887826.md) — section_1508887826
+            - [Submitting Multiple Deployments of the Same Script](section_1510974473.md) — section_1510974473
+          - [Map/Reduce Governance](section_4480364878.md) — section_4480364878
+          - [Map/Reduce Script Status Page](section_4478613244.md) — section_4478613244
+          - [Map/Reduce Script Testing and Troubleshooting](section_4726683543.md) — section_4726683543
+          - [Map/Reduce Script Error Handling](section_1499299768.md) — section_1499299768
+            - [System Response After a Map/Reduce Interruption](section_1517279626.md) — section_1517279626
+            - [Configuration Options for Handling Map/Reduce Interruptions](section_1517279521.md) — section_1517279521
+            - [Logging Errors](section_1517507741.md) — section_1517507741
+            - [Execution of Restarted Map/Reduce Stages](section_1491509438.md) — section_1491509438
+            - [Adding Logic to Handle Map/Reduce Restarts](section_1490987232.md) — section_1490987232
+        - [SuiteScript 2.1 Map/Reduce Script Entry Points and API](section_4685231336.md) — section_4685231336
+          - [getInputData(inputContext)](section_4412447940.md) — section_4412447940
+            - [inputContext](section_4549604332.md) — section_4549604332
+              - [inputContext.isRestarted](section_4549604333.md) — section_4549604333
+              - [inputContext.ObjectRef](section_4472703484.md) — section_4472703484
+                - [ObjectRef.id](section_4472703948.md) — section_4472703948
+                - [ObjectRef.type](section_4472704523.md) — section_4472704523
+          - [map(mapContext)](section_4413275809.md) — section_4413275809
+            - [mapContext](section_4472712193.md) — section_4472712193
+              - [mapContext.isRestarted](section_4540852756.md) — section_4540852756
+              - [mapContext.executionNo](section_1516217757.md) — section_1516217757
+              - [mapContext.errors](section_1516209193.md) — section_1516209193
+              - [mapContext.key](section_4483840988.md) — section_4483840988
+              - [mapContext.value](section_4483841695.md) — section_4483841695
+              - [mapContext.write(options)](section_4472712995.md) — section_4472712995
+          - [reduce(reduceContext)](section_4413276172.md) — section_4413276172
+            - [reduceContext](section_4483843828.md) — section_4483843828
+              - [reduceContext.isRestarted](section_4540820922.md) — section_4540820922
+              - [reduceContext.executionNo](section_1516393633.md) — section_1516393633
+              - [reduceContext.errors](section_1516393583.md) — section_1516393583
+              - [reduceContext.key](section_4472721827.md) — section_4472721827
+              - [reduceContext.values](section_4472721828.md) — section_4472721828
+              - [reduceContext.write(options)](section_4472721829.md) — section_4472721829
+          - [summarize(summaryContext)](section_4413276323.md) — section_4413276323
+            - [summaryContext](section_4472725629.md) — section_4472725629
+              - [summaryContext.isRestarted](section_4540094342.md) — section_4540094342
+              - [summaryContext.concurrency](section_4472726080.md) — section_4472726080
+              - [summaryContext.dateCreated](section_4472725620.md) — section_4472725620
+              - [summaryContext.seconds](section_4472726014.md) — section_4472726014
+              - [summaryContext.usage](section_4472726050.md) — section_4472726050
+              - [summaryContext.yields](section_4472727250.md) — section_4472727250
+              - [summaryContext.inputSummary](section_4472730724.md) — section_4472730724
+                - [inputSummary.dateCreated](section_4472730723.md) — section_4472730723
+                - [inputSummary.seconds](section_4483844442.md) — section_4483844442
+                - [inputSummary.usage](section_4472730725.md) — section_4472730725
+                - [inputSummary.error](section_4472730726.md) — section_4472730726
+              - [summaryContext.mapSummary](section_4483844888.md) — section_4483844888
+                - [mapSummary.concurrency](section_4483895829.md) — section_4483895829
+                - [mapSummary.dateCreated](section_4472737470.md) — section_4472737470
+                - [mapSummary.keys](section_4472745365.md) — section_4472745365
+                - [mapSummary.seconds](section_4472737479.md) — section_4472737479
+                - [mapSummary.usage](section_4472737471.md) — section_4472737471
+                - [mapSummary.yields](section_4472740448.md) — section_4472740448
+                - [mapSummary.errors](section_4472745988.md) — section_4472745988
+              - [summaryContext.reduceSummary](section_4472747839.md) — section_4472747839
+                - [reduceSummary.concurrency](section_4472747830.md) — section_4472747830
+                - [reduceSummary.dateCreated](section_4483896562.md) — section_4483896562
+                - [reduceSummary.keys](section_4472747832.md) — section_4472747832
+                - [reduceSummary.seconds](section_4472747831.md) — section_4472747831
+                - [reduceSummary.usage](section_4483898658.md) — section_4483898658
+                - [reduceSummary.yields](section_4483899918.md) — section_4483899918
+                - [reduceSummary.errors](section_4483900159.md) — section_4483900159
+              - [summaryContext.output](section_4472729410.md) — section_4472729410
+        - [SuiteScript 2.1 Map/Reduce Script Code Samples](article_0901033444.md) — article_0901033444
+      - [SuiteScript 2.1 Mass Update Script Type](section_4460452911.md) — section_4460452911
+        - [SuiteScript 2.1 Mass Update Script Entry Points and API](section_4557193103.md) — section_4557193103
+          - [each(params)](section_4460452985.md) — section_4460452985
+      - [SuiteScript 2.1 Portlet Script Type](section_4387799288.md) — section_4387799288
+        - [SuiteScript 2.1 Portlet Script Reference](section_1515621462.md) — section_1515621462
+          - [Creating and Deploying a Portlet Script](section_1515621634.md) — section_1515621634
+          - [Guidelines for Creating a Dashboard SuiteApp Icon](section_1515621736.md) — section_1515621736
+          - [Portlet Script Samples](section_0509035029.md) — section_0509035029
+        - [SuiteScript 2.1 Portlet Script Entry Points and API](section_1515620357.md) — section_1515620357
+          - [render(params)](section_4407951965.md) — section_4407951965
+          - [Portlet Object](section_4671201924.md) — section_4671201924
+            - [Portlet.addColumn(options)](section_4671258932.md) — section_4671258932
+            - [Portlet.addEditColumn(options)](section_4671382437.md) — section_4671382437
+            - [Portlet.addField(options)](section_4671374019.md) — section_4671374019
+            - [Portlet.addLine(options)](section_4671361504.md) — section_4671361504
+            - [Portlet.addRow(options)](section_4671356858.md) — section_4671356858
+            - [Portlet.addRows(options)](section_4671342323.md) — section_4671342323
+            - [Portlet.setSubmitButton(options)](section_4671280175.md) — section_4671280175
+            - [Portlet.clientScriptFileId](section_4671255061.md) — section_4671255061
+            - [Portlet.clientScriptModulePath](section_4671252102.md) — section_4671252102
+            - [Portlet.html](section_4671250782.md) — section_4671250782
+            - [Portlet.title](section_4671239839.md) — section_4671239839
+      - [SuiteScript 2.1 RESTlet Script Type](section_4387799403.md) — section_4387799403
+        - [SuiteScript 2.1 RESTlet Reference](section_4618434109.md) — section_4618434109
+          - [Deploying a RESTlet](section_4618456517.md) — section_4618456517
+          - [Identifying a RESTlet in a Call](section_4618456734.md) — section_4618456734
+          - [Selecting an HTTP/HTTPS Method for Calling a RESTlet](section_4619219272.md) — section_4619219272
+            - [A Call's Method Must Match an Entry Point](bridgehead_32154153292.md) — bridgehead_32154153292
+            - [HTTP/HTTPS Methods Use the RESTlet Script Entry Points](bridgehead_4625646774.md) — bridgehead_4625646774
+            - [Input Data Is Handled Differently by Different HTTP Methods](bridgehead_4625649079.md) — bridgehead_4625649079
+            - [HTTPS Methods for Secure Communication Between SuiteScript Scripts and REST Endpoints](bridgehead_159215430391.md) — bridgehead_159215430391
+          - [Creating a Content-Type Header](section_4619215993.md) — section_4619215993
+          - [SuiteScript 2.1 RESTlet Error Handling](section_4634920277.md) — section_4634920277
+          - [RESTlet Governance and Security](section_4640094112.md) — section_4640094112
+        - [SuiteScript 2.1 RESTlet Script and Request Examples](section_4618431360.md) — section_4618431360
+          - [Example Hello World RESTlet](section_4628875570.md) — section_4628875570
+          - [Example of a RESTlet that Retrieves, Deletes, Creates, and Upserts a NetSuite Record](section_4634148062.md) — section_4634148062
+          - [Example of a RESTlet that Adds Multiple Records](section_4634118739.md) — section_4634118739
+          - [Example of a RESTlet that Manipulates Scheduled Script](section_4640116550.md) — section_4640116550
+          - [Example of a Client Script that Calls a RESTlet](section_4643595999.md) — section_4643595999
+          - [Example of a Suitelet that Calls a RESTlet](section_4643598737.md) — section_4643598737
+          - [Example of a Shell Script that Calls a RESTlet](section_1515183558.md) — section_1515183558
+        - [SuiteScript 2.1 RESTlet Script Entry Points and API](section_4557203242.md) — section_4557203242
+          - [RESTlet Script delete Entry Point](section_4407965553.md) — section_4407965553
+          - [RESTlet Script get Entry Point](section_4407965171.md) — section_4407965171
+          - [RESTlet Script post Entry Point](section_4407966008.md) — section_4407966008
+          - [RESTlet Script put Entry Point](section_4407965751.md) — section_4407965751
+      - [SuiteScript 2.1 Scheduled Script Type](section_4387799491.md) — section_4387799491
+        - [Scheduled Script Use Cases](bridgehead_1508971981.md) — bridgehead_1508971981
+        - [Scheduled Script Governance](bridgehead_1506711317.md) — bridgehead_1506711317
+        - [SuiteScript 2.1 Scheduled Script Type Code Sample](bridgehead_4647930350.md) — bridgehead_4647930350
+        - [SuiteScript 2.1 Scheduled Script Reference](section_1506710570.md) — section_1506710570
+          - [Scheduled Script Submission](section_4658507760.md) — section_4658507760
+            - [Scheduled Script Deployment Record](section_1508948655.md) — section_1508948655
+            - [Scheduled Script Deployments that Continue to Use Queues](section_1508968101.md) — section_1508968101
+            - [Scheduling a One Time or Recurring Scheduled Script Submission](section_1508948660.md) — section_1508948660
+            - [Submitting an On-Demand Scheduled Script Instance from the UI](section_1508948664.md) — section_1508948664
+            - [Submitting an On-Demand Scheduled Script Instance from Another Script](section_1508948669.md) — section_1508948669
+          - [Scheduled Script Execution](section_4664470832.md) — section_4664470832
+          - [Scheduled Script Debugging](section_1508948698.md) — section_1508948698
+          - [Scheduled Script Status Page](section_4659353312.md) — section_4659353312
+          - [Scheduled Script Handling of Server Restarts](section_1490041886.md) — section_1490041886
+            - [Example: A Problematic Scheduled Script](bridgehead_1490042907.md) — bridgehead_1490042907
+            - [Example: A Robust Scheduled Script](bridgehead_1490044917.md) — bridgehead_1490044917
+        - [SuiteScript 2.1 Scheduled Script Entry Points and API](section_1506710621.md) — section_1506710621
+          - [execute](section_4407979858.md) — section_4407979858
+            - [context.InvocationType](section_4407982532.md) — section_4407982532
+      - [SuiteScript 2.1 SDF Installation Script Type](section_1544719586.md) — section_1544719586
+        - [SDF Installation Script Requirements](subsect_156502661150.md) — subsect_156502661150
+        - [SuiteScript 2.1 SDF Installation Script Entry Points and API](section_156383080904.md) — section_156383080904
+          - [run(scriptContext)](section_156383279814.md) — section_156383279814
+      - [SuiteScript 2.1 Suitelet Script Type](section_4387799600.md) — section_4387799600
+        - [SuiteScript 2.1 Suitelet Script Reference](section_1516659227.md) — section_1516659227
+          - [How Suitelet Scripts are Executed](section_1516659175.md) — section_1516659175
+          - [Reserved Parameter Names in Suitelet URLs](section_1516659125.md) — section_1516659125
+          - [Suitelet Script Deployment Page](section_1524082595.md) — section_1524082595
+            - [Suitelet Script Deployment Page Body Fields](bridgehead_1524082857.md) — bridgehead_1524082857
+            - [Setting Available Without Login](bridgehead_1524083777.md) — bridgehead_1524083777
+            - [Errors Related to the Available Without Login URL](bridgehead_1524084097.md) — bridgehead_1524084097
+            - [Suitelet Script Deployment Page Audience Subtab](bridgehead_1524085151.md) — bridgehead_1524085151
+            - [Suitelet Script Deployment Page Links Subtab](bridgehead_1524083321.md) — bridgehead_1524083321
+          - [Embedding HTML in Suitelets](section_1535646609.md) — section_1535646609
+        - [SuiteScript 2.1 Suitelet Script Entry Points and API](section_1515615411.md) — section_1515615411
+          - [onRequest(params)](section_4407987288.md) — section_4407987288
+        - [SuiteScript 2.x Suitelet Script Type Code Samples](article_158952633655.md) — article_158952633655
+          - [Basic Samples](article_159022890214.md) — article_159022890214
+            - [Write Your First Suitelet](article_159074784880.md) — article_159074784880
+            - [Return a Simple XML Document](article_159074782966.md) — article_159074782966
+            - [Add a Suitelet to a Tab](article_159022441819.md) — article_159022441819
+          - [Custom Forms](article_158952637669.md) — article_158952637669
+            - [Write and Send Email](article_159022995775.md) — article_159022995775
+            - [Create a Custom Form with an Inline Editor Sublist](article_159022987536.md) — article_159022987536
+            - [Create a Custom Survey Form](article_159022978614.md) — article_159022978614
+            - [Create a Form Containing Several Field Types, Reset and Submit Buttons, Tabs, and a Sublist](article_159116953461.md) — article_159116953461
+            - [Create and Use Secret Keys](article_159073602948.md) — article_159073602948
+            - [Create a Form with a Credential Field](article_159073608341.md) — article_159073608341
+            - [Add a Secret Key Field to a Form](article_159073609651.md) — article_159073609651
+            - [Add a Field that Displays Running Total to a Sublist](article_159073612868.md) — article_159073612868
+            - [Parse Strings and Display Result](article_159073605523.md) — article_159073605523
+          - [Custom Lists](article_158952639183.md) — article_158952639183
+            - [Create a Custom List](article_159022949667.md) — article_159022949667
+            - [Add a Dynamic Link to a List in a Suitelet](article_165106322134.md) — article_165106322134
+          - [Custom Assistants](article_158952641744.md) — article_158952641744
+            - [Sample Custom Assistant Script](rc_2947332786.md) — rc_2947332786
+          - [Suitelets with Embedded HTML](article_158952643106.md) — article_158952643106
+          - [Backend Suitelets](article_159022370898.md) — article_159022370898
+            - [Find Plugin Implementations](article_159073667706.md) — article_159073667706
+            - [Load an XML File and Obtain Child Element Values](article_159073677001.md) — article_159073677001
+            - [Parse an XML File and Log Element Values](article_159073678837.md) — article_159073678837
+            - [Redirect a New Sales Order](article_159073606860.md) — article_159073606860
+            - [Render a PDF](article_159073670961.md) — article_159073670961
+            - [Render Search Results into a PDF File](article_159073671999.md) — article_159073671999
+            - [Retrieve the Name of the City Based on a ZIP Code](article_159073665821.md) — article_159073665821
+            - [Return a File with Alternative Character Encoding](article_0808012948.md) — article_0808012948
+            - [Write User and Session Information to the Response](article_159073673757.md) — article_159073673757
+      - [SuiteScript 2.1 User Event Script Type](section_4387799721.md) — section_4387799721
+        - [SuiteScript 2.1 User Event Script Reference](section_1512408780.md) — section_1512408780
+          - [How User Event Scripts are Executed](section_1512409310.md) — section_1512409310
+          - [SuiteScript 2.1 User Event Script Tutorial](section_1510274245.md) — section_1510274245
+        - [SuiteScript 2.1 User Event Script Entry Points and API](section_4490073437.md) — section_4490073437
+          - [afterSubmit(context)](section_4407992281.md) — section_4407992281
+          - [beforeLoad(context)](section_4407991781.md) — section_4407991781
+          - [beforeSubmit(context)](section_4407992070.md) — section_4407992070
+          - [context.UserEventType](section_4407992596.md) — section_4407992596
+      - [SuiteScript 2.1 Workflow Action Script Type](section_4460429314.md) — section_4460429314
+        - [Creating and Using Workflow Action Scripts](section_158378266601.md) — section_158378266601
+        - [SuiteScript 2.1 Workflow Action Script Entry Points and API](section_1516394504.md) — section_1516394504
+          - [onAction(scriptContext)](section_4460429414.md) — section_4460429414
+    - [SuiteScript 2.1 Record Actions and Macros](chapter_1529336272.md) — chapter_1529336272
+      - [Overview of Record Action and Macro APIs](section_1509640242.md) — section_1509640242
+        - [Supported Record Actions](section_1516982564.md) — section_1516982564
+        - [Supported Record Macros](section_1516982642.md) — section_1516982642
+    - [SuiteScript 2.1 JSDoc Validation](chapter_4387175355.md) — chapter_4387175355
+      - [SuiteScript 2.1 JSDoc Comment Blocks](bridgehead_4387808259.md) — bridgehead_4387808259
+      - [SuiteScript 2.1 JSDoc Tags](bridgehead_4387808822.md) — bridgehead_4387808822
+      - [SuiteScript Module Scope and Access Control](section_4502146091.md) — section_4502146091
+        - [Choosing Module Scope for NetSuite Development Accounts](bridgehead_4528959411.md) — bridgehead_4528959411
+    - [SuiteScript 2.x Entry Point Script Creation and Deployment](chapter_4525001447.md) — chapter_4525001447
+      - [Record-Level and Form-Level Script Deployments](section_4576055055.md) — section_4576055055
+      - [SuiteScript 2.x Entry Point Script Validation](section_4486246568.md) — section_4486246568
+        - [Entry Point Script Validation Guidelines](section_4527904430.md) — section_4527904430
+        - [Entry Point Script Validation Examples](section_4527901694.md) — section_4527901694
+        - [Entry Point Script Validation Error Reference](section_4503568059.md) — section_4503568059
+      - [SuiteScript 2.x Record-Level Script Deployments](section_4575171631.md) — section_4575171631
+        - [Script Record Creation](section_4486246677.md) — section_4486246677
+          - [Creating a Script Record](section_4489062315.md) — section_4489062315
+          - [Working With Script Parameters](section_4490550131.md) — section_4490550131
+        - [Script Deployment](section_4486246754.md) — section_4486246754
+          - [Methods of Deploying a Script](section_4519293976.md) — section_4519293976
+          - [Deploying a Script by using the Deployments Sublist](section_4490584904.md) — section_4490584904
+          - [Deploying a Script by using the Script Deployment Record](section_0706024425.md) — section_0706024425
+          - [Updating a Script Deployment](section_4515651225.md) — section_4515651225
+          - [Managing Web Store Performance Impact](section_4841592068.md) — section_4841592068
+        - [Viewing System Notes](section_4841590976.md) — section_4841590976
+      - [SuiteScript 2.x Form-Level Script Deployments](section_4575178433.md) — section_4575178433
+        - [Attaching a Client Script to a Form](section_4575237738.md) — section_4575237738
+        - [Configuring a Custom Action](section_4575261730.md) — section_4575261730
+    - [SuiteScript 2.1 Custom Modules](chapter_4704097697.md) — chapter_4704097697
+      - [Custom Module Script Anatomy](section_1510274299.md) — section_1510274299
+      - [Custom Module Tutorial](section_1510274256.md) — section_1510274256
+        - [Creating and Reviewing the Custom Module Script](subsect_1510179512.md) — subsect_1510179512
+        - [Referencing the Custom Module in the User Event Script](subsect_1510289641.md) — subsect_1510289641
+          - [Updating the User Event Script](subsect_1510295928.md) — subsect_1510295928
+          - [Copy the Full User Event Script](subsect_1510295909.md) — subsect_1510295909
+        - [Uploading and Testing the Revised User Event Script](subsect_1510302818.md) — subsect_1510302818
+      - [Custom Module Dependency Paths](section_4430268304.md) — section_4430268304
+      - [Naming a Custom Module](section_4728232244.md) — section_4728232244
+      - [Custom Module Examples](section_4704111062.md) — section_4704111062
+      - [Common Custom Module Errors](section_4704106173.md) — section_4704106173
+      - [Custom Module Guidelines](section_4704230948.md) — section_4704230948
+    - [SuiteScript 2.x Scripting Records and Subrecords](chapter_4675582755.md) — chapter_4675582755
+      - [SuiteScript 2.x Scripting Records](section_4675623184.md) — section_4675623184
+        - [SuiteScript 2.x Standard and Dynamic Modes](section_1524156901.md) — section_1524156901
+        - [SuiteScript 2.x Record Modules](section_1524156996.md) — section_1524156996
+      - [SuiteScript 2.x Scripting Subrecords](section_4675623115.md) — section_4675623115
+        - [About Subrecords](section_4675625458.md) — section_4675625458
+          - [Supported Deployments for Subrecord Scripting](section_4712495741.md) — section_4712495741
+          - [Body Field Subrecords and Sublist Subrecords](section_4706871787.md) — section_4706871787
+          - [Structure of a Subrecord](section_4706871266.md) — section_4706871266
+          - [Finding Subrecord Details in the Records Browser](section_4706865369.md) — section_4706865369
+          - [About the Address Subrecord](section_4706872407.md) — section_4706872407
+        - [Subrecord Scripting in SuiteScript 2.x Compared With 1.0](section_4675627975.md) — section_4675627975
+        - [Scripting Subrecords that Occur on Sublist Lines](section_4675625582.md) — section_4675625582
+          - [Using SuiteScript 2.x to Create a Subrecord in a Sublist Field](section_4686991741.md) — section_4686991741
+            - [Creating an Inventory Detail Sublist Subrecord Example](section_4687606595.md) — section_4687606595
+            - [Creating an Address Sublist Subrecord Example](section_4687606306.md) — section_4687606306
+            - [Creating an Order Schedule Sublist Subrecord Example](section_4709336937.md) — section_4709336937
+            - [Creating a Landed Cost Sublist Subrecord Example](section_4687606919.md) — section_4687606919
+          - [Using SuiteScript 2.x to Edit a Subrecord that Occurs in a Sublist Field](section_4675630276.md) — section_4675630276
+            - [Updating an Order Schedule Sublist Subrecord Example](section_4688683936.md) — section_4688683936
+            - [Updating an Address Subrecord Example](section_4688684179.md) — section_4688684179
+          - [Using SuiteScript 2.x to Retrieve a Sublist Subrecord](section_4675635827.md) — section_4675635827
+            - [Retrieving an Order Schedule Subrecord Example](section_4691002186.md) — section_4691002186
+            - [Retrieving an Address Subrecord Example](section_4690199022.md) — section_4690199022
+        - [Scripting Subrecords that Occur in Body Fields](section_4675626251.md) — section_4675626251
+          - [Using SuiteScript 2.x to Create a Body Field Subrecord](section_4703180437.md) — section_4703180437
+            - [Creating an Address on a Subsidiary Record Example](section_4696195100.md) — section_4696195100
+            - [Creating an Inventory Detail Subrecord on a Body Field Example](section_4696194947.md) — section_4696194947
+          - [Using SuiteScript 2.x to Update a Body Field Subrecord](section_4792375260.md) — section_4792375260
+            - [Editing a Body Field Address Subrecord Example](section_4708368652.md) — section_4708368652
+            - [Editing a Body Field Inventory Detail Subrecord Example](section_4708423418.md) — section_4708423418
+          - [Using SuiteScript 2.x to Retrieve a Body Field Subrecord](section_4675635629.md) — section_4675635629
+            - [Retrieving a Body Field Address Subrecord Example](section_1496879996.md) — section_1496879996
+          - [Scripting Transaction Shipping and Billing Addresses](section_4703173812.md) — section_4703173812
+            - [Using SuiteScript 2.x to Create a New Shipping Address Example](section_4704101831.md) — section_4704101831
+            - [Using SuiteScript 2.x to Select an Existing Shipping Address Example](section_4710145944.md) — section_4710145944
+            - [Using SuiteScript 2.x to Retrieve a Shipping Address Example](section_1520509824.md) — section_1520509824
+            - [Using SuiteScript 2.x to Retrieve one Value from a Shipping Address Example](section_4712548347.md) — section_4712548347
+    - [SuiteScript 2.1 Custom Pages](chapter_1518456405.md) — chapter_1518456405
+      - [SuiteScript 2.1 Custom Forms](section_1518455588.md) — section_1518455588
+        - [Sample Custom Form Script](section_1518462520.md) — section_1518462520
+      - [SuiteScript 2.1 Custom List Pages](section_1518456414.md) — section_1518456414
+        - [Sample Custom List Page Script](section_1518462469.md) — section_1518462469
+      - [SuiteScript 2.1 Working with UI Objects](section_1543433765.md) — section_1543433765
+        - [Custom UI Development](section_1518470161.md) — section_1518470161
+        - [UI Component Overview](section_1518470191.md) — section_1518470191
+        - [SuiteScript 2.1 UI Modules](section_1518470197.md) — section_1518470197
+        - [Using HTML](section_1518456409.md) — section_1518456409
+        - [Creating Custom Assistants](section_1518456420.md) — section_1518456420
+          - [Assistant Creation Process](section_1520886486.md) — section_1520886486
+          - [Supported UI Components for Assistants](section_1518462527.md) — section_1518462527
+          - [Sample Custom Assistant Script](section_1544708182.md) — section_1544708182
+    - [Transitioning from SuiteScript 1.0 to SuiteScript 2.x](article_160098544034.md) — article_160098544034
+      - [Overview of the Differences Between SuiteScript 1.0 and SuiteScript 2.x](article_160098615298.md) — article_160098615298
+      - [Differences Between SuiteScript 1.0 and SuiteScript 2.x Script Types](article_160098628783.md) — article_160098628783
+      - [Differences in Similar SuiteScript 1.0 and SuiteScript 2.1 Capabilities](article_160098637276.md) — article_160098637276
+      - [SuiteScript 1.0 APIs Not Directly Mapped to a SuiteScript 2.1 Module](article_160098633600.md) — article_160098633600
+      - [Converting a SuiteScript 1.0 Script to a SuiteScript 2.1 Script](article_160098641577.md) — article_160098641577
+      - [Sample SuiteScript 1.0 to SuiteScript 2.0 and SuiteScript 2.1 Conversions](article_160098646281.md) — article_160098646281
+        - [Confirm bundle installation, enable features, create account](section_160167170508.md) — section_160167170508
+        - [Set default fields values on a record](section_160167167363.md) — section_160167167363
+        - [Disable fields on a record](section_160167163186.md) — section_160167163186
+        - [Display user profile information](section_160167158951.md) — section_160167158951
+        - [Update fields on sales order and estimate records](section_160167155341.md) — section_160167155341
+        - [Build a simple portlet that posts data to a servlet](section_160167147939.md) — section_160167147939
+        - [Using RESTlet get, post, put, and delete entry points and methods](section_160167140410.md) — section_160167140410
+        - [Fulfill and bill sales orders each day](section_160167136106.md) — section_160167136106
+        - [Create a simple form](section_160167127375.md) — section_160167127375
+        - [Implement end of month sales order promotions](section_160167121863.md) — section_160167121863
+        - [Set the sales rep on the record in a workflow](section_160167118290.md) — section_160167118290
+        - [Create an item receipt from a purchase order](section_160167112338.md) — section_160167112338
+        - [Create and run a joined search](section_160167106851.md) — section_160167106851
+        - [Create CSV imports](section_160167101517.md) — section_160167101517
+      - [Using SuiteScript 2.x Scripts with SuiteScript 1.0 Scripts](article_4155500631.md) — article_4155500631
+        - [nlapiRequestRestlet(scriptId, deploymentId, urlParams, body, headers, httpMethod)](article_4091056613.md) — article_4091056613
+  - [SuiteScript 2.x API Reference](article_4140956840.md) — article_4140956840
+    - [SuiteScript 1.0 to SuiteScript 2.1 API Map](chapter_4752722762.md) — chapter_4752722762
+      - [SuiteScript 1.0 to SuiteScript 2.1 API Map - Functions (nlapi)](section_4752724744.md) — section_4752724744
+      - [SuiteScript 1.0 to SuiteScript 2.1 API Map - Objects (nlobj)](section_4752730521.md) — section_4752730521
+    - [SuiteScript 2.1 Global Objects](chapter_4387171685.md) — chapter_4387171685
+      - [define Object](section_4387811519.md) — section_4387811519
+        - [define(moduleObject)](section_4424424173.md) — section_4424424173
+        - [define(id, [dependencies,] moduleObject)](section_4600491925.md) — section_4600491925
+      - [require Function](section_4387813188.md) — section_4387813188
+        - [require([dependencies,] callback)](section_4430292527.md) — section_4430292527
+        - [require Configuration](section_4599733337.md) — section_4599733337
+      - [log Object](section_4387812838.md) — section_4387812838
+      - [util Object](section_4387813290.md) — section_4387813290
+      - [toString()](section_4542785226.md) — section_4542785226
+      - [JSON object](section_4387812540.md) — section_4387812540
+        - [JSON.parse(text)](section_4434848518.md) — section_4434848518
+        - [JSON.stringify(obj)](section_4434858442.md) — section_4434858442
+      - [Promise Object](section_4387812940.md) — section_4387812940
+      - [Iterator](section_0831085754.md) — section_0831085754
+    - [SuiteScript 2.1 Modules](chapter_4220488571.md) — chapter_4220488571
+      - [N/action Module](section_1510761537.md) — section_1510761537
+        - [N/action Module Script Samples](section_0302035713.md) — section_0302035713
+          - [Locate and Execute an Action on a Timebill Record](subsect_17143620303.md) — subsect_17143620303
+          - [Find Actions Available for the Timebill Record Asynchronously Using Promise Methods](subsect_67143614070.md) — subsect_67143614070
+          - [Execute a Bulk Action on a Timebill Record](subsect_77143605665.md) — subsect_77143605665
+        - [action.Action](section_1509380249.md) — section_1509380249
+          - [Action(options)](section_1509387360.md) — section_1509387360
+          - [Action.promise(options)](section_1509387674.md) — section_1509387674
+          - [Action.execute(options)](section_1509386224.md) — section_1509386224
+          - [Action.execute.promise(options)](section_1509386721.md) — section_1509386721
+          - [Action.executeBulk(options)](section_1540816431.md) — section_1540816431
+          - [Action.description](section_1509388207.md) — section_1509388207
+          - [Action.id](section_1509387777.md) — section_1509387777
+          - [Action.label](section_1509388068.md) — section_1509388068
+          - [Action.parameters](section_1509389367.md) — section_1509389367
+          - [Action.recordType](section_1509387977.md) — section_1509387977
+        - [action.execute(options)](section_1509391388.md) — section_1509391388
+        - [action.execute.promise(options)](section_1509392030.md) — section_1509392030
+        - [action.executeBulk(options)](section_1540815927.md) — section_1540815927
+        - [action.find(options)](section_1509389605.md) — section_1509389605
+        - [action.find.promise(options)](section_1509391246.md) — section_1509391246
+        - [action.get(options)](section_1509384818.md) — section_1509384818
+        - [action.get.promise(options)](section_1509385970.md) — section_1509385970
+        - [action.getBulkStatus(options)](section_1540816132.md) — section_1540816132
+      - [N/auth Module](section_4296360422.md) — section_4296360422
+        - [N/auth Module Script Sample](section_0302040214.md) — section_0302040214
+        - [auth.changeEmail(options)](section_4298156427.md) — section_4298156427
+        - [auth.changePassword(options)](section_4298157647.md) — section_4298157647
+      - [N/cache Module](section_4642573343.md) — section_4642573343
+        - [N/cache Module Script Samples](section_0302040458.md) — section_0302040458
+          - [Look Up Folder IDs](subsect_163217862838.md) — subsect_163217862838
+          - [Retrieve Name of a City Based on a ZIP Code Using Cache and a Custom Loader Function](subsect_163217860384.md) — subsect_163217860384
+        - [cache.Cache](section_4642656915.md) — section_4642656915
+          - [Cache.get(options)](section_4642661440.md) — section_4642661440
+          - [Cache.put(options)](section_4642661313.md) — section_4642661313
+          - [Cache.remove(options)](section_4642660820.md) — section_4642660820
+          - [Cache.name](section_4642698188.md) — section_4642698188
+          - [Cache.scope](section_4642698254.md) — section_4642698254
+        - [cache.getCache(options)](section_4642627983.md) — section_4642627983
+        - [cache.Scope](section_4655722738.md) — section_4655722738
+      - [N/certificateControl Module](section_1547247950.md) — section_1547247950
+        - [N/certificateControl Module Script Samples](section_0302040948.md) — section_0302040948
+          - [Filter the Digital Certificate List by Subsidiary and File Type](subsect_1547248957.md) — subsect_1547248957
+          - [Find the Audit Trail of POST Operations for a Certificate Record Based on ID](subsect_156384681831.md) — subsect_156384681831
+          - [Create, Modify, and Save Certificate Record Based on a File in the File Cabinet](subsect_156384732865.md) — subsect_156384732865
+          - [Find and Use an Existing Certificate Record](subsect_156384869007.md) — subsect_156384869007
+          - [Establish an SFTP Connection Using an SSH Key](subsect_156538683069.md) — subsect_156538683069
+        - [certificateControl.Certificate](section_156201811375.md) — section_156201811375
+          - [Certificate.save()](section_156218491774.md) — section_156218491774
+          - [Certificate.description](section_156218882054.md) — section_156218882054
+          - [Certificate.file](section_156261189191.md) — section_156261189191
+          - [Certificate.name](section_156261266478.md) — section_156261266478
+          - [Certificate.monthReminder](section_156263099184.md) — section_156263099184
+          - [Certificate.notifications](section_156263222400.md) — section_156263222400
+          - [Certificate.password](section_156263312543.md) — section_156263312543
+          - [Certificate.restrictions](section_156263396061.md) — section_156263396061
+          - [Certificate.scriptId](section_156269109525.md) — section_156269109525
+          - [Certificate.subsidiaries](section_156269250571.md) — section_156269250571
+          - [Certificate.threeMonthsReminder](section_156269504090.md) — section_156269504090
+          - [Certificate.weekReminder](section_156269529064.md) — section_156269529064
+        - [certificateControl.createCertificate(options)](section_156156407497.md) — section_156156407497
+        - [certificateControl.deleteCertificate(options)](section_156199793585.md) — section_156199793585
+        - [certificateControl.findCertificates(options)](section_1547249535.md) — section_1547249535
+        - [certificateControl.findUsages(options)](section_156146904779.md) — section_156146904779
+        - [certificateControl.loadCertificate(options)](section_156201707058.md) — section_156201707058
+        - [certificateControl.lock(options)](section_161316650912.md) — section_161316650912
+        - [certificateControl.unlock(options)](section_161316704169.md) — section_161316704169
+        - [certificateControl.Operation](section_156348578245.md) — section_156348578245
+        - [certificateControl.Operator](section_156347310616.md) — section_156347310616
+        - [certificateControl.Type](section_1547250231.md) — section_1547250231
+      - [N/commerce Modules](section_1532341439.md) — section_1532341439
+        - [N/commerce/recordView Module](section_1532341950.md) — section_1532341950
+          - [recordView.viewItems(options)](section_1544630258.md) — section_1544630258
+          - [recordView.viewWebsite(options)](section_1544630269.md) — section_1544630269
+        - [N/commerce/recordView Script Sample](section_0302053233.md) — section_0302053233
+      - [N/compress Module](section_158584507367.md) — section_158584507367
+        - [N/compress Module Script Sample](section_0302060943.md) — section_0302060943
+        - [compress.Archiver](section_158584592144.md) — section_158584592144
+          - [Archiver.add(options)](section_158584723528.md) — section_158584723528
+          - [Archiver.archive(options)](section_158584789142.md) — section_158584789142
+        - [compress.gzip(options)](section_158584918027.md) — section_158584918027
+        - [compress.gunzip(options)](section_158584955171.md) — section_158584955171
+        - [compress.createArchiver()](section_158584980366.md) — section_158584980366
+        - [compress.Type](section_158584877701.md) — section_158584877701
+      - [N/config Module](section_4261803800.md) — section_4261803800
+        - [N/config Module Script Sample](section_0302064256.md) — section_0302064256
+        - [config.load(options)](section_4256772439.md) — section_4256772439
+        - [config.Type](section_4256772632.md) — section_4256772632
+      - [N/crypto Module](section_4358549582.md) — section_4358549582
+        - [N/crypto Module Script Samples](section_0302070216.md) — section_0302070216
+          - [Create a Secure Key Using SHA512](subsect_156658437879.md) — subsect_156658437879
+          - [Create a Suitelet to Request User Credentials, Create a Secret Key, and Encode a Sample String](subsect_156658472377.md) — subsect_156658472377
+        - [crypto.Cipher](section_4358574527.md) — section_4358574527
+          - [Cipher.final(options)](section_454422851562.md) — section_454422851562
+          - [Cipher.update(options)](section_454552856444.md) — section_454552856444
+        - [crypto.CipherPayload](section_4358619238.md) — section_4358619238
+          - [CipherPayload.ciphertext](section_455083557128.md) — section_455083557128
+          - [CipherPayload.iv](section_46186462402.md) — section_46186462402
+        - [crypto.Decipher](section_4358620478.md) — section_4358620478
+          - [Decipher.final(options)](section_458502441405.md) — section_458502441405
+          - [Decipher.update(options)](section_453919616698.md) — section_453919616698
+        - [crypto.Hash](section_4358620745.md) — section_4358620745
+          - [Hash.digest(options)](section_456370178222.md) — section_456370178222
+          - [Hash.update(options)](section_453249145507.md) — section_453249145507
+        - [crypto.Hmac](section_4358620874.md) — section_4358620874
+          - [Hmac.digest(options)](section_459978271483.md) — section_459978271483
+          - [Hmac.update(options)](section_457765136718.md) — section_457765136718
+        - [crypto.SecretKey](section_4358620976.md) — section_4358620976
+          - [SecretKey.encoding](section_458478637694.md) — section_458478637694
+          - [Secretkey.guid](section_455843444823.md) — section_455843444823
+          - [SecretKey.secret](section_161299949029.md) — section_161299949029
+        - [crypto.checkPasswordField(options)](section_160806904480.md) — section_160806904480
+        - [crypto.createCipher(options)](section_4358650498.md) — section_4358650498
+        - [crypto.createDecipher(options)](section_4358650886.md) — section_4358650886
+        - [crypto.createHash(options)](section_4358647370.md) — section_4358647370
+        - [crypto.createHmac(options)](section_4358647613.md) — section_4358647613
+        - [crypto.createSecretKey(options)](section_4358653390.md) — section_4358653390
+        - [crypto.EncryptionAlg](section_4358655796.md) — section_4358655796
+        - [crypto.HashAlg](section_4358655346.md) — section_4358655346
+        - [crypto.Padding](section_4358655564.md) — section_4358655564
+      - [N/crypto/certificate Module](section_1543432423.md) — section_1543432423
+        - [N/crypto/certificate Module Script Samples](section_0302065731.md) — section_0302065731
+          - [Load an XML File from the File Cabinet and Sign It Using a Digital Certificate](subsect_1547071067.md) — subsect_1547071067
+          - [Create Signer and Verifier Objects](subsect_1547071218.md) — subsect_1547071218
+        - [certificate.SignedXml](section_1547156078.md) — section_1547156078
+          - [SignedXml.asFile()](section_156565610435.md) — section_156565610435
+          - [SignedXml.asString()](section_1547245476.md) — section_1547245476
+          - [SignedXml.asXml()](section_156565632759.md) — section_156565632759
+        - [certificate.Signer](section_1547242551.md) — section_1547242551
+          - [Signer.update(options)](section_1547243336.md) — section_1547243336
+          - [Signer.sign(options)](section_1547244059.md) — section_1547244059
+        - [certificate.Verifier](section_1547244665.md) — section_1547244665
+          - [Verifier.update(options)](section_1547244829.md) — section_1547244829
+          - [Verifier.verify(options)](section_1547244953.md) — section_1547244953
+        - [certificate.createSigner(options)](section_1547071865.md) — section_1547071865
+        - [certificate.createVerifier(options)](section_1547089078.md) — section_1547089078
+        - [certificate.verifyXmlSignature(options)](section_1547090251.md) — section_1547090251
+        - [certificate.signXml(options)](section_1547090628.md) — section_1547090628
+        - [certificate.HashAlg](section_1549631688.md) — section_1549631688
+      - [N/crypto/random Module](section_13113107585.md) — section_13113107585
+        - [N/crypto/random Module Samples](subsect_46113121364.md) — subsect_46113121364
+        - [random.generateBytes(options)](article_0526121734.md) — article_0526121734
+        - [random.generateInt(options)](article_0526122403.md) — article_0526122403
+        - [random.generateUUID()](article_0526122721.md) — article_0526122721
+      - [N/currency Module](section_4358551775.md) — section_4358551775
+        - [N/currency Module Script Sample](section_0302071106.md) — section_0302071106
+        - [currency.exchangeRate(options)](section_4358678787.md) — section_4358678787
+      - [N/currentRecord Module](section_4625600928.md) — section_4625600928
+        - [N/currentRecord Module Script Samples](section_0302071622.md) — section_0302071622
+          - [Update Fields on Current Record using a Custom Module Script and a User Event Script](subsect_161859708130.md) — subsect_161859708130
+          - [Perform Field Sourcing Synchronously](subsect_161859719138.md) — subsect_161859719138
+        - [currentRecord.Column](section_1501619693.md) — section_1501619693
+          - [Column.id](section_1501619846.md) — section_1501619846
+          - [Column.isDisabled](section_158618597707.md) — section_158618597707
+          - [Column.isMandatory](section_158618632629.md) — section_158618632629
+          - [Column.label](section_1501619880.md) — section_1501619880
+          - [Column.sublistId](section_1501619931.md) — section_1501619931
+          - [Column.type](section_1501620041.md) — section_1501620041
+        - [currentRecord.CurrentRecord](section_4642657958.md) — section_4642657958
+          - [CurrentRecord.cancelLine(options)](section_4637546866.md) — section_4637546866
+          - [CurrentRecord.commitLine(options)](section_4637565703.md) — section_4637565703
+          - [CurrentRecord.findMatrixSublistLineWithValue(options)](section_4637586269.md) — section_4637586269
+          - [CurrentRecord.findSublistLineWithValue(options)](section_4637586103.md) — section_4637586103
+          - [CurrentRecord.getCurrentMatrixSublistValue(options)](section_4637585905.md) — section_4637585905
+          - [CurrentRecord.getCurrentSublistIndex(options)](section_4637585731.md) — section_4637585731
+          - [CurrentRecord.getCurrentSublistSubrecord(options)](section_4637585570.md) — section_4637585570
+          - [CurrentRecord.getCurrentSublistText(options)](section_4637585436.md) — section_4637585436
+          - [CurrentRecord.getCurrentSublistValue(options)](section_4637585213.md) — section_4637585213
+          - [CurrentRecord.getField(options)](section_4637585044.md) — section_4637585044
+          - [CurrentRecord.getLineCount(options)](section_4637584890.md) — section_4637584890
+          - [CurrentRecord.getMatrixHeaderCount(options)](section_4637584779.md) — section_4637584779
+          - [CurrentRecord.getMatrixHeaderField(options)](section_4637584607.md) — section_4637584607
+          - [CurrentRecord.getMatrixHeaderValue(options)](section_4637584433.md) — section_4637584433
+          - [CurrentRecord.getMatrixSublistField(options)](section_4637584261.md) — section_4637584261
+          - [CurrentRecord.getMatrixSublistValue(options)](section_4637584028.md) — section_4637584028
+          - [CurrentRecord.getSublist(options)](section_4637583811.md) — section_4637583811
+          - [CurrentRecord.getSublistField(options)](section_4637583684.md) — section_4637583684
+          - [CurrentRecord.getSublistText(options)](section_4637583397.md) — section_4637583397
+          - [CurrentRecord.getSublistValue(options)](section_4637583237.md) — section_4637583237
+          - [CurrentRecord.getSubrecord(options)](section_4637583010.md) — section_4637583010
+          - [CurrentRecord.getText(options)](section_4637582421.md) — section_4637582421
+          - [CurrentRecord.getValue(options)](section_4637582256.md) — section_4637582256
+          - [CurrentRecord.hasCurrentSublistSubrecord(options)](section_4637582063.md) — section_4637582063
+          - [CurrentRecord.hasSublistSubrecord(options)](section_4637581548.md) — section_4637581548
+          - [CurrentRecord.hasSubrecord(options)](section_4637581381.md) — section_4637581381
+          - [CurrentRecord.insertLine(options)](section_4637581252.md) — section_4637581252
+          - [CurrentRecord.moveLine(options)](section_158714666391.md) — section_158714666391
+          - [CurrentRecord.removeCurrentSublistSubrecord(options)](section_4637581076.md) — section_4637581076
+          - [CurrentRecord.removeLine(options)](section_4637580808.md) — section_4637580808
+          - [CurrentRecord.removeSubrecord(options)](section_4637580399.md) — section_4637580399
+          - [CurrentRecord.selectLine(options)](section_4637580249.md) — section_4637580249
+          - [CurrentRecord.selectNewLine(options)](section_4637580046.md) — section_4637580046
+          - [CurrentRecord.setCurrentMatrixSublistValue(options)](section_4637579872.md) — section_4637579872
+          - [CurrentRecord.setCurrentSublistText(options)](section_4637579678.md) — section_4637579678
+          - [CurrentRecord.setCurrentSublistValue(options)](section_4637579473.md) — section_4637579473
+          - [CurrentRecord.setMatrixHeaderValue(options)](section_4637579241.md) — section_4637579241
+          - [CurrentRecord.setMatrixSublistValue(options)](section_4637579037.md) — section_4637579037
+          - [CurrentRecord.setText(options)](section_4637577945.md) — section_4637577945
+          - [CurrentRecord.setValue(options)](section_4637577499.md) — section_4637577499
+          - [CurrentRecord.id](section_4637576907.md) — section_4637576907
+          - [CurrentRecord.isDynamic](section_4637576809.md) — section_4637576809
+          - [CurrentRecord.type](section_4637576636.md) — section_4637576636
+        - [currentRecord.Field](section_4793291846.md) — section_4793291846
+          - [Field.getSelectOptions(options)](section_4834781098.md) — section_4834781098
+          - [Field.insertSelectOption(options)](section_4779675098.md) — section_4779675098
+          - [Field.removeSelectOption(options)](section_4780315055.md) — section_4780315055
+          - [Field.id](section_4794247756.md) — section_4794247756
+          - [Field.label](section_4794248033.md) — section_4794248033
+          - [Field.isMandatory](section_4794223029.md) — section_4794223029
+          - [Field.isDisabled](section_4794215939.md) — section_4794215939
+          - [Field.isPopup](section_4794222162.md) — section_4794222162
+          - [Field.isDisplay](section_4794214205.md) — section_4794214205
+          - [Field.isVisible](section_4794214500.md) — section_4794214500
+          - [Field.isReadOnly](section_4794213415.md) — section_4794213415
+          - [Field.sublistId](section_1490026603.md) — section_1490026603
+          - [Field.type](section_4794225547.md) — section_4794225547
+        - [currentRecord.Sublist](section_1501618457.md) — section_1501618457
+          - [Sublist.getColumn(options)](section_1501619036.md) — section_1501619036
+          - [Sublist.id](section_1501619218.md) — section_1501619218
+          - [Sublist.isChanged](section_1501619246.md) — section_1501619246
+          - [Sublist.isDisplay](section_1501619367.md) — section_1501619367
+          - [Sublist.type](section_1501619432.md) — section_1501619432
+        - [currentRecord.get()](section_4637729624.md) — section_4637729624
+        - [currentRecord.get.promise()](section_4637734729.md) — section_4637734729
+      - [N/dataset Module](article_158946741680.md) — article_158946741680
+        - [N/dataset Module Script Samples](section_0303050851.md) — section_0303050851
+          - [Create a Dataset, Run the Dataset, and List All Existing Datasets](subsect_158957118410.md) — subsect_158957118410
+          - [List All Datasets and Load the First Dataset](subsect_159243113407.md) — subsect_159243113407
+        - [dataset.Column](section_158946808345.md) — section_158946808345
+          - [Column.alias](section_158946930657.md) — section_158946930657
+          - [Column.fieldId](section_158946870976.md) — section_158946870976
+          - [Column.formula](section_158946906503.md) — section_158946906503
+          - [Column.id](section_158946901670.md) — section_158946901670
+          - [Column.join](section_159310457176.md) — section_159310457176
+          - [Column.label](section_158946922873.md) — section_158946922873
+          - [Column.type](section_158946914278.md) — section_158946914278
+        - [dataset.Condition](section_158946951148.md) — section_158946951148
+          - [Condition.caseSensitive](section_0507040252.md) — section_0507040252
+          - [Condition.children](section_158946962310.md) — section_158946962310
+          - [Condition.column](section_158948010876.md) — section_158948010876
+          - [Condition.operator](section_158948026629.md) — section_158948026629
+          - [Condition.values](section_158948048117.md) — section_158948048117
+        - [dataset.Dataset](section_158948063457.md) — section_158948063457
+          - [Dataset.getExpressionFromColumn(options)](section_158948233177.md) — section_158948233177
+          - [Dataset.run()](section_158948330969.md) — section_158948330969
+          - [Dataset.run.promise()](section_0507044927.md) — section_0507044927
+          - [Dataset.runPaged(options)](section_158948363823.md) — section_158948363823
+          - [Dataset.save(options)](section_159354415610.md) — section_159354415610
+          - [Dataset.columns](section_158948083358.md) — section_158948083358
+          - [Dataset.condition](section_158948103219.md) — section_158948103219
+          - [Dataset.description](section_158948114518.md) — section_158948114518
+          - [Dataset.id](section_158948123704.md) — section_158948123704
+          - [Dataset.name](section_158948129533.md) — section_158948129533
+          - [Dataset.type](section_158948136837.md) — section_158948136837
+        - [dataset.Join](section_158948390739.md) — section_158948390739
+          - [Join.fieldId](section_158948402464.md) — section_158948402464
+          - [Join.join](section_158948412223.md) — section_158948412223
+          - [Join.source](section_158948418068.md) — section_158948418068
+          - [Join.target](section_158948426433.md) — section_158948426433
+        - [dataset.create(options)](section_158989971922.md) — section_158989971922
+        - [dataset.createColumn(options)](section_158990102328.md) — section_158990102328
+        - [dataset.createCondition(options)](section_158990217350.md) — section_158990217350
+        - [dataset.createJoin(options)](section_158990279568.md) — section_158990279568
+        - [dataset.createTranslation(options)](section_162853138869.md) — section_162853138869
+        - [dataset.describe(options)](section_162853496011.md) — section_162853496011
+        - [dataset.describe.promise(options)](section_0507043830.md) — section_0507043830
+        - [dataset.list()](section_158990317009.md) — section_158990317009
+        - [dataset.listPaged(options)](section_162853512391.md) — section_162853512391
+        - [dataset.load(options)](section_158990335776.md) — section_158990335776
+        - [dataset.load.promise(options)](section_0507050454.md) — section_0507050454
+      - [N/datasetLink Module](article_162609851226.md) — article_162609851226
+        - [N/datasetLink Module Script Sample](section_0303050238.md) — section_0303050238
+        - [datasetLink.DatasetLink](section_162626627810.md) — section_162626627810
+          - [DatasetLink.datasets](section_162626649573.md) — section_162626649573
+          - [DatasetLink.expressions](section_162626666908.md) — section_162626666908
+          - [DatasetLink.id](section_163103980595.md) — section_163103980595
+        - [datasetLink.create(options)](section_162626675925.md) — section_162626675925
+      - [N/documentCapture Module](article_8134325498.md) — article_8134325498
+        - [N/documentCapture Module Script Samples](article_0703022052.md) — article_0703022052
+          - [Extract Text from a PDF File](subsect_0703022249.md) — subsect_0703022249
+          - [Extract Feature Content from a Document Synchronously](subsect_0721092353.md) — subsect_0721092353
+          - [Extract Content from a Document Asynchronously](subsect_0721114921.md) — subsect_0721114921
+        - [Getting Started with the N/documentCapture Module](article_0828072922.md) — article_0828072922
+          - [Extracting Text from a PDF File](subsect_0728034500.md) — subsect_0728034500
+          - [Extracting Feature Content from a Document](subsect_0728034635.md) — subsect_0728034635
+        - [Field Extraction Objects](article_1016091828.md) — article_1016091828
+          - [documentCapture.Field](article_0703031446.md) — article_0703031446
+            - [Field.label](article_0703031534.md) — article_0703031534
+            - [Field.type](article_0704094825.md) — article_0704094825
+            - [Field.value](article_0704094949.md) — article_0704094949
+          - [documentCapture.FieldLabel](article_0704095038.md) — article_0704095038
+            - [FieldLabel.confidence](article_0704095138.md) — article_0704095138
+            - [FieldLabel.name](article_0704095251.md) — article_0704095251
+          - [documentCapture.FieldValue](article_0704095437.md) — article_0704095437
+            - [FieldValue.confidence](article_0704095514.md) — article_0704095514
+            - [FieldValue.text](article_0704095601.md) — article_0704095601
+        - [Table Extraction Objects](article_1016091902.md) — article_1016091902
+          - [documentCapture.Cell](article_0703022335.md) — article_0703022335
+            - [Cell.confidence](article_0703022616.md) — article_0703022616
+            - [Cell.text](article_0703023215.md) — article_0703023215
+          - [documentCapture.Table](article_0704101225.md) — article_0704101225
+            - [Table.bodyRows](article_0704101315.md) — article_0704101315
+            - [Table.columnCount](article_0704101358.md) — article_0704101358
+            - [Table.confidence](article_0704101426.md) — article_0704101426
+            - [Table.footerRows](article_0704102012.md) — article_0704102012
+            - [Table.headerRows](article_0704102044.md) — article_0704102044
+            - [Table.rowCount](article_0704102126.md) — article_0704102126
+          - [documentCapture.TableRow](article_0704102217.md) — article_0704102217
+            - [TableRow.cells](article_0704102248.md) — article_0704102248
+        - [Text Extraction Objects](article_1016084733.md) — article_1016084733
+          - [documentCapture.Line](article_0704100631.md) — article_0704100631
+            - [Line.confidence](article_0704100717.md) — article_0704100717
+            - [Line.text](article_0704100807.md) — article_0704100807
+          - [documentCapture.Word](article_0704102321.md) — article_0704102321
+            - [Word.confidence](article_0704102426.md) — article_0704102426
+            - [Word.text](article_0704102521.md) — article_0704102521
+        - [documentCapture.Document](article_0703030933.md) — article_0703030933
+          - [Document.mimeType](article_0703031202.md) — article_0703031202
+          - [Document.pages](article_0703031346.md) — article_0703031346
+          - [Document.getText()](article_93100953424.md) — article_93100953424
+        - [documentCapture.Page](article_0704100841.md) — article_0704100841
+          - [Page.detectedDocumentTypes](article_28102340830.md) — article_28102340830
+          - [Page.fields](article_0704100922.md) — article_0704100922
+          - [Page.lines](article_0704101048.md) — article_0704101048
+          - [Page.tables](article_0704101117.md) — article_0704101117
+          - [Page.words](article_0704101139.md) — article_0704101139
+          - [Page.getText()](article_65101108674.md) — article_65101108674
+        - [documentCapture.documentToStructure(options)](article_0704102801.md) — article_0704102801
+        - [documentCapture.documentToStructure.promise(options)](article_49090632931.md) — article_49090632931
+        - [documentCapture.documentToText(options)](article_0704103115.md) — article_0704103115
+        - [documentCapture.documentToText.promise(options)](article_6091025132.md) — article_6091025132
+        - [documentCapture.getRemainingConcurrency()](article_70083055604.md) — article_70083055604
+        - [documentCapture.getRemainingConcurrency.promise()](article_32092152071.md) — article_32092152071
+        - [documentCapture.getRemainingFreeUsage()](article_42084005061.md) — article_42084005061
+        - [documentCapture.getRemainingFreeUsage.promise()](article_86092527607.md) — article_86092527607
+        - [documentCapture.parseResult(options)](article_0704103210.md) — article_0704103210
+        - [documentCapture.DocumentType](article_0704103314.md) — article_0704103314
+        - [documentCapture.Feature](article_0704103522.md) — article_0704103522
+        - [documentCapture.FieldType](article_0704103558.md) — article_0704103558
+        - [documentCapture.Language](article_0828075605.md) — article_0828075605
+      - [N/email Module](section_4358552361.md) — section_4358552361
+        - [N/email Module Script Sample](section_0303024311.md) — section_0303024311
+        - [email.send(options)](section_4358681681.md) — section_4358681681
+        - [email.send.promise(options)](section_4440805906.md) — section_4440805906
+        - [email.sendBulk(options)](section_4358667505.md) — section_4358667505
+        - [email.sendBulk.promise(options)](section_4440806437.md) — section_4440806437
+        - [email.sendCampaignEvent(options)](section_4431144897.md) — section_4431144897
+        - [email.sendCampaignEvent.promise(options)](section_4440807100.md) — section_4440807100
+      - [N/encode Module](section_4369847722.md) — section_4369847722
+        - [N/encode Module Script Samples](section_0303025505.md) — section_0303025505
+        - [encode.convert(options)](section_4369851165.md) — section_4369851165
+        - [encode.Encoding](section_4369865177.md) — section_4369865177
+      - [N/error Module](section_4243798608.md) — section_4243798608
+        - [N/error Module Script Samples](section_0227032340.md) — section_0227032340
+          - [Create a Custom Error](subsect_156779048182.md) — subsect_156779048182
+          - [Create an Error Based on a Condition](subsect_156779061177.md) — subsect_156779061177
+        - [error.SuiteScriptError](section_4253432660.md) — section_4253432660
+          - [SuiteScriptError.cause](section_158049399342.md) — section_158049399342
+          - [SuiteScriptError.id](section_4243803497.md) — section_4243803497
+          - [SuiteScriptError.message](section_4243803629.md) — section_4243803629
+          - [SuiteScriptError.name](section_4243803552.md) — section_4243803552
+          - [SuiteScriptError.notifyOff](section_159475415674.md) — section_159475415674
+          - [SuiteScriptError.stack](section_4243803715.md) — section_4243803715
+          - [SuiteScriptError.type](section_159475480456.md) — section_159475480456
+        - [error.create(options)](section_4243803203.md) — section_4243803203
+        - [error.Type](section_159469488562.md) — section_159469488562
+      - [N/file Module](section_4205693274.md) — section_4205693274
+        - [N/file Module Script Samples](section_0303032537.md) — section_0303032537
+          - [Create and Save a File to the File Cabinet](subsect_156779133458.md) — subsect_156779133458
+          - [Create a File, Set Property Values, and Save It to the File Cabinet](subsect_156779372653.md) — subsect_156779372653
+          - [Create and Save a CSV File then Reload the File and Parse Its Contents](subsect_156779389752.md) — subsect_156779389752
+          - [Read and Log File Contents Using Commas and New Lines as Separators](subsect_156779464948.md) — subsect_156779464948
+          - [Read and Log Segments of a File Using a Set of Characters as Separators](subsect_156779502327.md) — subsect_156779502327
+          - [Copy a File Using Conflict Resolution](subsect_161547803169.md) — subsect_161547803169
+        - [file.File](section_4247974825.md) — section_4247974825
+          - [File.appendLine(options)](section_4769938149.md) — section_4769938149
+          - [File.getContents()](section_4229269811.md) — section_4229269811
+          - [File.getReader()](section_1543843814.md) — section_1543843814
+          - [File.getSegments(options)](section_1543844004.md) — section_1543844004
+          - [File.lines.iterator()](section_4769955095.md) — section_4769955095
+          - [File.resetStream()](section_4769955125.md) — section_4769955125
+          - [File.save()](section_4229271179.md) — section_4229271179
+          - [File.description](section_4223862428.md) — section_4223862428
+          - [File.encoding](section_4229270853.md) — section_4229270853
+          - [File.fileType](section_4229267378.md) — section_4229267378
+          - [File.folder](section_4229265810.md) — section_4229265810
+          - [File.id](section_4229266178.md) — section_4229266178
+          - [File.isInactive](section_4229270120.md) — section_4229270120
+          - [File.isOnline](section_4229270451.md) — section_4229270451
+          - [File.isText](section_4229267767.md) — section_4229267767
+          - [File.name](section_4229266563.md) — section_4229266563
+          - [File.path](section_4229268933.md) — section_4229268933
+          - [File.size](section_4229266796.md) — section_4229266796
+          - [File.url](section_4229268651.md) — section_4229268651
+        - [file.Reader](section_1543844186.md) — section_1543844186
+          - [Reader.readChars(options)](section_1543844484.md) — section_1543844484
+          - [Reader.readUntil(options)](section_1543844425.md) — section_1543844425
+        - [file.copy(options)](section_161167269293.md) — section_161167269293
+        - [file.create(options)](section_4223861820.md) — section_4223861820
+        - [file.delete(options)](section_4226573892.md) — section_4226573892
+        - [file.load(options)](section_4226574300.md) — section_4226574300
+        - [file.Encoding](section_4228998505.md) — section_4228998505
+        - [file.NameConflictResolution](section_161167377495.md) — section_161167377495
+        - [file.Type](section_4228999954.md) — section_4228999954
+      - [N/format Module](section_4388721627.md) — section_4388721627
+        - [N/format Module Script Samples](section_0303040501.md) — section_0303040501
+          - [Parse a String to a Date Object](subsect_2100456218.md) — subsect_2100456218
+          - [Parse a String to a Number](subsect_63100519540.md) — subsect_63100519540
+          - [Format a Number as a String](subsect_76100539131.md) — subsect_76100539131
+          - [Format Time of Day as a String](subsect_94100602075.md) — subsect_94100602075
+        - [format.format(options)](section_4388843892.md) — section_4388843892
+        - [format.parse(options)](section_4388837989.md) — section_4388837989
+        - [format.Timezone](section_4407050795.md) — section_4407050795
+        - [format.Type](section_4388844232.md) — section_4388844232
+      - [N/format/i18n Module](section_1543861741.md) — section_1543861741
+        - [N/format/i18n Module Script Samples](section_0303035402.md) — section_0303035402
+          - [Format 12345 as a German String](subsect_38095536414.md) — subsect_38095536414
+          - [Format a Number as a String Using N/format/i18n](subsect_19095616141.md) — subsect_19095616141
+          - [Format Numbers as Currency Strings](subsect_5095627024.md) — subsect_5095627024
+          - [Parse a Czech Phone Number](subsect_61095720550.md) — subsect_61095720550
+          - [Parse a U.S. Phone Number](subsect_55095732615.md) — subsect_55095732615
+          - [Format Numbers Based on the Locale Parameter](subsect_48095751231.md) — subsect_48095751231
+          - [Format Currency Based on the Locale Parameter](subsect_94095824190.md) — subsect_94095824190
+          - [Format Numbers and Currencies Based on the English-India Locale Parameter](subsect_64095907253.md) — subsect_64095907253
+        - [format.CurrencyFormatter](section_1558024548.md) — section_1558024548
+          - [CurrencyFormatter.currency](section_1558031127.md) — section_1558031127
+          - [CurrencyFormatter.locale](section_161167908197.md) — section_161167908197
+          - [CurrencyFormatter.symbol](section_1558031214.md) — section_1558031214
+          - [CurrencyFormatter.numberFormatter](section_1558031250.md) — section_1558031250
+          - [CurrencyFormatter.format(options)](section_1558031335.md) — section_1558031335
+        - [format.NumberFormatter](section_1558026406.md) — section_1558026406
+          - [NumberFormatter.groupSeparator](section_1558031440.md) — section_1558031440
+          - [NumberFormatter.decimalSeparator](section_1558031580.md) — section_1558031580
+          - [NumberFormatter.locale](section_161167940078.md) — section_161167940078
+          - [NumberFormatter.precision](section_1558031620.md) — section_1558031620
+          - [NumberFormatter.format(options)](section_1558031908.md) — section_1558031908
+        - [format.PhoneNumberFormatter](section_158626649783.md) — section_158626649783
+          - [format.PhoneNumberParser](section_158627095342.md) — section_158627095342
+          - [PhoneNumberFormatter.format(options)](section_158626687631.md) — section_158626687631
+          - [PhoneNumberParser.parse(options)](section_158626797748.md) — section_158626797748
+          - [format.PhoneNumberFormatType](section_158626858431.md) — section_158626858431
+          - [format.Country](section_158626866748.md) — section_158626866748
+        - [format.getCurrencyFormatter(options)](section_1558023369.md) — section_1558023369
+        - [format.getNumberFormatter(options)](section_1558023913.md) — section_1558023913
+        - [format.getPhoneNumberFormatter(options)](article_20131717237.md) — article_20131717237
+        - [format.getPhoneNumberParser(options)](article_77132343780.md) — article_77132343780
+        - [format.spellOut(options)](section_1549297222.md) — section_1549297222
+        - [format.NegativeNumberFormat](section_1558031974.md) — section_1558031974
+        - [format.Currency](section_1558027087.md) — section_1558027087
+      - [N/http Module](section_4296361104.md) — section_4296361104
+        - [N/http Module Script Samples](section_0305041202.md) — section_0305041202
+          - [Request a URL](subsect_156718415724.md) — subsect_156718415724
+          - [Redirect a record](subsect_156718422419.md) — subsect_156718422419
+        - [http.ClientResponse](section_4299069814.md) — section_4299069814
+          - [ClientResponse.body](section_4314733286.md) — section_4314733286
+          - [ClientResponse.code](section_4314732346.md) — section_4314732346
+          - [ClientResponse.headers](section_4314733103.md) — section_4314733103
+        - [http.ServerRequest](section_4314608702.md) — section_4314608702
+          - [ServerRequest.getLineCount(options)](section_4314815897.md) — section_4314815897
+          - [ServerRequest.getSublistValue(options)](section_4314828231.md) — section_4314828231
+          - [ServerRequest.body](section_4314806583.md) — section_4314806583
+          - [ServerRequest.files](section_4314805947.md) — section_4314805947
+          - [ServerRequest.headers](section_4314803549.md) — section_4314803549
+          - [ServerRequest.clientIpAddress](section_158232403519.md) — section_158232403519
+          - [ServerRequest.method](section_4314807135.md) — section_4314807135
+          - [ServerRequest.parameters](section_4314803781.md) — section_4314803781
+          - [ServerRequest.url](section_4314807784.md) — section_4314807784
+        - [http.ServerResponse](section_4314609319.md) — section_4314609319
+          - [ServerResponse.addHeader(options)](section_4315356945.md) — section_4315356945
+          - [ServerResponse.getHeader(options)](section_4321649843.md) — section_4321649843
+          - [ServerResponse.renderPdf(options)](section_4426014776.md) — section_4426014776
+          - [ServerResponse.sendRedirect(options)](section_4315616450.md) — section_4315616450
+          - [ServerResponse.setCdnCacheable(options)](section_4426015213.md) — section_4426015213
+          - [ServerResponse.setHeader(options)](section_4315325840.md) — section_4315325840
+          - [ServerResponse.write(options)](section_4316382571.md) — section_4316382571
+          - [ServerResponse.writeFile(options)](section_4426015540.md) — section_4426015540
+          - [ServerResponse.writeLine(options)](section_4316493873.md) — section_4316493873
+          - [ServerResponse.writePage(options)](section_4426014272.md) — section_4426014272
+          - [ServerResponse.headers](section_4314846555.md) — section_4314846555
+        - [http.get(options)](section_4426024767.md) — section_4426024767
+        - [http.get.promise(options)](section_4440810374.md) — section_4440810374
+        - [http.delete(options)](section_4426024970.md) — section_4426024970
+        - [http.delete.promise(options)](section_4440810687.md) — section_4440810687
+        - [http.post(options)](section_4426024574.md) — section_4426024574
+        - [http.post.promise(options)](section_4440816463.md) — section_4440816463
+        - [http.put(options)](section_4426024367.md) — section_4426024367
+        - [http.put.promise(options)](section_4440817389.md) — section_4440817389
+        - [http.request(options)](section_4426024227.md) — section_4426024227
+        - [http.request.promise(options)](section_4440816259.md) — section_4440816259
+        - [http.CacheDuration](section_4426027147.md) — section_4426027147
+        - [http.Method](section_4426027649.md) — section_4426027649
+        - [http.RedirectType](section_1492804577.md) — section_1492804577
+      - [N/https Module](section_4418229131.md) — section_4418229131
+        - [N/https Module Script Samples](section_0305042314.md) — section_0305042314
+          - [Generate a Secure Token and a Secret Key](subsect_159976520537.md) — subsect_159976520537
+          - [Create a Form with a Credential Field](subsect_159976523569.md) — subsect_159976523569
+          - [Create an Authentication Header Using a Secure String](subsect_162334564716.md) — subsect_162334564716
+          - [Concatenate API Secrets with Strings](subsect_64151802701.md) — subsect_64151802701
+          - [Create a JWT Token Using a SecureString](subsect_162801159670.md) — subsect_162801159670
+          - [Retrieve Employee Information Using a Suitelet and a RESTlet Script with a Defined Content-Type Header](subsect_73192327604.md) — subsect_73192327604
+          - [Call a Suitelet from a Client Script](subsect_0416034533.md) — subsect_0416034533
+        - [https.SecureString](section_4418286676.md) — section_4418286676
+          - [SecureString.appendSecureString(options)](section_453662353515.md) — section_453662353515
+          - [SecureString.appendString(options)](section_460942016600.md) — section_460942016600
+          - [SecureString.convertEncoding(options)](section_457542663573.md) — section_457542663573
+          - [SecureString.hash(options)](section_459472900389.md) — section_459472900389
+          - [SecureString.hmac(options)](section_459579406737.md) — section_459579406737
+          - [SecureString.replaceString(options)](section_162190865586.md) — section_162190865586
+        - [https.ClientResponse](section_4567656083.md) — section_4567656083
+          - [ClientResponse.body](section_4567655965.md) — section_4567655965
+          - [ClientResponse.code](section_4567655849.md) — section_4567655849
+          - [ClientResponse.headers](section_4567655700.md) — section_4567655700
+        - [https.ServerRequest](section_4567655097.md) — section_4567655097
+          - [ServerRequest.getLineCount(options)](section_4567655008.md) — section_4567655008
+          - [ServerRequest.getSublistValue(options)](section_4567654796.md) — section_4567654796
+          - [ServerRequest.body](section_4567654549.md) — section_4567654549
+          - [ServerRequest.files](section_4567654371.md) — section_4567654371
+          - [ServerRequest.headers](section_4567654177.md) — section_4567654177
+          - [ServerRequest.method](section_4567654020.md) — section_4567654020
+          - [ServerRequest.parameters](section_4567653880.md) — section_4567653880
+          - [ServerRequest.url](section_4567653744.md) — section_4567653744
+        - [https.ServerResponse](section_4567653583.md) — section_4567653583
+          - [ServerResponse.addHeader(options)](section_4567653484.md) — section_4567653484
+          - [ServerResponse.getHeader(options)](section_4567653267.md) — section_4567653267
+          - [ServerResponse.renderPdf(options)](section_4567652460.md) — section_4567652460
+          - [ServerResponse.sendRedirect(options)](section_4567653054.md) — section_4567653054
+          - [ServerResponse.setCdnCacheable(options)](section_4567652215.md) — section_4567652215
+          - [ServerResponse.setHeader(options)](section_4567652689.md) — section_4567652689
+          - [ServerResponse.write(options)](section_4567651956.md) — section_4567651956
+          - [ServerResponse.writeFile(options)](section_4567633001.md) — section_4567633001
+          - [ServerResponse.writeLine(options)](section_4567632751.md) — section_4567632751
+          - [ServerResponse.writePage(options)](section_4567632500.md) — section_4567632500
+          - [ServerResponse.headers](section_4567631816.md) — section_4567631816
+        - [https.createSecretKey(options)](section_4418247967.md) — section_4418247967
+        - [https.createSecureString(options)](section_4418247678.md) — section_4418247678
+        - [https.get(options)](section_4567631366.md) — section_4567631366
+        - [https.get.promise(options)](section_4619547935.md) — section_4619547935
+        - [https.delete(options)](section_4567631039.md) — section_4567631039
+        - [https.delete.promise(options)](section_4619548807.md) — section_4619548807
+        - [https.post(options)](section_4567628658.md) — section_4567628658
+        - [https.post.promise(options)](section_4619553255.md) — section_4619553255
+        - [https.put(options)](section_4567627984.md) — section_4567627984
+        - [https.put.promise(options)](section_4619558092.md) — section_4619558092
+        - [https.request(options)](section_4567630582.md) — section_4567630582
+        - [https.request.promise(options)](section_4619550220.md) — section_4619550220
+        - [https.requestRestlet(options)](section_159139340774.md) — section_159139340774
+        - [https.requestRestlet.promise(options)](article_95165853712.md) — article_95165853712
+        - [https.requestSuitelet(options)](section_44162330742.md) — section_44162330742
+        - [https.requestSuitelet.promise(options)](section_95100734176.md) — section_95100734176
+        - [https.requestSuiteTalkRest(options)](section_159139347369.md) — section_159139347369
+        - [https.CacheDuration](section_4567627367.md) — section_4567627367
+        - [https.Encoding](section_4612521061.md) — section_4612521061
+        - [https.HashAlg](section_1543504694.md) — section_1543504694
+        - [https.Method](section_4567626997.md) — section_4567626997
+        - [https.RedirectType](section_1494603145.md) — section_1494603145
+      - [N/https/clientCertificate Module](section_1543986321.md) — section_1543986321
+        - [N/https/clientCertificate Module Script Sample](section_0305041923.md) — section_0305041923
+        - [clientCertificate.post(options)](section_1547245856.md) — section_1547245856
+        - [clientCertificate.get(options)](section_156409084544.md) — section_156409084544
+        - [clientCertificate.put(options)](section_156409092290.md) — section_156409092290
+        - [clientCertificate.delete(options)](section_156409102713.md) — section_156409102713
+        - [clientCertificate.request(options)](section_156409111673.md) — section_156409111673
+      - [N/keyControl Module](section_1557413213.md) — section_1557413213
+        - [N/keyControl Module Script Samples](section_0303041314.md) — section_0303041314
+          - [Create a Secret Key](subsect_1557413236.md) — subsect_1557413236
+          - [Add a Secret Key Field to a Form](subsect_156207587987.md) — subsect_156207587987
+        - [keyControl.Key](section_156035916506.md) — section_156035916506
+          - [Key.save()](section_1557418685.md) — section_1557418685
+          - [Key.description](section_1557418633.md) — section_1557418633
+          - [Key.file](section_1557418153.md) — section_1557418153
+          - [Key.name](section_1557418612.md) — section_1557418612
+          - [Key.password](section_1557418554.md) — section_1557418554
+          - [Key.restrictions](section_1557418660.md) — section_1557418660
+          - [Key.scriptId](section_1557418581.md) — section_1557418581
+        - [keyControl.createKey(options)](section_1557417459.md) — section_1557417459
+        - [keyControl.findKeys(options)](section_1557413246.md) — section_1557413246
+        - [keyControl.deleteKey(options)](section_1557417847.md) — section_1557417847
+        - [keyControl.loadKey(options)](section_1557417962.md) — section_1557417962
+        - [keyControl.lock(options)](section_161351701469.md) — section_161351701469
+        - [keyControl.unlock(options)](section_161351774208.md) — section_161351774208
+        - [keyControl.Operator](section_1557413265.md) — section_1557413265
+      - [N/llm Module](article_9123730083.md) — article_9123730083
+        - [N/llm Module Script Samples](article_1015110627.md) — article_1015110627
+          - [Send a Prompt to the LLM and Receive a Response](subsect_1015115955.md) — subsect_1015115955
+          - [Clean Up Content for Text Area Fields After Saving a Record](subsect_1022045211.md) — subsect_1022045211
+          - [Provide an LLM-based ChatBot for NetSuite Users](subsect_1022045225.md) — subsect_1022045225
+          - [Evaluate an Existing Prompt and Receive a Response](subsect_0115091619.md) — subsect_0115091619
+          - [Create a Prompt and Evaluate It](subsect_0211115903.md) — subsect_0211115903
+          - [Provide Source Documents When Calling the LLM](subsect_0317102527.md) — subsect_0317102527
+          - [Receive a Partial Response from the LLM](subsect_0730103345.md) — subsect_0730103345
+          - [Find Similar Items Using Embeddings](subsect_0730103359.md) — subsect_0730103359
+          - [Use Tools to Enhance the Response from the LLM](article_85093504618.md) — article_85093504618
+        - [Managing Prompts and Text Enhance Actions Using the N/llm Module](article_0115105418.md) — article_0115105418
+          - [Create, Update, and Delete Prompts and Text Enhance Actions](subsect_0219092245.md) — subsect_0219092245
+          - [Generate SuiteScript Code from an Existing Prompt](subsect_0219104303.md) — subsect_0219104303
+        - [Model Parameter Values by LLM](article_1014044520.md) — article_1014044520
+        - [Tooling in the N/llm Module](article_0311105254.md) — article_0311105254
+        - [Concurrency Limits for N/llm Methods](article_0904095609.md) — article_0904095609
+        - [llm.ChatMessage](article_1015043130.md) — article_1015043130
+          - [ChatMessage.text](article_1015044007.md) — article_1015044007
+          - [ChatMessage.role](article_1015044731.md) — article_1015044731
+        - [llm.Citation](article_56082143862.md) — article_56082143862
+          - [Citation.documentIds](article_7082217666.md) — article_7082217666
+          - [Citation.end](article_49082248467.md) — article_49082248467
+          - [Citation.start](article_94083155180.md) — article_94083155180
+          - [Citation.text](article_21084848961.md) — article_21084848961
+        - [llm.Document](article_73085600635.md) — article_73085600635
+          - [Document.data](article_51085702425.md) — article_51085702425
+          - [Document.id](article_83085729325.md) — article_83085729325
+        - [llm.EmbedResponse](article_40085011867.md) — article_40085011867
+          - [EmbedResponse.embeddings](article_47085051031.md) — article_47085051031
+          - [EmbedResponse.inputs](article_3085137102.md) — article_3085137102
+          - [EmbedResponse.model](article_31085243777.md) — article_31085243777
+        - [llm.Response](article_1015033509.md) — article_1015033509
+          - [Response.chatHistory](article_1015041820.md) — article_1015041820
+          - [Response.citations](article_31090645000.md) — article_31090645000
+          - [Response.documents](article_77090808354.md) — article_77090808354
+          - [Response.model](article_1015041456.md) — article_1015041456
+          - [Response.text](article_1015040837.md) — article_1015040837
+          - [Response.toolCalls](article_47085353743.md) — article_47085353743
+          - [Response.usage](article_0804073454.md) — article_0804073454
+        - [llm.StreamedResponse](article_13082058358.md) — article_13082058358
+          - [StreamedResponse.chatHistory](article_43082126234.md) — article_43082126234
+          - [StreamedResponse.citations](article_2082423034.md) — article_2082423034
+          - [StreamedResponse.documents](article_2082503946.md) — article_2082503946
+          - [StreamedResponse.model](article_37082546497.md) — article_37082546497
+          - [StreamedResponse.text](article_83082638858.md) — article_83082638858
+          - [StreamedResponse.toolCalls](article_49092442056.md) — article_49092442056
+        - [llm.Tool](article_40103605821.md) — article_40103605821
+          - [Tool.description](article_71090751307.md) — article_71090751307
+          - [Tool.name](article_19103033051.md) — article_19103033051
+          - [Tool.parameters](article_60103126273.md) — article_60103126273
+        - [llm.ToolCall](article_16103740432.md) — article_16103740432
+          - [ToolCall.name](article_21103802286.md) — article_21103802286
+          - [ToolCall.parameters](article_48103839503.md) — article_48103839503
+        - [llm.ToolParameter](article_70104105348.md) — article_70104105348
+          - [ToolParameter.description](article_80104127925.md) — article_80104127925
+          - [ToolParameter.name](article_54104159857.md) — article_54104159857
+          - [ToolParameter.type](article_66104233079.md) — article_66104233079
+        - [llm.ToolResult](article_73104354447.md) — article_73104354447
+          - [ToolResult.call](article_92104450377.md) — article_92104450377
+          - [ToolResult.outputs](article_68104522023.md) — article_68104522023
+        - [llm.Usage](article_0804071108.md) — article_0804071108
+          - [Usage.completionTokens](article_0804071705.md) — article_0804071705
+          - [Usage.promptTokens](article_0804071825.md) — article_0804071825
+          - [Usage.totalTokens](article_0804071933.md) — article_0804071933
+        - [llm.createChatMessage(options)](article_1014104320.md) — article_1014104320
+        - [llm.createDocument(options)](article_79091440431.md) — article_79091440431
+        - [llm.createTool(options)](article_54090013211.md) — article_54090013211
+        - [llm.createToolParameter(options)](article_47090328711.md) — article_47090328711
+        - [llm.createToolResult(options)](article_40090425838.md) — article_40090425838
+        - [llm.embed(options)](article_76083302199.md) — article_76083302199
+        - [llm.embed.promise(options)](article_52083437973.md) — article_52083437973
+        - [llm.evaluatePrompt(options)](article_0115064704.md) — article_0115064704
+        - [llm.evaluatePrompt.promise(options)](article_81065603726.md) — article_81065603726
+        - [llm.evaluatePromptStreamed(options)](article_47080704730.md) — article_47080704730
+        - [llm.evaluatePromptStreamed.promise(options)](article_43094934029.md) — article_43094934029
+        - [llm.generateText(options)](article_1014032554.md) — article_1014032554
+        - [llm.generateText.promise(options)](article_1014100301.md) — article_1014100301
+        - [llm.generateTextStreamed(options)](article_46075557997.md) — article_46075557997
+        - [llm.generateTextStreamed.promise(options)](article_48093225962.md) — article_48093225962
+        - [llm.getRemainingFreeUsage()](article_1014102816.md) — article_1014102816
+        - [llm.getRemainingFreeUsage.promise()](article_1014103215.md) — article_1014103215
+        - [llm.getRemainingFreeEmbedUsage()](article_77083006042.md) — article_77083006042
+        - [llm.getRemainingFreeEmbedUsage.promise()](article_53083101627.md) — article_53083101627
+        - [llm.getRemainingUsage()](article_0808084043.md) — article_0808084043
+        - [llm.getRemainingUsage.promise()](article_0808084325.md) — article_0808084325
+        - [llm.ChatRole](article_1015044805.md) — article_1015044805
+        - [llm.EmbedModelFamily](article_36111753207.md) — article_36111753207
+        - [llm.ModelFamily](article_1014101247.md) — article_1014101247
+        - [llm.SafetyMode](article_0804070845.md) — article_0804070845
+        - [llm.ToolParameterType](article_8105303902.md) — article_8105303902
+        - [llm.Truncate](article_23112904019.md) — article_23112904019
+      - [N/log Module](section_4574548135.md) — section_4574548135
+        - [N/log Module Script Sample](section_0303041954.md) — section_0303041954
+        - [log.audit(options)](section_4430384449.md) — section_4430384449
+        - [log.debug(options)](section_4430385329.md) — section_4430385329
+        - [log.emergency(options)](section_4430385611.md) — section_4430385611
+        - [log.error(options)](section_4430385812.md) — section_4430385812
+      - [N/machineTranslation Module](article_3151132758.md) — article_3151132758
+        - [N/machineTranslation Module Script Samples](article_0604033355.md) — article_0604033355
+        - [machineTranslation.Document](article_0604033710.md) — article_0604033710
+          - [Document.id](article_0604034037.md) — article_0604034037
+          - [Document.language](article_0604034449.md) — article_0604034449
+          - [Document.text](article_0604034823.md) — article_0604034823
+        - [machineTranslation.Error](article_0604035004.md) — article_0604035004
+          - [Error.documentId](article_0604035154.md) — article_0604035154
+          - [Error.message](article_0604035337.md) — article_0604035337
+        - [machineTranslation.Response](article_0606030944.md) — article_0606030944
+          - [Response.errors](article_0606031259.md) — article_0606031259
+          - [Response.results](article_0606031415.md) — article_0606031415
+        - [machineTranslation.createDocument(options)](article_0606031651.md) — article_0606031651
+        - [machineTranslation.translate(options)](article_0606031958.md) — article_0606031958
+        - [machineTranslation.translate.promise(options)](article_0606035713.md) — article_0606035713
+        - [machineTranslation.Language](article_0606032409.md) — article_0606032409
+      - [N/manufacturing/productionCharges Module](article_1110531599.md) — article_1110531599
+        - [N/manufacturing/productionCharges Module Samples](article_0310042302.md) — article_0310042302
+          - [Update All Manufacturing Charges to the Current Purchase Price](article_0310042425.md) — article_0310042425
+          - [Set All Manufacturing Charges to a Custom Unit Price](article_0310042513.md) — article_0310042513
+          - [Update the Last Manufacturing Charge to the Current Purchase Price](article_0310042543.md) — article_0310042543
+        - [productionCharges.updateChargesToCustomUnitCost(options)](article_0310114858.md) — article_0310114858
+        - [productionCharges.updateChargesToItemPurchasePrice(options)](article_0310115150.md) — article_0310115150
+        - [productionCharges.updateAllChargesToItemPurchasePrice(options)](article_0310115209.md) — article_0310115209
+      - [N/pgp Module](article_5095832176.md) — article_5095832176
+        - [N/pgp Module Script Samples](section_0711100030.md) — section_0711100030
+          - [Send a Message](subsect_0613035358.md) — subsect_0613035358
+          - [Receive a Message](subsect_0614093054.md) — subsect_0614093054
+          - [Send a Message to Multiple Receivers](subsect_0618093629.md) — subsect_0618093629
+          - [Use a Cryptographic Key for a Signature](subsect_0618111539.md) — subsect_0618111539
+        - [pgp.Config](section_0921021222.md) — section_0921021222
+          - [Config.allowInsecureDecryptionWithSigningKeys](section_0921031929.md) — section_0921031929
+          - [Config.allowMessagesWithoutIntegrityProtection](section_0921032219.md) — section_0921032219
+          - [Config.useRelaxedSignatureParsing](section_0921032557.md) — section_0921032557
+        - [pgp.Key](section_0921033205.md) — section_0921033205
+          - [pgp.KeyId](section_0921033457.md) — section_0921033457
+          - [KeyId.asHex()](section_0921033647.md) — section_0921033647
+        - [pgp.Message](section_0923090947.md) — section_0923090947
+          - [Message.type](section_0923091633.md) — section_0923091633
+          - [Message.asArmored()](section_0923091739.md) — section_0923091739
+          - [Message.toMessageData()](section_0923092023.md) — section_0923092023
+          - [Message.decrypt(options)](section_0923092155.md) — section_0923092155
+        - [pgp.MessageData](section_0923092625.md) — section_0923092625
+          - [MessageData.filename](section_0923093028.md) — section_0923093028
+          - [MessageData.date](section_0923093419.md) — section_0923093419
+          - [MessageData.format](section_0923093507.md) — section_0923093507
+          - [MessageData.getText()](section_0923093601.md) — section_0923093601
+          - [MessageData.toMessage()](section_0923093718.md) — section_0923093718
+          - [MessageData.encrypt(options)](section_0923093832.md) — section_0923093832
+        - [pgp.Verification](section_0923094518.md) — section_0923094518
+          - [Verification.verified](section_0923094610.md) — section_0923094610
+          - [Verification.signatures](section_0923095811.md) — section_0923095811
+        - [pgp.VerificationSignature](section_0923101555.md) — section_0923101555
+          - [VerificationSignature.keyId](section_0923101641.md) — section_0923101641
+          - [VerificationSignature.dateSigned](section_0923103943.md) — section_0923103943
+          - [VerificationSignature.verified](section_0923105015.md) — section_0923105015
+          - [VerificationSignature.problems](section_0923105152.md) — section_0923105152
+        - [pgp.createConfig(options)](section_0923113524.md) — section_0923113524
+        - [pgp.createMessageData(options)](section_0923113223.md) — section_0923113223
+        - [pgp.createSigner(options)](section_0923113742.md) — section_0923113742
+        - [pgp.createVerification()](section_0923113648.md) — section_0923113648
+        - [pgp.loadKeyFromSecret(options)](section_0923112727.md) — section_0923112727
+        - [pgp.parseKey(options)](section_0923113901.md) — section_0923113901
+        - [pgp.parseMessage(options)](section_0923113424.md) — section_0923113424
+        - [pgp.CompressionAlgorithm](section_0923112620.md) — section_0923112620
+        - [pgp.Format](section_0923111016.md) — section_0923111016
+      - [N/piremoval Module](section_156173791240.md) — section_156173791240
+        - [N/piremoval Module Script Sample](section_0303064653.md) — section_0303064653
+        - [piremoval.PiRemovalTask](section_156174263975.md) — section_156174263975
+          - [PiRemovalTask.deleteTask()](section_156174490300.md) — section_156174490300
+          - [PiRemovalTask.run()](section_156174672468.md) — section_156174672468
+          - [PiRemovalTask.save()](section_156174691190.md) — section_156174691190
+          - [PiRemovalTask.fieldIds](section_156174501852.md) — section_156174501852
+          - [PiRemovalTask.historyOnly](section_156174552829.md) — section_156174552829
+          - [PiRemovalTask.historyReplacement](section_156174597006.md) — section_156174597006
+          - [PiRemovalTask.id](section_156174615502.md) — section_156174615502
+          - [PiRemovalTask.recordIds](section_156174629555.md) — section_156174629555
+          - [PiRemovalTask.recordType](section_156174658201.md) — section_156174658201
+          - [PiRemovalTask.status](section_156174701248.md) — section_156174701248
+          - [PiRemovalTask.workflowIds](section_156174717892.md) — section_156174717892
+        - [piremoval.PiRemovalTaskLogItem](section_156174820776.md) — section_156174820776
+          - [PiRemovalTaskLogItem.exception](section_156174844834.md) — section_156174844834
+          - [PiRemovalTaskLogItem.message](section_156174862773.md) — section_156174862773
+          - [PiRemovalTaskLogItem.status](section_156174870975.md) — section_156174870975
+          - [PiRemovalTaskLogItem.type](section_156174886448.md) — section_156174886448
+        - [piremoval.PiRemovalTaskStatus](section_156174751485.md) — section_156174751485
+          - [PiRemovalTaskStatus.logList](section_156174788348.md) — section_156174788348
+          - [PiRemovalTaskStatus.status](section_156174807831.md) — section_156174807831
+        - [piremoval.createTask(options)](section_156174907211.md) — section_156174907211
+        - [piremoval.deleteTask(options)](section_156174955494.md) — section_156174955494
+        - [piremoval.getTaskStatus(options)](section_156174976129.md) — section_156174976129
+        - [piremoval.loadTask(options)](section_156174989271.md) — section_156174989271
+      - [N/plugin Module](section_4558176297.md) — section_4558176297
+        - [N/plugin Module Script Sample](section_0303065130.md) — section_0303065130
+        - [plugin.findImplementations(options)](section_4558224168.md) — section_4558224168
+        - [plugin.loadImplementation(options)](section_4558229654.md) — section_4558229654
+      - [N/portlet Module](section_4473510730.md) — section_4473510730
+        - [N/portlet Module Script Sample](section_0303065517.md) — section_0303065517
+        - [portlet.resize()](section_4473510937.md) — section_4473510937
+        - [portlet.refresh()](section_4473511255.md) — section_4473511255
+      - [N/query Module](section_1510275060.md) — section_1510275060
+        - [N/query Module Script Samples](section_0304035624.md) — section_0304035624
+          - [Create a Query for Customer Records and Run It as a Non-Paged Query](subsect_156656851406.md) — subsect_156656851406
+          - [Create a Query for Transaction Records and Run It as a Paged Query](subsect_156656869151.md) — subsect_156656869151
+          - [Convert a Query to a SuiteQL and Run It](subsect_157981023612.md) — subsect_157981023612
+          - [Run an Arbitrary SuiteQL Query](subsect_158013565445.md) — subsect_158013565445
+          - [Create a Query for a Custom Field](subsect_158997655476.md) — subsect_158997655476
+          - [Create a Query Using a Specific Record Field](subsect_161114853028.md) — subsect_161114853028
+        - [Scripting with the N/query Module](section_1532440865.md) — section_1532440865
+        - [Formulas in the N/query Module](section_1536750827.md) — section_1536750827
+        - [Relative Dates in the N/query Module](section_1549916938.md) — section_1549916938
+        - [SuiteQL in the N/query Module](section_157960623712.md) — section_157960623712
+          - [Examples of Using SuiteQL in the N/query Module](section_158039627694.md) — section_158039627694
+        - [query.Column](section_1510779196.md) — section_1510779196
+          - [Column.aggregate](section_1510789115.md) — section_1510789115
+          - [Column.alias](section_156336566313.md) — section_156336566313
+          - [Column.component](section_1510789028.md) — section_1510789028
+          - [Column.context](section_1544109085.md) — section_1544109085
+          - [Column.fieldId](section_1510788976.md) — section_1510788976
+          - [Column.formula](section_1510789062.md) — section_1510789062
+          - [Column.groupBy](section_1510789147.md) — section_1510789147
+          - [Column.label](section_158291894456.md) — section_158291894456
+          - [Column.type](section_1510789090.md) — section_1510789090
+        - [query.Component](section_1510779141.md) — section_1510779141
+          - [Component.autoJoin(options)](section_1530818573.md) — section_1530818573
+          - [Component.createColumn(options)](section_1510784945.md) — section_1510784945
+          - [Component.createCondition(options)](section_1510784922.md) — section_1510784922
+          - [Component.createSort(options)](section_1510785047.md) — section_1510785047
+          - [Component.join(options)](section_1510784833.md) — section_1510784833
+          - [Component.joinFrom(options)](section_1530818705.md) — section_1530818705
+          - [Component.joinTo(options)](section_1530818855.md) — section_1530818855
+          - [Component.child](section_1510785245.md) — section_1510785245
+          - [Component.parent](section_1510785228.md) — section_1510785228
+          - [Component.source](section_1510785292.md) — section_1510785292
+          - [Component.target](section_1510785266.md) — section_1510785266
+          - [Component.type](section_1510785195.md) — section_1510785195
+        - [query.Condition](section_1510779210.md) — section_1510779210
+          - [Condition.aggregate](section_1510789603.md) — section_1510789603
+          - [Condition.children](section_1510789455.md) — section_1510789455
+          - [Condition.component](section_1510789643.md) — section_1510789643
+          - [Condition.fieldId](section_1510789485.md) — section_1510789485
+          - [Condition.formula](section_1510789560.md) — section_1510789560
+          - [Condition.operator](section_1510789501.md) — section_1510789501
+          - [Condition.type](section_1510789582.md) — section_1510789582
+          - [Condition.values](section_1510789525.md) — section_1510789525
+        - [query.Page](section_1510779287.md) — section_1510779287
+          - [Page.data](section_1510878060.md) — section_1510878060
+          - [Page.isFirst](section_1510878267.md) — section_1510878267
+          - [Page.isLast](section_1510878292.md) — section_1510878292
+          - [Page.pageRange](section_1510878146.md) — section_1510878146
+          - [Page.pagedData](section_1510878184.md) — section_1510878184
+        - [query.PagedData](section_1510779273.md) — section_1510779273
+          - [PagedData.fetch(options)](section_163482652383.md) — section_163482652383
+          - [PagedData.fetch.promise(options)](section_0429115433.md) — section_0429115433
+          - [PagedData.iterator()](section_1510861317.md) — section_1510861317
+          - [PagedData.count](section_1510861385.md) — section_1510861385
+          - [PagedData.pageRanges](section_1510861433.md) — section_1510861433
+          - [PagedData.pageSize](section_1510861410.md) — section_1510861410
+        - [query.PageRange](section_1510779296.md) — section_1510779296
+          - [PageRange.index](section_1510878655.md) — section_1510878655
+          - [PageRange.size](section_1510878735.md) — section_1510878735
+        - [query.Period](section_158289614570.md) — section_158289614570
+          - [Period.adjustment](section_158289613523.md) — section_158289613523
+          - [Period.code](section_158289612641.md) — section_158289612641
+          - [Period.type](section_158289645227.md) — section_158289645227
+        - [query.Query](section_1510275177.md) — section_1510275177
+          - [Query.and(conditions)](section_1510780422.md) — section_1510780422
+          - [Query.autoJoin(options)](section_1530819144.md) — section_1530819144
+          - [Query.createColumn(options)](section_1510780373.md) — section_1510780373
+          - [Query.createCondition(options)](section_1510780329.md) — section_1510780329
+          - [Query.createSort(options)](section_1510780402.md) — section_1510780402
+          - [Query.join(options)](section_1510275377.md) — section_1510275377
+          - [Query.joinFrom(options)](section_1530819218.md) — section_1530819218
+          - [Query.joinTo(options)](section_1530819329.md) — section_1530819329
+          - [Query.not(condition)](section_1510780462.md) — section_1510780462
+          - [Query.or(conditions)](section_1510780444.md) — section_1510780444
+          - [Query.run(options)](section_1510780212.md) — section_1510780212
+          - [Query.run.promise()](section_1510780250.md) — section_1510780250
+          - [Query.runPaged(options)](section_1510780277.md) — section_1510780277
+          - [Query.runPaged.promise(options)](section_1510780308.md) — section_1510780308
+          - [Query.toSuiteQL()](section_157960522744.md) — section_157960522744
+          - [Query.child](section_1510781899.md) — section_1510781899
+          - [Query.columns](section_1510781812.md) — section_1510781812
+          - [Query.condition](section_1510781832.md) — section_1510781832
+          - [Query.id](section_1530819439.md) — section_1530819439
+          - [Query.name](section_1530819481.md) — section_1530819481
+          - [Query.root](section_1510781874.md) — section_1510781874
+          - [Query.sort](section_1510781853.md) — section_1510781853
+          - [Query.type](section_1510275511.md) — section_1510275511
+        - [query.RelativeDate](section_1544109440.md) — section_1544109440
+          - [RelativeDate.dateId](section_1544109453.md) — section_1544109453
+          - [RelativeDate.end](section_1544109465.md) — section_1544109465
+          - [RelativeDate.interval](section_1544109758.md) — section_1544109758
+          - [RelativeDate.isRange](section_1552334952.md) — section_1552334952
+          - [RelativeDate.start](section_1544109794.md) — section_1544109794
+          - [RelativeDate.value](section_1544109837.md) — section_1544109837
+        - [query.Result](section_1510779258.md) — section_1510779258
+          - [Result.asMap()](section_156336629343.md) — section_156336629343
+          - [Result.getValue(options)](article_0522071257.md) — article_0522071257
+          - [Result.values](section_1510859061.md) — section_1510859061
+        - [query.ResultSet](section_1510779235.md) — section_1510779235
+          - [ResultSet.asMappedResults()](section_156336700395.md) — section_156336700395
+          - [ResultSet.iterator()](section_1510790932.md) — section_1510790932
+          - [ResultSet.columns](section_1510857693.md) — section_1510857693
+          - [ResultSet.results](section_1510857646.md) — section_1510857646
+          - [ResultSet.types](section_1510857678.md) — section_1510857678
+        - [query.Sort](section_1510779222.md) — section_1510779222
+          - [Sort.ascending](section_1530897548.md) — section_1530897548
+          - [Sort.caseSensitive](section_1530819572.md) — section_1530819572
+          - [Sort.column](section_1510790467.md) — section_1510790467
+          - [Sort.locale](section_1530819644.md) — section_1530819644
+          - [Sort.nullsLast](section_1530819676.md) — section_1530819676
+        - [query.SuiteQL](section_157960384819.md) — section_157960384819
+          - [SuiteQL.run()](section_157960470046.md) — section_157960470046
+          - [SuiteQL.runPaged(options)](section_157960491275.md) — section_157960491275
+          - [SuiteQL.columns](section_157960405619.md) — section_157960405619
+          - [SuiteQL.params](section_157960427733.md) — section_157960427733
+          - [SuiteQL.query](section_157960443690.md) — section_157960443690
+          - [SuiteQL.type](section_157960456167.md) — section_157960456167
+        - [query.create(options)](section_1510275581.md) — section_1510275581
+        - [query.createPeriod(options)](section_158289670344.md) — section_158289670344
+        - [query.createRelativeDate(options)](section_1544108154.md) — section_1544108154
+        - [query.delete(options)](section_1530819817.md) — section_1530819817
+        - [query.listTables(options)](section_158289760700.md) — section_158289760700
+        - [query.load(options)](section_1510349101.md) — section_1510349101
+        - [query.load.promise(options)](section_1552419444.md) — section_1552419444
+        - [query.runSuiteQL(options)](section_157960542026.md) — section_157960542026
+        - [query.runSuiteQL.promise(options)](article_0429104416.md) — article_0429104416
+        - [query.runSuiteQLPaged(options)](section_157960586441.md) — section_157960586441
+        - [query.runSuiteQLPaged.promise(options)](section_0429112941.md) — section_0429112941
+        - [query.Aggregate](section_1510878932.md) — section_1510878932
+        - [query.DateId](section_1544111587.md) — section_1544111587
+        - [query.FieldContext](section_1552071599.md) — section_1552071599
+        - [query.Operator](section_1510275752.md) — section_1510275752
+        - [query.PeriodAdjustment](section_158289865548.md) — section_158289865548
+        - [query.PeriodCode](section_158289876878.md) — section_158289876878
+        - [query.PeriodType](section_158289949288.md) — section_158289949288
+        - [query.RelativeDateRange](section_1544111773.md) — section_1544111773
+        - [query.ReturnType](section_1510878969.md) — section_1510878969
+        - [query.SortLocale](section_1530819885.md) — section_1530819885
+        - [query.Type](section_1510878994.md) — section_1510878994
+      - [N/record Module](section_4267255811.md) — section_4267255811
+        - [N/record Module Script Samples](section_0304042919.md) — section_0304042919
+          - [Create and Save a Contact Record](subsect_161851142701.md) — subsect_161851142701
+          - [Create and Save a Contact Record Asynchronously Using Promise Methods](subsect_161851146932.md) — subsect_161851146932
+          - [Create Multiple Sales Records Using a Scheduled Script](subsect_0120042240.md) — subsect_0120042240
+          - [Access Sublists and a Subrecord from a Record](subsect_161851152505.md) — subsect_161851152505
+          - [Access Sublists and a Subrecord from a Record Asynchronously Using Promise Methods](subsect_161851156755.md) — subsect_161851156755
+          - [Call a Macro on a Sales Order Record](subsect_161851160554.md) — subsect_161851160554
+        - [record.Column](section_4600354269.md) — section_4600354269
+          - [Column.id](section_4600364069.md) — section_4600364069
+          - [Column.isDisabled](section_158592991246.md) — section_158592991246
+          - [Column.isDisplay](section_158593019143.md) — section_158593019143
+          - [Column.isMandatory](section_158593030499.md) — section_158593030499
+          - [Column.isSortable](section_158593039336.md) — section_158593039336
+          - [Column.label](section_4600366751.md) — section_4600366751
+          - [Column.sublistId](section_4600369846.md) — section_4600369846
+          - [Column.type](section_4600370892.md) — section_4600370892
+        - [record.Field](section_4435738444.md) — section_4435738444
+          - [Field.getSelectOptions(options)](section_4435756013.md) — section_4435756013
+          - [Field.label](section_4435738555.md) — section_4435738555
+          - [Field.id](section_4435754429.md) — section_4435754429
+          - [Field.type](section_4435754577.md) — section_4435754577
+          - [Field.isMandatory](section_4435755588.md) — section_4435755588
+          - [Field.sublistId](section_4834774974.md) — section_4834774974
+          - [Field.isDisplay](section_1526056555.md) — section_1526056555
+        - [record.Macro](section_1529089092.md) — section_1529089092
+          - [Macro.execute(options)](section_1509730726.md) — section_1509730726
+          - [Macro.execute.promise(options)](section_1509730748.md) — section_1509730748
+          - [Macro(options)](section_1509730768.md) — section_1509730768
+          - [Macro.promise(options)](section_1509730798.md) — section_1509730798
+          - [Macro.attributes](section_1509731214.md) — section_1509731214
+          - [Macro.description](section_1509731199.md) — section_1509731199
+          - [Macro.id](section_1509731173.md) — section_1509731173
+          - [Macro.label](section_1509731186.md) — section_1509731186
+        - [record.Record](section_4205869719.md) — section_4205869719
+          - [Record.cancelLine(options)](section_4273168483.md) — section_4273168483
+          - [Record.commitLine(options)](section_4273168899.md) — section_4273168899
+          - [Record.executeMacro(options)](section_1509992174.md) — section_1509992174
+          - [Record.executeMacro.promise(options)](section_1510066072.md) — section_1510066072
+          - [Record.findMatrixSublistLineWithValue(options)](section_4597993860.md) — section_4597993860
+          - [Record.findSublistLineWithValue(options)](section_4273157398.md) — section_4273157398
+          - [Record.getCurrentMatrixSublistValue(options)](section_4599582937.md) — section_4599582937
+          - [Record.getCurrentSublistField(options)](section_4659853446.md) — section_4659853446
+          - [Record.getCurrentSublistIndex(options)](section_4273172440.md) — section_4273172440
+          - [Record.getCurrentSublistSubrecord(options)](section_4296710967.md) — section_4296710967
+          - [Record.getCurrentSublistText(options)](section_4273172039.md) — section_4273172039
+          - [Record.getCurrentSublistValue(options)](section_4273170578.md) — section_4273170578
+          - [Record.getField(options)](section_4273153320.md) — section_4273153320
+          - [Record.getFields()](section_4273152646.md) — section_4273152646
+          - [Record.getLineCount(options)](section_4273157892.md) — section_4273157892
+          - [Record.getMacro(options)](section_1509992196.md) — section_1509992196
+          - [Record.getMacros()](section_1509992211.md) — section_1509992211
+          - [Record.getMatrixHeaderCount(options)](section_4599668537.md) — section_4599668537
+          - [Record.getMatrixHeaderField(options)](section_4599679237.md) — section_4599679237
+          - [Record.getMatrixHeaderValue(options)](section_4599703938.md) — section_4599703938
+          - [Record.getMatrixSublistField(options)](section_4599708431.md) — section_4599708431
+          - [Record.getMatrixSublistValue(options)](section_4599712373.md) — section_4599712373
+          - [Record.getSublist(options)](section_4599715398.md) — section_4599715398
+          - [Record.getSublists()](section_4599718205.md) — section_4599718205
+          - [Record.getSublistField(options)](section_4273153882.md) — section_4273153882
+          - [Record.getSublistFields(options)](section_4273152943.md) — section_4273152943
+          - [Record.getSublistSubrecord(options)](section_4296711506.md) — section_4296711506
+          - [Record.getSublistText(options)](section_4273167233.md) — section_4273167233
+          - [Record.getSublistValue(options)](section_4273166148.md) — section_4273166148
+          - [Record.getSubrecord(options)](section_4296709996.md) — section_4296709996
+          - [Record.getText(options)](section_4273156769.md) — section_4273156769
+          - [Record.getValue(options)](section_4273154686.md) — section_4273154686
+          - [Record.hasCurrentSublistSubrecord(options)](section_4600423347.md) — section_4600423347
+          - [Record.hasSublistSubrecord(options)](section_4600435332.md) — section_4600435332
+          - [Record.hasSubrecord(options)](section_4600438392.md) — section_4600438392
+          - [Record.insertLine(options)](section_4273158210.md) — section_4273158210
+          - [Record.moveLine(options)](section_158920582537.md) — section_158920582537
+          - [Record.removeCurrentSublistSubrecord(options)](section_4296712054.md) — section_4296712054
+          - [Record.removeLine(options)](section_4273165479.md) — section_4273165479
+          - [Record.removeSublistSubrecord(options)](section_4296712585.md) — section_4296712585
+          - [Record.removeSubrecord(options)](section_4296710374.md) — section_4296710374
+          - [Record.save(options)](section_4267286323.md) — section_4267286323
+          - [Record.save.promise(options)](section_4440842328.md) — section_4440842328
+          - [Record.selectLine(options)](section_4273169163.md) — section_4273169163
+          - [Record.selectNewLine(options)](section_4273170152.md) — section_4273170152
+          - [Record.setCurrentMatrixSublistValue(options)](section_4600520541.md) — section_4600520541
+          - [Record.setCurrentSublistText(options)](section_4296709001.md) — section_4296709001
+          - [Record.setCurrentSublistValue(options)](section_4273171484.md) — section_4273171484
+          - [Record.setMatrixHeaderValue(options)](section_4600547643.md) — section_4600547643
+          - [Record.setMatrixSublistValue(options)](section_4600551458.md) — section_4600551458
+          - [Record.setSublistText(options)](section_4273167591.md) — section_4273167591
+          - [Record.setSublistValue(options)](section_4273166777.md) — section_4273166777
+          - [Record.setText(options)](section_4273157034.md) — section_4273157034
+          - [Record.setValue(options)](section_4273155868.md) — section_4273155868
+          - [Record.id](section_4296706656.md) — section_4296706656
+          - [Record.isDynamic](section_4296707316.md) — section_4296707316
+          - [Record.type](section_4296706984.md) — section_4296706984
+        - [record.Sublist](section_4600574625.md) — section_4600574625
+          - [Sublist.getColumn(options)](section_4600579417.md) — section_4600579417
+          - [Sublist.id](section_4600577122.md) — section_4600577122
+          - [Sublist.isChanged](section_4600574626.md) — section_4600574626
+          - [Sublist.isDisplay](section_4600593345.md) — section_4600593345
+          - [Sublist.type](section_4600594177.md) — section_4600594177
+        - [record.attach(options)](section_4267284169.md) — section_4267284169
+        - [record.attach.promise(options)](section_4440821175.md) — section_4440821175
+        - [record.copy(options)](section_4267258260.md) — section_4267258260
+        - [record.copy.promise(options)](section_4440821922.md) — section_4440821922
+        - [record.create(options)](section_4267258059.md) — section_4267258059
+        - [record.create.promise(options)](section_4440822690.md) — section_4440822690
+        - [record.delete(options)](section_4267283372.md) — section_4267283372
+        - [record.delete.promise(options)](section_4440823302.md) — section_4440823302
+        - [record.detach(options)](section_4267284360.md) — section_4267284360
+        - [record.detach.promise(options)](section_4440824016.md) — section_4440824016
+        - [record.load(options)](section_4267258486.md) — section_4267258486
+        - [record.load.promise(options)](section_4440830173.md) — section_4440830173
+        - [record.submitFields(options)](section_4267283788.md) — section_4267283788
+        - [record.submitFields.promise(options)](section_4440830813.md) — section_4440830813
+        - [record.transform(options)](section_4267258715.md) — section_4267258715
+        - [record.transform.promise(options)](section_4440843375.md) — section_4440843375
+        - [record.Type](section_4273205732.md) — section_4273205732
+      - [N/recordContext Module](section_158627324548.md) — section_158627324548
+        - [N/recordContext Module Sample](section_0304041947.md) — section_0304041947
+        - [recordContext.RecordContext](section_159311113661.md) — section_159311113661
+        - [recordContext.getContext(options)](section_158627355521.md) — section_158627355521
+        - [recordContext.ContextType](section_158627386827.md) — section_158627386827
+      - [N/redirect Module](section_4424286105.md) — section_4424286105
+        - [N/redirect Module Script Sample](section_0304044237.md) — section_0304044237
+        - [redirect.redirect(options)](section_4424988767.md) — section_4424988767
+        - [redirect.toRecord(options)](section_4424995667.md) — section_4424995667
+        - [redirect.toRecordTransform(options)](section_157713182405.md) — section_157713182405
+        - [redirect.toSavedSearch(options)](section_4424988669.md) — section_4424988669
+        - [redirect.toSavedSearchResult(options)](section_4424988694.md) — section_4424988694
+        - [redirect.toSearch(options)](section_4424988719.md) — section_4424988719
+        - [redirect.toSearchResult(options)](section_4424988724.md) — section_4424988724
+        - [redirect.toSuitelet(options)](section_4424988773.md) — section_4424988773
+        - [redirect.toTaskLink(options)](section_4424988740.md) — section_4424988740
+      - [N/render Module](section_4412042824.md) — section_4412042824
+        - [N/render Module Script Samples](section_0302074109.md) — section_0302074109
+          - [Generate a PDF File from a Raw XML String](subsect_13112224006.md) — subsect_13112224006
+          - [Render a Transaction Record Into an HTML Page](subsect_7112254939.md) — subsect_7112254939
+          - [Render an Invoice Into a PDF File Using an XML Template](subsect_56112314644.md) — subsect_56112314644
+          - [Render Search Results Into a PDF File](subsect_61112332168.md) — subsect_61112332168
+        - [render.EmailMergeResult](section_4417244174.md) — section_4417244174
+          - [EmailMergeResult.body](section_4412212816.md) — section_4412212816
+          - [EmailMergeResult.subject](section_4412212830.md) — section_4412212830
+        - [render.TemplateRenderer](section_4412065265.md) — section_4412065265
+          - [TemplateRenderer.addCustomDataSource(options)](section_4528541027.md) — section_4528541027
+          - [TemplateRenderer.addQuery(options)](section_156217838581.md) — section_156217838581
+          - [TemplateRenderer.addRecord(options)](section_456543212890.md) — section_456543212890
+          - [TemplateRenderer.addSearchResults(options)](section_456249023436.md) — section_456249023436
+          - [TemplateRenderer.renderAsPdf()](section_452241760253.md) — section_452241760253
+          - [TemplateRenderer.renderPdfToResponse(options)](section_455108276366.md) — section_455108276366
+          - [TemplateRenderer.renderAsString()](section_455231872558.md) — section_455231872558
+          - [TemplateRenderer.renderToResponse(options)](section_459426513671.md) — section_459426513671
+          - [TemplateRenderer.setTemplateById(options)](section_4528552999.md) — section_4528552999
+          - [TemplateRenderer.setTemplateByScriptId(options)](section_4528574899.md) — section_4528574899
+          - [TemplateRenderer.templateContent](section_453133789062.md) — section_453133789062
+        - [render.bom(options)](section_457552429198.md) — section_457552429198
+        - [render.create()](section_455028930663.md) — section_455028930663
+        - [render.mergeEmail(options)](section_454332824706.md) — section_454332824706
+        - [render.packingSlip(options)](section_458625732421.md) — section_458625732421
+        - [render.pickingTicket(options)](section_456921936034.md) — section_456921936034
+        - [render.statement(options)](section_455095458983.md) — section_455095458983
+        - [render.transaction(options)](section_452452331542.md) — section_452452331542
+        - [render.xmlToPdf(options)](section_459185424803.md) — section_459185424803
+        - [render.DataSource](section_4619588793.md) — section_4619588793
+        - [render.PrintMode](section_4412215015.md) — section_4412215015
+      - [N/runtime Module](section_4296359529.md) — section_4296359529
+        - [N/runtime Module Script Samples](section_0304045354.md) — section_0304045354
+          - [Return User and Session Information](subsect_159976533840.md) — subsect_159976533840
+          - [Create Multiple Sales Records Using a Scheduled Script](subsect_159976538193.md) — subsect_159976538193
+        - [runtime.Script](section_4296527813.md) — section_4296527813
+          - [Script.getParameter(options)](section_4296661592.md) — section_4296661592
+          - [Script.getRemainingUsage()](section_4296661153.md) — section_4296661153
+          - [Script.apiVersion](section_1550072971.md) — section_1550072971
+          - [Script.bundleIds](section_4439977567.md) — section_4439977567
+          - [Script.deploymentId](section_4439939144.md) — section_4439939144
+          - [Script.id](section_4296662491.md) — section_4296662491
+          - [Script.logLevel](section_4296662791.md) — section_4296662791
+          - [Script.percentComplete](section_4296662993.md) — section_4296662993
+        - [runtime.Session](section_4296528369.md) — section_4296528369
+          - [Session.get(options)](section_4296666278.md) — section_4296666278
+          - [Session.set(options)](section_4296667139.md) — section_4296667139
+        - [runtime.User](section_4296528504.md) — section_4296528504
+          - [User.getPermission(options)](section_4296668393.md) — section_4296668393
+          - [User.getPreference(options)](section_4296668859.md) — section_4296668859
+          - [User.contact](section_1554920187.md) — section_1554920187
+          - [User.department](section_4296669751.md) — section_4296669751
+          - [User.email](section_4296669120.md) — section_4296669120
+          - [User.id](section_4296670466.md) — section_4296670466
+          - [User.location](section_4296669502.md) — section_4296669502
+          - [User.name](section_4296669367.md) — section_4296669367
+          - [User.role](section_4296669948.md) — section_4296669948
+          - [User.roleCenter](section_4296670081.md) — section_4296670081
+          - [User.roleId](section_4296670260.md) — section_4296670260
+          - [User.subsidiary](section_4296670612.md) — section_4296670612
+        - [runtime.getCurrentScript()](section_4296529387.md) — section_4296529387
+        - [runtime.getCurrentSession()](section_4296529736.md) — section_4296529736
+        - [runtime.getCurrentUser()](section_4296529105.md) — section_4296529105
+        - [runtime.isFeatureInEffect(options)](section_4296530135.md) — section_4296530135
+        - [runtime.isNextActive()](article_92152343123.md) — article_92152343123
+        - [runtime.accountId](section_4296530806.md) — section_4296530806
+        - [runtime.country](section_159983960584.md) — section_159983960584
+        - [runtime.envType](section_4296531123.md) — section_4296531123
+        - [runtime.executionContext](section_4296531348.md) — section_4296531348
+        - [runtime.processorCount](section_1513808179.md) — section_1513808179
+        - [runtime.queueCount](section_4296531705.md) — section_4296531705
+        - [runtime.version](section_4296531948.md) — section_4296531948
+        - [runtime.ContextType](section_4296646855.md) — section_4296646855
+        - [runtime.EnvType](section_4296647065.md) — section_4296647065
+        - [runtime.Permission](section_4296647244.md) — section_4296647244
+      - [N/scriptTypes/restlet Module](article_4130555042.md) — article_4130555042
+        - [N/scriptTypes/restlet Module Script Sample](section_0620114801.md) — section_0620114801
+        - [restlet.Response](section_0618010851.md) — section_0618010851
+          - [Response.content](section_94192745960.md) — section_94192745960
+          - [Response.contentType](section_82194259561.md) — section_82194259561
+        - [restlet.createResponse(options)](section_0618021129.md) — section_0618021129
+      - [N/search Module](section_4345764122.md) — section_4345764122
+        - [N/search Module Script Samples](section_0304061100.md) — section_0304061100
+          - [Search for Customer Records and Log First 50 Results](subsect_156691009252.md) — subsect_156691009252
+          - [Search for Sales Order Records](subsect_156691117264.md) — subsect_156691117264
+          - [Load a Search for Sales Order Records and Use a Callback Function to Process Results](subsect_156691156175.md) — subsect_156691156175
+          - [Load a Search for Sales Order Records and Return the First 100 Search Results](subsect_156691178780.md) — subsect_156691178780
+          - [Load and Run a Paginated Search and Process the Results](subsect_156691193698.md) — subsect_156691193698
+          - [Create a Search for a Custom Record Type](subsect_156691607120.md) — subsect_156691607120
+          - [Search for Items in a Custom List](subsect_156691710476.md) — subsect_156691710476
+          - [Delete a Saved Search](subsect_156691213501.md) — subsect_156691213501
+          - [Search Using a Specific Record Field](subsect_161114820748.md) — subsect_161114820748
+        - [search.Column](section_4345767216.md) — section_4345767216
+          - [Column.setWhenOrderedBy(options)](section_457130065917.md) — section_457130065917
+          - [Column.formula](section_454645935058.md) — section_454645935058
+          - [Column.function](section_453268676757.md) — section_453268676757
+          - [Column.join](section_460655456542.md) — section_460655456542
+          - [Column.label](section_459848266600.md) — section_459848266600
+          - [Column.name](section_456729370116.md) — section_456729370116
+          - [Column.sort](section_456142211913.md) — section_456142211913
+          - [Column.summary](section_455339294433.md) — section_455339294433
+        - [search.Filter](section_4345767603.md) — section_4345767603
+          - [Filter.formula](section_46683898925.md) — section_46683898925
+          - [Filter.join](section_460736328124.md) — section_460736328124
+          - [Filter.name](section_459893737792.md) — section_459893737792
+          - [Filter.operator](section_452460571288.md) — section_452460571288
+          - [Filter.summary](section_46485229492.md) — section_46485229492
+        - [search.Page](section_4486547978.md) — section_4486547978
+          - [Page.next()](section_4486605324.md) — section_4486605324
+          - [Page.next.promise()](section_4492410539.md) — section_4492410539
+          - [Page.prev()](section_4486606245.md) — section_4486606245
+          - [Page.prev.promise()](section_4492410589.md) — section_4492410589
+          - [Page.data](section_4486604985.md) — section_4486604985
+          - [Page.isFirst](section_4486603498.md) — section_4486603498
+          - [Page.isLast](section_4486603745.md) — section_4486603745
+          - [Page.pagedData](section_4486604468.md) — section_4486604468
+          - [Page.pageRange](section_4486602257.md) — section_4486602257
+        - [search.PagedData](section_4486558900.md) — section_4486558900
+          - [PagedData.fetch(options)](section_4486609298.md) — section_4486609298
+          - [PagedData.fetch.promise()](section_4491674556.md) — section_4491674556
+          - [PagedData.count](section_4486607957.md) — section_4486607957
+          - [PagedData.pageRanges](section_4486608251.md) — section_4486608251
+          - [PagedData.pageSize](section_4486608636.md) — section_4486608636
+          - [PagedData.searchDefinition](section_4486608824.md) — section_4486608824
+        - [search.PageRange](section_4486559010.md) — section_4486559010
+          - [PageRange.compoundLabel](section_4486607482.md) — section_4486607482
+          - [PageRange.index](section_4486606935.md) — section_4486606935
+        - [search.Result](section_4345767112.md) — section_4345767112
+          - [Result.getText(column)](section_460663391112.md) — section_460663391112
+          - [Result.getText(options)](section_456658264159.md) — section_456658264159
+          - [Result.getValue(column)](section_46988464355.md) — section_46988464355
+          - [Result.getValue(options)](section_46917053222.md) — section_46917053222
+          - [Result.columns](section_452222534179.md) — section_452222534179
+          - [Result.id](section_454656921386.md) — section_454656921386
+          - [Result.recordType](section_456526428222.md) — section_456526428222
+        - [search.ResultSet](section_4345767679.md) — section_4345767679
+          - [ResultSet.each(callback)](section_457160888671.md) — section_457160888671
+          - [ResultSet.each.promise(callback)](section_4629990761.md) — section_4629990761
+          - [ResultSet.getRange(options)](section_456010986327.md) — section_456010986327
+          - [ResultSet.getRange.promise(options)](section_4629921431.md) — section_4629921431
+          - [ResultSet.columns](section_456520019530.md) — section_456520019530
+        - [search.Search](section_4392315904.md) — section_4392315904
+          - [Search.run()](section_452292724609.md) — section_452292724609
+          - [Search.runPaged(options)](section_4486596158.md) — section_4486596158
+          - [Search.runPaged.promise(options)](section_4492428680.md) — section_4492428680
+          - [Search.save()](section_452655578613.md) — section_452655578613
+          - [Search.save.promise()](section_4440796572.md) — section_4440796572
+          - [Search.columns](section_456374450683.md) — section_456374450683
+          - [Search.filterExpression](section_458440490721.md) — section_458440490721
+          - [Search.filters](section_459415222167.md) — section_459415222167
+          - [Search.id](section_455917297362.md) — section_455917297362
+          - [Search.isPublic](section_460638366698.md) — section_460638366698
+          - [Search.packageId](section_156336419831.md) — section_156336419831
+          - [Search.searchId](section_458892150878.md) — section_458892150878
+          - [Search.searchType](section_459534851073.md) — section_459534851073
+          - [Search.settings](section_1536244062.md) — section_1536244062
+          - [Search.title](section_458807006835.md) — section_458807006835
+        - [search.Setting](section_1536244919.md) — section_1536244919
+          - [Setting.name](section_1536177181.md) — section_1536177181
+          - [Setting.value](section_1536177235.md) — section_1536177235
+        - [search.create(options)](section_4345171487.md) — section_4345171487
+        - [search.create.promise(options)](section_4440790350.md) — section_4440790350
+        - [search.createColumn(options)](section_4345776927.md) — section_4345776927
+        - [search.createFilter(options)](section_4345777107.md) — section_4345777107
+        - [search.createSetting(options)](section_1536171305.md) — section_1536171305
+        - [search.delete(options)](section_4345775501.md) — section_4345775501
+        - [search.delete.promise(options)](section_4440793315.md) — section_4440793315
+        - [search.duplicates(options)](section_4345775593.md) — section_4345775593
+        - [search.duplicates.promise(options)](section_4440793863.md) — section_4440793863
+        - [search.global(options)](section_4345775747.md) — section_4345775747
+        - [search.global.promise(options)](section_4440794809.md) — section_4440794809
+        - [search.load(options)](section_4345775360.md) — section_4345775360
+        - [search.load.promise(options)](section_4440792540.md) — section_4440792540
+        - [search.lookupFields(options)](section_4345776651.md) — section_4345776651
+        - [search.lookupFields.promise(options)](section_4440795405.md) — section_4440795405
+        - [search.Operator](section_4345782273.md) — section_4345782273
+          - [SuiteScript 2.1 Search Operators](article_4094344956.md) — article_4094344956
+        - [search.Sort](section_4486581209.md) — section_4486581209
+        - [search.Summary](section_4345777923.md) — section_4345777923
+        - [search.Type](section_4483165708.md) — section_4483165708
+      - [N/sftp Module](section_4617004932.md) — section_4617004932
+        - [N/sftp Module Script Samples](section_0304050535.md) — section_0304050535
+          - [Upload and Download a File](subsect_156943354499.md) — subsect_156943354499
+          - [Manage Files and Directories](subsect_156943356714.md) — subsect_156943356714
+          - [Set Conditional Default Settings Using N/sftp Enums](subsect_156943361920.md) — subsect_156943361920
+        - [Setting up an SFTP Transfer](section_4855400554.md) — section_4855400554
+        - [SFTP Authentication](section_4855401415.md) — section_4855401415
+        - [Supported Cipher Suites and Host Key Types](section_4784614151.md) — section_4784614151
+        - [Supported SuiteScript File Types](section_4855409350.md) — section_4855409350
+        - [sftp.Connection](section_4618502733.md) — section_4618502733
+          - [Connection.download(options)](section_4618664030.md) — section_4618664030
+          - [Connection.list(options)](section_1557235176.md) — section_1557235176
+          - [Connection.makeDirectory(options)](section_1557234024.md) — section_1557234024
+          - [Connection.move(options)](section_1557234961.md) — section_1557234961
+          - [Connection.removeDirectory(options)](section_1557234344.md) — section_1557234344
+          - [Connection.removeFile(options)](section_1557234670.md) — section_1557234670
+          - [Connection.upload(options)](section_4618512910.md) — section_4618512910
+          - [Connection.MAX_FILE_SIZE](section_1557238937.md) — section_1557238937
+          - [Connection.MAX_TRANSFER_TIMEOUT](section_1557238973.md) — section_1557238973
+        - [sftp.createConnection(options)](section_4617005472.md) — section_4617005472
+        - [sftp.MAX_CONNECT_TIMEOUT](section_1557321286.md) — section_1557321286
+        - [sftp.MIN_CONNECT_TIMEOUT](section_1557238823.md) — section_1557238823
+        - [sftp.MAX_PORT_NUMBER](section_1557327056.md) — section_1557327056
+        - [sftp.MIN_PORT_NUMBER](section_1557327099.md) — section_1557327099
+        - [sftp.DEFAULT_PORT_NUMBER](section_1557327135.md) — section_1557327135
+        - [sftp.Sort](section_1557239613.md) — section_1557239613
+      - [N/sso Module](section_4424287223.md) — section_4424287223
+      - [N/suiteAppInfo Module](article_160236086332.md) — article_160236086332
+        - [N/suiteAppInfo Module Script Sample](section_0303051612.md) — section_0303051612
+        - [suiteAppInfo.isBundleInstalled(options)](section_160236055067.md) — section_160236055067
+        - [suiteAppInfo.isSuiteAppInstalled(options)](section_160236079756.md) — section_160236079756
+        - [suiteAppInfo.listBundlesContainingScripts(options)](section_160236064276.md) — section_160236064276
+        - [suiteAppInfo.listInstalledBundles()](section_160236062593.md) — section_160236062593
+        - [suiteAppInfo.listInstalledSuiteApps()](section_160236082257.md) — section_160236082257
+        - [suiteAppInfo.listSuiteAppsContainingScripts(options)](section_160236084150.md) — section_160236084150
+      - [N/task Module](section_4345787858.md) — section_4345787858
+        - [N/task Module Script Samples](section_0305023241.md) — section_0305023241
+          - [Create and Submit a Map/Reduce Script Task](subsect_156658130732.md) — subsect_156658130732
+          - [Create and Submit an Asynchronous Search Task and Export the Results into a CSV File](subsect_156658201228.md) — subsect_156658201228
+          - [Create and Submit a Task with Dependent Scripts](subsect_156658237922.md) — subsect_156658237922
+          - [Submit a Record Action Task and Check Status](subsect_156658362398.md) — subsect_156658362398
+        - [task.CsvImportTask](section_4345798668.md) — section_4345798668
+          - [CsvImportTask.submit()](section_5594909667.md) — section_5594909667
+          - [CsvImportTask.id](section_158228669163.md) — section_158228669163
+          - [CsvImportTask.importFile](section_459367004393.md) — section_459367004393
+          - [CsvImportTask.linkedFiles](section_458306823729.md) — section_458306823729
+          - [CsvImportTask.mappingId](section_457792297362.md) — section_457792297362
+          - [CsvImportTask.name](section_454580627441.md) — section_454580627441
+          - [CsvImportTask.queueId](section_454650817870.md) — section_454650817870
+        - [task.CsvImportTaskStatus](section_4345798793.md) — section_4345798793
+          - [CsvImportTaskStatus.status](section_453959899902.md) — section_453959899902
+          - [CsvImportTaskStatus.taskId](section_158228614995.md) — section_158228614995
+        - [task.DocumentCaptureTask](article_78075142728.md) — article_78075142728
+          - [DocumentCaptureTask.addInboundDependency(options)](article_3075210437.md) — article_3075210437
+          - [DocumentCaptureTask.submit()](article_11075253797.md) — article_11075253797
+          - [DocumentCaptureTask.documentType](article_25082104010.md) — article_25082104010
+          - [DocumentCaptureTask.features](article_23082157954.md) — article_23082157954
+          - [DocumentCaptureTask.id](article_13075403661.md) — article_13075403661
+          - [DocumentCaptureTask.inboundDependencies](article_51075433575.md) — article_51075433575
+          - [DocumentCaptureTask.inputFile](article_75075322173.md) — article_75075322173
+          - [DocumentCaptureTask.language](article_25082336704.md) — article_25082336704
+          - [DocumentCaptureTask.outputFilePath](article_4082548662.md) — article_4082548662
+          - [DocumentCaptureTask.ociConfig](article_93075458095.md) — article_93075458095
+        - [task.DocumentCaptureTaskStatus](article_84075519375.md) — article_84075519375
+          - [DocumentCaptureTaskStatus.status](article_78075616074.md) — article_78075616074
+          - [DocumentCaptureTaskStatus.taskId](article_38075637279.md) — article_38075637279
+        - [task.EntityDeduplicationTask](section_4345799008.md) — section_4345799008
+          - [EntityDeduplicationTask.submit()](section_459274536131.md) — section_459274536131
+          - [EntityDeduplicationTask.dedupeMode](section_456247802733.md) — section_456247802733
+          - [EntityDeduplicationTask.entityType](section_458601928710.md) — section_458601928710
+          - [EntityDeduplicationTask.id](section_158228488492.md) — section_158228488492
+          - [EntityDeduplicationTask.masterRecordId](section_456971679686.md) — section_456971679686
+          - [EntityDeduplicationTask.masterSelectionMode](section_46682983398.md) — section_46682983398
+          - [EntityDeduplicationTask.recordIds](section_456050964354.md) — section_456050964354
+        - [task.EntityDeduplicationTaskStatus](section_4345799153.md) — section_4345799153
+          - [EntityDeduplicationTaskStatus.status](section_452162109374.md) — section_452162109374
+          - [EntityDeduplicationTaskStatus.taskId](section_158228461568.md) — section_158228461568
+        - [task.MapReduceScriptTask](section_4345798404.md) — section_4345798404
+          - [MapReduceScriptTask.submit()](section_453639770507.md) — section_453639770507
+          - [MapReduceScriptTask.deploymentId](section_456020446776.md) — section_456020446776
+          - [MapReduceScriptTask.id](section_158227558782.md) — section_158227558782
+          - [MapReduceScriptTask.params](section_457650390624.md) — section_457650390624
+          - [MapReduceScriptTask.scriptId](section_456008239745.md) — section_456008239745
+        - [task.MapReduceScriptTaskStatus](section_4345798546.md) — section_4345798546
+          - [MapReduceScriptTaskStatus.getCurrentTotalSize()](section_455688720702.md) — section_455688720702
+          - [MapReduceScriptTaskStatus.getPendingMapCount()](section_454059082030.md) — section_454059082030
+          - [MapReduceScriptTaskStatus.getPendingMapSize()](section_456033874511.md) — section_456033874511
+          - [MapReduceScriptTaskStatus.getPendingOutputCount()](section_453068786620.md) — section_453068786620
+          - [MapReduceScriptTaskStatus.getPendingOutputSize()](section_458842102049.md) — section_458842102049
+          - [MapReduceScriptTaskStatus.getPendingReduceCount()](section_453019348144.md) — section_453019348144
+          - [MapReduceScriptTaskStatus.getPendingReduceSize()](section_454281860351.md) — section_454281860351
+          - [MapReduceScriptTaskStatus.getPercentageCompleted()](section_456839538573.md) — section_456839538573
+          - [MapReduceScriptTaskStatus.getTotalMapCount()](section_459523559569.md) — section_459523559569
+          - [MapReduceScriptTaskStatus.getTotalOutputCount()](section_452285705566.md) — section_452285705566
+          - [MapReduceScriptTaskStatus.getTotalReduceCount()](section_458279663085.md) — section_458279663085
+          - [MapReduceScriptTaskStatus.deploymentId](section_453416076659.md) — section_453416076659
+          - [MapReduceScriptTaskStatus.scriptId](section_453886657714.md) — section_453886657714
+          - [MapReduceScriptTaskStatus.stage](section_460753112791.md) — section_460753112791
+          - [MapReduceScriptTaskStatus.status](section_457534118651.md) — section_457534118651
+          - [MapReduceScriptTaskStatus.taskId](section_158227552252.md) — section_158227552252
+        - [task.QueryTask](section_159223655124.md) — section_159223655124
+          - [QueryTask.addInboundDependency(options)](section_159223731551.md) — section_159223731551
+          - [QueryTask.submit()](section_159223745979.md) — section_159223745979
+          - [QueryTask.fileId](section_159223756577.md) — section_159223756577
+          - [QueryTask.filePath](section_159223771684.md) — section_159223771684
+          - [QueryTask.id](article_42123818803.md) — article_42123818803
+          - [QueryTask.inboundDependencies](section_159223776276.md) — section_159223776276
+          - [QueryTask.query](section_159223782030.md) — section_159223782030
+        - [task.QueryTaskStatus](section_159223798559.md) — section_159223798559
+          - [QueryTaskStatus.fileId](section_159223806776.md) — section_159223806776
+          - [QueryTaskStatus.query](section_159223809924.md) — section_159223809924
+          - [QueryTaskStatus.status](section_159223812701.md) — section_159223812701
+          - [QueryTaskStatus.taskId](section_159223815752.md) — section_159223815752
+        - [task.RecordActionTask](section_1544121429.md) — section_1544121429
+          - [RecordActionTask.submit()](section_1544121926.md) — section_1544121926
+          - [RecordActionTask.action](section_1544123083.md) — section_1544123083
+          - [RecordActionTask.condition](section_1544123142.md) — section_1544123142
+          - [RecordActionTask.id](section_158221148568.md) — section_158221148568
+          - [RecordActionTask.paramCallback](section_1544131790.md) — section_1544131790
+          - [RecordActionTask.params](section_1544132018.md) — section_1544132018
+          - [RecordActionTask.recordType](section_1544122891.md) — section_1544122891
+        - [task.RecordActionTaskStatus](section_1544125423.md) — section_1544125423
+          - [RecordActionTaskStatus.complete](section_1544128319.md) — section_1544128319
+          - [RecordActionTaskStatus.errors](section_1544128200.md) — section_1544128200
+          - [RecordActionTaskStatus.failed](section_1544128556.md) — section_1544128556
+          - [RecordActionTaskStatus.pending](section_1544128774.md) — section_1544128774
+          - [RecordActionTaskStatus.results](section_1544128024.md) — section_1544128024
+          - [RecordActionTaskStatus.status](section_1544127664.md) — section_1544127664
+          - [RecordActionTaskStatus.succeeded](section_1544128436.md) — section_1544128436
+          - [RecordActionTaskStatus.taskId](section_158221207526.md) — section_158221207526
+        - [task.ScheduledScriptTask](section_4392318707.md) — section_4392318707
+          - [ScheduledScriptTask.submit()](section_460871520995.md) — section_460871520995
+          - [ScheduledScriptTask.deploymentId](section_46258483886.md) — section_46258483886
+          - [ScheduledScriptTask.id](section_158220774438.md) — section_158220774438
+          - [ScheduledScriptTask.params](section_459205261229.md) — section_459205261229
+          - [ScheduledScriptTask.scriptId](section_459331604003.md) — section_459331604003
+        - [task.ScheduledScriptTaskStatus](section_4345798266.md) — section_4345798266
+          - [ScheduledScriptTaskStatus.deploymentId](section_454809204101.md) — section_454809204101
+          - [ScheduledScriptTaskStatus.scriptId](section_460720153807.md) — section_460720153807
+          - [ScheduledScriptTaskStatus.status](section_458090454100.md) — section_458090454100
+          - [ScheduledScriptTaskStatus.taskId](section_158220908669.md) — section_158220908669
+        - [task.SearchTask](section_4799343953.md) — section_4799343953
+          - [SearchTask.addInboundDependency()](section_1530711128.md) — section_1530711128
+          - [SearchTask.submit()](section_4804558173.md) — section_4804558173
+          - [SearchTask.fileId](section_4804562077.md) — section_4804562077
+          - [SearchTask.filePath](section_4804562119.md) — section_4804562119
+          - [SearchTask.id](section_158229269880.md) — section_158229269880
+          - [SearchTask.inboundDependencies](section_1530715682.md) — section_1530715682
+          - [SearchTask.savedSearchId](section_4804561931.md) — section_4804561931
+        - [task.SearchTaskStatus](section_4799344334.md) — section_4799344334
+          - [SearchTaskStatus.fileId](section_4804572988.md) — section_4804572988
+          - [SearchTaskStatus.savedSearchId](section_4804572868.md) — section_4804572868
+          - [SearchTaskStatus.status](section_4804572441.md) — section_4804572441
+          - [SearchTaskStatus.taskId](section_4804572729.md) — section_4804572729
+        - [task.SuiteQLTask](section_159223833809.md) — section_159223833809
+          - [SuiteQLTask.addInboundDependency(options)](section_159223844941.md) — section_159223844941
+          - [SuiteQLTask.submit()](section_159223847318.md) — section_159223847318
+          - [SuiteQLTask.fileId](section_159223852102.md) — section_159223852102
+          - [SuiteQLTask.filePath](section_159223855624.md) — section_159223855624
+          - [SuiteQLTask.id](article_62124146357.md) — article_62124146357
+          - [SuiteQLTask.inboundDependencies](section_159223858725.md) — section_159223858725
+          - [SuiteQLTask.params](section_159223862155.md) — section_159223862155
+          - [SuiteQLTask.query](section_159223864743.md) — section_159223864743
+        - [task.SuiteQLTaskStatus](section_159223884561.md) — section_159223884561
+          - [SuiteQLTaskStatus.fileId](section_159223887802.md) — section_159223887802
+          - [SuiteQLTaskStatus.params](section_159223893036.md) — section_159223893036
+          - [SuiteQLTaskStatus.query](section_159223889689.md) — section_159223889689
+          - [SuiteQLTaskStatus.status](section_159223896074.md) — section_159223896074
+          - [SuiteQLTaskStatus.taskId](section_159223898107.md) — section_159223898107
+        - [task.WorkflowTriggerTask](section_4345799266.md) — section_4345799266
+          - [WorkflowTriggerTask.submit()](section_459607788085.md) — section_459607788085
+          - [WorkflowTriggerTask.id](section_158228405355.md) — section_158228405355
+          - [WorkflowTriggerTask.params](section_457660766600.md) — section_457660766600
+          - [WorkflowTriggerTask.recordId](section_456538635253.md) — section_456538635253
+          - [WorkflowTriggerTask.recordType](section_452073913574.md) — section_452073913574
+          - [WorkflowTriggerTask.workflowId](section_46870056152.md) — section_46870056152
+        - [task.WorkflowTriggerTaskStatus](section_4345799392.md) — section_4345799392
+          - [WorkflowTriggerTaskStatus.status](section_46640258788.md) — section_46640258788
+          - [WorkflowTriggerTaskStatus.taskId](section_158221094722.md) — section_158221094722
+        - [task.checkStatus(options)](section_4345805891.md) — section_4345805891
+        - [task.create(options)](section_4392320106.md) — section_4392320106
+        - [task.ActionCondition](section_1544128916.md) — section_1544128916
+        - [task.DedupeEntityType](section_4345807845.md) — section_4345807845
+        - [task.DedupeMode](section_4345807658.md) — section_4345807658
+        - [task.MapReduceStage](section_4345808152.md) — section_4345808152
+        - [task.MasterSelectionMode](section_4345807507.md) — section_4345807507
+        - [task.TaskStatus](section_4345807357.md) — section_4345807357
+        - [task.TaskType](section_4345806937.md) — section_4345806937
+      - [N/task/accounting/recognition Module](section_1554472720.md) — section_1554472720
+        - [N/task/accounting/recognition Module Script Samples](section_0305022620.md) — section_0305022620
+          - [Merge Revenue Elements Using Internal IDs](subsect_1554837142.md) — subsect_1554837142
+          - [Merge Revenue Arrangements Using a Saved Search](subsect_1554837240.md) — subsect_1554837240
+          - [Merge Revenue Arrangements Using an Ad-Hoc Search](subsect_1554838758.md) — subsect_1554838758
+        - [recognition.MergeArrangementsTask](section_1554839832.md) — section_1554839832
+          - [MergeArrangementsTask.submit()](section_1554926010.md) — section_1554926010
+          - [MergeArrangementsTask.arrangements](section_1554917062.md) — section_1554917062
+          - [MergeArrangementsTask.contractAcquisitionDeferredExpenseAccount](section_1554921345.md) — section_1554921345
+          - [MergeArrangementsTask.contractAcquisitionExpenseAccount](section_1554920949.md) — section_1554920949
+          - [MergeArrangementsTask.contractCostAccrualDate](section_1554921464.md) — section_1554921464
+          - [MergeArrangementsTask.mergeResidualRevenueAmounts](section_1554921647.md) — section_1554921647
+          - [MergeArrangementsTask.recalculateResidualFairValue](section_1554921873.md) — section_1554921873
+          - [MergeArrangementsTask.revenueArrangementDate](section_1554921989.md) — section_1554921989
+        - [recognition.MergeArrangementsTaskStatus](section_1554922557.md) — section_1554922557
+          - [MergeArrangementsTaskStatus.errorMessage](section_1554923349.md) — section_1554923349
+          - [MergeArrangementsTaskStatus.inputArrangements](section_1554923372.md) — section_1554923372
+          - [MergeArrangementsTaskStatus.inputElements](section_1554923579.md) — section_1554923579
+          - [MergeArrangementsTaskStatus.resultingArrangement](section_1554923835.md) — section_1554923835
+          - [MergeArrangementsTaskStatus.status](section_1554924176.md) — section_1554924176
+          - [MergeArrangementsTaskStatus.submissionId](section_1554924308.md) — section_1554924308
+          - [MergeArrangementsTaskStatus.taskId](section_1554924405.md) — section_1554924405
+        - [recognition.MergeElementsTask](section_1554924495.md) — section_1554924495
+          - [MergeElementsTask.submit()](section_1554994855.md) — section_1554994855
+          - [MergeElementsTask.contractAcquisitionDeferredExpenseAccount](section_1554925170.md) — section_1554925170
+          - [MergeElementsTask.contractAcquisitionExpenseAccount](section_1554924516.md) — section_1554924516
+          - [MergeElementsTask.contractCostAccrualDate](section_1554925269.md) — section_1554925269
+          - [MergeElementsTask.elements](section_1554925375.md) — section_1554925375
+          - [MergeElementsTask.revenueArrangementDate](section_1554925489.md) — section_1554925489
+        - [recognition.checkStatus(options)](section_1555005560.md) — section_1555005560
+        - [recognition.create(options)](section_1554995115.md) — section_1554995115
+        - [recognition.TaskStatus](section_1555011639.md) — section_1555011639
+        - [recognition.TaskType](section_1555011882.md) — section_1555011882
+      - [N/transaction Module](section_4413162576.md) — section_4413162576
+        - [N/transaction Module Script Sample](section_0305024705.md) — section_0305024705
+        - [transaction.void(options)](section_4413165692.md) — section_4413165692
+        - [transaction.void.promise(options)](section_4440850256.md) — section_4440850256
+        - [transaction.Type](section_4483109897.md) — section_4483109897
+      - [N/translation Module](section_1538666156.md) — section_1538666156
+        - [N/translation Module Script Samples](section_0305025218.md) — section_0305025218
+          - [Access Translation Strings](subsect_57121856377.md) — subsect_57121856377
+          - [Access Translation Strings Using a Non-Default Locale](subsect_21121914594.md) — subsect_21121914594
+          - [Access Parameterized Translation Strings](subsect_51121934505.md) — subsect_51121934505
+          - [Load Specific Translation Strings from a Collection](subsect_18121951447.md) — subsect_18121951447
+          - [Load Translation Strings By Key from Multiple Translation Collections](subsect_96122011526.md) — subsect_96122011526
+        - [translation.Handle](section_1541705125.md) — section_1541705125
+        - [translation.Translator](section_1541706219.md) — section_1541706219
+        - [translation.get(options)](section_1541707388.md) — section_1541707388
+        - [translation.load(options)](section_1541708603.md) — section_1541708603
+        - [translation.selectLocale(options)](section_1541708921.md) — section_1541708921
+        - [translation.Locale](section_1541709045.md) — section_1541709045
+      - [N/ui Modules](section_156939471908.md) — section_156939471908
+        - [N/ui/dialog Module](section_4497725142.md) — section_4497725142
+          - [N/ui/dialog Module Script Samples](section_0305025805.md) — section_0305025805
+            - [Create an Alert Dialog](subsect_156837123398.md) — subsect_156837123398
+            - [Create a Confirmation Dialog](subsect_156837131262.md) — subsect_156837131262
+            - [Create a Dialog with Buttons](subsect_156837135743.md) — subsect_156837135743
+            - [Create a Dialog that Includes a Default Button](subsect_156837142447.md) — subsect_156837142447
+          - [dialog.alert(options)](section_4497744851.md) — section_4497744851
+          - [dialog.confirm(options)](section_4497799943.md) — section_4497799943
+          - [dialog.create(options)](section_4497804898.md) — section_4497804898
+        - [N/ui/message Module](section_4497735093.md) — section_4497735093
+          - [N/ui/message Module Script Sample](section_0305030151.md) — section_0305030151
+          - [message.Message](section_4497858078.md) — section_4497858078
+            - [Message.hide()](section_4610801857.md) — section_4610801857
+            - [Message.show(options)](section_4497866594.md) — section_4497866594
+          - [message.create(options)](section_4497873263.md) — section_4497873263
+          - [message.Type](section_4498688050.md) — section_4498688050
+        - [N/ui/serverWidget Module](section_4321345532.md) — section_4321345532
+          - [N/ui/serverWidget Module Script Samples](subsect_6164157284.md) — subsect_6164157284
+            - [Create a Custom Form with a Submit Button, Fields, and an Inline Editor Sublist](bridgehead_1517331502.md) — bridgehead_1517331502
+            - [Create a Custom Survey Form](bridgehead_1517331515.md) — bridgehead_1517331515
+            - [Create a Form with a Credential Field](subsect_0429052611.md) — subsect_0429052611
+          - [serverWidget.Assistant](section_4325849970.md) — section_4325849970
+            - [Assistant.addField(options)](section_4332747915.md) — section_4332747915
+            - [Assistant.addFieldGroup(options)](section_4332762451.md) — section_4332762451
+            - [Assistant.addStep(options)](section_4332773236.md) — section_4332773236
+            - [Assistant.addSublist(options)](section_4333407203.md) — section_4333407203
+            - [Assistant.getField(options)](section_4378406680.md) — section_4378406680
+            - [Assistant.getFieldGroup(options)](section_4378406710.md) — section_4378406710
+            - [Assistant.getFieldGroupIds()](section_4333419693.md) — section_4333419693
+            - [Assistant.getFieldIds()](section_4333410160.md) — section_4333410160
+            - [Assistant.getFieldIdsByFieldGroup(fieldGroup)](section_4549847352.md) — section_4549847352
+            - [Assistant.getLastAction()](section_4333442841.md) — section_4333442841
+            - [Assistant.getLastStep()](section_4333461766.md) — section_4333461766
+            - [Assistant.getNextStep()](section_4333467641.md) — section_4333467641
+            - [Assistant.getStep(options)](section_4333472133.md) — section_4333472133
+            - [Assistant.getStepCount()](section_4333478410.md) — section_4333478410
+            - [Assistant.getSteps()](section_4333424096.md) — section_4333424096
+            - [Assistant.getSublist(options)](section_4378445760.md) — section_4378445760
+            - [Assistant.getSublistIds()](section_4333425688.md) — section_4333425688
+            - [Assistant.hasErrorHtml()](section_4333490823.md) — section_4333490823
+            - [Assistant.isFinished()](section_4333493801.md) — section_4333493801
+            - [Assistant.sendRedirect(options)](section_4333517010.md) — section_4333517010
+            - [Assistant.setSplash(options)](section_4333549069.md) — section_4333549069
+            - [Assistant.updateDefaultValues(values)](section_4333537728.md) — section_4333537728
+            - [Assistant.clientScriptFileId](section_4333547812.md) — section_4333547812
+            - [Assistant.clientScriptModulePath](section_4625432742.md) — section_4625432742
+            - [Assistant.currentStep](section_4333435322.md) — section_4333435322
+            - [Assistant.errorHtml](section_4333532370.md) — section_4333532370
+            - [Assistant.finishedHtml](section_4333540884.md) — section_4333540884
+            - [Assistant.hideAddToShortcutsLink](section_4333553611.md) — section_4333553611
+            - [Assistant.hideStepNumber](section_4333543298.md) — section_4333543298
+            - [Assistant.isNotOrdered](section_4333544993.md) — section_4333544993
+            - [Assistant.title](section_4333559476.md) — section_4333559476
+          - [serverWidget.AssistantStep](section_4325851003.md) — section_4325851003
+            - [AssistantStep.getFieldIds()](section_4610728749.md) — section_4610728749
+            - [AssistantStep.getLineCount(options)](section_4334385888.md) — section_4334385888
+            - [AssistantStep.getSublistFieldIds(options)](section_4334423278.md) — section_4334423278
+            - [AssistantStep.getSublistValue(options)](section_4334431322.md) — section_4334431322
+            - [AssistantStep.getSubmittedSublistIds()](section_4334385704.md) — section_4334385704
+            - [AssistantStep.getValue(options)](section_4334418504.md) — section_4334418504
+            - [AssistantStep.helpText](section_4334438434.md) — section_4334438434
+            - [AssistantStep.id](section_4334447959.md) — section_4334447959
+            - [AssistantStep.label](section_4334444607.md) — section_4334444607
+            - [AssistantStep.stepNumber](section_4334434327.md) — section_4334434327
+          - [serverWidget.Button](section_4325806317.md) — section_4325806317
+            - [Button.isDisabled](section_4325807642.md) — section_4325807642
+            - [Button.isHidden](section_4325806318.md) — section_4325806318
+            - [Button.label](section_4325807686.md) — section_4325807686
+          - [serverWidget.Field](section_4325837128.md) — section_4325837128
+            - [Field.addSelectOption(options)](section_4449822161.md) — section_4449822161
+            - [Field.getSelectOptions(options)](section_4335162417.md) — section_4335162417
+            - [Field.setHelpText(options)](section_4335195721.md) — section_4335195721
+            - [Field.updateBreakType(options)](section_4335187732.md) — section_4335187732
+            - [Field.updateDisplaySize(options)](section_4335279800.md) — section_4335279800
+            - [Field.updateDisplayType(options)](section_4335287288.md) — section_4335287288
+            - [Field.updateLayoutType(options)](section_4335294907.md) — section_4335294907
+            - [Field.alias](section_4335158000.md) — section_4335158000
+            - [Field.defaultValue](section_4335275520.md) — section_4335275520
+            - [Field.helpText](section_158166710285.md) — section_158166710285
+            - [Field.id](section_4335174387.md) — section_4335174387
+            - [Field.isMandatory](section_4335318155.md) — section_4335318155
+            - [Field.label](section_4335154548.md) — section_4335154548
+            - [Field.linkText](section_4335304242.md) — section_4335304242
+            - [Field.maxLength](section_4335324500.md) — section_4335324500
+            - [Field.padding](section_4335328468.md) — section_4335328468
+            - [Field.richTextHeight](section_4335331512.md) — section_4335331512
+            - [Field.richTextWidth](section_4335332981.md) — section_4335332981
+            - [Field.type](section_4335171133.md) — section_4335171133
+          - [serverWidget.FieldGroup](section_4325835878.md) — section_4325835878
+            - [FieldGroup.isBorderHidden](section_4335382771.md) — section_4335382771
+            - [FieldGroup.isCollapsible](section_4335348134.md) — section_4335348134
+            - [FieldGroup.isCollapsed](section_4335356208.md) — section_4335356208
+            - [FieldGroup.isSingleColumn](section_4335387515.md) — section_4335387515
+            - [FieldGroup.label](section_4335362250.md) — section_4335362250
+          - [serverWidget.Form](section_4325835149.md) — section_4325835149
+            - [Form.addButton(options)](section_4337761696.md) — section_4337761696
+            - [Form.addCredentialField(options)](section_4337770901.md) — section_4337770901
+            - [Form.addField(options)](section_4337905245.md) — section_4337905245
+            - [Form.addFieldGroup(options)](section_4337960739.md) — section_4337960739
+            - [Form.addPageInitMessage(options)](section_1530198114.md) — section_1530198114
+            - [Form.addPageLink(options)](section_4338794048.md) — section_4338794048
+            - [Form.addResetButton(options)](section_4338808398.md) — section_4338808398
+            - [Form.addSecretKeyField(options)](section_4550325064.md) — section_4550325064
+            - [Form.addSublist(options)](section_4339569512.md) — section_4339569512
+            - [Form.addSubmitButton(options)](section_4543597606.md) — section_4543597606
+            - [Form.addSubtab(options)](section_4338820096.md) — section_4338820096
+            - [Form.addTab(options)](section_4339625909.md) — section_4339625909
+            - [Form.getButton(options)](section_4339637102.md) — section_4339637102
+            - [Form.getField(options)](section_4339676625.md) — section_4339676625
+            - [Form.getSublist(options)](section_4339685468.md) — section_4339685468
+            - [Form.getSubtab(options)](section_4339693214.md) — section_4339693214
+            - [Form.getTab(options)](section_4550406903.md) — section_4550406903
+            - [Form.getTabs()](section_4339699645.md) — section_4339699645
+            - [Form.insertField(options)](section_4339707334.md) — section_4339707334
+            - [Form.insertSublist(options)](section_4340337306.md) — section_4340337306
+            - [Form.insertSubtab(options)](section_4340316428.md) — section_4340316428
+            - [Form.insertTab(options)](section_4340351224.md) — section_4340351224
+            - [Form.removeButton(options)](section_4340356412.md) — section_4340356412
+            - [Form.updateDefaultValues(options)](section_4340360899.md) — section_4340360899
+            - [Form.clientScriptFileId](section_4340375753.md) — section_4340375753
+            - [Form.clientScriptModulePath](section_4625445350.md) — section_4625445350
+            - [Form.title](section_4340389560.md) — section_4340389560
+          - [serverWidget.List](section_4325856174.md) — section_4325856174
+            - [List.addButton(options)](section_4340555101.md) — section_4340555101
+            - [List.addColumn(options)](section_4344848479.md) — section_4344848479
+            - [List.addEditColumn(options)](section_4344858957.md) — section_4344858957
+            - [List.addPageLink(options)](section_4346411913.md) — section_4346411913
+            - [List.addRow(options)](section_4346428830.md) — section_4346428830
+            - [List.addRows(options)](section_4346482649.md) — section_4346482649
+            - [List.clientScriptFileId](section_4346492713.md) — section_4346492713
+            - [List.clientScriptModulePath](section_4625450746.md) — section_4625450746
+            - [List.style](section_4537550409.md) — section_4537550409
+            - [List.title](section_4537553901.md) — section_4537553901
+          - [serverWidget.ListColumn](section_4325856768.md) — section_4325856768
+            - [ListColumn.addParamToURL(options)](section_4539150168.md) — section_4539150168
+            - [ListColumn.setURL(options)](section_4539229925.md) — section_4539229925
+            - [ListColumn.label](section_4539273209.md) — section_4539273209
+          - [serverWidget.Sublist](section_4325844858.md) — section_4325844858
+            - [Sublist.addButton(options)](section_453578124999.md) — section_453578124999
+            - [Sublist.addField(options)](section_456415649413.md) — section_456415649413
+            - [Sublist.addMarkAllButtons()](section_456862121581.md) — section_456862121581
+            - [Sublist.addRefreshButton()](section_458060852050.md) — section_458060852050
+            - [Sublist.getField(options)](section_4793350468.md) — section_4793350468
+            - [Sublist.getSublistValue(options)](section_452837158202.md) — section_452837158202
+            - [Sublist.insertField(options)](article_0311105505.md) — article_0311105505
+            - [Sublist.setSublistValue(options)](section_456052185058.md) — section_456052185058
+            - [Sublist.updateTotallingFieldId(options)](section_457052856444.md) — section_457052856444
+            - [Sublist.updateUniqueFieldId(options)](section_46467834472.md) — section_46467834472
+            - [Sublist.displayType](section_460338073729.md) — section_460338073729
+            - [Sublist.helpText](section_456982666015.md) — section_456982666015
+            - [Sublist.label](section_455521179198.md) — section_455521179198
+            - [Sublist.lineCount](section_452748962402.md) — section_452748962402
+          - [serverWidget.Tab](section_4325849420.md) — section_4325849420
+            - [Tab.helpText](section_46605773925.md) — section_46605773925
+            - [Tab.label](section_454571472167.md) — section_454571472167
+          - [serverWidget.createAssistant(options)](section_4325753291.md) — section_4325753291
+          - [serverWidget.createForm(options)](section_4329245048.md) — section_4329245048
+          - [serverWidget.createList(options)](section_4329247625.md) — section_4329247625
+          - [serverWidget.AssistantSubmitAction](section_4329254732.md) — section_4329254732
+          - [serverWidget.FieldBreakType](section_4332670010.md) — section_4332670010
+          - [serverWidget.FieldDisplayType](section_4332670964.md) — section_4332670964
+          - [serverWidget.FieldLayoutType](section_4332671038.md) — section_4332671038
+          - [serverWidget.FieldType](section_4332671056.md) — section_4332671056
+          - [serverWidget.FormPageLinkType](section_4332671075.md) — section_4332671075
+          - [serverWidget.LayoutJustification](section_4332671154.md) — section_4332671154
+          - [serverWidget.ListStyle](section_4332669117.md) — section_4332669117
+          - [serverWidget.SublistDisplayType](section_4332704261.md) — section_4332704261
+          - [serverWidget.SublistType](section_4332704307.md) — section_4332704307
+      - [N/url Module](section_4358552918.md) — section_4358552918
+        - [N/url Module Script Samples](section_0305033928.md) — section_0305033928
+          - [Retrieve the Relative URL of a Record](subsect_159976562256.md) — subsect_159976562256
+          - [Generate an Absolute URL to a Specific Resource](subsect_159976564837.md) — subsect_159976564837
+          - [Retrieve the Domain for Calling a RESTlet](subsect_159976567478.md) — subsect_159976567478
+          - [Create a URL and Send a Secure HTTPS Post Request to the URL](subsect_159976570921.md) — subsect_159976570921
+        - [url.format(options)](section_4358672703.md) — section_4358672703
+        - [url.resolveDomain(options)](section_4861456597.md) — section_4861456597
+        - [url.resolveRecord(options)](section_4358667680.md) — section_4358667680
+        - [url.resolveScript(options)](section_4358672433.md) — section_4358672433
+        - [url.resolveTaskLink(options)](section_4358672296.md) — section_4358672296
+        - [url.HostType](section_4834765371.md) — section_4834765371
+      - [N/util Module](section_4569538303.md) — section_4569538303
+        - [N/util Module Script Sample](section_0305034417.md) — section_0305034417
+        - [util.each(iterable, callback)](section_4541697371.md) — section_4541697371
+        - [util.extend(receiver, contributor)](section_4541702994.md) — section_4541702994
+        - [util.isArray(obj)](section_4434638201.md) — section_4434638201
+        - [util.isAsyncFunction(obj)](section_159485198809.md) — section_159485198809
+        - [util.isBoolean(obj)](section_4434638340.md) — section_4434638340
+        - [util.isDate(obj)](section_4434642842.md) — section_4434642842
+        - [util.isFunction(obj)](section_4434697652.md) — section_4434697652
+        - [util.isNumber(obj)](section_4434771374.md) — section_4434771374
+        - [util.isObject(obj)](section_4434780923.md) — section_4434780923
+        - [util.isRegExp(obj)](section_4434785140.md) — section_4434785140
+        - [util.isString(obj)](section_4434798099.md) — section_4434798099
+      - [N/workbook Module](article_159006350818.md) — article_159006350818
+        - [N/workbook Module Script Samples](section_0303053727.md) — section_0303053727
+          - [Create Datasets, Dataset Links, and a Workbook with a Pivot and Run the Workbook](subsect_159112696585.md) — subsect_159112696585
+          - [Create a Comprehensive Workbook](subsect_159121607368.md) — subsect_159121607368
+        - [workbook.Aspect](section_159007796216.md) — section_159007796216
+          - [Aspect.measure](section_159059538164.md) — section_159059538164
+          - [Aspect.type](section_159059739663.md) — section_159059739663
+        - [workbook.CalculatedMeasure](section_163169891173.md) — section_163169891173
+          - [CalculatedMeasure.expression](section_163169898230.md) — section_163169898230
+          - [CalculatedMeasure.label](section_163169960441.md) — section_163169960441
+        - [workbook.Category](section_159007978137.md) — section_159007978137
+          - [Category.axis](section_159059758666.md) — section_159059758666
+          - [Category.root](section_159059796021.md) — section_159059796021
+          - [Category.sortDefinitions](section_159059848154.md) — section_159059848154
+        - [workbook.Chart](section_159007989923.md) — section_159007989923
+          - [Chart.aggregationFilters](section_159059873137.md) — section_159059873137
+          - [Chart.category](section_159059899895.md) — section_159059899895
+          - [Chart.dataset](section_159059924823.md) — section_159059924823
+          - [Chart.filterExpressions](section_159059984270.md) — section_159059984270
+          - [Chart.id](section_159060000181.md) — section_159060000181
+          - [Chart.legend](section_159060006422.md) — section_159060006422
+          - [Chart.name](section_159060029636.md) — section_159060029636
+          - [Chart.series](section_159060034662.md) — section_159060034662
+          - [Chart.stacking](section_159060042645.md) — section_159060042645
+          - [Chart.subTitle](section_159060065018.md) — section_159060065018
+          - [Chart.title](section_159060082797.md) — section_159060082797
+          - [Chart.type](section_159060087628.md) — section_159060087628
+        - [workbook.ChartAxis](section_159008145231.md) — section_159008145231
+          - [ChartAxis.title](section_159060132954.md) — section_159060132954
+        - [workbook.ChildNodesSelector](section_163405579141.md) — section_163405579141
+        - [workbook.Color](section_163169970614.md) — section_163169970614
+          - [Color.alpha](section_163169975898.md) — section_163169975898
+          - [Color.blue](section_163169989032.md) — section_163169989032
+          - [Color.green](section_163170010381.md) — section_163170010381
+          - [Color.red](section_163170014465.md) — section_163170014465
+        - [workbook.ConditionalFilter](section_159008152586.md) — section_159008152586
+          - [ConditionalFilter.columnSelector](section_0523101300.md) — section_0523101300
+          - [ConditionalFilter.filteredNodesSelector](section_159060177021.md) — section_159060177021
+          - [ConditionalFilter.measure](section_159060203583.md) — section_159060203583
+          - [ConditionalFilter.otherAxisSelector](section_159060210397.md) — section_159060210397
+          - [ConditionalFilter.predicate](section_159060217839.md) — section_159060217839
+          - [ConditionalFilter.row](section_159060224291.md) — section_159060224291
+          - [ConditionalFilter.rowSelector](section_0523104241.md) — section_0523104241
+        - [workbook.ConditionalFormat](section_163170026948.md) — section_163170026948
+          - [ConditionalFormat.rules](section_163170032294.md) — section_163170032294
+        - [workbook.ConditionalFormatRule](section_163170087636.md) — section_163170087636
+          - [ConditionalFormatRule.filter](section_163170091952.md) — section_163170091952
+          - [ConditionalFormatRule.style](section_163170105669.md) — section_163170105669
+        - [workbook.Currency](section_163170117705.md) — section_163170117705
+          - [Currency.amount](section_163170128090.md) — section_163170128090
+          - [Currency.id](section_163170140869.md) — section_163170140869
+        - [workbook.DataDimension](section_159008172142.md) — section_159008172142
+          - [DataDimension.children](section_159060235099.md) — section_159060235099
+          - [DataDimension.items](section_159060252354.md) — section_159060252354
+          - [DataDimension.totalLine](section_159060259875.md) — section_159060259875
+        - [workbook.DataDimensionItem](section_159008187726.md) — section_159008187726
+          - [DataDimensionItem.expression](section_159060269666.md) — section_159060269666
+          - [DataDimensionItem.label](section_159060286113.md) — section_159060286113
+        - [workbook.DataDimensionItemValue](section_163170154453.md) — section_163170154453
+          - [DataDimensionItemValue.item](section_163170159800.md) — section_163170159800
+          - [DataDimensionItemValue.value](section_163170190266.md) — section_163170190266
+        - [workbook.DataDimensionValue](section_163170210491.md) — section_163170210491
+          - [DataDimensionValue.dataDimension](section_163170216198.md) — section_163170216198
+          - [DataDimensionValue.itemValues](section_163170231216.md) — section_163170231216
+        - [workbook.DataMeasure](section_163170291911.md) — section_163170291911
+          - [DataMeasure.aggregation](section_163170295910.md) — section_163170295910
+          - [DataMeasure.expression](section_163170308563.md) — section_163170308563
+          - [DataMeasure.expressions](section_163170327822.md) — section_163170327822
+          - [DataMeasure.label](section_163170341320.md) — section_163170341320
+        - [workbook.DescendantorSelfNodesSelector](section_163170591936.md) — section_163170591936
+        - [workbook.DimensionSelector](section_159008193274.md) — section_159008193274
+          - [DimensionSelector.dimension](section_159060292188.md) — section_159060292188
+        - [workbook.Duration](section_163170370552.md) — section_163170370552
+          - [Duration.amount](section_163170373072.md) — section_163170373072
+          - [Duration.units](section_163170386544.md) — section_163170386544
+        - [workbook.Expression](section_159008229845.md) — section_159008229845
+          - [Expression.functionId](section_159060345596.md) — section_159060345596
+          - [Expression.parameters](section_159060354863.md) — section_159060354863
+        - [workbook.FieldContext](section_159008243498.md) — section_159008243498
+          - [FieldContext.name](section_159060362975.md) — section_159060362975
+          - [FieldContext.parameters](section_159060373825.md) — section_159060373825
+        - [workbook.FontSize](section_163170399484.md) — section_163170399484
+          - [FontSize.size](section_163170404227.md) — section_163170404227
+          - [FontSize.unit](section_163170412748.md) — section_163170412748
+        - [workbook.Legend](section_159008316064.md) — section_159008316064
+          - [Legend.axes](section_159060380390.md) — section_159060380390
+          - [Legend.root](section_159060401557.md) — section_159060401557
+          - [Legend.sortDefinitions](section_159060413021.md) — section_159060413021
+        - [workbook.LimitingFilter](section_159008328944.md) — section_159008328944
+          - [LimitingFilter.filteredNodesSelector](section_159060536488.md) — section_159060536488
+          - [LimitingFilter.limit](section_159060556079.md) — section_159060556079
+          - [LimitingFilter.row](section_159060560980.md) — section_159060560980
+          - [LimitingFilter.sortBys](section_159060565600.md) — section_159060565600
+        - [workbook.MeasureSelector](section_163170447750.md) — section_163170447750
+          - [MeasureSelector.measures](section_163170452022.md) — section_163170452022
+        - [workbook.MeasureValue](section_163170481168.md) — section_163170481168
+          - [MeasureValue.measure](section_163170490332.md) — section_163170490332
+          - [MeasureValue.value](section_163170503741.md) — section_163170503741
+        - [workbook.MeasureValueSelector](section_163170568904.md) — section_163170568904
+          - [MeasureValueSelector.columnSelector](section_163170571717.md) — section_163170571717
+          - [MeasureValueSelector.measureSelector](section_163170622118.md) — section_163170622118
+          - [MeasureValueSelector.rowSelector](section_163170640587.md) — section_163170640587
+        - [workbook.PathSelector](section_159008382970.md) — section_159008382970
+          - [PathSelector.elements](section_159066646127.md) — section_159066646127
+        - [workbook.Pivot](section_159008434619.md) — section_159008434619
+          - [Pivot.aggregationFilters](section_159066662957.md) — section_159066662957
+          - [Pivot.columnAxis](section_159066680385.md) — section_159066680385
+          - [Pivot.dataset](section_159066924782.md) — section_159066924782
+          - [Pivot.datasetLink](section_0512014254.md) — section_0512014254
+          - [Pivot.filterExpressions](section_159066933834.md) — section_159066933834
+          - [Pivot.id](section_159066947985.md) — section_159066947985
+          - [Pivot.name](section_159066953484.md) — section_159066953484
+          - [Pivot.portletName](section_0512014329.md) — section_0512014329
+          - [Pivot.reportStyles](section_0512014407.md) — section_0512014407
+          - [Pivot.rowAxis](section_159066959476.md) — section_159066959476
+        - [workbook.PivotAxis](section_159008441105.md) — section_159008441105
+          - [PivotAxis.root](section_159067285341.md) — section_159067285341
+          - [PivotAxis.sortDefinitions](section_159067303569.md) — section_159067303569
+        - [workbook.PivotIntersection](section_163170659013.md) — section_163170659013
+          - [PivotIntersection.column](section_163170669420.md) — section_163170669420
+          - [PivotIntersection.measureValues](section_163170686190.md) — section_163170686190
+          - [PivotIntersection.row](section_163170696918.md) — section_163170696918
+        - [workbook.PositionPercent](section_163170729070.md) — section_163170729070
+          - [PositionPercent.percentX](section_163170734357.md) — section_163170734357
+          - [PositionPercent.percentY](section_163170743120.md) — section_163170743120
+        - [workbook.PositionUnits](section_163170762618.md) — section_163170762618
+          - [PositionUnits.unit](section_163170775370.md) — section_163170775370
+          - [PositionUnits.x](section_163170786133.md) — section_163170786133
+          - [PositionUnits.y](section_163170792708.md) — section_163170792708
+        - [workbook.PositionValues](section_163170827938.md) — section_163170827938
+          - [PositionValues.horizontal](section_163170835215.md) — section_163170835215
+          - [PositionValues.vertical](section_163170846977.md) — section_163170846977
+        - [workbook.Range](section_163170872703.md) — section_163170872703
+          - [Range.end](section_163170883402.md) — section_163170883402
+          - [Range.start](section_163170896250.md) — section_163170896250
+        - [workbook.Record](section_163170917603.md) — section_163170917603
+          - [Record.name](section_163170925187.md) — section_163170925187
+          - [Record.primaryKey](section_163170936521.md) — section_163170936521
+          - [Record.properties](section_163170947320.md) — section_163170947320
+        - [workbook.RecordKey](section_163170962082.md) — section_163170962082
+          - [RecordKey.properties](section_163170982525.md) — section_163170982525
+        - [workbook.ReportStyle](section_163171063813.md) — section_163171063813
+          - [ReportStyle.rules](section_163171069587.md) — section_163171069587
+          - [ReportStyle.selectors](section_163171082395.md) — section_163171082395
+        - [workbook.ReportStyleRule](section_163171130796.md) — section_163171130796
+          - [ReportStyleRule.expression](section_163171133355.md) — section_163171133355
+          - [ReportStyleRule.style](section_163171147220.md) — section_163171147220
+        - [workbook.Section](section_159008446199.md) — section_159008446199
+          - [Section.children](section_159067318372.md) — section_159067318372
+          - [Section.totalLine](section_159067344059.md) — section_159067344059
+        - [workbook.SectionValue](section_163173206668.md) — section_163173206668
+          - [SectionValue.section](section_163173214786.md) — section_163173214786
+        - [workbook.Series](section_159008573032.md) — section_159008573032
+          - [Series.aspects](section_159067471979.md) — section_159067471979
+        - [workbook.Sort](section_159008577679.md) — section_159008577679
+          - [Sort.ascending](section_159067491318.md) — section_159067491318
+          - [Sort.caseSensitive](section_159067503088.md) — section_159067503088
+          - [Sort.locale](section_159067507629.md) — section_159067507629
+          - [Sort.nullsLast](section_159067526653.md) — section_159067526653
+          - [Sort.order](section_0508025608.md) — section_0508025608
+        - [workbook.SortByDataDimensionItem](section_163173379734.md) — section_163173379734
+          - [SortByDataDimensionItem.item](section_163173384318.md) — section_163173384318
+          - [SortByDataDimensionItem.sort](section_163173396547.md) — section_163173396547
+        - [workbook.SortByMeasure](section_163173416538.md) — section_163173416538
+          - [SortByMeasure.measure](section_163173423593.md) — section_163173423593
+          - [SortByMeasure.otherAxisSelector](section_163173440923.md) — section_163173440923
+          - [SortByMeasure.sort](section_163173466143.md) — section_163173466143
+        - [workbook.SortDefinition](section_159008585696.md) — section_159008585696
+          - [SortDefinition.selector](section_159067587477.md) — section_159067587477
+          - [SortDefinition.sortBys](section_159068101948.md) — section_159068101948
+        - [workbook.Style](section_163173520481.md) — section_163173520481
+          - [Style.backgroundColor](section_163173529458.md) — section_163173529458
+          - [Style.backgroundImage](section_163173554190.md) — section_163173554190
+          - [Style.backgroundPosition](section_163173571314.md) — section_163173571314
+          - [Style.color](section_163173590854.md) — section_163173590854
+          - [Style.fontSize](section_163182431041.md) — section_163182431041
+          - [Style.fontStyle](section_163182456446.md) — section_163182456446
+          - [Style.fontWeight](section_163182473243.md) — section_163182473243
+          - [Style.textAlign](section_163182483502.md) — section_163182483502
+          - [Style.textDecorationColor](section_163182497527.md) — section_163182497527
+          - [Style.textDecorationLine](section_163182512011.md) — section_163182512011
+          - [Style.textDecorationStyle](section_163182537948.md) — section_163182537948
+        - [workbook.Table](section_163344915869.md) — section_163344915869
+          - [Table.columns](section_163344918534.md) — section_163344918534
+          - [Table.dataset](section_163344998659.md) — section_163344998659
+          - [Table.id](section_163345007588.md) — section_163345007588
+          - [Table.name](section_163345013333.md) — section_163345013333
+        - [workbook.TableColumn](section_159008606673.md) — section_159008606673
+          - [TableColumn.alias](section_159068483389.md) — section_159068483389
+          - [TableColumn.datasetColumnAlias](section_159068500320.md) — section_159068500320
+          - [TableColumn.fieldContext](section_159068527319.md) — section_159068527319
+          - [TableColumn.filters](section_159068543531.md) — section_159068543531
+          - [TableColumn.label](section_159068554513.md) — section_159068554513
+          - [TableColumn.sort](section_159068560761.md) — section_159068560761
+          - [TableColumn.width](section_159068573820.md) — section_159068573820
+        - [workbook.TableColumnCondition](section_0519040723.md) — section_0519040723
+          - [TableColumnCondition.filters](section_0519041030.md) — section_0519041030
+          - [TableColumnCondition.operator](section_0519041056.md) — section_0519041056
+        - [workbook.TableColumnFilter](section_163182554335.md) — section_163182554335
+          - [TableColumnFilter.operator](section_163182557155.md) — section_163182557155
+          - [TableColumnFilter.values](section_163182580894.md) — section_163182580894
+        - [workbook.Workbook](section_159008620913.md) — section_159008620913
+          - [Workbook.runPivot(options)](section_159068644727.md) — section_159068644727
+          - [Workbook.charts](section_159068704065.md) — section_159068704065
+          - [Workbook.description](section_159068729450.md) — section_159068729450
+          - [Workbook.id](section_159068735130.md) — section_159068735130
+          - [Workbook.name](section_159068757322.md) — section_159068757322
+          - [Workbook.pivots](section_159068761191.md) — section_159068761191
+          - [Workbook.tables](section_159068768425.md) — section_159068768425
+        - [workbook.create(options)](section_159008744522.md) — section_159008744522
+        - [workbook.createAspect(options)](section_159008835819.md) — section_159008835819
+        - [workbook.createCalculatedMeasure(options)](section_162861792485.md) — section_162861792485
+        - [workbook.createCategory(options)](section_159008867464.md) — section_159008867464
+        - [workbook.createChart(options)](section_159008909052.md) — section_159008909052
+        - [workbook.createChartAxis(options)](section_159050950689.md) — section_159050950689
+        - [workbook.createColor(options)](section_162861840772.md) — section_162861840772
+        - [workbook.createComplexRecordKey](section_0519030417.md) — section_0519030417
+        - [workbook.createConditionalFilter(options)](section_159050988221.md) — section_159050988221
+        - [workbook.createConditionalFormat(options)](section_162861895977.md) — section_162861895977
+        - [workbook.createConditionalFormatRule(options)](section_162861919456.md) — section_162861919456
+        - [workbook.createConstant(options)](section_159051033752.md) — section_159051033752
+        - [workbook.createCurrency(options)](section_0508032752.md) — section_0508032752
+        - [workbook.createDataDimension(options)](section_159051058770.md) — section_159051058770
+        - [workbook.createDataDimensionItem(options)](section_159051228123.md) — section_159051228123
+        - [workbook.createDataMeasure(options)](section_162861945807.md) — section_162861945807
+        - [workbook.createDimensionSelector(options)](section_159051255354.md) — section_159051255354
+        - [workbook.createDuration(options)](section_0508035928.md) — section_0508035928
+        - [workbook.createExpression(options)](section_159051315304.md) — section_159051315304
+        - [workbook.createFieldContext(options)](section_159051362448.md) — section_159051362448
+        - [workbook.createFontSize(options)](section_162862018622.md) — section_162862018622
+        - [workbook.createLegend(options)](section_159051403498.md) — section_159051403498
+        - [workbook.createLimitingFilter(options)](section_159051462385.md) — section_159051462385
+        - [workbook.createMeasureSelector(options)](section_162862131381.md) — section_162862131381
+        - [workbook.createMeasureValueSelector(options)](section_162862156486.md) — section_162862156486
+        - [workbook.createPathSelector(options)](section_159051588951.md) — section_159051588951
+        - [workbook.createPivot(options)](section_159051610759.md) — section_159051610759
+        - [workbook.createPivotAxis(options)](section_159051729422.md) — section_159051729422
+        - [workbook.createPositionPercent(options)](section_162862263729.md) — section_162862263729
+        - [workbook.createPositionUnits(options)](section_162862280295.md) — section_162862280295
+        - [workbook.createPositionValues(options)](section_162862321945.md) — section_162862321945
+        - [workbook.createRange(options)](section_0519011317.md) — section_0519011317
+        - [workbook.createReportStyle(options)](section_162886027908.md) — section_162886027908
+        - [workbook.createReportStyleRule(options)](section_162886077520.md) — section_162886077520
+        - [workbook.createSection(options)](section_159051755688.md) — section_159051755688
+        - [workbook.createSeries(options)](section_159051782681.md) — section_159051782681
+        - [workbook.createSimpleRecordKey](section_0519031203.md) — section_0519031203
+        - [workbook.createSort(options)](section_159051806613.md) — section_159051806613
+        - [workbook.createSortByDataDimensionItem(options)](section_162886098564.md) — section_162886098564
+        - [workbook.createSortByMeasure(options)](section_162886129949.md) — section_162886129949
+        - [workbook.createSortDefinition(options)](section_159051836190.md) — section_159051836190
+        - [workbook.createStyle(options)](section_162886251569.md) — section_162886251569
+        - [workbook.createTable(options)](section_163344854839.md) — section_163344854839
+        - [workbook.createTableColumn(options)](section_159051899414.md) — section_159051899414
+        - [workbook.createTableColumnCondition(options)](section_0519035345.md) — section_0519035345
+        - [workbook.createTableColumnFilter(options)](section_159051973321.md) — section_159051973321
+        - [workbook.createTranslation(options)](section_0519032016.md) — section_0519032016
+        - [workbook.list()](section_159052002745.md) — section_159052002745
+        - [workbook.listPaged(options)](section_162887136327.md) — section_162887136327
+        - [workbook.loadWorkbook(options)](section_159052020752.md) — section_159052020752
+        - [workbook.Aggregation](section_159058742898.md) — section_159058742898
+        - [workbook.AspectType](section_159059139226.md) — section_159059139226
+        - [workbook.ChartType](section_159059165881.md) — section_159059165881
+        - [workbook.Color](section_162887285281.md) — section_162887285281
+        - [workbook.ConstantType](section_159059175435.md) — section_159059175435
+        - [workbook.DateTimeHierarchy](section_159059205972.md) — section_159059205972
+        - [workbook.DateTimeProperty](section_159059226295.md) — section_159059226295
+        - [workbook.ExpressionType](section_159059241921.md) — section_159059241921
+        - [workbook.FontSize](section_162887352651.md) — section_162887352651
+        - [workbook.FontStyle](section_162887378565.md) — section_162887378565
+        - [workbook.FontWeight](section_163104222816.md) — section_163104222816
+        - [workbook.Image](section_163104240054.md) — section_163104240054
+        - [workbook.Position](section_163104283914.md) — section_163104283914
+        - [workbook.Stacking](section_159059283191.md) — section_159059283191
+        - [workbook.TemporalUnit](section_163104301627.md) — section_163104301627
+        - [workbook.TextAlign](section_163104334844.md) — section_163104334844
+        - [workbook.TextDecorationLine](section_163104347221.md) — section_163104347221
+        - [workbook.TextDecorationStyle](section_163104360654.md) — section_163104360654
+        - [workbook.TotalLine](section_159059291106.md) — section_159059291106
+        - [workbook.Unit](section_163104381588.md) — section_163104381588
+      - [N/workflow Module](section_4341725558.md) — section_4341725558
+        - [N/workflow Module Script Sample](section_0305035055.md) — section_0305035055
+        - [workflow.initiate(options)](section_4344303916.md) — section_4344303916
+        - [workflow.trigger(options)](section_4344892270.md) — section_4344892270
+      - [N/xml Module](section_4344917661.md) — section_4344917661
+        - [N/xml Module Script Samples](section_0305035854.md) — section_0305035854
+          - [Load an XML File and Obtain Child Element Values](subsect_156865922624.md) — subsect_156865922624
+          - [Parse an XML File and Append New Elements](subsect_156865978052.md) — subsect_156865978052
+          - [Parse an XML String and Log Element Values](subsect_156865959475.md) — subsect_156865959475
+        - [xml.Attr](section_4345169036.md) — section_4345169036
+          - [Attr.name](section_46766296386.md) — section_46766296386
+          - [Attr.ownerElement](section_46546264648.md) — section_46546264648
+          - [Attr.specified](section_460958801268.md) — section_460958801268
+          - [Attr.value](section_46829772949.md) — section_46829772949
+        - [xml.Document](section_4392323653.md) — section_4392323653
+          - [Document.adoptNode(options)](section_453612609863.md) — section_453612609863
+          - [Document.createAttribute(options)](section_456575866698.md) — section_456575866698
+          - [Document.createAttributeNS(options)](section_452244812011.md) — section_452244812011
+          - [Document.createCDATASection(options)](section_46463562011.md) — section_46463562011
+          - [Document.createComment(options)](section_460454650877.md) — section_460454650877
+          - [Document.createDocumentFragment()](section_457661987304.md) — section_457661987304
+          - [Document.createElement(options)](section_452954040527.md) — section_452954040527
+          - [Document.createElementNS(options)](section_458257690428.md) — section_458257690428
+          - [Document.createProcessingInstruction(options)](section_453675170898.md) — section_453675170898
+          - [Document.createTextNode(options)](section_458155761718.md) — section_458155761718
+          - [Document.getElementById(options)](section_458778015135.md) — section_458778015135
+          - [Document.getElementsByTagName(options)](section_457710510253.md) — section_457710510253
+          - [Document.getElementsByTagNameNS(options)](section_460907836913.md) — section_460907836913
+          - [Document.importNode(options)](section_457609802245.md) — section_457609802245
+          - [Document.doctype](section_454703308105.md) — section_454703308105
+          - [Document.documentElement](section_452410827636.md) — section_452410827636
+          - [Document.documentURI](section_455008483886.md) — section_455008483886
+          - [Document.inputEncoding](section_452187744140.md) — section_452187744140
+          - [Document.xmlEncoding](section_453554931640.md) — section_453554931640
+          - [Document.xmlStandalone](section_459471374510.md) — section_459471374510
+          - [Document.xmlVersion](section_460908752440.md) — section_460908752440
+        - [xml.Element](section_4345167426.md) — section_4345167426
+          - [Element.getAttribute(options)](section_457730651854.md) — section_457730651854
+          - [Element.getAttributeNode(options)](section_4588427395.md) — section_4588427395
+          - [Element.getAttributeNodeNS(options)](section_452000061035.md) — section_452000061035
+          - [Element.getAttributeNS(options)](section_453436523437.md) — section_453436523437
+          - [Element.getElementsByTagName(options)](section_452163024902.md) — section_452163024902
+          - [Element.getElementsByTagNameNS(options)](section_454667602538.md) — section_454667602538
+          - [Element.hasAttribute(options)](section_453276306152.md) — section_453276306152
+          - [Element.hasAttributeNS(options)](section_458537536620.md) — section_458537536620
+          - [Element.removeAttribute(options)](section_457329345702.md) — section_457329345702
+          - [Element.removeAttributeNode(options)](section_454500366210.md) — section_454500366210
+          - [Element.removeAttributeNS(options)](section_460859619139.md) — section_460859619139
+          - [Element.setAttribute(options)](section_455326171874.md) — section_455326171874
+          - [Element.setAttributeNode(options)](section_454052368163.md) — section_454052368163
+          - [Element.setAttributeNodeNS(options)](section_454328857421.md) — section_454328857421
+          - [Element.setAttributeNS(options)](section_456093383788.md) — section_456093383788
+          - [Element.tagName](section_458841796874.md) — section_458841796874
+        - [xml.Node](section_4346057759.md) — section_4346057759
+          - [Node.appendChild(options)](section_459708190917.md) — section_459708190917
+          - [Node.cloneNode(options)](section_46211181640.md) — section_46211181640
+          - [Node.compareDocumentPosition(options)](section_460349365233.md) — section_460349365233
+          - [Node.hasAttributes()](section_460054565428.md) — section_460054565428
+          - [Node.hasChildNodes()](section_453459411620.md) — section_453459411620
+          - [Node.insertBefore(options)](section_452156005859.md) — section_452156005859
+          - [Node.isDefaultNamespace(options)](section_46175476074.md) — section_46175476074
+          - [Node.isEqualNode(options)](section_453230529784.md) — section_453230529784
+          - [Node.isSameNode(options)](section_454356628417.md) — section_454356628417
+          - [Node.lookupNamespaceURI(options)](section_46200805664.md) — section_46200805664
+          - [Node.lookupPrefix(options)](section_456616149901.md) — section_456616149901
+          - [Node.normalize()](section_457614685057.md) — section_457614685057
+          - [Node.removeChild(options)](section_454751220702.md) — section_454751220702
+          - [Node.replaceChild(options)](section_456990295409.md) — section_456990295409
+          - [Node.attributes](section_46127868652.md) — section_46127868652
+          - [Node.baseURI](section_459509521483.md) — section_459509521483
+          - [Node.childNodes](section_459823547362.md) — section_459823547362
+          - [Node.firstChild](section_460666442870.md) — section_460666442870
+          - [Node.lastChild](section_457311035155.md) — section_457311035155
+          - [Node.localName](section_460875793456.md) — section_460875793456
+          - [Node.namespaceURI](section_456845336913.md) — section_456845336913
+          - [Node.nextSibling](section_455924011229.md) — section_455924011229
+          - [Node.nodeName](section_458950439452.md) — section_458950439452
+          - [Node.nodeType](section_456552673339.md) — section_456552673339
+          - [Node.nodeValue](section_454531188964.md) — section_454531188964
+          - [Node.ownerDocument](section_458963562010.md) — section_458963562010
+          - [Node.parentNode](section_46910644531.md) — section_46910644531
+          - [Node.prefix](section_460653930663.md) — section_460653930663
+          - [Node.previousSibling](section_46856323242.md) — section_46856323242
+          - [Node.textContent](section_458147827147.md) — section_458147827147
+        - [xml.Parser](section_4344922681.md) — section_4344922681
+          - [Parser.fromString(options)](section_4344924195.md) — section_4344924195
+          - [Parser.toString(options)](section_4344924636.md) — section_4344924636
+        - [xml.XPath](section_4344925104.md) — section_4344925104
+          - [XPath.select(options)](section_4344925105.md) — section_4344925105
+        - [xml.escape(options)](section_4392331185.md) — section_4392331185
+        - [xml.validate(options)](section_4345173468.md) — section_4345173468
+        - [xml.NodeType](section_4345174049.md) — section_4345174049
+  - [SuiteScript 2.x Code Samples Catalog](article_6173706700.md) — article_6173706700
+    - [SuiteScript Samples Catalog Complete Listing](article_4163241476.md) — article_4163241476
+    - [SuiteScript 2.1 Samples](chapter_69170511559.md) — chapter_69170511559
+      - [Add a Custom Button to Execute a Suitelet](article_0110065959.md) — article_0110065959
+      - [Calculate Commission on a Sales Order](article_0110070002.md) — article_0110070002
+      - [Call a Suitelet from a Client Script](article_7145834575.md) — article_7145834575
+      - [Clean Up Content for Text Area Fields After Saving a Record](article_1028073651.md) — article_1028073651
+      - [Copy a Value to the Item Column](article_0110070004.md) — article_0110070004
+      - [Create a Confirmation Dialog](article_0110070007.md) — article_0110070007
+      - [Create a Custom Form with a Submit Button, Fields, and an Inline Editor Sublist](article_0110070616.md) — article_0110070616
+      - [Create a Dialog that Includes a Default Button](article_0110070009.md) — article_0110070009
+      - [Create a Dialog with Buttons](article_0110070040.md) — article_0110070040
+      - [Create a File, Set Property Values, and Save It to the File Cabinet](article_0110070044.md) — article_0110070044
+      - [Create a Form with a Credential Field](article_0110070046.md) — article_0110070046
+      - [Create a Prompt and Evaluate It](article_0211121651.md) — article_0211121651
+      - [Create a Query for Customer Records and Run It as a Non-Paged Query](article_0110070049.md) — article_0110070049
+      - [Create a Query for Transaction Records and Run It as a Paged Query](article_0110070315.md) — article_0110070315
+      - [Create a Secure Key Using SHA512](article_0110070313.md) — article_0110070313
+      - [Create an Alert Dialog](article_0110070311.md) — article_0110070311
+      - [Create and Save a Contact Record](article_0110070307.md) — article_0110070307
+      - [Create and Save a Contact Record Asynchronously Using Promise Methods](article_0110070305.md) — article_0110070305
+      - [Create and Save a File to the File Cabinet](article_0110070302.md) — article_0110070302
+      - [Create and Submit a Map/Reduce Script Task](article_0110070608.md) — article_0110070608
+      - [Create and Submit an Asynchronous Search Task and Export the Results into a CSV File](article_0110070310.md) — article_0110070310
+      - [Create Confirmation, Information, and Error Messages](article_0110070258.md) — article_0110070258
+      - [Create Signer and Verifier Objects](article_0110070523.md) — article_0110070523
+      - [Evaluate an Existing Prompt and Receive a Response](article_0204103124.md) — article_0204103124
+      - [Extract Content from a Document Asynchronously](article_1021122952.md) — article_1021122952
+      - [Extract Feature Content from a Document Synchronously](article_1021123146.md) — article_1021123146
+      - [Extract Text from a PDF File](article_1021123226.md) — article_1021123226
+      - [Find Similar Items Using Embeddings](article_0731013729.md) — article_0731013729
+      - [Generate a Secure Token and a Secret Key](article_0110070526.md) — article_0110070526
+      - [Hide Body Fields and Sublist Columns](article_0527121631.md) — article_0527121631
+      - [Load an XML File from the File Cabinet and Sign It using a Digital Certificate](article_0110070535.md) — article_0110070535
+      - [Manage Files and Directories](article_0110070539.md) — article_0110070539
+      - [Provide an LLM-based ChatBot for NetSuite Users](article_1028073928.md) — article_1028073928
+      - [Provide Source Documents When Calling the LLM](article_0317020938.md) — article_0317020938
+      - [Receive a Partial Response from the LLM](article_0731013839.md) — article_0731013839
+      - [Request a URL using http.get](article_0110070542.md) — article_0110070542
+      - [Retrieve Employee Information Using a Suitelet and a RESTlet Script with a Defined Content-Type Header](section_1217125322.md) — section_1217125322
+      - [Retrieve Name of a City Based on a ZIP Code Using Cache and a Custom Loader Function](article_0110070545.md) — article_0110070545
+      - [Send a Prompt to the LLM and Receive a Response](article_1028074051.md) — article_1028074051
+      - [Send a Secure Post Request to a Remote URL](article_0110070550.md) — article_0110070550
+      - [Send an Email with an Attachment](article_0110070601.md) — article_0110070601
+      - [Set a Default Posting Period in a Custom Field](article_0110070604.md) — article_0110070604
+      - [Set the Purchase Order Exchange Rate](article_0110070606.md) — article_0110070606
+      - [Track Deposits and Refunds](article_0110070610.md) — article_0110070610
+      - [Translate a Document](article_0617092617.md) — article_0617092617
+      - [Update Fields on Current Record using a Custom Module Script and a User Event Script](article_0110070612.md) — article_0110070612
+      - [Upload and Download a File](article_0110070614.md) — article_0110070614
+      - [Use a Custom Module Client Script](article_0110065950.md) — article_0110065950
+      - [Use Tools to Enhance the Response from the LLM](article_0330015739.md) — article_0330015739
+    - [SuiteScript Samples by Script Type](chapter_14143320003.md) — chapter_14143320003
+      - [Bundle Installation Script Samples](article_0162115669.md) — article_0162115669
+      - [Client Script Samples](article_5162147873.md) — article_5162147873
+        - [Create a Custom Function to Call a Suitelet](article_0417024938.md) — article_0417024938
+        - [Copy a Value to the Item Column](article_0110041553.md) — article_0110041553
+        - [Find Actions Available for the Timebill Record Asynchronously Using Promise Methods](article_0110041529.md) — article_0110041529
+        - [Set a Default Posting Period in a Custom Field](article_0110041556.md) — article_0110041556
+        - [Set the Purchase Order Exchange Rate](article_0110041600.md) — article_0110041600
+      - [Map/Reduce Script Samples](article_5162228926.md) — article_5162228926
+        - [Create and Submit a Task with Dependent Scripts](article_0110042211.md) — article_0110042211
+        - [Create Multiple Sales Records Using a Map Reduce Script](article_0527105747.md) — article_0527105747
+      - [Mass Update Script Samples](article_4162242636.md) — article_4162242636
+      - [Portlet Script Samples](article_8162317835.md) — article_8162317835
+        - [Inline HTML Portlet Script](article_0912024301.md) — article_0912024301
+        - [Links and Indents Portlet Script](article_0912024315.md) — article_0912024315
+        - [Simple Form Portlet Script](article_0912023523.md) — article_0912023523
+        - [Simple List Portlet Script](article_0912024326.md) — article_0912024326
+      - [RESTlet Script Samples](article_0162349595.md) — article_0162349595
+      - [Scheduled Script Samples](article_1162421739.md) — article_1162421739
+        - [Sample Scheduled Script](article_0415014510.md) — article_0415014510
+        - [Create and Submit a Task with Dependent Scripts](article_0110042535.md) — article_0110042535
+        - [Create Multiple Sales Records Using a Scheduled Script](article_0110042539.md) — article_0110042539
+      - [SDF Installation Script Samples](article_1162439745.md) — article_1162439745
+      - [Suitelet Script Samples](article_165150440629.md) — article_165150440629
+        - [Add a Dynamic Link to a List in a Suitelet](article_165210790890.md) — article_165210790890
+        - [Add a Field that Displays Running Total to a Sublist](article_165210715778.md) — article_165210715778
+        - [Add a Secret Key Field to a Form](article_165210714077.md) — article_165210714077
+        - [Add a Suitelet to a Tab](article_165210457044.md) — article_165210457044
+        - [Call a RESTlet and Display Results](section_1217104336.md) — section_1217104336
+        - [Create a Custom Assistant Script](article_165210809817.md) — article_165210809817
+        - [Create a Custom Form with a Submit Button, Fields, and an Inline Editor Sublist](article_165210519501.md) — article_165210519501
+        - [Create a Custom Survey Form](article_165210654666.md) — article_165210654666
+        - [Create a Custom List](article_165210720191.md) — article_165210720191
+        - [Create a Form with a Credential Field](article_165210704561.md) — article_165210704561
+        - [Create a Form Containing Several Field Types, Reset and Submit Buttons, Tabs, and a Sublist](article_0516043220.md) — article_0516043220
+        - [Create a Suitelet to Request User Credentials, Create a Secret Key, and Encode a Sample String](article_165210687504.md) — article_165210687504
+        - [Find Plug-in Implementations](article_165210906088.md) — article_165210906088
+        - [Find Similar Items Using Embeddings](article_0731015309.md) — article_0731015309
+        - [Load an XML File and Obtain Child Element Values](article_0516050715.md) — article_0516050715
+        - [Parse a String to a Date Object](article_165210718445.md) — article_165210718445
+        - [Parse an XML String and Log Element Values](article_0516051159.md) — article_0516051159
+        - [Provide an LLM-based ChatBot for NetSuite Users](article_1028080131.md) — article_1028080131
+        - [Redirect a New Sales Order and Set the Entity Field](article_0516052255.md) — article_0516052255
+        - [Render a PDF](article_0516052407.md) — article_0516052407
+        - [Render Search Results Into a PDF](article_0516052534.md) — article_0516052534
+        - [Retrieve Name of a City Based on a ZIP Code Using Cache and a Custom Loader Function](article_0516052701.md) — article_0516052701
+        - [Return a File with Alternative Character Encoding](article_0907091142.md) — article_0907091142
+        - [Return a Simple XML Document](article_165210421174.md) — article_165210421174
+        - [Return User and Session Information](article_0516052834.md) — article_0516052834
+        - [Use Tools to Enhance the Response from the LLM](article_0330021030.md) — article_0330021030
+        - [Write and Send Email](article_89183647906.md) — article_89183647906
+        - [Write Your First Suitelet](article_165209001867.md) — article_165209001867
+      - [User Event Script Samples](article_0162456303.md) — article_0162456303
+        - [Add a Suitelet to a Tab](article_0110042810.md) — article_0110042810
+        - [Add a Button that Calls a Custom Function](article_0417024730.md) — article_0417024730
+        - [Add a Custom Button to Execute a Suitelet](article_0110042816.md) — article_0110042816
+        - [Calculate Commission on a Sales Order](article_0110042819.md) — article_0110042819
+        - [Clean Up Content for Text Area Fields After Saving a Record](article_1028075703.md) — article_1028075703
+        - [Create Debug Log Messages](article_0110042821.md) — article_0110042821
+        - [Set Conditional Default Settings Using N/sftp Enums](article_0110042823.md) — article_0110042823
+        - [Track Deposits and Refunds](article_0110042830.md) — article_0110042830
+        - [Use a Custom Module Client Script](article_0110042813.md) — article_0110042813
+      - [Workflow Action Script Samples](article_0162520302.md) — article_0162520302
+    - [SuiteScript Samples by Function](chapter_67132715094.md) — chapter_67132715094
+      - [AI Samples](article_2201952571.md) — article_2201952571
+        - [Clean Up Content for Text Area Fields After Saving a Record](article_1028082311.md) — article_1028082311
+        - [Create a Prompt and Evaluate It](article_0211120628.md) — article_0211120628
+        - [Evaluate an Existing Prompt and Receive a Response](article_0204104403.md) — article_0204104403
+        - [Extract Content from a Document Asynchronously](article_1021123722.md) — article_1021123722
+        - [Extract Feature Content from a Document Synchronously](article_1021123753.md) — article_1021123753
+        - [Extract Text from a PDF File](article_1021123822.md) — article_1021123822
+        - [Find Similar Items Using Embeddings](article_0731013338.md) — article_0731013338
+        - [Provide an LLM-based ChatBot for NetSuite Users](article_1028082407.md) — article_1028082407
+        - [Provide Source Documents When Calling the LLM](article_0317021517.md) — article_0317021517
+        - [Receive a Partial Response from the LLM](article_0731013455.md) — article_0731013455
+        - [Send a Prompt to the LLM and Receive a Response](article_1028082444.md) — article_1028082444
+        - [Translate a Document](article_0617093312.md) — article_0617093312
+        - [Use Tools to Enhance the Response from the LLM](article_0330020418.md) — article_0330020418
+      - [Basic Record Operation Samples](article_9190152309.md) — article_9190152309
+        - [Perform Field Sourcing Synchronously](article_0110045008.md) — article_0110045008
+        - [Redirect a New Sales Order and Set the Entity Field](article_0110045013.md) — article_0110045013
+        - [Update Fields on Current Record using a Custom Module Script and a User Event Script](article_0110045016.md) — article_0110045016
+      - [Certificate Samples](article_84190622497.md) — article_84190622497
+        - [Create and Save Certificate Record Based on a File in the File Cabinet; Load, Edit, and Save the New Certificate Record](article_0110045225.md) — article_0110045225
+        - [Create, Modify, and Save Certificate Record Based on a File in the File Cabinet](article_31163718131.md) — article_31163718131
+        - [Create Signer and Verifier Objects](article_0110045237.md) — article_0110045237
+        - [Establish an SFTP Connection Using an SSH Key; Create, Update, Load, and Delete a Certificate Record](article_0110045249.md) — article_0110045249
+        - [Filter the Digital Certificate List by Subsidiary and File Type](article_0110045301.md) — article_0110045301
+        - [Find and Use an Existing Certificate Record](article_0110045310.md) — article_0110045310
+        - [Find the Audit Trail of POST Operations for a Certificate Record Based on ID](article_0110045320.md) — article_0110045320
+        - [Load an XML File from the File Cabinet and Sign It Using a Digital Certificate](article_0110045349.md) — article_0110045349
+      - [Configuration Samples](article_83191420243.md) — article_83191420243
+        - [Load the Company Information Configuration Page and Set Field Values](article_0110045815.md) — article_0110045815
+      - [Contact Samples](article_32191411533.md) — article_32191411533
+        - [Create and Save a Contact Record](article_0110045926.md) — article_0110045926
+        - [Create and Save a Contact Record Asynchronously Using Promise Methods](article_0110045929.md) — article_0110045929
+      - [Currency Samples](article_4191540423.md) — article_4191540423
+        - [Format Currency Based on the Locale Parameter](article_79140042397.md) — article_79140042397
+        - [Format Numbers and Currencies Based on the English-India Locale Parameter](article_74163048430.md) — article_74163048430
+        - [Format Numbers as Currency Strings](article_0110050028.md) — article_0110050028
+        - [Obtain the Exchange Rate Between the Canadian Dollar and the U.S. Dollar](article_0110050030.md) — article_0110050030
+        - [Set the Purchase Order Exchange Rate](article_0110050033.md) — article_0110050033
+      - [Customer Record Samples](article_9191835156.md) — article_9191835156
+        - [Create a Query for Customer Records and Run It as a Non-Paged Query](article_0110050214.md) — article_0110050214
+        - [Remove Phone Numbers and Comments from Customer Records](article_0110050216.md) — article_0110050216
+        - [Search for and Execute a Workflow Deployed on the Customer Record](article_0110050218.md) — article_0110050218
+        - [Search for Customer Records and Log First 50 Results](article_0110050220.md) — article_0110050220
+      - [Date and Time Samples](article_1192335336.md) — article_1192335336
+        - [Format Time of Day as a String](article_0110051824.md) — article_0110051824
+        - [Parse a String to a Date Object](article_0110051827.md) — article_0110051827
+      - [E-Document Samples](article_4192526319.md) — article_4192526319
+        - [Create a Custom Plug-in for Inbound E-Document Validation](article_0110051920.md) — article_0110051920
+        - [Create a Custom Plug-in for Implementation for E-Document Custom Data Source](article_0110051925.md) — article_0110051925
+        - [Create a Custom Plug-in Implementation for Sending E-Documents](article_0110051927.md) — article_0110051927
+        - [Create a Digital Signature Plug-in Implementation for E-Documents](article_0110051929.md) — article_0110051929
+        - [Create a Script for Sending E-Documents](article_0110051933.md) — article_0110051933
+        - [Update E-Document Certification Statuses](article_0110051936.md) — article_0110051936
+      - [Email Samples](article_7192820064.md) — article_7192820064
+        - [Change a NetSuite Email Address and Password](article_0110052221.md) — article_0110052221
+        - [Send an Email with an Attachment](article_0110052225.md) — article_0110052225
+        - [Write and Send Email](article_0110052228.md) — article_0110052228
+      - [File Samples](article_0193013973.md) — article_0193013973
+        - [Compress and Decompress a File](article_0110054502.md) — article_0110054502
+        - [Create a File, Set Property Values, and Save It to the File Cabinet](article_0110054505.md) — article_0110054505
+        - [Create a ZIP File](article_0110054507.md) — article_0110054507
+        - [Create and Save a CSV File then Reload the File and Parse Its Contents](article_0110054510.md) — article_0110054510
+        - [Create and Save a File to the File Cabinet](article_0110054512.md) — article_0110054512
+        - [Create, Modify, and Save Certirficate Record Based on a File in the File Cabinet](article_0110054514.md) — article_0110054514
+        - [Generate a PDF from a Raw XML String](article_0110054519.md) — article_0110054519
+        - [Load an XML File and Obtain Child Element Values](article_0110054524.md) — article_0110054524
+        - [Load an XML File from the File Cabinet and Sign it Using a Digital Certificate](article_0110054527.md) — article_0110054527
+        - [Manage Files and Directories](article_0110054532.md) — article_0110054532
+        - [Parse an XML File and Append New Elements](article_0110054534.md) — article_0110054534
+        - [Parse an XML File and Log Element Values](article_0110054536.md) — article_0110054536
+        - [Read and Log File Contents Using Commas and New Lines as Separators](article_0110054539.md) — article_0110054539
+        - [Read and Log Segments from a File Using a Set of Characters as Separators](article_0110054541.md) — article_0110054541
+        - [Render a PDF](article_0110054543.md) — article_0110054543
+        - [Render an Invoice Into a PDF Using an XML Template](article_0110054546.md) — article_0110054546
+        - [Render Search Results Into a PDF](article_0110054548.md) — article_0110054548
+        - [Return a File with Alternative Character Encoding](article_0907093244.md) — article_0907093244
+        - [Return a Simple XML Document](article_0110054551.md) — article_0110054551
+        - [Set Conditional Default Settings Using N/sftp Enums](article_0110054553.md) — article_0110054553
+        - [Upload and Download a File](article_0110054555.md) — article_0110054555
+      - [Formatting, Parsing, and Encoding Samples](article_2105042691.md) — article_2105042691
+        - [Convert a String to a Different Encoding](article_0110055529.md) — article_0110055529
+        - [Create and Save a CSV File then Reload the File and Parse Its Contents](article_0110055532.md) — article_0110055532
+        - [Format 12345 as a German String](article_87163214598.md) — article_87163214598
+        - [Format a Number as a String](article_0110055537.md) — article_0110055537
+        - [Format a Number as a String Using N/format/i18n](article_0110055540.md) — article_0110055540
+        - [Format Currency Based on the Locale Parameter](article_63162742155.md) — article_63162742155
+        - [Format Numbers and Currencies Based on the English-India Locale Parameter](article_65162952050.md) — article_65162952050
+        - [Format Numbers as Currency Strings](article_0110055543.md) — article_0110055543
+        - [Format Time of Day as a String](article_0110055545.md) — article_0110055545
+        - [Parse a Czechia Phone Number](article_15163451029.md) — article_15163451029
+        - [Parse a String to a Date Object](article_0110055548.md) — article_0110055548
+        - [Parse a String to a Number](article_0110055550.md) — article_0110055550
+        - [Parse a U.S. Phone Number](article_52163620087.md) — article_52163620087
+        - [Parse an XML String and Log Element Values](article_0110055557.md) — article_0110055557
+      - [Form Samples](article_1194058672.md) — article_1194058672
+        - [Create a Form Containing Several Field Types, Reset and Submit Buttons, Tabs, and a Sublist](article_0110055907.md) — article_0110055907
+        - [Create a Form Portlet with a Button That Allows User Adjustments](article_0110055913.md) — article_0110055913
+        - [Create a Form with a Credential Field](article_0110055910.md) — article_0110055910
+        - [Create a Custom Survey Form](article_0110055915.md) — article_0110055915
+        - [Create a Custom Form with a Submit Button, Fields, and an Inline Editor Sublist](article_0110055919.md) — article_0110055919
+        - [Write and Send Email](article_16164302286.md) — article_16164302286
+      - [HTTP/HTTPS and SFTP Samples](article_1194407049.md) — article_1194407049
+        - [Call a RESTlet and Display Results](section_1217124247.md) — section_1217124247
+        - [Create a Custom Function to Call a Suitelet](article_0417023746.md) — article_0417023746
+        - [Create a URL and Send a Secure HTTPS POST Request to the URL](article_0110060622.md) — article_0110060622
+        - [Establish an SFTP Connection Using an SSH Key; Create, Update, Load, and Delete a Certificate Record](article_0110060624.md) — article_0110060624
+        - [Manage Files and Directories](article_0110060627.md) — article_0110060627
+        - [Set Conditional Default Settings Using N/sftp Enums](article_0110060629.md) — article_0110060629
+      - [List, Sublist, and Subrecord Samples](article_4083511653.md) — article_4083511653
+        - [Access Sublists and a Subrecord from a Record](article_0110060753.md) — article_0110060753
+        - [Access Sublists and a Subrecord from a Record Asynchronously Using Promise Methods](article_0110060756.md) — article_0110060756
+        - [Add a Dynamic Link to a List in a Suitelet](article_0110060759.md) — article_0110060759
+        - [Add a Field that Displays a Running Total to a Sublist](article_0110060801.md) — article_0110060801
+        - [Create a Custom Form with a Submit Button, Fields, and an Inline Editor Sublist](article_0110060806.md) — article_0110060806
+      - [Localization Samples](article_8083911029.md) — article_8083911029
+        - [Get the Localization Context of an Employee Record](article_0110061018.md) — article_0110061018
+      - [Logging and Error Samples](article_3084016138.md) — article_3084016138
+        - [Create a Custom Error](article_0110061049.md) — article_0110061049
+        - [Create an Error Based on a Condition](article_0110061046.md) — article_0110061046
+        - [Create Debug Log Messages](article_0110061051.md) — article_0110061051
+        - [Parse an XML String and Log Element Values](article_0110061054.md) — article_0110061054
+        - [Read and Log File Contents Using Commas and New Lines as Separators](article_0110061056.md) — article_0110061056
+        - [Read and Log Segments from a File Using a Set of Characters as Separators](article_0110061059.md) — article_0110061059
+      - [Query Samples](article_2085001674.md) — article_2085001674
+        - [Convert a Query to SuiteQL and Run It](article_0110061231.md) — article_0110061231
+        - [Create a Query for a Custom Field](article_0110061234.md) — article_0110061234
+        - [Create a Query for Customer Records and Run It as a Non-Paged Query](article_0110061236.md) — article_0110061236
+        - [Create a Query for Transaction Records and Run It as a Paged Query](article_0110061239.md) — article_0110061239
+        - [Create a Query Using a Specific Record Field](article_0112044339.md) — article_0112044339
+        - [Run an Arbitrary SuiteQL Query](article_0110061242.md) — article_0110061242
+      - [Revenue Record Samples](article_3084337560.md) — article_3084337560
+        - [Merge Revenue Arrangements Using a Saved Search](article_0110061356.md) — article_0110061356
+        - [Merge Revenue Arrangements Using an Ad-Hoc Search](article_0110061402.md) — article_0110061402
+        - [Merge Revenue Elements Using Internal IDs](article_0110061400.md) — article_0110061400
+      - [Sales Order Samples](article_5090449667.md) — article_5090449667
+        - [Call a Macro on a Sales Order Record](article_0110061521.md) — article_0110061521
+        - [Create Multiple Sales Records Using a Scheduled Script](article_0110061537.md) — article_0110061537
+        - [Load a Search for Sales Order Records and Return the First 100 Search Results](article_0110061523.md) — article_0110061523
+        - [Load a Search for Sales Order Records and Use a Callback Function to Process Results](article_0110061525.md) — article_0110061525
+        - [Redirect a New Sales Order and Set the Entity Field](article_0110061528.md) — article_0110061528
+        - [Search for Sales Order Records](article_0110061531.md) — article_0110061531
+        - [Set Fields on a Sales Order Record Using util.each (Iterator)](article_0110061535.md) — article_0110061535
+        - [Void a Sales Order Transaction](article_0110061541.md) — article_0110061541
+      - [Search Samples](article_0091700424.md) — article_0091700424
+        - [Create a Search for a Custom Record Type](article_0110062044.md) — article_0110062044
+        - [Create and Submit a Task with Dependent Scripts](article_0110062042.md) — article_0110062042
+        - [Create and Submit an Asynchronous Search Task and Export the Results Into a CSV File](article_0110062047.md) — article_0110062047
+        - [Delete a Saved Search](article_0110062056.md) — article_0110062056
+        - [Load a Search for Sales Order Records and Return the First 100 Search Results](article_0110062058.md) — article_0110062058
+        - [Load a Search for Sales Order Records and Use a Callback Function to Process Results](article_0110062100.md) — article_0110062100
+        - [Load and Run a Paginated Search and Process the Results](article_0110062102.md) — article_0110062102
+        - [Merge Revenue Arrangements Using a Saved Search](article_0110062049.md) — article_0110062049
+        - [Merge Revenue Arrangements Using an Ad-Hoc Search](article_0110062051.md) — article_0110062051
+        - [Render Search Results Into a PDF](article_0110062105.md) — article_0110062105
+        - [Search for and Execute a Workflow Deployed on the Customer Record](article_0110062108.md) — article_0110062108
+        - [Search for Customer Records and Log First 50 Results](article_0110062110.md) — article_0110062110
+        - [Search for Items in a Custom List](article_0110062112.md) — article_0110062112
+        - [Search for Sales Order Records](article_0110062115.md) — article_0110062115
+      - [Secret Key Samples](article_4093050902.md) — article_4093050902
+        - [Add a Secret Key Field to a Form](article_0110062623.md) — article_0110062623
+        - [Create a Secret Key](article_0110062625.md) — article_0110062625
+        - [Create a Secure Key Using SHA512](article_0110062627.md) — article_0110062627
+        - [Create a Suitelet to Request User Credentials, Create a Secret Key, and Encode a Sample String](article_0110062629.md) — article_0110062629
+        - [Generate a Secure Token and a Secret Key](article_0110062633.md) — article_0110062633
+      - [Survey Samples](article_4093424503.md) — article_4093424503
+        - [Create a Custom Survey Form](article_0110062839.md) — article_0110062839
+      - [Task Samples](article_9094001471.md) — article_9094001471
+        - [Create and Submit a Map/Reduce Script Task](article_0110063014.md) — article_0110063014
+        - [Create and Submit a Task with Dependent Scripts](article_0110062940.md) — article_0110062940
+        - [Create and Submit an Asynchronous Search Task and Export the Results into a CSV File](article_0110062951.md) — article_0110062951
+        - [Merge Revenue Arrangements Using a Saved Search](article_0110062957.md) — article_0110062957
+        - [Merge Revenue Arrangements Using an Ad-Hoc Search](article_0110063006.md) — article_0110063006
+        - [Merge Revenue Elements Using Internal IDs](article_0110063002.md) — article_0110063002
+        - [Set a Redirect URL to a Newly Created Task Record](article_0110063008.md) — article_0110063008
+        - [Submit a Record Action Task and Check Status](article_0110063135.md) — article_0110063135
+      - [Timebill Record Samples](article_2094505184.md) — article_2094505184
+        - [Execute a Bulk Action on a Timebill Record](article_0110063315.md) — article_0110063315
+        - [Find Actions Available for the Timebill Record and Execute Asynchronously Using Promise Methods](article_0110063312.md) — article_0110063312
+        - [Locate and Execute an Action on a Timebill Record](article_0110063318.md) — article_0110063318
+      - [Transaction Samples](article_2094741977.md) — article_2094741977
+        - [Create a Query for Transaction Records and Run It as a Paged Query](article_0110063527.md) — article_0110063527
+        - [Render a Transaction Record Into an HTML Page](article_0110063525.md) — article_0110063525
+        - [Render an Invoice Into a PDF Using an XML Template](article_0110063523.md) — article_0110063523
+        - [Set a Default Posting Period in a Custom Field](article_0110063521.md) — article_0110063521
+        - [Track Deposits and Refunds](article_0110063515.md) — article_0110063515
+        - [Void a Sales Order Transaction](article_0110063518.md) — article_0110063518
+      - [Translation Samples](article_2095053295.md) — article_2095053295
+        - [Access Parameterized Translation Strings](article_0110063739.md) — article_0110063739
+        - [Access Translation Strings](article_0110063706.md) — article_0110063706
+        - [Access Translation Strings Using a Non-Default Locale](article_0110063704.md) — article_0110063704
+        - [Format 12345 as a German String](article_0110063700.md) — article_0110063700
+        - [Load Specific Translation Strings from a Collection](article_0110063845.md) — article_0110063845
+        - [Load Translation Strings by Key from a Translation Collection with Multiple Locales](article_0110063848.md) — article_0110063848
+        - [Load Translation Strings by Key from Multiple Translation Collections](article_0110063702.md) — article_0110063702
+      - [UI Customization Samples](article_9095521875.md) — article_9095521875
+        - [Add a Suitelet to a Tab](article_0110064118.md) — article_0110064118
+        - [Create a Confirmation Dialog](article_0110064117.md) — article_0110064117
+        - [Create a Custom Assistant Script](article_0110064058.md) — article_0110064058
+        - [Create a Custom List](article_0110064115.md) — article_0110064115
+        - [Create a Dialog that Includes a Default Button](article_0110064113.md) — article_0110064113
+        - [Create a Dialog with Buttons](article_0110064111.md) — article_0110064111
+        - [Create a Form Containing Several Field Types, Reset and Submit Buttons, Tabs, and a Sublist](article_0110064109.md) — article_0110064109
+        - [Create a Form with a Credential Field](article_0110064106.md) — article_0110064106
+        - [Create a Form Portlet with a Button That Allows User Adjustments](article_0110064104.md) — article_0110064104
+        - [Create an Alert Dialog](article_0110064103.md) — article_0110064103
+        - [Create Confirmation, Information, Warning, and Error Messages](article_0110064101.md) — article_0110064101
+      - [URL Samples](article_2100407833.md) — article_2100407833
+        - [Create a URL and Send a Secure HTTPS Post Request to the URL](article_0110064629.md) — article_0110064629
+        - [Generate an Absolute URL to a Specific Resource](article_0110064627.md) — article_0110064627
+        - [Request a URL Using http.get](article_0110064626.md) — article_0110064626
+        - [Retrieve the Domain for Calling a RESTlet](article_37164132952.md) — article_37164132952
+        - [Retrieve the Relative URL of a Record](article_0110064624.md) — article_0110064624
+        - [Send a Secure Post Request to a Remote URL](article_0110064622.md) — article_0110064622
+        - [Set a Redirect URL to a Newly Created Task Record](article_0110064620.md) — article_0110064620
+      - [User and Session Information Samples](article_8100650287.md) — article_8100650287
+        - [Return User and Session Information](article_0110064822.md) — article_0110064822
+      - [User Credentials, Authentication, and Access Samples](article_2100853337.md) — article_2100853337
+        - [Change a NetSuite Email Address and Password](article_0110064931.md) — article_0110064931
+        - [Create a Form with a Credential Field](article_0110064929.md) — article_0110064929
+        - [Create a Suitelet to Request User Credentials, Create a Secret Key, and Encode a Sample String](article_0110064928.md) — article_0110064928
+      - [Workbook and Dataset Samples](article_9101314256.md) — article_9101314256
+        - [Create a Comprehensive Workbook](article_0110065209.md) — article_0110065209
+        - [Create a Dataset, Run the Dataset, and List All Existing Datasets](article_0110065207.md) — article_0110065207
+        - [List All Datasets and Load the First Dataset](article_0110065203.md) — article_0110065203
+      - [Workflow Samples](article_9101509676.md) — article_9101509676
+        - [Search for and Execute a Workflow Deployed on the Customer Record](article_0110065617.md) — article_0110065617
+      - [XML Samples](article_5101612931.md) — article_5101612931
+        - [Generate a PDF from a Raw XML String](article_0110065402.md) — article_0110065402
+        - [Load an XML File and Obtain Child Element Values](article_0110065400.md) — article_0110065400
+        - [Load an XML File from the File Cabinet and Sign It Using a Digital Certificate](article_0110065359.md) — article_0110065359
+        - [Parse an XML File and Append New Elements](article_0110065355.md) — article_0110065355
+        - [Parse an XML String and Log Element Values](article_0110065351.md) — article_0110065351
+        - [Render an Invoice into a PDF Using an XML Template](article_0110065349.md) — article_0110065349
+        - [Return a Simple XML Document](article_0110065347.md) — article_0110065347
+    - [SuiteScript Samples by Module](chapter_1551381633.md) — chapter_1551381633
+      - [N/action Samples](section_1551457739.md) — section_1551457739
+        - [Execute a Bulk Action on a Timebill Record](article_0111032323.md) — article_0111032323
+        - [Find Actions Available for the Timebill Record Asynchronously Using Promise Methods](article_0111032325.md) — article_0111032325
+        - [Locate and Execute an Action on a Timebill Record](article_0111032327.md) — article_0111032327
+      - [N/auth Samples](section_1551457867.md) — section_1551457867
+        - [Change a NetSuite Email Address and Password](article_0111032251.md) — article_0111032251
+      - [N/cache Samples](section_1551457924.md) — section_1551457924
+        - [Look Up Folder IDs](article_0111032157.md) — article_0111032157
+        - [Retrieve Name of a City Based on a ZIP Code Using Cache and a Custom Loader Function](article_0111032200.md) — article_0111032200
+      - [N/certificateControl Samples](section_1551457996.md) — section_1551457996
+        - [Create, Modify, and Save Certificate Record Based on a File in the File Cabinet](article_0111032013.md) — article_0111032013
+        - [Establish an SFTP Connection Using an SSH Key; Create, Update, Load, and Delete a Certificate Record](article_0111032007.md) — article_0111032007
+        - [Filter the Digital Certificate List by Subsidiary and File Type](article_0111032017.md) — article_0111032017
+        - [Find and Use an Existing Certificate Record](article_0111032011.md) — article_0111032011
+        - [Find the Audit Trail of POST Operations for a Certificate Record Based on ID](article_0111032015.md) — article_0111032015
+      - [N/commerce/recordView Samples](section_158084674997.md) — section_158084674997
+        - [Retrieve Website and Item Data](article_0111031938.md) — article_0111031938
+      - [N/compress Samples](article_159525252663.md) — article_159525252663
+        - [Compress and Decompress a File](article_0111033031.md) — article_0111033031
+        - [Create a ZIP File](article_0111033029.md) — article_0111033029
+      - [N/config Samples](section_1551458070.md) — section_1551458070
+        - [Load the Company Information Configuration Page and Set Field Values](article_0111031908.md) — article_0111031908
+      - [N/crypto Samples](section_1551458120.md) — section_1551458120
+        - [Create a Secure Key Using SHA512](article_0111031735.md) — article_0111031735
+        - [Create a Suitelet to Request User Credentials, Create a Secret Key, and Encode a Sample String](article_0111031733.md) — article_0111031733
+      - [N/crypto/certificate Samples](section_1551458175.md) — section_1551458175
+        - [Create Signer and Verifier Objects](article_0111031812.md) — article_0111031812
+        - [Load an XML File from the File Cabinet and Sign It Using a Digital Certificate](article_0111031815.md) — article_0111031815
+      - [N/currency Samples](section_157072536869.md) — section_157072536869
+        - [Obtain the Exchange Rate Between the Canadian Dollar and the U.S. Dollar](article_0111031708.md) — article_0111031708
+      - [N/currentRecord Samples](section_157071004224.md) — section_157071004224
+        - [Perform Field Sourcing Synchronously](article_0111031555.md) — article_0111031555
+        - [Update Fields on Current Record using a Custom Module Script and a User Event Script](article_0111031600.md) — article_0111031600
+      - [N/dataset Samples](article_159542737019.md) — article_159542737019
+        - [Create a Dataset, Run the Dataset, and List All Existing Datasets](article_0111033130.md) — article_0111033130
+        - [List All Datasets and Load the First Dataset](article_0111033127.md) — article_0111033127
+      - [N/documentCapture Samples](article_5124450601.md) — article_5124450601
+        - [Extract Content from a Document Asynchronously](article_1021124841.md) — article_1021124841
+        - [Extract Feature Content from a Document Synchronously](article_1021125315.md) — article_1021125315
+        - [Extract Text from a PDF File](article_1021125454.md) — article_1021125454
+      - [N/email Samples](section_157072550759.md) — section_157072550759
+        - [Send an Email with an Attachment](article_0111030810.md) — article_0111030810
+      - [N/encode Samples](section_157072562679.md) — section_157072562679
+        - [Convert a String to a Different Encoding](article_0111030726.md) — article_0111030726
+      - [N/error Samples](section_157108239702.md) — section_157108239702
+        - [Create a Custom Error](article_0111030636.md) — article_0111030636
+        - [Create an Error Based on a Condition](article_0111030633.md) — article_0111030633
+      - [N/file Samples](section_157072584764.md) — section_157072584764
+        - [Create a File, Set Property Values, and Save It to the File Cabinet](article_0111030440.md) — article_0111030440
+        - [Create and Save a CSV File then Reload the File and Parse Its Contents](article_0111030438.md) — article_0111030438
+        - [Create and Save a File to the File Cabinet](article_0111030537.md) — article_0111030537
+        - [Read and Log File Contents Using Commas and New Lines as Separators](article_0111030435.md) — article_0111030435
+        - [Read and Log Segments of a File Using a Set of Characters as Separators](article_0111030431.md) — article_0111030431
+      - [N/format Samples](section_157072600498.md) — section_157072600498
+        - [Format a Number as a String](article_0111030052.md) — article_0111030052
+        - [Format Time of Day as a String](article_0111030050.md) — article_0111030050
+        - [Parse a String to a Date Object](article_0111030057.md) — article_0111030057
+        - [Parse a String to a Number](article_0111030054.md) — article_0111030054
+      - [N/format/i18n Samples](section_157072623152.md) — section_157072623152
+        - [Format 12345 as a German String](article_0111030225.md) — article_0111030225
+        - [Format a Number as a String Using N/format/i18n](article_0111030223.md) — article_0111030223
+        - [Format Currency Based on the Locale Parameter](article_0111030213.md) — article_0111030213
+        - [Format Numbers and Currencies Based on the English-India Locale Parameter](article_0111030211.md) — article_0111030211
+        - [Format Numbers as Currency Strings](article_0111030221.md) — article_0111030221
+        - [Format Numbers Based on the Locale Parameter](article_0111030216.md) — article_0111030216
+        - [Parse a Czechia Phone Number](article_0111030220.md) — article_0111030220
+        - [Parse a U.S. Phone Number](article_0111030218.md) — article_0111030218
+      - [N/http Samples](section_157072637762.md) — section_157072637762
+        - [Redirect a New Sales Order and Set the Entity Field](article_0111025501.md) — article_0111025501
+        - [Request a URL Using http.get](article_0111025505.md) — article_0111025505
+      - [N/https Samples](section_157072652325.md) — section_157072652325
+        - [Concatenate API Secrets with Strings](article_0111025227.md) — article_0111025227
+        - [Create a Custom Function to Call a Suitelet](article_0417115618.md) — article_0417115618
+        - [Create a JWT Token Using a Secure String](article_0111025224.md) — article_0111025224
+        - [Create a Form with a Credential Field](article_0111025231.md) — article_0111025231
+        - [Create an Authentication Header Using a Secure String](article_0111025229.md) — article_0111025229
+        - [Generate a Secure Token and a Secret Key](article_0111025234.md) — article_0111025234
+        - [Retrieve Employee Information Using a Suitelet and a RESTlet Script with a Defined Content-Type Header](section_1217123700.md) — section_1217123700
+      - [N/https/clientCertificate Samples](section_157072663196.md) — section_157072663196
+        - [Send a Secure Post Request to a Remote URL](article_0111025427.md) — article_0111025427
+      - [N/keyControl Samples](section_157072674158.md) — section_157072674158
+        - [Add a Secret Key Field to a Form](article_0111025136.md) — article_0111025136
+        - [Create a Secret Key](article_0111025139.md) — article_0111025139
+      - [N/llm Samples](article_6180349492.md) — article_6180349492
+        - [Clean Up Content for Text Area Fields After Saving a Record](article_1028060615.md) — article_1028060615
+        - [Create a Prompt and Evaluate It](article_0211121228.md) — article_0211121228
+        - [Evaluate an Existing Prompt and Receive a Response](article_0204104909.md) — article_0204104909
+        - [Find Similar Items Using Embeddings](article_0731012736.md) — article_0731012736
+        - [Provide an LLM-based ChatBot for NetSuite Users](article_1028060654.md) — article_1028060654
+        - [Provide Source Documents When Calling the LLM](article_0317021731.md) — article_0317021731
+        - [Receive a Partial Response from the LLM](article_0731012330.md) — article_0731012330
+        - [Send a Prompt to the LLM and Receive a Response](article_1028060708.md) — article_1028060708
+        - [Use Tools to Enhance the Response from the LLM](article_0330022119.md) — article_0330022119
+      - [N/log Samples](section_157072686922.md) — section_157072686922
+        - [Create Debug Log Messages](article_0111025114.md) — article_0111025114
+      - [N/machineTranslation Samples](article_9103133443.md) — article_9103133443
+        - [Translate a Document](article_0617104750.md) — article_0617104750
+      - [N/piremoval Samples](section_157072698108.md) — section_157072698108
+        - [Remove Phone Numbers and Comments from Customer Records](article_0111025027.md) — article_0111025027
+      - [N/plugin Samples](section_157072709890.md) — section_157072709890
+        - [Find Plug-in Implementations](article_0111024908.md) — article_0111024908
+      - [N/portlet Samples](section_157072718906.md) — section_157072718906
+        - [Create a Form Portlet with a Button That Allows User Adjustments](article_0111024833.md) — article_0111024833
+      - [N/query Samples](section_1551382900.md) — section_1551382900
+        - [Create a Query for a Custom Field](article_0111024048.md) — article_0111024048
+        - [Create a Query for Customer Records and Run It as a Non-Paged Query](article_0111024056.md) — article_0111024056
+        - [Create a Query for Transaction Records and Run It as a Paged Query](article_0111024054.md) — article_0111024054
+        - [Convert a Query to a SuiteQL and Run It](article_0111024053.md) — article_0111024053
+        - [Create a Query Using a Specific Record Field](article_0111024046.md) — article_0111024046
+        - [Run an Arbitrary SuiteQL Query](article_0111024050.md) — article_0111024050
+      - [N/record Samples](section_157072738275.md) — section_157072738275
+        - [Access Sublists and a Subrecord from a Record](article_0111023810.md) — article_0111023810
+        - [Access Sublists and a Subrecord from a Record Asynchronously Using Promise Methods](article_0111023808.md) — article_0111023808
+        - [Call a Macro on a Sales Order Record](article_0111023805.md) — article_0111023805
+        - [Create and Save a Contact Record](article_0111023815.md) — article_0111023815
+        - [Create and Save a Contact Record Asynchronously Using Promise Methods](article_0111023813.md) — article_0111023813
+        - [Create Multiple Sales Records Using a Scheduled Script](article_47162055829.md) — article_47162055829
+      - [N/recordContext Samples](section_159535528506.md) — section_159535528506
+        - [Get the Localization Context of an Employee Record](article_0111024002.md) — article_0111024002
+      - [N/redirect Samples](section_157072754229.md) — section_157072754229
+        - [Set a Redirect URL to a Newly Created Task Record](article_0111023721.md) — article_0111023721
+      - [N/render Samples](section_157072763013.md) — section_157072763013
+        - [Generate a PDF from a Raw XML String](article_0111022447.md) — article_0111022447
+        - [Render a PDF](article_43161722452.md) — article_43161722452
+        - [Render a Transaction Record Into an HTML Page](article_0111022445.md) — article_0111022445
+        - [Render an Invoice Into a PDF Using an XML Template](article_0111022443.md) — article_0111022443
+        - [Render Search Results Into a PDF](article_0111022441.md) — article_0111022441
+      - [N/runtime Samples](section_157072776544.md) — section_157072776544
+        - [Create Multiple Sales Records Using a Scheduled Script](article_0111022349.md) — article_0111022349
+        - [Return User and Session Information](article_0111022352.md) — article_0111022352
+      - [N/scriptTypes/restlet Samples](article_3142532776.md) — article_3142532776
+        - [Query Employee Supervisors and Create Response with Content-Type Header](article_0107023757.md) — article_0107023757
+      - [N/search Samples](section_157072845972.md) — section_157072845972
+        - [Create a Search for a Custom Record Type](article_0111022035.md) — article_0111022035
+        - [Delete a Saved Search](article_0111022031.md) — article_0111022031
+        - [Load a Search for Sales Order Records and Return the First 100 Search Results](article_0111022039.md) — article_0111022039
+        - [Load a Search for Sales Order Records and Use a Callback Function to Process Results](article_0111022041.md) — article_0111022041
+        - [Load and Run a Paginated Search and Process the Results](article_0111022037.md) — article_0111022037
+        - [Search for Customer Records and Log First 50 Results](article_0111022045.md) — article_0111022045
+        - [Search for Items in a Custom List](article_0111022033.md) — article_0111022033
+        - [Search for Sales Order Records](article_0111022043.md) — article_0111022043
+      - [N/sftp Samples](section_157072871727.md) — section_157072871727
+        - [Manage Files and Directories](article_0111021919.md) — article_0111021919
+        - [Set Conditional Default Settings Using N/sftp Enums](article_0111021916.md) — article_0111021916
+        - [Upload and Download a File](article_0111021921.md) — article_0111021921
+      - [N/suiteAppInfo Samples](article_5145555384.md) — article_5145555384
+        - [Retrieve Information for a SuiteApp](article_0111034747.md) — article_0111034747
+      - [N/task Samples](section_157072886263.md) — section_157072886263
+        - [Create and Submit a Map/Reduce Script Task](article_0111021347.md) — article_0111021347
+        - [Create and Submit a Task with Dependent Scripts](article_0111021341.md) — article_0111021341
+        - [Create and Submit an Asynchronous Search Task and Export the Results into a CSV File](article_0111021344.md) — article_0111021344
+        - [Submit a Record Action Task and Check Status](article_0111021338.md) — article_0111021338
+      - [N/task/accounting/recognition Samples](section_157072902730.md) — section_157072902730
+        - [Merge Revenue Arrangements Using a Saved Search](article_0111021615.md) — article_0111021615
+        - [Merge Revenue Arrangements Using an Ad-Hoc Search](article_0111021612.md) — article_0111021612
+        - [Merge Revenue Elements Using Internal IDs](article_0111021617.md) — article_0111021617
+      - [N/transaction Samples](section_157072913781.md) — section_157072913781
+        - [Void a Sales Order Transaction](article_0111020957.md) — article_0111020957
+      - [N/translation Samples](section_157072921366.md) — section_157072921366
+        - [Access Parameterized Translation Strings](article_0111020710.md) — article_0111020710
+        - [Access Translation Strings](article_0111020722.md) — article_0111020722
+        - [Access Translation Strings Using a Non-Default Locale](article_0111020718.md) — article_0111020718
+        - [Load Specific Translation Strings from a Collection](article_0111020707.md) — article_0111020707
+        - [Load Translation Strings by Key from Multiple Translation Collections](article_0111020704.md) — article_0111020704
+        - [Load Translation Strings by Key from a Translation Collection with Multiple Locales](article_0111020700.md) — article_0111020700
+      - [N/ui/dialog Samples](section_157072939911.md) — section_157072939911
+        - [Create a Confirmation Dialog](article_0111020514.md) — article_0111020514
+        - [Create a Dialog with Buttons](article_0111020506.md) — article_0111020506
+        - [Create a Dialog that Includes a Default Button](article_0111020509.md) — article_0111020509
+        - [Create an Alert Dialog](article_0111020517.md) — article_0111020517
+      - [N/ui/message Samples](section_157072951039.md) — section_157072951039
+        - [Create Confirmation, Information, Warning, and Error Messages](article_0111020027.md) — article_0111020027
+      - [N/ui/serverWidget Samples](section_157072957990.md) — section_157072957990
+        - [Add a Button that Calls a Custom Function](article_0417121954.md) — article_0417121954
+        - [Create a Custom Form with a Submit Button, Fields, and an Inline Editor Sublist](article_0111015914.md) — article_0111015914
+        - [Create a Custom Survey Form](article_0111015918.md) — article_0111015918
+      - [N/url Samples](section_157072993576.md) — section_157072993576
+        - [Create a URL and Send a Secure HTTPS Post Request to the URL](article_0111015649.md) — article_0111015649
+        - [Generate an Absolute URL to a Specific Resource](article_0111015644.md) — article_0111015644
+        - [Retrieve the Domain for Calling a RESTlet](article_0111015646.md) — article_0111015646
+        - [Retrieve the Relative URL of a Record](article_0111015640.md) — article_0111015640
+      - [N/util Samples](section_157072968225.md) — section_157072968225
+        - [Set Fields on a Sales Order Record Using the util.each Iterator](article_0111015618.md) — article_0111015618
+      - [N/workbook Samples](article_159542804000.md) — article_159542804000
+        - [Create Datasets, Dataset Links, and a Workbook with a Pivot and Run the Workbook](article_0111033214.md) — article_0111033214
+        - [Create a Comprehensive Workbook](article_0111033211.md) — article_0111033211
+      - [N/workflow Samples](section_157072998292.md) — section_157072998292
+        - [Search For and Execute a Workflow Deployed on the Customer Record](article_0111015533.md) — article_0111015533
+      - [N/xml Samples](section_157072975650.md) — section_157072975650
+        - [Load an XML File and Obtain Child Element Values](article_0111013548.md) — article_0111013548
+        - [Load an XML File from the File Cabinet and Sign It using a Digital Certificate](article_95165607665.md) — article_95165607665
+        - [Parse an XML File and Append New Elements](article_0111013555.md) — article_0111013555
+        - [Parse an XML String and Log Element Values](article_0111013552.md) — article_0111013552
+        - [Render an Invoice Into a PDF Using an XML Template](article_97162837994.md) — article_97162837994
+    - [SuiteScript Samples That Use Promises](chapter_17173508509.md) — chapter_17173508509
+      - [Access Sublists and a Subrecord from a Record Asynchronously Using Promise Methods](article_36153130762.md) — article_36153130762
+      - [Clean Up Content for Text Area Fields After Saving a Record](article_1028081507.md) — article_1028081507
+      - [Create a Prompt and Evaluate It](article_0211122843.md) — article_0211122843
+      - [Create Datasets, Dataset Links, and a Workbook with a Pivot and Run the Workbook](article_0110033227.md) — article_0110033227
+      - [Create and Save a Contact Record Asynchronously Using Promise Methods](article_0110033241.md) — article_0110033241
+      - [Find Actions Available for the Timebill Record Asynchronously Using Promise Methods](article_0110033210.md) — article_0110033210
+    - [Custom Plug-in Samples](chapter_159552695257.md) — chapter_159552695257
+      - [Create a Custom Plug-in for Inbound E-Document Validation](article_159562206928.md) — article_159562206928
+      - [Create a Custom Plug-in Implementation for E-Document Custom Data Source](article_159552701805.md) — article_159552701805
+      - [Create a Custom Plug-in Implementation for Sending E-Documents](article_159562170858.md) — article_159562170858
+      - [Create a Digital Signature Plug-in Implementation for E-Documents](article_159562141421.md) — article_159562141421
+      - [Create a Quality Custom Inspection Rule Plug-in](article_159552727635.md) — article_159552727635
+      - [Create a Script for Sending E-Documents](article_159562183743.md) — article_159562183743
+      - [Update E-Document Certification Statuses](article_159562195512.md) — article_159562195512
+    - [SuiteScript Use Cases Samples](chapter_156097263055.md) — chapter_156097263055
+      - [Add a Custom Button to Execute a Suitelet](section_158213897362.md) — section_158213897362
+      - [Calculate Commission on a Sales Order](section_158215054040.md) — section_158215054040
+      - [Copy a Value to the Item Column](section_159785550843.md) — section_159785550843
+      - [Set a Default Posting Period in a Custom Field](section_159535401014.md) — section_159535401014
+      - [Track Deposits and Refunds](section_159535423506.md) — section_159535423506
+      - [Set the Purchase Order Exchange Rate](section_159535447536.md) — section_159535447536
+  - [SuiteScript 1.0 Documentation](article_7151939532.md) — article_7151939532

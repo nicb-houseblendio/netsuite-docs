@@ -1,0 +1,12 @@
+# Logging out of NetSuite
+
+Logging out of NetSuite (1 pages): Logging out of NetSuite
+
+## Chapters
+- [Logging out of NetSuite](chapter_158801369869.md): For security reasons, you should log out of NetSuite manually.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch logging-out-of-netsuite

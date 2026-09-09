@@ -1,0 +1,88 @@
+# Managing NCP Connectors
+
+84 pages, category: NetSuite Connector
+
+- [Managing NCP Connectors](article_4155442648.md) — article_4155442648
+  - [Salesforce Connector](section_0602040117.md) — section_0602040117
+    - [Salesforce Connector Setup](article_2155722791.md) — article_2155722791
+      - [Verify That Required Features are Enabled](section_0602041157.md) — section_0602041157
+      - [Install the Salesforce Connector SuiteApp](section_0602041350.md) — section_0602041350
+      - [Salesforce Connector: Connection Prerequisites](article_1190752716.md) — article_1190752716
+        - [About the Salesforce Integration User](section_1190752717.md) — section_1190752717
+          - [Setting Up the Integration User in Salesforce](section_0708012729.md) — section_0708012729
+        - [About the Salesforce Connected App](section_1190752721.md) — section_1190752721
+      - [Set up the Salesforce Connector](article_7153144508.md) — article_7153144508
+        - [Salesforce Connector Setup Wizard: Import Connector](section_0330033413.md) — section_0330033413
+        - [Salesforce Connector Setup Wizard: Create Connection](section_0330035111.md) — section_0330035111
+        - [Salesforce Connector Setup Wizard: Setup Environment](section_0330062041.md) — section_0330062041
+        - [Salesforce Connector Setup Wizard: Deploy Package](section_0330062249.md) — section_0330062249
+        - [Salesforce Connector Setup Wizard: Activate Integrations](section_0330064911.md) — section_0330064911
+      - [Salesforce Connector Setup Wizard: Next Steps](article_1190649543.md) — article_1190649543
+        - [Adding the Permission Sets to the Salesforce Integration User](section_0330070717.md) — section_0330070717
+        - [Adding the Permissions Sets to the Salesforce Users](section_0330071138.md) — section_0330071138
+        - [Updating the Connection](section_0330071302.md) — section_0330071302
+      - [Create an Integration User in NetSuite](section_0106064253.md) — section_0106064253
+      - [Using an Existing NetSuite User to Create Salesforce Connector Connection](article_5132242955.md) — article_5132242955
+      - [Preparing Salesforce Connector Syncs](section_1111023144.md) — section_1111023144
+        - [Configure Page Layouts in Salesforce](section_1111023941.md) — section_1111023941
+        - [Configure Salesforce Connector Preferences](subsect_0325062748.md) — subsect_0325062748
+        - [Salesforce Connector Sync Triggers](section_1118052320.md) — section_1118052320
+          - [NetSuite: Salesforce Flag to Post Field](section_0220112357.md) — section_0220112357
+          - [Sync Triggers with Defined Criteria](section_0220112437.md) — section_0220112437
+        - [Review Default Mappings](section_1111041010.md) — section_1111041010
+        - [Test Syncs](section_1110050805.md) — section_1110050805
+        - [Load Historical Data](section_0602043250.md) — section_0602043250
+    - [Managing the Salesforce Connector in NetSuite Connector Platform](article_5165128945.md) — article_5165128945
+      - [Sync Prerequisites](section_0602050632.md) — section_0602050632
+      - [Error Report](section_0602050142.md) — section_0602050142
+      - [Preferences](section_0602050548.md) — section_0602050548
+      - [Manage Lookups](section_0602050717.md) — section_0602050717
+      - [Managing Data Mappings in NetSuite Connector Platform](article_1162338800.md) — article_1162338800
+        - [Working with the Mappings Screen](article_0331051141.md) — article_0331051141
+          - [Saving Changes to Data Mappings](section_0413104729.md) — section_0413104729
+          - [NetSuite Connector Platform Mappings Screen UI Elements](section_0406010105.md) — section_0406010105
+            - [About Data Mappings Table Columns](section_0331054353.md) — section_0331054353
+              - [Data Mappings for Salesforce Product to NetSuite Items Sync](section_0622015655.md) — section_0622015655
+              - [Data Mappings for NetSuite Items to Salesforce Products Sync](section_0622022218.md) — section_0622022218
+        - [Working with Salesforce Connector Mappings](article_0331073604.md) — article_0331073604
+          - [Applicable Filters for Salesforce Connector Syncs](section_0413094805.md) — section_0413094805
+        - [Troubleshooting Common Data Mappings Issues](article_0413020449.md) — article_0413020449
+      - [Salesforce Connector Syncs](article_4130552285.md) — article_4130552285
+        - [NetSuite Subsidiary to Salesforce Subsidiary Sync](article_0526010841.md) — article_0526010841
+          - [About the Subsidiary Sync](section_0526013402.md) — section_0526013402
+          - [Subsidiary Sync Triggers](section_0526013503.md) — section_0526013503
+          - [Custom Subsidiary Field Mapping](section_0324021803.md) — section_0324021803
+        - [Item and Product Syncs](article_0526013753.md) — article_0526013753
+          - [Supported Item Types](section_0526014416.md) — section_0526014416
+          - [Item and Product Sync Prerequisites](section_0526014449.md) — section_0526014449
+          - [NetSuite Item to Salesforce Product Sync](article_0526020156.md) — article_0526020156
+            - [Item Sync Triggers](section_0526020353.md) — section_0526020353
+          - [Salesforce Product to NetSuite Item Sync](article_0526020857.md) — article_0526020857
+            - [Product Sync Triggers](section_0526020952.md) — section_0526020952
+        - [Salesforce Connector Order Syncs](article_0526022514.md) — article_0526022514
+          - [Salesforce Opportunity to NetSuite Sales Order Sync](article_0526022652.md) — article_0526022652
+            - [Salesforce Opportunity to NetSuite Sales Order Sync Triggers](section_0526023011.md) — section_0526023011
+          - [NetSuite Sales Order to Salesforce Order Sync](article_0526023047.md) — article_0526023047
+            - [Sales Order to Order Sync Triggers](section_0526040529.md) — section_0526040529
+          - [NetSuite Fulfillment to Salesforce Fulfillment Sync](article_0526024130.md) — article_0526024130
+        - [NetSuite to Salesforce Financial Syncs](article_0526024653.md) — article_0526024653
+          - [NetSuite Invoice Sync to Salesforce Financial Record](article_0526024733.md) — article_0526024733
+            - [Invoice Sync Triggers](section_0526024840.md) — section_0526024840
+          - [NetSuite Payment Sync to Salesforce Financial Record](article_0526024903.md) — article_0526024903
+            - [Customer Payment Sync Triggers](section_0526024929.md) — section_0526024929
+          - [NetSuite Cash Sale to Salesforce Cash Sale Sync](article_0526024951.md) — article_0526024951
+            - [Cash Sale Sync Triggers](section_0526025040.md) — section_0526025040
+        - [NetSuite Customer to Salesforce Account Sync](article_0526025114.md) — article_0526025114
+        - [Salesforce Account to NetSuite Customer Sync](article_0526025922.md) — article_0526025922
+          - [Salesforce Account to NetSuite Customer Sync Triggers](section_0526030040.md) — section_0526030040
+        - [Contact Syncs](article_0526030312.md) — article_0526030312
+          - [NetSuite to Salesforce Contact Sync](article_0526051850.md) — article_0526051850
+            - [NetSuite to Salesforce Contact Sync Triggers](section_0526051920.md) — section_0526051920
+          - [Salesforce to NetSuite Contact Sync](article_0526052347.md) — article_0526052347
+            - [Salesforce to NetSuite Contact Sync Triggers](section_0526052456.md) — section_0526052456
+      - [Manual Posting for Syncs](section_0604050453.md) — section_0604050453
+      - [Troubleshooting Salesforce Connector](article_4143218202.md) — article_4143218202
+        - [Troubleshooting Salesforce Connector Data Sync Issues](section_0604054741.md) — section_0604054741
+        - [Troubleshooting Salesforce Connector Wizard Setup Issues](section_0605050307.md) — section_0605050307
+        - [Troubleshooting Salesforce Connector NetSuite Issues](section_0605051713.md) — section_0605051713
+        - [Troubleshooting Salesforce Connector Dataflow Issues](section_0819044350.md) — section_0819044350

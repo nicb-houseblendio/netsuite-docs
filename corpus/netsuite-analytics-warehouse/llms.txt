@@ -1,0 +1,19 @@
+# NetSuite Analytics Warehouse
+
+NetSuite Analytics Warehouse (33 pages): NetSuite Analytics Warehouse
+
+## Chapters
+- [NetSuite Analytics Warehouse](book_160812771740.md): - What's New in NetSuite Analytics Warehouse(https://docs.
+  - [What's New in NetSuite Analytics Warehouse](article_9115741179.md): NetSuite continues to add and enhance features for NetSuite Analytics Warehouse.
+  - [NetSuite Analytics Warehouse Overview](article_159309442275.md): Watch the following help video for information about NetSuite Analytics Warehouse: <a id="kalturaplayer45"</a With NetSuite Analytics Warehouse, you can broaden the analysis of your NetSuite data beyond what is currently available in SuiteAnalytics Workbook.
+  - [Setting Up NetSuite Analytics Warehouse](article_159472942033.md): NetSuite offers a hub that lets you access and set up your Analytics Warehouse instance.
+  - [NetSuite Analytics Warehouse Basics](article_160250775480.md): To work with data transferred to the Analytics Warehouse, go to the Configuration page and click Open NetSuite Analytics Warehouse.
+  - [Using Single Sign-On with NetSuite Analytics Warehouse](article_9113941774.md): You can use single sign-on (SSO) to go from NetSuite to your Analytics Warehouse instance without entering your login credentials.
+  - [Adding NetSuite Analytics Warehouse Workbooks to a Dashboard](article_4185035324.md): You can add your NetSuite Analytics Warehouse workbooks to your dashboard to have at-a-glance information about your business without having to log in to a different interface.
+  - [Merging Your NetSuite Accounts Data Into Your NetSuite Analytics Warehouse Instance](article_4155021337.md): If your company has more than one NetSuite production account, you can bring all the data together into a single Analytics Warehouse instance.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-analytics-warehouse

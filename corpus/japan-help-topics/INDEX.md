@@ -1,0 +1,165 @@
+# Japan Help Topics
+
+161 pages, category: Country-Specific Features
+
+- [Japan Help Topics](section_4169634320.md) — section_4169634320
+  - [NetSuite Japan Edition and Account Setup](section_1516686507.md) — section_1516686507
+  - [Setting Up Japan-specific Preferences](section_1522920167.md) — section_1522920167
+  - [Translation for Custom Elements for Japan](section_N1540594.md) — section_N1540594
+  - [Japanese Address Form](section_4356611610.md) — section_4356611610
+  - [Meeting Japanese Banking Requirements](section_N1535490.md) — section_N1535490
+  - [Using Japanese Accounting Periods](section_N1536024.md) — section_N1536024
+  - [Japan Localization SuiteApp](section_0726122106.md) — section_0726122106
+    - [Installing the Japan Localization SuiteApp](section_1516002472.md) — section_1516002472
+    - [Japan Localization SuiteApp Limitations and Best Practices](section_4367577095.md) — section_4367577095
+  - [Japan Localization Setup](section_159949887311.md) — section_159949887311
+  - [Support for Electronic Bookkeeping Act](section_1130053818.md) — section_1130053818
+  - [Japan Tax Topics](chapter_N1934076.md) — chapter_N1934076
+    - [Meeting Japanese Consumption Tax Requirements](section_N1535683.md) — section_N1535683
+    - [Using Tax Categories on Transactions and Journal Entries](bridgehead_N1938146.md) — bridgehead_N1938146
+    - [Japan Consumption Tax Overview](section_N1934460.md) — section_N1934460
+    - [Setting Up Consumption Tax - Japan](section_N1934652.md) — section_N1934652
+      - [Roles for Setting Up Japan Consumption Tax](bridgehead_1565765790.md) — bridgehead_1565765790
+      - [Setting Up Provisioned Tax Records](bridgehead_1565856602.md) — bridgehead_1565856602
+      - [Tax Preferences for Japan](bridgehead_N1934692.md) — bridgehead_N1934692
+      - [Tax Control Accounts for Japan](bridgehead_N1935017.md) — bridgehead_N1935017
+      - [Tax Codes for Japan](bridgehead_N1935056.md) — bridgehead_N1935056
+      - [Specifying Deductible Rate on Tax Code Records](subsect_0626103110.md) — subsect_0626103110
+      - [Tax Classifications for Japan](bridgehead_1565774729.md) — bridgehead_1565774729
+      - [Using Custom Tax Categories](bridgehead_N1938250.md) — bridgehead_N1938250
+    - [Setting Tax Rounding Methods - Japan](section_N1935242.md) — section_N1935242
+    - [Setting Tax Rounding Preferences for a Customer or Vendor - Japan](section_N1937473.md) — section_N1937473
+    - [Selecting Precision Settings - Japan](section_N1937177.md) — section_N1937177
+    - [Japan Consumption Tax Form](section_N1937672.md) — section_N1937672
+    - [Setting Print Option for Japan Consumption Tax Form](section_158329159628.md) — section_158329159628
+    - [What goes into each box - Japan Consumption Tax Form](section_4824768809.md) — section_4824768809
+    - [Deductible Purchase Tax for Japan](section_N1937846.md) — section_N1937846
+      - [Tax Categories for Individual Calculation of Deductible Purchase Tax](bridgehead_N1938040.md) — bridgehead_N1938040
+      - [Required Permissions for Roles that Work on Transactions Subject to Deductible Tax](subsect_0725115514.md) — subsect_0725115514
+      - [Overwriting Tax Amount After Deductible Purchase Tax is Calculated](section_1106103901.md) — section_1106103901
+    - [Specifying Qualified Invoice Issuer or Vendor Tax Exemption](section_0626101703.md) — section_0626101703
+    - [Japan Consumption Tax Reports](section_1565781755.md) — section_1565781755
+      - [Purchase Transactions with Tax Information](bridgehead_1565782232.md) — bridgehead_1565782232
+      - [Purchase Tax by Tax Category](bridgehead_1565782452.md) — bridgehead_1565782452
+      - [Sales by Tax Code](bridgehead_1565783166.md) — bridgehead_1565783166
+      - [Purchases by Tax Code](bridgehead_1565783459.md) — bridgehead_1565783459
+      - [Sales by Account](bridgehead_1565783693.md) — bridgehead_1565783693
+      - [Purchases by Account](bridgehead_1565783944.md) — bridgehead_1565783944
+  - [Japanese Invoicing](chapter_N1534283.md) — chapter_N1534283
+    - [Meeting Japanese Invoicing Requirements](section_N1536200.md) — section_N1536200
+    - [Japanese Invoicing Features](section_N1534603.md) — section_N1534603
+    - [Including Japan Localization Custom Fields in Custom Forms](section_4359065189.md) — section_4359065189
+      - [Including Japan Localization Custom Fields on Custom Customer Forms](article_1218013550.md) — article_1218013550
+      - [Including Japan Localization Custom Fields on Custom Invoice Forms](article_1218014142.md) — article_1218014142
+      - [Including Japan Localization Custom Fields on Custom Credit Memo Forms](article_1218014648.md) — article_1218014648
+      - [Including Japan Localization Custom Fields on Custom Vendor Forms](article_1218051842.md) — article_1218051842
+      - [Including Japan Localization Custom Fields on Custom Bill Forms](article_1218052242.md) — article_1218052242
+      - [Including Japan Localization Custom Fields on Custom Employee Forms](article_1218052513.md) — article_1218052513
+      - [Including Japan Localization Custom Fields on Custom Expense Report Forms](article_1218052730.md) — article_1218052730
+    - [Using Custom PDF Templates for Custom Transaction Forms](section_163284532674.md) — section_163284532674
+      - [Including Custom Fields on the PDF Template of Transaction Forms](article_1226024533.md) — article_1226024533
+      - [Default Content of Japan Custom PDF Templates](bridgehead_163284619192.md) — bridgehead_163284619192
+      - [Customizing Japan PDF Templates for Custom Transaction Forms](bridgehead_163284829030.md) — bridgehead_163284829030
+    - [Japanese Billing Cycle and Payment Terms](section_N1536510.md) — section_N1536510
+      - [Setting Up Japan Payment Terms](bridgehead_4292577772.md) — bridgehead_4292577772
+      - [Adding Japan Payment Terms Using Import Methods](section_4365112654.md) — section_4365112654
+      - [Setting Up Japanese Holidays to Validate Payment Due Dates](section_4355767272.md) — section_4355767272
+        - [Setting Up Japanese Holiday Types](bridgehead_4356411775.md) — bridgehead_4356411775
+        - [Including Translations for Japanese Holiday Types](bridgehead_4356409685.md) — bridgehead_4356409685
+        - [Creating Japanese Annual Holiday Date Records](bridgehead_4356417705.md) — bridgehead_4356417705
+        - [Assigning Annual Holiday Dates to Japanese Subsidiaries](bridgehead_4356428369.md) — bridgehead_4356428369
+      - [Setting Up Automatic Adjustment of Payment Due Date that Falls on a Holiday or Weekend](section_1512647947.md) — section_1512647947
+      - [Automatic Calculation and Adjustment of Closing Date and Payment Due Date on Transactions](bridgehead_1512648238.md) — bridgehead_1512648238
+    - [Enabling Compute Due Date](section_0809110403.md) — section_0809110403
+    - [Japanese Invoice Summary](section_N1536907.md) — section_N1536907
+      - [Roles and Permissions for Using Japanese Invoicing](section_4357171134.md) — section_4357171134
+      - [Setting the Preferred Form for the Invoice Summary Record](section_4357445509.md) — section_4357445509
+      - [Setting Up Auto-Generated Invoice Summary Numbers](section_4292736063.md) — section_4292736063
+      - [Setting the Invoice Summary Template](section_1547537829.md) — section_1547537829
+      - [Specifying Customers Who Use Invoice Summaries](bridgehead_N1537000.md) — bridgehead_N1537000
+      - [Support for Japan Qualified Invoicing System](section_0306032503.md) — section_0306032503
+      - [Generating Invoice Summary PDF per Customer](section_161531931259.md) — section_161531931259
+      - [Specifying Transactions for Inclusion in an Invoice Summary](bridgehead_N1537181.md) — bridgehead_N1537181
+      - [Applying a Customer Payment to an Invoice Summary](bridgehead_N1538934.md) — bridgehead_N1538934
+      - [Including Payment Adjustments in the Invoice Summary](section_159954224986.md) — section_159954224986
+      - [Including Discount Items in the Invoice Summary](section_163284887536.md) — section_163284887536
+      - [Defining Filters to Optimize Custom Statement Search](section_0809093050.md) — section_0809093050
+      - [Adding Field Values to the Invoice Summary Output](section_1547538342.md) — section_1547538342
+      - [Invoice Summary PDF File Naming](section_4356558397.md) — section_4356558397
+      - [Specifying a Folder to Save Invoice Summaries In](section_159954596474.md) — section_159954596474
+      - [Including Tax Registration Number on Invoice Summaries](section_161531915078.md) — section_161531915078
+      - [Consolidated Invoice Summary](section_164606685907.md) — section_164606685907
+      - [Generating a Japanese Invoice Summary](bridgehead_N1539302.md) — bridgehead_N1539302
+        - [Specifying Search Criteria for Transactions for Inclusion in the Invoice Summary](article_1226042814.md) — article_1226042814
+        - [Generating the Invoice Summary](article_1226042830.md) — article_1226042830
+      - [Sample Invoice Summary PDF File](bridgehead_4356592676.md) — bridgehead_4356592676
+      - [Regenerating an Invoice Summary for a Customer](section_4355754839.md) — section_4355754839
+      - [Viewing Invoice Summary Generation Status](section_159953645373.md) — section_159953645373
+      - [Deleting Failed Invoice Summary Generation Jobs](bridgehead_163284940780.md) — bridgehead_163284940780
+      - [Deleting an Invoice Summary and Reversing its AR Adjustment Item](section_0305112849.md) — section_0305112849
+      - [Invoice Summary Generation Errors](section_4355762776.md) — section_4355762776
+      - [Customizing the Japanese Invoice Summary XML Template](bridgehead_N1539711.md) — bridgehead_N1539711
+        - [Invoice Summary Template Number Format and Locale](bridgehead_4356587163.md) — bridgehead_4356587163
+        - [Invoice Summary Page Number](bridgehead_4356588719.md) — bridgehead_4356588719
+        - [Order of Tax Rates in Tax Details Section](subsect_165146793298.md) — subsect_165146793298
+        - [Invoice Summary Template Header Fields and Placeholders](bridgehead_3704189175.md) — bridgehead_3704189175
+        - [Summary Table Fields and Placeholders](bridgehead_4356591666.md) — bridgehead_4356591666
+        - [Transaction Details Table Fields and Placeholders](bridgehead_4356592181.md) — bridgehead_4356592181
+        - [Tax Details Table Fields and Placeholders](bridgehead_1565850092.md) — bridgehead_1565850092
+        - [Payment Details Table Fields and Placeholders](bridgehead_158329251684.md) — bridgehead_158329251684
+  - [Subcontract Act and Purchase Order Numbering](section_159950855634.md) — section_159950855634
+  - [Japan Fixed Assets Reports](section_162622782721.md) — section_162622782721
+    - [Installing the Japan Fixed Assets Report](section_162623133007.md) — section_162623133007
+    - [Roles for Using the Japan Fixed Assets Reports SuiteApp](section_162623196881.md) — section_162623196881
+    - [Prerequisite for FAM Asset Records](section_162624699935.md) — section_162624699935
+    - [Specifying Reporting Preferences for Depreciable Asset Tax Report](section_162623248469.md) — section_162623248469
+    - [Creating Depreciable Asset Types](section_162623877381.md) — section_162623877381
+    - [Specifying Depreciation Rate](section_162623963139.md) — section_162623963139
+    - [Specifying Reporting Years](section_162624601157.md) — section_162624601157
+    - [Specifying Reporting Information about Japan Subsidiaries](section_162624022636.md) — section_162624022636
+    - [Creating a Municipal Record](section_162624088294.md) — section_162624088294
+    - [Specifying Municipal Information](section_162624116882.md) — section_162624116882
+    - [Viewing Depreciable Assets List](section_162624164743.md) — section_162624164743
+    - [Specifying Municipal Transfer of an Asset](section_162624193997.md) — section_162624193997
+    - [Creating Depreciable Asset Records from FAM Asset Records](section_162624250665.md) — section_162624250665
+    - [Generating the Depreciable Asset Tax Reports](section_162624312504.md) — section_162624312504
+      - [Creating a Report Request](bridgehead_162624315119.md) — bridgehead_162624315119
+      - [Asset Data Compilation](bridgehead_162624356796.md) — bridgehead_162624356796
+      - [Compiling Tax Report Data](bridgehead_162624426309.md) — bridgehead_162624426309
+    - [Viewing Depreciable Asset Tax Reports List](section_162624490233.md) — section_162624490233
+    - [Importing DATR Depreciable Assets Using CSV Import](section_0313095834.md) — section_0313095834
+  - [Japan Financial Statements](section_1536555885.md) — section_1536555885
+    - [Prerequisites for Installing the Japan Financial Statements SuiteApp](subsect_0322041452.md) — subsect_0322041452
+    - [Installing the Japan Financial Statements SuiteApp](bridgehead_1536556188.md) — bridgehead_1536556188
+    - [Setting Permissions to Use Japan Financial Statements](bridgehead_1536560758.md) — bridgehead_1536560758
+    - [Japan Financial Statement Templates and Customization](bridgehead_1536563328.md) — bridgehead_1536563328
+      - [Balance Sheet Templates and Customization](section_0813095618.md) — section_0813095618
+      - [Income Statement Templates and Customization](section_0813100117.md) — section_0813100117
+      - [Trial Balance Templates and Customization](section_0813102435.md) — section_0813102435
+    - [Japan Comparative Balance Sheet](section_0306041948.md) — section_0306041948
+      - [Sample Comparative Balance Sheet](subsect_0904053715.md) — subsect_0904053715
+    - [Japan Comparative Income Statement](section_0306042055.md) — section_0306042055
+      - [Sample Comparative Income Statement](subsect_0904053401.md) — subsect_0904053401
+    - [Japan Trial Balance New](section_0306042140.md) — section_0306042140
+      - [Understanding Japan Trial Balance New](subsect_0312055618.md) — subsect_0312055618
+      - [Sample Trial Balance New](article_1229052112.md) — article_1229052112
+    - [Japanese Balance Sheet](section_1536564085.md) — section_1536564085
+      - [Setting Up Collapsible Rows on the Balance Sheet](section_158332042663.md) — section_158332042663
+      - [Sample Balance Sheet](article_1229052747.md) — article_1229052747
+    - [Japanese Income Statement](section_1536564630.md) — section_1536564630
+      - [Sample Income Statement](article_1229053225.md) — article_1229053225
+    - [Japanese Cash Flow Statement](section_1536565736.md) — section_1536565736
+      - [Sample Cash Flow Statement](article_1229053440.md) — article_1229053440
+    - [Japanese Trial Balance](section_157734525306.md) — section_157734525306
+      - [Sample Trial Balance](article_1229053737.md) — article_1229053737
+    - [Support for Accounting Context](section_157734620037.md) — section_157734620037
+  - [Using Japan-Specific Reports](section_4271817892.md) — section_4271817892
+    - [Invoice Summary Collection Calendar Report](section_4327112408.md) — section_4327112408
+  - [Using Tegatas](section_N1535257.md) — section_N1535257
+  - [Japan Payment Formats](section_N1627002.md) — section_N1627002
+    - [Support for Japan Zengin XML Payment Format](section_1547540023.md) — section_1547540023
+    - [Setting Up Company Bank Records in Japan](section_N1627354.md) — section_N1627354
+    - [Setting Up Bank Records of Vendors in Japan](section_N1628436.md) — section_N1628436
+    - [Setting Up Bank Records of Employees in Japan](section_N1628890.md) — section_N1628890
+    - [Setting Up Bank Records of Customers in Japan](section_N1629882.md) — section_N1629882
+    - [Setting Up Bank Records of Partners in Japan](section_3851223847.md) — section_3851223847

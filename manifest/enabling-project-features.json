@@ -1,0 +1,42 @@
+{
+  "branch": "enabling-project-features",
+  "generatedAt": null,
+  "pages": {
+    "preface_3714107248": {
+      "path": "corpus/enabling-project-features/preface_3714107248.md",
+      "title": "Projects",
+      "type": "preface",
+      "breadcrumb": "Projects",
+      "parent": null,
+      "category": "projects",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/preface_3714107248.html",
+      "etag": "\"0dc0967317da6c666c7eaee9eaabc794:1786980406.161262\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:24:23.831Z",
+      "sha256": "663147a0a37db8d852a7414aa1139b068c3ede77783f97c1cdf72d052f04e8e2",
+      "bytes": 3672,
+      "anchors": 1,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    },
+    "chapter_4740572949": {
+      "path": "corpus/enabling-project-features/chapter_4740572949.md",
+      "title": "Enabling Project Features",
+      "type": "chapter",
+      "breadcrumb": "Projects > Enabling Project Features",
+      "parent": "preface_3714107248",
+      "category": "projects",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_4740572949.html",
+      "etag": "\"8a57743f23ffb6d8e1974670d12f1df1:1786980397.142869\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T20:24:24.037Z",
+      "sha256": "653226e493031fcec5a45cd9635d804a6c0fa98dedc4e16e1c0d535ca6059ece",
+      "bytes": 4629,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

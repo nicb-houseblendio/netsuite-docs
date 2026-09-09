@@ -1,0 +1,17 @@
+# Inbound ASN Automation
+
+Inbound ASN Automation (10 pages): Inbound ASN Automation
+
+## Chapters
+- [Inbound ASN Automation](article_162866607671.md): Inbound ASN Automation Overview The Inbound Advance Ship Notice (ASN) Automation SuiteApp automatically creates an inbound shipment record from an ASN.
+  - [Supported Languages in Inbound ASN Automation SuiteApp](section_0120063725.md): You can view the Inbound ASN Automation SuiteApp pages in the following languages: - Chinese (Simplified) - Chinese (Traditional) - Czech - Danish - Dutch - English (U.
+  - [Setting Up Inbound ASN Automation](section_162920876432.md): Before you start using the Inbound Advance Ship Notice (ASN) Automation SuiteApp, you must complete the following setup: - Prerequisites(bridgehead162929072422) - Installing the Inbound ASN Automation SuiteApp(bridgehead163029940034) - Permissions for Inbound ASN Automation(bridgehead162929075675) - Providing Access to Deployment Records(bridgehead162978293390) - Setting Up General Preferences Prerequisites You must enable the following features.
+  - [Inbound ASN Automation Best Practices and Limitations](section_162929188762.md): Before using the Inbound ASN Automation SuiteApp, be aware of the current limitations and best practices.
+  - [Working with Inbound ASN Automation](section_162920910667.md): To begin working with the Inbound ASN Automation SuiteApp, complete the following tasks in the order specified: 1.
+  - [Inbound ASN Automation SuiteApp Scripts](section_162980933874.md): The following scripts are included with the Inbound ASN Automation SuiteApp: - IS MR ASNCreationRunner - When ASNs are uploaded through CSV or Web Services, this MR script gets triggered to create and validate the ASN records in real time.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch inbound-asn-automation

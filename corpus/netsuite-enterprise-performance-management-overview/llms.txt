@@ -1,0 +1,13 @@
+# NetSuite Enterprise Performance Management Overview
+
+NetSuite Enterprise Performance Management Overview (2 pages): NetSuite Enterprise Performance Management
+
+## Chapters
+- [NetSuite Enterprise Performance Management](book_5113648189.md): - NetSuite Enterprise Performance Management Overview(https://docs.
+  - [NetSuite Enterprise Performance Management Overview](article_8181446064.md): If you want to load data from NetSuite searches to Oracle Cloud Enterprise Performance Management (EPM) products, read the following help topics: - To facilitate connection between NetSuite and the Oracle Cloud EPM products, see NetSuite EPM Connector SuiteApp(https://docs.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-enterprise-performance-management-overview

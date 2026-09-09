@@ -1,0 +1,432 @@
+# Payment Processing
+
+428 pages, category: Order Management
+
+- [Payment Processing](preface_4739476790.md) — preface_4739476790
+  - [Payment Instruments](chapter_1538492538.md) — chapter_1538492538
+    - [User Interface with and without Payment Instruments](section_159246954538.md) — section_159246954538
+    - [Using the Handling Mode Field](section_158453792666.md) — section_158453792666
+    - [Payment Instruments Records](section_157062877911.md) — section_157062877911
+    - [Tokenization](section_1534257114.md) — section_1534257114
+    - [Storing Payment Instruments on File to Enable the Use of Merchant Initiated Transactions](section_159238724733.md) — section_159238724733
+  - [Payment Processing Options](preface_4289351924.md) — preface_4289351924
+    - [Customer Credit Card Processing](section_N1566458.md) — section_N1566458
+      - [Accepting Credit Card Payments](section_N1569326.md) — section_N1569326
+        - [Credit Card Authorization](section_N1567295.md) — section_N1567295
+        - [Issuing Credit Card Refunds](bridgehead_N1569907.md) — bridgehead_N1569907
+        - [Voiding Credit Card Transactions](bridgehead_N1570067.md) — bridgehead_N1570067
+      - [Maintaining Recurring Credit Card Payments](section_3887850446.md) — section_3887850446
+      - [Viewing Customer Credit Card Transactions](section_N1571967.md) — section_N1571967
+      - [Copying a Sales Order with a Credit Card Payment](bridgehead_N1569986.md) — bridgehead_N1569986
+      - [Payment Gateways](bridgehead_N1566955.md) — bridgehead_N1566955
+      - [Payment Events](bridgehead_N1569446.md) — bridgehead_N1569446
+      - [Setting Up Customer Credit Card Processing](section_N1572221.md) — section_N1572221
+        - [Establishing a Merchant Account](section_N1572500.md) — section_N1572500
+        - [Setting Up a Merchant Account with a Payment Gateway](section_N1572566.md) — section_N1572566
+        - [Setting Up Payment Processing Profiles in NetSuite](section_N1572588.md) — section_N1572588
+          - [CyberSource](section_N1573308.md) — section_N1573308
+          - [MerchantE](section_N1576356.md) — section_N1576356
+          - [WorldPay (UK) Limited](section_N1576712.md) — section_N1576712
+        - [Setting Up Regional Payment Gateways](section_N1577002.md) — section_N1577002
+          - [Payment Gateway](section_3803057063.md) — section_3803057063
+          - [AsiaPay](section_N1573186.md) — section_N1573186
+            - [AsiaPay Direct](section_1557795720.md) — section_1557795720
+            - [AsiaPay External Checkout](section_4609621020.md) — section_4609621020
+              - [Setting Up AsiaPay External Checkout Integration](section_4609624270.md) — section_4609624270
+              - [Using AsiaPay External Checkout Integration](section_4609637035.md) — section_4609637035
+          - [eWAY Rapid](section_4471740031.md) — section_4471740031
+            - [Retirement of Support for eWAY Gateway Integration](section_1492528191.md) — section_1492528191
+            - [Setup Requirements for eWay Rapid Integration](section_4651858847.md) — section_4651858847
+            - [Payer Authentication for eWay Rapid](section_4651871224.md) — section_4651871224
+            - [Creating Payment Methods for eWay Rapid](section_4651872567.md) — section_4651872567
+            - [Setting Up Payment Processing Profiles for eWay Rapid](section_4651872761.md) — section_4651872761
+          - [PayU Latin America External Checkout](section_4536913874.md) — section_4536913874
+            - [Setting Up PayU Latam External Checkout](section_4536934906.md) — section_4536934906
+            - [Using PayU Latam External Checkout Integration](section_4536966934.md) — section_4536966934
+          - [SecurePay and SecurePay FraudGuard](section_N1573049.md) — section_N1573049
+          - [VeriTrans](section_3843570937.md) — section_3843570937
+      - [Order Verification Rules](section_N1567770.md) — section_N1567770
+      - [Using CyberSource Decision Manager for Fraud Management](section_1492534842.md) — section_1492534842
+      - [Managing Payment Holds](section_N1570238.md) — section_N1570238
+      - [Setting Up Customer Credit Card Soft Descriptors](section_N1568841.md) — section_N1568841
+      - [Payment Card Number Security and Compliance](section_N1567137.md) — section_N1567137
+    - [Auto-charge Credit Card](chapter_1500449969.md) — chapter_1500449969
+      - [Installing the Auto-charge Credit Card SuiteApp](section_1502090674.md) — section_1502090674
+      - [Creating a Script Deployment for the Auto-charge Credit Card Script](section_1502087765.md) — section_1502087765
+    - [ACH Processing](section_N1558443.md) — section_N1558443
+      - [Electronic Funds Transfer (EFT)](section_N1564990.md) — section_N1564990
+      - [ACH Vendor Payments](section_N1578816.md) — section_N1578816
+    - [Alternative Non-Credit Card Payment Methods for Web Store Orders](section_4213266422.md) — section_4213266422
+    - [PayPal Express Checkout](section_N1578553.md) — section_N1578553
+    - [Electronic Bank Payments](chapter_N1585433.md) — chapter_N1585433
+      - [Electronic Bank Payments Overview](article_0708011034.md) — article_0708011034
+        - [Availability of Electronic Bank Payments License](bridgehead_N1585557.md) — bridgehead_N1585557
+        - [Supported Payment Formats](bridgehead_N1585572.md) — bridgehead_N1585572
+          - [EFT](bridgehead_3850011571.md) — bridgehead_3850011571
+          - [Direct Debit](bridgehead_3850011727.md) — bridgehead_3850011727
+          - [Positive Pay](bridgehead_3850011846.md) — bridgehead_3850011846
+          - [Global Payment Format](bridgehead_3850011968.md) — bridgehead_3850011968
+      - [Setting Up Electronic Bank Payments](section_3831186542.md) — section_3831186542
+        - [Prerequisites](bridgehead_N1586666.md) — bridgehead_N1586666
+        - [Installing the Electronic Bank Payments SuiteApp](bridgehead_N1586721.md) — bridgehead_N1586721
+        - [Setting Up Payments Tab Permissions](section_N1589991.md) — section_N1589991
+        - [Setting Up Roles and Permissions](bridgehead_N1586829.md) — bridgehead_N1586829
+        - [Multi-Language Support for the Electronic Bank Payments SuiteApp](section_1513648101.md) — section_1513648101
+        - [Segregation of Roles](article_1017112848.md) — article_1017112848
+          - [Managing Roles](article_1017113213.md) — article_1017113213
+          - [Roles Permissions](article_1017073821.md) — article_1017073821
+        - [Creating Folders in the NetSuite File Cabinet](section_N1590174.md) — section_N1590174
+        - [Setting Up Bank Records](section_N1590309.md) — section_N1590309
+        - [Setting Up Auto-Generated Numbers for Entity Records](section_161133364548.md) — section_161133364548
+        - [Setting Up Payment Aggregation Methods](section_N1592660.md) — section_N1592660
+        - [Importing Electronic Bank Payments Data](section_3739634016.md) — section_3739634016
+          - [Importing Fields for Payment File Formats](article_0810121938.md) — article_0810121938
+        - [Setting Up Multiple Script Queues or Processors to Generate Payment File Formats](section_N1669543.md) — section_N1669543
+          - [Defining a New Deployment for the Electronic Bank Payment Processing Scripts](bridgehead_N1669612.md) — bridgehead_N1669612
+          - [Setting Up Multiple Queues for Payment Processing in the Electronic Payments Preferences](bridgehead_N1669861.md) — bridgehead_N1669861
+            - [Best Practices in Setting Up Queue Management](bridgehead_4836940983.md) — bridgehead_4836940983
+            - [Limitations of Scheduled Script Settings](bridgehead_4836944967.md) — bridgehead_4836944967
+          - [Migrating Script Deployments to Use SuiteCloud Processors](bridgehead_1545122444.md) — bridgehead_1545122444
+        - [Setting Up Multi-Currency Payments Processing](section_N1670158.md) — section_N1670158
+        - [Adding the Payment Batch Processing Portlet](section_N1666182.md) — section_N1666182
+        - [Electronic Bank Payments Error Codes](section_1517875424.md) — section_1517875424
+          - [Company Bank Details](bridgehead_1517877497.md) — bridgehead_1517877497
+          - [Electronic Payments Encryption Suitelet](bridgehead_162252532790.md) — bridgehead_162252532790
+          - [Electronic Payments Preferences](bridgehead_1517875674.md) — bridgehead_1517875674
+          - [Entity Bank Details](bridgehead_1518486366.md) — bridgehead_1518486366
+          - [Instant Electronic Bank Payment File](bridgehead_1518483211.md) — bridgehead_1518483211
+          - [Payment File Administration Processing](bridgehead_1517877681.md) — bridgehead_1517877681
+          - [Payment Batches](bridgehead_1518503630.md) — bridgehead_1518503630
+          - [Payment File Formats](bridgehead_1517877895.md) — bridgehead_1517877895
+        - [Setting Up Approval Routing for Payment Batches](section_3824128426.md) — section_3824128426
+          - [Role Based Approval Routing in Payment Batches](subsect_0722034138.md) — subsect_0722034138
+        - [Override Vendor Payments Approval Setting](section_0722093046.md) — section_0722093046
+        - [Setting Up NACHA 2021 Data Security Rules](section_162245571630.md) — section_162245571630
+          - [Using the Encryption for Account Numbers](bridgehead_162246740412.md) — bridgehead_162246740412
+        - [Migrating ACH Bank Details to Electronic Bank Payments](section_0921022903.md) — section_0921022903
+        - [Electronic Bank Payments Limitations](section_1525995027.md) — section_1525995027
+        - [Payment File Template Request](section_1539152969.md) — section_1539152969
+          - [Localized Payment File Format](bridgehead_1539154461.md) — bridgehead_1539154461
+          - [Payment File Templates Ownership Transfer to Localization SuiteApps](bridgehead_157965874464.md) — bridgehead_157965874464
+            - [Guidelines for Payment File Templates Ownership Transfer to Localization SuiteApps](bridgehead_158098709540.md) — bridgehead_158098709540
+        - [Japan Zengin Bank Fee Calculation](section_1530060823.md) — section_1530060823
+          - [Setting Up Zengin Bank Fee Schedule](section_1530142532.md) — section_1530142532
+          - [Importing of Zengin Bank Fee Schedule](section_1530064681.md) — section_1530064681
+          - [Creating or Customizing Roles to Use Japan Zengin Bank Fee Feature](section_1536618629.md) — section_1536618629
+          - [Calculating Zengin Bank Fee when Processing Bill Payments](section_1530073593.md) — section_1530073593
+      - [Payment File Formats](section_N1675118.md) — section_N1675118
+        - [Setting up Payment File Formats](article_0810020317.md) — article_0810020317
+          - [Using Custom Payment Templates](bridgehead_4002290826.md) — bridgehead_4002290826
+          - [Using Standard Payment File Formats](bridgehead_4002287380.md) — bridgehead_4002287380
+          - [Payment File Template Changes in NetSuite Electronic Bank Payments 2019.1](bridgehead_1544059237.md) — bridgehead_1544059237
+          - [Payment File Template Changes in NetSuite Electronic Bank Payments 2019.2](bridgehead_156439189657.md) — bridgehead_156439189657
+          - [Payment File Template Changes in NetSuite Electronic Bank Payments 2020.2](bridgehead_159654604878.md) — bridgehead_159654604878
+          - [Payment File Template Changes in NetSuite Electronic Bank Payments 2021.2](bridgehead_162737945612.md) — bridgehead_162737945612
+        - [Creating Custom Payment File Templates](section_4002283749.md) — section_4002283749
+          - [Creating a New Custom Payment File Template](section_4002284424.md) — section_4002284424
+          - [Creating Custom Payment File Templates from Existing Payment File Templates](section_164380206742.md) — section_164380206742
+          - [Working with Advanced Templates](section_4002314169.md) — section_4002314169
+            - [Defining Start and End Tags in Advanced Templates](section_4002317050.md) — section_4002317050
+            - [Including Fields from NetSuite Records in Advanced Templates](section_4002356360.md) — section_4002356360
+              - [Company Bank Details Record](bridgehead_4002426200.md) — bridgehead_4002426200
+              - [Payment File Administration Record](subsect_0810023408.md) — subsect_0810023408
+            - [Including Fields from NetSuite Search Results in Advanced Templates](section_4002358114.md) — section_4002358114
+            - [FreeMarker Template Library for Electronic Bank Payments](section_4002359161.md) — section_4002359161
+              - [Functions](section_4002363281.md) — section_4002363281
+              - [Data](section_4002363977.md) — section_4002363977
+            - [Advanced Template Snippets](section_4004681785.md) — section_4004681785
+            - [Advanced Template Tips and Tricks](section_4004681943.md) — section_4004681943
+            - [Adding Field Validations to Custom Payment File Templates](section_4005561610.md) — section_4005561610
+            - [Reserved Words](section_4090351138.md) — section_4090351138
+        - [Payment Formats for Countries](article_0812105708.md) — article_0812105708
+          - [Austria Payment Formats](section_N1592839.md) — section_N1592839
+            - [Setting Up Company Bank Records in Austria](section_N1593207.md) — section_N1593207
+            - [Setting Up Bank Records of Vendors in Austria](section_N1594516.md) — section_N1594516
+            - [Setting Up Bank Records of Employees in Austria](section_N1594900.md) — section_N1594900
+            - [Setting Up Bank Records of Customers in Austria](section_N1595275.md) — section_N1595275
+            - [Setting Up Bank Records of Partners in Austria](section_3851092659.md) — section_3851092659
+          - [Australia Payment Formats](section_1542186025.md) — section_1542186025
+          - [Belgium Payment Formats](section_N1598164.md) — section_N1598164
+          - [Brazil Payment Formats](section_N1604270.md) — section_N1604270
+          - [Canada Payment Formats](section_N1608729.md) — section_N1608729
+          - [Czechia Payment Formats](section_3983337126.md) — section_3983337126
+            - [Setting Up Company Bank Records in Czechia](section_3983347931.md) — section_3983347931
+            - [Setting Up Bank Records of Vendors in Czechia](section_3983348285.md) — section_3983348285
+            - [Setting Up Bank Records of Employees in Czechia](section_3983348626.md) — section_3983348626
+            - [Setting Up Bank Records of Customers in Czechia](section_3983348818.md) — section_3983348818
+            - [Setting Up Bank Records of Partners in Czechia](section_3983348966.md) — section_3983348966
+          - [France Payment Formats](section_N1611157.md) — section_N1611157
+          - [Germany Payment Formats](section_N1614186.md) — section_N1614186
+          - [Hong Kong Payment Formats](section_4121609908.md) — section_4121609908
+            - [Setting Up Company Bank Records in Hong Kong](section_4121615137.md) — section_4121615137
+            - [Setting Up Bank Records of Vendors in Hong Kong](section_4122155750.md) — section_4122155750
+            - [Setting Up Bank Records of Employees in Hong Kong](section_4122276771.md) — section_4122276771
+            - [Setting Up Bank Records of Customers in Hong Kong](section_4122319412.md) — section_4122319412
+            - [Setting Up Bank Records of Partners in Hong Kong](section_4122334982.md) — section_4122334982
+          - [Hungary Payment Formats](section_N1617944.md) — section_N1617944
+            - [Setting Up Company Bank Records in Hungary](section_N1618309.md) — section_N1618309
+            - [Setting Up Bank Records of Vendors in Hungary](section_N1619283.md) — section_N1619283
+            - [Setting Up Bank Records of Employees in Hungary](section_N1619560.md) — section_N1619560
+            - [Setting Up Bank Records of Customers in Hungary](section_N1619835.md) — section_N1619835
+            - [Setting Up Bank Records of Partners in Hungary](section_3851211775.md) — section_3851211775
+          - [Ireland Payment Formats](section_N1620105.md) — section_N1620105
+          - [Isle of Man Payment Formats](section_4048051055.md) — section_4048051055
+            - [Setting Up Company Bank Records in Isle of Man](section_4048060600.md) — section_4048060600
+            - [Setting Up Bank Records of Vendors in Isle of Man](section_4048083822.md) — section_4048083822
+            - [Setting Up Bank Records of Employees in Isle of Man](section_4048091988.md) — section_4048091988
+            - [Setting Up Bank Records of Customers in Isle of Man](section_4048096955.md) — section_4048096955
+            - [Setting Up Bank Records of Partners in Isle of Man](section_4048101947.md) — section_4048101947
+          - [Italy Payment Formats](section_N1623115.md) — section_N1623115
+            - [Setting Up Company Bank Records in Italy](section_N1623480.md) — section_N1623480
+            - [Setting Up Bank Records of Vendors in Italy](section_N1625724.md) — section_N1625724
+            - [Setting Up Bank Records of Employees in Italy](section_N1626074.md) — section_N1626074
+            - [Setting Up Bank Records of Customers in Italy](section_N1626422.md) — section_N1626422
+            - [Setting Up Bank Records of Partners in Italy](section_3851217587.md) — section_3851217587
+          - [Japan Payment Formats](section_1517994294.md) — section_1517994294
+          - [Luxembourg Payment Formats](section_N1630311.md) — section_N1630311
+          - [Netherlands Payment Formats](section_1550463669.md) — section_1550463669
+          - [New Zealand Payment Formats](section_1542270088.md) — section_1542270088
+          - [Singapore Payment Formats](section_1544690273.md) — section_1544690273
+          - [South Africa Payment Formats](section_N1648257.md) — section_N1648257
+            - [Setting Up Company Bank Records in South Africa](section_N1648622.md) — section_N1648622
+            - [Setting Up Bank Records of Vendors in South Africa](section_N1649633.md) — section_N1649633
+            - [Setting Up Bank Records of Employees in South Africa](section_N1651301.md) — section_N1651301
+            - [Setting Up Bank Records of Customers in South Africa](section_N1651601.md) — section_N1651601
+            - [Setting Up Bank Records of Partners in South Africa](section_3851243283.md) — section_3851243283
+          - [Spain Payment Formats](section_N1651883.md) — section_N1651883
+          - [Sweden Payment Formats](section_157476938258.md) — section_157476938258
+          - [UK Payment Formats](section_N1656390.md) — section_N1656390
+          - [US Payment Formats](section_157242086066.md) — section_157242086066
+        - [Global Payment Formats](section_N1664266.md) — section_N1664266
+          - [Barclays MT103 Payment Format](section_4122394184.md) — section_4122394184
+            - [Setting Up Company Bank Records for Barclays MT103 Payments](section_4122945089.md) — section_4122945089
+            - [Setting Up Bank Records of Vendors for Barclays MT103 Payments](section_4122969359.md) — section_4122969359
+            - [Setting Up Bank Records of Employees for Barclays MT103 Payments](section_4122975229.md) — section_4122975229
+            - [Setting up Bank Records of Partners for Barclays MT103 Payments](section_4122978112.md) — section_4122978112
+          - [J.P. Morgan Freeform GMT Payment Format](section_4122407314.md) — section_4122407314
+            - [Setting Up Company Bank Records for J.P. Morgan Freeform GMT Payments](section_N1664376.md) — section_N1664376
+            - [Setting Up Bank Records of Vendors for J.P. Morgan Freeform GMT Payments](section_N1664682.md) — section_N1664682
+            - [Setting Up Bank Records of Employees for J.P. Morgan Freeform GMT Payments](section_N1664834.md) — section_N1664834
+            - [Setting Up Bank Records of Customers for J.P. Morgan Freeform GMT Payments](section_N1664981.md) — section_N1664981
+            - [Setting up Bank Records of Partners for J.P. Morgan Freeform GMT Payments](section_3854647220.md) — section_3854647220
+          - [Positive Pay Payment Format](section_4127585994.md) — section_4127585994
+          - [Setting Up Company Bank Records for Positive Pay](section_N1661730.md) — section_N1661730
+      - [Processing Payments](section_N1665126.md) — section_N1665126
+        - [Processing Bills and Expenses](section_N1665255.md) — section_N1665255
+          - [Processing Bills and Expenses in Batches](section_N1665332.md) — section_N1665332
+          - [Manually Processing Bills and Expenses](section_N1666511.md) — section_N1666511
+        - [Processing Customer Refunds](section_N1667516.md) — section_N1667516
+        - [Processing Payments from Customers](section_N1668006.md) — section_N1668006
+          - [Manually Processing Credit Memos and Invoices From Primary or Secondary Banks](section_0308104130.md) — section_0308104130
+        - [Processing Payments Using Secondary Bank Accounts](section_1528418988.md) — section_1528418988
+        - [Setting Up Primary Bank for Customer and Vendor Accounts with Multiple Subsidiaries](section_157974753932.md) — section_157974753932
+        - [Global Payments - Process Payments for Entities from Primary or Secondary Banks](section_164156687677.md) — section_164156687677
+          - [Batch Processing Bills and Expenses from Primary or Secondary Banks](section_0206021427.md) — section_0206021427
+          - [Manually Processing Bills and Expenses from Primary or Secondary Banks](section_164300395411.md) — section_164300395411
+        - [Process Transactions for Locked Posting Period](section_164201094029.md) — section_164201094029
+        - [Processing Payment Scripts Using SuiteScript 2.x](section_164304030705.md) — section_164304030705
+        - [Installment Payment Support](section_156455440863.md) — section_156455440863
+        - [Using Instant Electronic Bank Payment File Creation](section_4754712845.md) — section_4754712845
+          - [Defining Transaction Saved Searches for Electronic Bank Payment](section_4689209979.md) — section_4689209979
+          - [Creating Payment Files from Transactions for Electronic Bank Payment](section_4689182781.md) — section_4689182781
+          - [Managing Electronic Bank Payment Files](section_4750489064.md) — section_4750489064
+            - [Viewing Electronic Bank Payment Files](section_4689201016.md) — section_4689201016
+            - [Recreating Electronic Bank Payment Files](section_4750492346.md) — section_4750492346
+          - [Generating Bank Files for Vendor Prepayment Transactions](section_161099295846.md) — section_161099295846
+      - [Managing Electronic Bank Payments](section_N1669310.md) — section_N1669310
+        - [Auto Process Payment File Administration (PFA) Stuck in Queue](section_164199915913.md) — section_164199915913
+        - [Changing the Priority of a Queued Payment File](section_N1674867.md) — section_N1674867
+        - [Recreating a Payment File](section_3727317578.md) — section_3727317578
+        - [Reversing Payments](section_N1672279.md) — section_N1672279
+        - [Rollback](section_N1672610.md) — section_N1672610
+        - [Reprocessing Payments](section_N1672857.md) — section_N1672857
+        - [Removing Transactions from Payment Files](section_4750490863.md) — section_4750490863
+        - [Setting Schedules for Payment Batches](section_N1673790.md) — section_N1673790
+        - [Approving, Rejecting, or Editing Payment Batches](section_3826904294.md) — section_3826904294
+        - [Viewing Electronic Bank Payment Details](section_N1670421.md) — section_N1670421
+        - [Sending Payment Notifications](section_N1672006.md) — section_N1672006
+        - [Verifying Issued Checks with Positive Pay](section_N1673097.md) — section_N1673097
+      - [Electronic Bank Payments API](section_4024882882.md) — section_4024882882
+        - [Custom Payment Processing Suitelet for All Standard Suitelets](section_0723115254.md) — section_0723115254
+          - [Setting Up Custom Plug-in](section_0724120627.md) — section_0724120627
+          - [Creating a Suitelet File](section_0724122810.md) — section_0724122810
+          - [Getting the Default Form Object](section_0724071137.md) — section_0724071137
+          - [epPlugin.getEPForm Methods](section_0724075122.md) — section_0724075122
+            - [setPaymentType (pTypeParam)](section_0206100114.md) — section_0206100114
+            - [setGlobalPayment (globalParam)](section_0206033215.md) — section_0206033215
+            - [AddColumn (type, name, reference, isText, displayType, defaultValue, join)](section_0724080918.md) — section_0724080918
+            - [AddFilter(position, reference, type, label, displayType, defaultValue, helpText, source, maxLength)](section_0724095855.md) — section_0724095855
+            - [RemoveField(id)](section_0724082337.md) — section_0724082337
+            - [RemoveFilter(id)](section_0724084251.md) — section_0724084251
+          - [BuildUI()](section_0724083150.md) — section_0724083150
+          - [Getting the Form Object](section_0724120938.md) — section_0724120938
+          - [Passing the Context Response](section_0724121114.md) — section_0724121114
+          - [Example Custom Payment Processing Suitelet](section_0724085507.md) — section_0724085507
+          - [Setting Up a Custom Payment Processing Suitelet](section_0724090035.md) — section_0724090035
+          - [Default Fields - Custom Payment Processing Pages](section_0724032500.md) — section_0724032500
+          - [Default Filters - Custom Payment Processing Pages](section_0724030613.md) — section_0724030613
+        - [Custom Bill Payment Processing Suitelet](section_0723113601.md) — section_0723113601
+          - [EPPaymentSelectionForm Object](section_3999890741.md) — section_3999890741
+          - [EPPaymentSelectionForm Methods](section_4028857306.md) — section_4028857306
+            - [AddColumn (type, name, reference, isText, displayType, defaultValue, join)](section_4000003553.md) — section_4000003553
+            - [AddFilter(isDefaultFilter, reference, type, label, displayType, defaultValue, helpText, source, maxLength)](section_3908470574.md) — section_3908470574
+            - [BuildUI()](section_4000009649.md) — section_4000009649
+            - [RemoveField(id)](section_4000008539.md) — section_4000008539
+            - [RemoveFilter(id)](section_4000007427.md) — section_4000007427
+          - [Example Custom Bill Payment Processing Suitelet](section_0724085756.md) — section_0724085756
+          - [Setting Up a Custom Electronic Bank Payments Suitelet](section_4032472328.md) — section_4032472328
+          - [Default Columns - Custom Bill Payment Processing Page](section_4024163306.md) — section_4024163306
+          - [Default Fields - Custom Bill Payment Processing Page](section_4024135775.md) — section_4024135775
+          - [Default Filters - Custom Bill Payment Processing Page](section_4024076241.md) — section_4024076241
+    - [SFTP Connector SuiteApp](chapter_159722755550.md) — chapter_159722755550
+      - [Setting Up the SFTP Connector SuiteApp](section_159440966588.md) — section_159440966588
+      - [Roles and Permissions for SFTP Connector SuiteApp](section_159441031268.md) — section_159441031268
+      - [SFTP Connector Limitations](section_159584770685.md) — section_159584770685
+      - [Creating SFTP Connector Folders in NetSuite File Cabinet](section_159441074866.md) — section_159441074866
+      - [Setting Up Outbound Configuration Records](section_159441107365.md) — section_159441107365
+        - [Manual Payment File Transfer](section_159447102160.md) — section_159447102160
+        - [Schedule Payment File Transfer](section_159447106371.md) — section_159447106371
+      - [Encryption and Decryption Using Node Forge](section_163188201559.md) — section_163188201559
+      - [Setting Up Inbound Configuration Records](section_164369382027.md) — section_164369382027
+        - [Manual Payment File Download](section_164369384387.md) — section_164369384387
+        - [Schedule Payment File Download](section_164369388287.md) — section_164369388287
+      - [Setting Up Decryption Configuration Records](section_164369390133.md) — section_164369390133
+      - [SFTP Connector Error Codes](section_159447109129.md) — section_159447109129
+    - [Chargeback Workflow](chapter_4652069802.md) — chapter_4652069802
+      - [Setting Up the NetSuite Chargeback Workflow SuiteApp](section_4625378232.md) — section_4625378232
+      - [Configuring NetSuite Chargeback Workflow](section_4622000000.md) — section_4622000000
+      - [The Chargeback Record](section_4622000589.md) — section_4622000589
+      - [Chargeback Notifications](section_4628689060.md) — section_4628689060
+      - [Managing Multiple Currencies and Chargebacks](section_4640936905.md) — section_4640936905
+      - [Adding an Assignee to a Chargeback](section_4622003204.md) — section_4622003204
+      - [Adding Supporting Documents to a Chargeback](section_4622003444.md) — section_4622003444
+      - [Writing Off a Chargeback](section_4622005327.md) — section_4622005327
+      - [Chargeback Journal Entries](section_4622000912.md) — section_4622000912
+  - [Deduction and Chargeback Management](article_160249743622.md) — article_160249743622
+    - [Installing the Deduction and Chargeback Management SuiteApp](section_160213827340.md) — section_160213827340
+      - [Prerequisites for Deduction and Chargeback Management](section_160213842379.md) — section_160213842379
+      - [Creating or Customizing Roles for Deduction and Chargeback Management](section_160213879842.md) — section_160213879842
+    - [Deduction Management Preferences](section_160215777223.md) — section_160215777223
+    - [Deduction, Chargeback, and Small Balances Write Off Types](section_160215897231.md) — section_160215897231
+    - [Applying Deductions](section_160215934522.md) — section_160215934522
+    - [Applying Chargebacks](section_160215972234.md) — section_160215972234
+    - [Splitting Invoices](section_160216090048.md) — section_160216090048
+    - [Setting Small Balances Write Off Limits](section_160216093738.md) — section_160216093738
+    - [Scheduling Small Balances Write Off Script](section_160216105756.md) — section_160216105756
+  - [Rebates and Trade Promotions](article_163647289997.md) — article_163647289997
+    - [Rebate Types Used in Rebates and Trade Promotions SuiteApp](section_163647645540.md) — section_163647645540
+    - [Rebates and Trade Promotions Process Flow](section_163653640293.md) — section_163653640293
+    - [Rebates and Trade Promotions Limitations and Best Practices](section_163653469325.md) — section_163653469325
+      - [Rebates and Trade Promotions SuiteApp Limitations](subsect_164017469013.md) — subsect_164017469013
+      - [Best Practices for Rebates and Trade Promotions SuiteApp](subsect_164017472964.md) — subsect_164017472964
+    - [Guidelines for Transitioning to Rebates and Trades Promotions SuiteApp](section_0922060509.md) — section_0922060509
+    - [Transitioning from Rebate Management SuiteSolutions to Rebates and Trade Promotions SuiteApp](section_0921081212.md) — section_0921081212
+      - [Set up Rebates and Trade Promotions SuiteApp](article_1231011509.md) — article_1231011509
+      - [Specify Rebate Preferences](article_1231012030.md) — article_1231012030
+      - [Remove Rebate-related Fields on Transaction Forms](article_1231012227.md) — article_1231012227
+      - [Undeploy Scripts from Rebate Management SuiteSolutions](article_1231012403.md) — article_1231012403
+      - [Import Rebate Agreement Records](article_1231012544.md) — article_1231012544
+      - [Import Rebate Agreement Details Records](article_1231012933.md) — article_1231012933
+    - [Setting Up the Rebates and Trade Promotions SuiteApp](section_163653502681.md) — section_163653502681
+      - [Prerequisites for Rebates and Trade Promotions SuiteApp](section_163653688363.md) — section_163653688363
+      - [Installing the Rebates and Trade Promotions SuiteApp](section_163653731704.md) — section_163653731704
+      - [Rebates and Trade Promotions Roles and Permissions](section_163653769849.md) — section_163653769849
+      - [Creating Vendor and Customer Records for Rebates and Trade Promotions](section_163647652806.md) — section_163647652806
+      - [Creating Accounting Item Records for Rebates and Trade Promotions](section_164207784255.md) — section_164207784255
+    - [Setting Up Rebate Agreement Records](section_163653850315.md) — section_163653850315
+      - [Setting Rebate Preferences](section_163653866086.md) — section_163653866086
+      - [Editing Rebate Preferences](section_163653916215.md) — section_163653916215
+      - [Setting Up Custom Segments for Rebate Transactions](section_0731064013.md) — section_0731064013
+        - [Business Cases for Using Custom Segments in Rebates](article_1231072136.md) — article_1231072136
+      - [Creating a Rebate Agreement](section_163653945795.md) — section_163653945795
+        - [Rebate Agreement Fields](article_1231073906.md) — article_1231073906
+        - [Rebate Agreement Subtabs](subsect_163966653922.md) — subsect_163966653922
+      - [Adding Agreement Details](section_163654409520.md) — section_163654409520
+        - [Agreement Details Fields](article_1231080218.md) — article_1231080218
+      - [Editing Rebate Agreements and Agreement Details](section_163654496206.md) — section_163654496206
+    - [Adding Rebate Agreement Records Using CSV Import](section_0222025411.md) — section_0222025411
+      - [Guidelines for Importing Rebate Agreement Records](subsect_51202105201.md) — subsect_51202105201
+      - [CSV Template Locations of Rebate Agreement Records](subsect_54085355988.md) — subsect_54085355988
+      - [Sample CSV Agreement Detail Template](subsect_50104122033.md) — subsect_50104122033
+      - [Sample CSV Volume Rebate Tier Template](subsect_95120038709.md) — subsect_95120038709
+      - [Importing Rebate Agreements Using a CSV File](section_0222030923.md) — section_0222030923
+      - [Importing Agreement Details Using a CSV File](section_0222030950.md) — section_0222030950
+      - [Importing Rebate Tiers Using a CSV File](section_0222031010.md) — section_0222031010
+    - [Creating Transactions with Rebates](section_163654611059.md) — section_163654611059
+      - [Custom Rebate Columns on the Items Subtab](subsect_164013722633.md) — subsect_164013722633
+      - [Custom Rebate Fields on the Accounting Subtab](subsect_164013727566.md) — subsect_164013727566
+      - [Creating a Sales or Purchase Transaction with Rebates](section_163654836050.md) — section_163654836050
+    - [Adding Transactions Using CSV Import](section_0912042122.md) — section_0912042122
+    - [Rebates Applied to Transactions](section_163654976165.md) — section_163654976165
+      - [Best Deal on Rebates](section_163654992232.md) — section_163654992232
+        - [Best Deal Rebate Amount Display](subsect_44104608734.md) — subsect_44104608734
+        - [Rebate Agreements with Similar Rebate Amounts](subsect_163663216908.md) — subsect_163663216908
+      - [Manually Selecting a Rebate](section_163655007653.md) — section_163655007653
+      - [Stackable Rebates](section_0824105245.md) — section_0824105245
+      - [Rebates on Returns](section_164007418932.md) — section_164007418932
+        - [Returns Associated with Stackable Rebate Agreements](subsect_164008693287.md) — subsect_164008693287
+        - [Stand-alone Returns](subsect_164015928782.md) — subsect_164015928782
+        - [Linked Returns](subsect_164015931324.md) — subsect_164015931324
+      - [Rebates on Edited Transactions](section_163658963343.md) — section_163658963343
+        - [Considerations for Editing a Sales Transactions with Rebates](article_1231093509.md) — article_1231093509
+        - [Transaction Edit Preference](subsect_12213640360.md) — subsect_12213640360
+        - [Guidelines for Editing Sales Orders and Stand-alone Return Authorizations](subsect_164206532446.md) — subsect_164206532446
+        - [Guidelines for Editing Invoices and Other Transactions](subsect_164206535643.md) — subsect_164206535643
+      - [Rebate Calculations](section_163655093004.md) — section_163655093004
+        - [Real-Time Rebate Calculation](subsect_50125053536.md) — subsect_50125053536
+        - [Rebate Recalculation on Amount and Custom Field Change](subsect_0415023643.md) — subsect_0415023643
+        - [Negative Rebate Amount](subsect_67094124745.md) — subsect_67094124745
+        - [Calculation Basis Value](subsect_34082040581.md) — subsect_34082040581
+        - [UOM in Rebate Calculation](subsect_25074207185.md) — subsect_25074207185
+        - [Rebate Calculation on Item Types](subsect_43165106900.md) — subsect_43165106900
+        - [Examples of Rebate Calculations](section_0912062710.md) — section_0912062710
+          - [Flat Amount](subsect_164024227091.md) — subsect_164024227091
+          - [Percent (%) Calculation](subsect_164024234358.md) — subsect_164024234358
+          - [Fixed Cost](subsect_164024230508.md) — subsect_164024230508
+          - [Guaranteed Profit %](subsect_164024249122.md) — subsect_164024249122
+    - [Volume Rebates](section_63171459727.md) — section_63171459727
+      - [Tier Achievement with Volume Rebates](section_0906104428.md) — section_0906104428
+      - [Adding Volume Rebate Tiers](section_90180953089.md) — section_90180953089
+      - [Calculation Methods for Volume Rebates](section_25172236752.md) — section_25172236752
+      - [Recalculation of Volume Rebates](section_0522014919.md) — section_0522014919
+      - [Returns Associated with Volume Rebates](section_16172202301.md) — section_16172202301
+    - [Rebate Accruals](section_163658970847.md) — section_163658970847
+      - [Accrual Records](subsect_164140403643.md) — subsect_164140403643
+        - [Contents of an Accrual Record](subsect_164009080644.md) — subsect_164009080644
+        - [Accrual Record Subtab](subsect_75110328139.md) — subsect_75110328139
+      - [Accrual Reversal](subsect_164140421951.md) — subsect_164140421951
+    - [Rebate Settlements](section_163659015619.md) — section_163659015619
+      - [Pro Forma Generation](section_163659033644.md) — section_163659033644
+      - [Automatic Rebate Settlements](section_163659084427.md) — section_163659084427
+      - [Manual Rebate Settlements](section_163659109588.md) — section_163659109588
+        - [Generating Settlements Manually](subsect_163659120846.md) — subsect_163659120846
+    - [Rebate Settlement Records](section_163659300741.md) — section_163659300741
+      - [Contents of a Pro Forma or a Settlement Record](subsect_164009412884.md) — subsect_164009412884
+      - [CSV and PDF Files Attachment on the Pro Forma or Settlement Records](subsect_164009375608.md) — subsect_164009375608
+      - [Printing a Settlement Transaction Record](subsect_164140050590.md) — subsect_164140050590
+      - [Editing a Rebate Management Custom Form](subsect_164009546662.md) — subsect_164009546662
+  - [Customer Payments](section_N1285644.md) — section_N1285644
+    - [Applying a Payment on the Customer Payment Page](section_N1288824.md) — section_N1288824
+    - [Applying a Payment on an Invoice](section_N1289458.md) — section_N1289458
+    - [Correcting Payments to Invoices](section_N1292877.md) — section_N1292877
+    - [Entering Payment Information on a Transaction](section_4586835857.md) — section_4586835857
+    - [Creating Payment Processing Profiles](section_161891823865.md) — section_161891823865
+    - [Removing Credits from Deleted Customer Payments](section_N1292961.md) — section_N1292961
+    - [Reversing or Deleting Customer Payments](section_4744566376.md) — section_4744566376
+    - [Approving Customer Payments](section_4373987935.md) — section_4373987935
+      - [Approving Customer Payments that Have a Payment Hold](section_4373993906.md) — section_4373993906
+      - [Approving Online Customer Payments](section_N1294151.md) — section_N1294151
+    - [Managing Undeposited Customer Payments](section_N1294497.md) — section_N1294497
+    - [Consolidated Payments](section_N1288474.md) — section_N1288474
+    - [Payment Receipts](section_N1293235.md) — section_N1293235
+    - [Creating a Payment Method](section_N1292421.md) — section_N1292421
+      - [Importing Sales Orders with P/N Ref Identifiers](section_158385280263.md) — section_158385280263
+    - [Handling Returned/NSF Checks](section_N1295030.md) — section_N1295030
+      - [Correcting Account Balances for NSF Checks Using a Journal Entry](section_N1295419.md) — section_N1295419
+      - [Returned Check/NSF Fees](section_N1295837.md) — section_N1295837
+    - [Allowing Customers to Pay Online](section_N1293669.md) — section_N1293669
+    - [Payment Adjustments](article_0812103931.md) — article_0812103931
+  - [Customer Deposits](section_N1296349.md) — section_N1296349
+    - [Recording a Customer Deposit](section_N1296669.md) — section_N1296669
+    - [Applying a Customer Deposit](section_N1299826.md) — section_N1299826
+    - [Issue Refunds for Customer Deposits](section_N1300211.md) — section_N1300211

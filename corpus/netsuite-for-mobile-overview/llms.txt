@@ -1,0 +1,13 @@
+# NetSuite for Mobile Overview
+
+NetSuite for Mobile Overview (2 pages): NetSuite for Mobile
+
+## Chapters
+- [NetSuite for Mobile](book_1556538966.md): - NetSuite for Mobile Overview(https://docs.
+  - [NetSuite for Mobile Overview](chapter_1553504120.md): NetSuite for Mobile enables you to keep track of time, expenses, and key business metrics all from your phone.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch netsuite-for-mobile-overview

@@ -1,0 +1,85 @@
+# Close Management and Consolidation Sync SuiteApp
+
+81 pages, category: NetSuite Enterprise Performance Management
+
+- [Close Management and Consolidation Sync SuiteApp](article_33112718443.md) — article_33112718443
+  - [Close Management and Consolidation Sync Installation and Setup](article_98111940878.md) — article_98111940878
+    - [Required Features for Installing the Close Management and Consolidation Sync SuiteApp](article_9235947031.md) — article_9235947031
+    - [Installing the Close Management and Consolidation Sync SuiteApp](article_3205417852.md) — article_3205417852
+    - [Role Permissions for Close Management and Consolidation Sync Users](article_5000447485.md) — article_5000447485
+      - [Setting Up the NSEPM Implementer Role with Close Management and Consolidation Sync](article_0213120642.md) — article_0213120642
+        - [Best Practices for Using the NSEPM Implementer Role with Close Management and Consolidation Sync](article_0213120814.md) — article_0213120814
+        - [Assigning the NSEPM Implementer Role to a Close Management and Consolidation Sync User](article_0213121040.md) — article_0213121040
+        - [Customizing the NSEPM Implementer Role for Close Management and Consolidation Sync](article_0213121133.md) — article_0213121133
+    - [Setting Up the Integration User for Close Management and Consolidation Sync](article_4234457601.md) — article_4234457601
+      - [Setting Up the Integration User Record for Close Management and Consolidation Sync](article_0212114725.md) — article_0212114725
+      - [Customizing the FCCS Integration Role](article_0212114843.md) — article_0212114843
+    - [Setting Up Token-based Authentication for Close Management and Consolidation Sync](article_6005307189.md) — article_6005307189
+    - [Setting Up the Connection to Financial Consolidation and Close](article_3232205961.md) — article_3232205961
+      - [Using Basic Authentication to Connect to Financial Consolidation and Close](article_0212112442.md) — article_0212112442
+      - [Using OAuth 2.0 to Connect to Financial Consolidation and Close](article_0212112713.md) — article_0212112713
+    - [Scheduling Script Deployments for Close Management and Consolidation Sync](article_79171702538.md) — article_79171702538
+    - [Close Management and Consolidation Sync Configuration Checklist](article_7230647698.md) — article_7230647698
+    - [Saved Searches for Close Management and Consolidation Sync](article_4003122417.md) — article_4003122417
+      - [Creating Custom Saved Searches for Financial Consolidation and Close](article_0213124037.md) — article_0213124037
+      - [Creating Custom Saved Searches from Close Management and Consolidation Sync Record Types](article_0213124214.md) — article_0213124214
+    - [Managing the Close Management and Consolidation Saved Searches](article_5122158780.md) — article_5122158780
+      - [Creating a Close Management and Consolidation Sync Saved Search](article_0108123200.md) — article_0108123200
+      - [Recreating a Close Management and Consolidation Sync Saved Search](article_0114020606.md) — article_0114020606
+      - [Customizing a Close Management and Consolidation Sync Saved Search](article_0114020746.md) — article_0114020746
+    - [Saved Search Settings in Close Management and Consolidation Sync](article_3002017224.md) — article_3002017224
+      - [Customization of Executed Saved Searches in Close Management and Consolidation Sync](article_27204037129.md) — article_27204037129
+      - [Manual Export of Saved Search Metadata in Close Management and Consolidation Sync](article_0213122516.md) — article_0213122516
+    - [Metadata Export to Financial Consolidation and Close](article_54133214582.md) — article_54133214582
+      - [Supported Metadata Saved Searches in Close Management and Consolidation Sync](article_77133235333.md) — article_77133235333
+      - [Item Metadata](article_60133255482.md) — article_60133255482
+      - [Vendor Metadata](article_42133306270.md) — article_42133306270
+      - [Location Metadata](article_63133404510.md) — article_63133404510
+      - [Accounts Metadata](article_65133427087.md) — article_65133427087
+      - [Class Metadata](article_5133441471.md) — article_5133441471
+      - [Customer Metadata](article_9133448812.md) — article_9133448812
+      - [Department Metadata](article_29133504567.md) — article_29133504567
+      - [Subsidiary Metadata](article_0219053709.md) — article_0219053709
+      - [Creating the Hierarchy of Metadata in Close Management and Consolidation Sync](article_64133705355.md) — article_64133705355
+      - [Optimal Number of Metadata Records to Import to Financial Consolidation and Close](article_71133730937.md) — article_71133730937
+      - [Returning Metadata Hierarchy Based Only on Cloned Saved Search in Close Management and Consolidation Sync](article_35133742085.md) — article_35133742085
+      - [Account Type Mapping in Close Management and Consolidation Sync](article_22133754008.md) — article_22133754008
+      - [Item Type Mapping in Close Management and Consolidation Sync](article_74133801627.md) — article_74133801627
+    - [Account Metadata Hierarchy in Close Management and Consolidation Sync](article_7225241928.md) — article_7225241928
+    - [Using SuiteAnalytics Datasets with Close Management and Consolidation Sync](article_8150739241.md) — article_8150739241
+      - [Supported Close Management and Consolidation Sync Datasets](article_0114031034.md) — article_0114031034
+      - [Managing the Close Management and Consolidation Sync Datasets](article_0114031054.md) — article_0114031054
+        - [Creating a Close Management and Consolidation Sync Dataset](article_0114031114.md) — article_0114031114
+        - [Recreating a Close Management and Consolidation Sync Dataset](article_0114031135.md) — article_0114031135
+        - [Customizing a Created Close Management and Consolidation Sync Dataset](article_0114031152.md) — article_0114031152
+      - [Dataset Settings in Close Management and Consolidation Sync](article_0114031212.md) — article_0114031212
+        - [Customization of Close Management and Consolidation Sync Datasets](article_0114031532.md) — article_0114031532
+        - [Manual Export of Dataset Metadata in Close Management and Consolidation Sync](article_0114031556.md) — article_0114031556
+    - [Managing SuiteQL Queries in Close Management and Consolidation Sync](article_5165545662.md) — article_5165545662
+    - [Managing Jobs in Close Management and Consolidation Sync](article_9163303650.md) — article_9163303650
+      - [Adding a Job in Close Management and Consolidation Sync](article_54163337626.md) — article_54163337626
+      - [Scheduling a Job in Close Management and Consolidation Sync](article_85163503218.md) — article_85163503218
+      - [Executing a Job in Close Management and Consolidation Sync](article_0709102524.md) — article_0709102524
+      - [Job Types in Close Management and Consolidation Sync](article_95163533223.md) — article_95163533223
+        - [Business Rule in Close Management and Consolidation Sync](article_29163837462.md) — article_29163837462
+        - [Data Load Rule in Close Management and Consolidation Sync](article_25163933832.md) — article_25163933832
+        - [Group in Close Management and Consolidation Sync](article_14164108832.md) — article_14164108832
+        - [Import Data/Metadata in Close Management and Consolidation Sync](article_63164357124.md) — article_63164357124
+        - [Import Enterprise Journal in Close Management and Consolidation Sync](article_0122054649.md) — article_0122054649
+        - [Ruleset in Close Management and Consolidation Sync](article_61100045821.md) — article_61100045821
+      - [Viewing and Troubleshooting Job Execution Logs in Close Management and Consolidation Sync](article_9130119275.md) — article_9130119275
+    - [Substitution Variables in Close Management and Consolidation Sync](article_94145226695.md) — article_94145226695
+      - [Categorizing the Substitution Variables in Close Management and Consolidation Sync](article_98145334778.md) — article_98145334778
+      - [Creating and Customizing Categories for Substitution Variables in Close Management and Consolidation Sync](article_39145405494.md) — article_39145405494
+      - [Enabling Automatic Update of Substitution Variables Values in Close Management and Consolidation Sync](article_27145442023.md) — article_27145442023
+    - [Integration Artifacts in Close Management and Consolidation Sync](article_80082208674.md) — article_80082208674
+      - [Importing Enterprise Journals into NetSuite](article_90220328431.md) — article_90220328431
+      - [Setting Up Task Manager in NetSuite](article_0117084117.md) — article_0117084117
+      - [Loading Account Metadata into Financial Consolidation and Close](article_0311112432.md) — article_0311112432
+    - [Portlets for Close Management and Consolidation Sync](article_7151713061.md) — article_7151713061
+      - [Accessing NetSuite EPM Overview Portlets](article_0221032515.md) — article_0221032515
+      - [Close Management and Consolidation Sync Substitution Variables Portlet](article_0221032553.md) — article_0221032553
+      - [Close Management and Consolidation Sync Job Execution Portlet](article_57201919673.md) — article_57201919673
+      - [Close Management and Consolidation Sync Execution Logs Portlets](article_0221032649.md) — article_0221032649
+      - [Close Management and Consolidation Sync Checklist Portlet](article_0221032717.md) — article_0221032717
+  - [Close Management and Consolidation Sync Release Notes](article_54104649820.md) — article_54104649820

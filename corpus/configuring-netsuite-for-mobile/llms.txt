@@ -1,0 +1,23 @@
+# Configuring NetSuite for Mobile
+
+Configuring NetSuite for Mobile (16 pages): Configuring NetSuite for Mobile
+
+## Chapters
+- [Configuring NetSuite for Mobile](chapter_1554101917.md): The following sections cover topics related to configuring NetSuite for Mobile.
+  - [System Requirements](section_156518940453.md): The system requirements for iOS and Android devices are as follows: - NetSuite for iOS works on any device with iOS 18 or higher, but it's mainly designed for iPhone.
+  - [Mobile Security](section_1553523136.md): The following section covers topics related to mobile data security, the use of security questions, and IP address rules for the app.
+  - [Mobile Device Access Permission](section_158383508120.md): Administrators can manage who gets mobile access to NetSuite by enabling the Mobile Device Access permission for each role.
+  - [Setting Date and Number Formatting in NetSuite for Mobile](section_1553703991.md): The app uses the same date, time, and number formats as your device.
+  - [Setting the Time Zone in NetSuite for iOS](section_3775069733.md): The NetSuite for iOS app uses the time zone from your NetSuite account.
+  - [Setting the Language in NetSuite for Mobile](section_1553848933.md): The app takes the language settings from your browser session.
+  - [Configuring Maximum Entries in Dropdown Lists in NetSuite for Mobile](section_1553849266.md): The number of entries in a list of options determines which type of selector NetSuite displays: popup selector or roll selector.
+  - [Configuring Phone Call Logging in NetSuite for iOS](section_156163479756.md): Note: The Phone Call Logging feature is not available with Android devices.
+  - [Configuring the Tab Bar in NetSuite for iOS](section_156207479366.md): Note: The Tab bar is a feature specific to the iPhone version of the NetSuite app.
+  - [Push Notifications in NetSuite for iOS](section_158616627658.md): Push notifications are like instant messages sent to your device, reminding you about important information from your NetSuite account.
+  - [Changing App Settings](section_158695143885.md): See the following topics for information about how to change app settings in NetSuite for Mobile.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch configuring-netsuite-for-mobile

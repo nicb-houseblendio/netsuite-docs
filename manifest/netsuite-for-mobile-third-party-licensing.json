@@ -1,0 +1,24 @@
+{
+  "branch": "netsuite-for-mobile-third-party-licensing",
+  "generatedAt": null,
+  "pages": {
+    "article_5132938215": {
+      "path": "corpus/netsuite-for-mobile-third-party-licensing/article_5132938215.md",
+      "title": "NetSuite for Mobile Third Party Licensing",
+      "type": "article",
+      "breadcrumb": "NetSuite for Mobile > NetSuite for Mobile Third Party Licensing",
+      "parent": "book_1556538966",
+      "category": "netsuite-for-mobile",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_5132938215.html",
+      "etag": "\"9fb2312066dca548fa43a931a0eee3f0:1786980331.183304\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-08T21:39:33.394Z",
+      "sha256": "00406d5136efbc993abb8f031d7e4b6c5b4387ffa1611a85e78ad233271fff38",
+      "bytes": 859,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

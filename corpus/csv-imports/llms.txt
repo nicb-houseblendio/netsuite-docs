@@ -1,0 +1,18 @@
+# CSV Imports
+
+CSV Imports (334 pages): CSV Imports
+
+## Chapters
+- [CSV Imports](book_4470700566.md): - CSV Imports Overview(https://docs.
+  - [CSV Imports Overview](chapter_N342646.md): CSV import is the most commonly used method for transferring small to medium-sized data sets from other applications into NetSuite.
+  - [Importing CSV Files with the Import Assistant](chapter_N343158.md): You can use the Import Assistant for most imports of CSV data to NetSuite.
+  - [Guidelines for CSV Import Files](chapter_N356211.md): Note: To use the Import Assistant, you need full permission for the Import CSV File feature.
+  - [CSV Import Error Messages](chapter_4568635774.md): This section lists some of the common errors found during a CSV import and what you can do to correct the error.
+  - [Additional Import and Export Options](chapter_N463253.md): This section describes options for data import and export that do not use the CSV Import Assistant.
+  - [CSV Import FAQ](chapter_N3924743.md): See the questions and answers below for information about CSV Import.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch csv-imports

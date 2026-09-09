@@ -1,0 +1,24 @@
+{
+  "branch": "netsuite-connector",
+  "generatedAt": null,
+  "pages": {
+    "article_9105534539": {
+      "path": "corpus/netsuite-connector/article_9105534539.md",
+      "title": "NetSuite Connector",
+      "type": "article",
+      "breadcrumb": "Videos > NetSuite Connector",
+      "parent": "preface_1511796659",
+      "category": "videos",
+      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_9105534539.html",
+      "etag": "\"1c71be7b81f08ae3e2e4fb2c7e7d6e47:1786980348.942169\"",
+      "lastModified": null,
+      "fetchedAt": "2026-09-09T13:03:37.461Z",
+      "sha256": "695e8e5a4cc40959e8a267107bd2761227c002bae49d57f3102d37019c290ac3",
+      "bytes": 1211,
+      "anchors": 0,
+      "status": "ok",
+      "degraded": false,
+      "error": null
+    }
+  }
+}

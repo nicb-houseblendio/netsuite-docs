@@ -1,0 +1,163 @@
+# Philippines Help Topics
+
+159 pages, category: Country-Specific Features
+
+- [Philippines Help Topics](section_4198378394.md) — section_4198378394
+  - [General Setup](bridgehead_1552464981.md) — bridgehead_1552464981
+  - [Accounting](bridgehead_4256384078.md) — bridgehead_4256384078
+  - [Order Management](bridgehead_1552545641.md) — bridgehead_1552545641
+  - [Taxation Features for Accounts With SuiteTax](bridgehead_0625100435.md) — bridgehead_0625100435
+  - [Required SuiteApps](bridgehead_1552545856.md) — bridgehead_1552545856
+  - [Certification](bridgehead_1552558291.md) — bridgehead_1552558291
+  - [Setting up Philippines-specific Features and Preferences](section_1552558628.md) — section_1552558628
+    - [Enabled Features](bridgehead_1552539641.md) — bridgehead_1552539641
+    - [SuiteCloud and SuiteApps](bridgehead_1552539728.md) — bridgehead_1552539728
+    - [NetSuite Company Settings](bridgehead_1552540489.md) — bridgehead_1552540489
+    - [User Preferences](bridgehead_1552543343.md) — bridgehead_1552543343
+  - [Philippines Tax Topics](chapter_N1950898.md) — chapter_N1950898
+    - [Philippines Tax Codes](section_N1952432.md) — section_N1952432
+      - [Tax Code Table for the Philippines](bridgehead_N1952506.md) — bridgehead_N1952506
+    - [Accounting for Value Added Tax (VAT) - Philippines](section_N1954679.md) — section_N1954679
+      - [Posting the Net VAT to the VAT Liability Account](article_0227122957.md) — article_0227122957
+    - [VAT Reports - Philippines](section_N1955015.md) — section_N1955015
+      - [Setting Roles and Permissions for Philippines VAT Reports](bridgehead_N1955097.md) — bridgehead_N1955097
+      - [Setting Up Tax Filing for the Philippines](bridgehead_N1955261.md) — bridgehead_N1955261
+      - [Monthly and Quarterly VAT Reports for the Philippines](bridgehead_N1955366.md) — bridgehead_N1955366
+        - [What goes into each box - Philippines Monthly VAT Form 2550M](section_N1956367.md) — section_N1956367
+        - [Philippines Quarterly VAT Form 2550Q](article_0226025159.md) — article_0226025159
+          - [Box 35: Output VAT on Uncollected Receivables](article_0226031857.md) — article_0226031857
+          - [Box 36: Output VAT on Recovered Uncollected Receivables](article_0226031820.md) — article_0226031820
+          - [How Output VAT is Displayed in Search Results](article_0226031740.md) — article_0226031740
+          - [Updating Transactions to Write-off or Recover Bad Debt](article_0226032242.md) — article_0226032242
+            - [Updating Transactions through CSV Import](article_0226033650.md) — article_0226033650
+            - [Updating Transactions through Mass Update](article_0226033751.md) — article_0226033751
+      - [VAT RELIEF Reports](bridgehead_N1955531.md) — bridgehead_N1955531
+        - [Generating the Summary List of Sales (SLS) or Summary List of Purchases (SLP)](article_0227024832.md) — article_0227024832
+      - [Other Tax Reports](bridgehead_N1955688.md) — bridgehead_N1955688
+    - [Accounting for Creditable Withholding Tax - Philippines](section_N1960490.md) — section_N1960490
+    - [Setting Up Withholding Tax - Philippines](section_N1960928.md) — section_N1960928
+    - [Creating Withholding Tax Types - Philippines](section_N1961351.md) — section_N1961351
+    - [Creating Withholding Tax Codes - Philippines](section_N1961532.md) — section_N1961532
+    - [Creditable Withholding Tax Codes - Philippines](section_N1961761.md) — section_N1961761
+    - [Withholding Tax Reports - Philippines](section_N1966882.md) — section_N1966882
+    - [Specifying Withholding Tax Settings for Journal Entries](section_0610114601.md) — section_0610114601
+    - [Philippines Tax Reports](article_0804082242.md) — article_0804082242
+      - [Prerequisites for Philippines Tax Reports](article_0804082317.md) — article_0804082317
+      - [Installing the Philippines Tax Reports SuiteApp](article_0804082633.md) — article_0804082633
+      - [Tax Audit Files in Philippines Tax Reports](article_0804082346.md) — article_0804082346
+        - [Generating and Downloading a Tax Audit File in Philippines Tax Reports](article_0804082547.md) — article_0804082547
+    - [Philippines Tax Audit Files](section_N1967465.md) — section_N1967465
+      - [Philippines General Ledger](article_63125735788.md) — article_63125735788
+      - [Philippines General Journal](article_50130518656.md) — article_50130518656
+      - [Philippines Sales Journal](article_11131220910.md) — article_11131220910
+      - [Philippines Purchase Journal](article_22132003997.md) — article_22132003997
+      - [Philippines Cash Receipts Journal](article_19132705522.md) — article_19132705522
+      - [Philippines Cash Disbursement Journal](article_67133514002.md) — article_67133514002
+      - [Philippines Inventory Book](article_17134537447.md) — article_17134537447
+  - [Philippines Invoicing](section_157890644903.md) — section_157890644903
+    - [Philippines Invoicing Features Overview](article_1222020057.md) — article_1222020057
+      - [System Generated Document Details and Print Features](article_1218012549.md) — article_1218012549
+      - [Supported Document Types for Philippines Invoicing Templates](article_1218012658.md) — article_1218012658
+      - [BIR-Required Details](bridgehead_87104347609.md) — bridgehead_87104347609
+        - [Document Information](subsect_0805090016.md) — subsect_0805090016
+        - [Seller and Buyer Information](subsect_0805090033.md) — subsect_0805090033
+        - [Transaction Details](subsect_0805090130.md) — subsect_0805090130
+        - [Footer Details](subsect_0805090206.md) — subsect_0805090206
+        - [Discount Details](subsect_0805090225.md) — subsect_0805090225
+    - [Philippines Invoicing with SuiteTax in Southeast Asia Localization](article_0811032321.md) — article_0811032321
+    - [Setting Up Philippines Invoicing Features](section_157890772229.md) — section_157890772229
+      - [Prerequisites for the Southeast Asia Localization SuiteApp](article_1218021247.md) — article_1218021247
+      - [Installing the Southeast Asia Localization SuiteApp](article_1218021555.md) — article_1218021555
+      - [Roles and Permissions for Philippines Invoicing](section_157891587459.md) — section_157891587459
+        - [Roles and Permissions to Create Transactions with Document Numbering](bridgehead_22115404536.md) — bridgehead_22115404536
+        - [Permissions Required to Map Document Types to Transaction Forms](bridgehead_0408101548.md) — bridgehead_0408101548
+        - [Permissions Required to Print Philippines Invoicing Transactions](bridgehead_26115236936.md) — bridgehead_26115236936
+        - [Permissions Required to Update Philippines Document Printing Preferences](bridgehead_16144039037.md) — bridgehead_16144039037
+          - [Adding Access to a Script for a Custom Role](article_1219013611.md) — article_1219013611
+      - [Setting Up Additional Preferences for Philippines Invoicing](section_0418014651.md) — section_0418014651
+        - [Updating the Taxpayer Branch Code](section_163523035593.md) — section_163523035593
+        - [Displaying VAT Breakdown](section_158323048624.md) — section_158323048624
+        - [Specifying Liability on Philippines Documents](section_158323093230.md) — section_158323093230
+        - [Specifying the Address on Printed Forms](section_1103054329.md) — section_1103054329
+        - [Customizing Philippines Document Printing Preferences](section_81171704561.md) — section_81171704561
+        - [PDF/HTML Templates of Philippines Documents](section_0617042845.md) — section_0617042845
+          - [Customizing Philippines PDF/HTML Templates](article_1219025841.md) — article_1219025841
+          - [Renaming Philippines Documents](subsect_0611041920.md) — subsect_0611041920
+        - [Specifying Exempt Transactions](section_0702041727.md) — section_0702041727
+        - [Specifying the Seller Type on Philippines Documents](section_0702042351.md) — section_0702042351
+        - [Creating Discount Items for Philippines Invoicing](section_0805085015.md) — section_0805085015
+        - [Creating a Percentage Tax Code](section_0805082655.md) — section_0805082655
+          - [Creating a Percentage Tax Code for Accounts without SuiteTax](article_0811023555.md) — article_0811023555
+          - [Creating a Percentage Tax Code for Accounts with SuiteTax](article_0811023600.md) — article_0811023600
+        - [Assigning Permissions to Custom Roles for Philippines Invoicing](section_0805090716.md) — section_0805090716
+      - [Limitations of Philippines Invoicing Features](section_157898975600.md) — section_157898975600
+    - [Philippines Transaction Form Mapping and Invoicing Templates](section_157890872746.md) — section_157890872746
+      - [Document Types and Templates Preformatted for Philippines](bridgehead_78080634004.md) — bridgehead_78080634004
+      - [Mapping Preformatted Document Types and Templates to Transaction Forms](bridgehead_32122147908.md) — bridgehead_32122147908
+        - [Mapping Philippines Invoicing Templates to Transaction Forms](subsect_1219014820.md) — subsect_1219014820
+        - [Mapping Philippines Document Types to Custom Forms](subsect_1219014923.md) — subsect_1219014923
+      - [Specifying the Preferred Format for Sending Transactions Through Email](bridgehead_47122310385.md) — bridgehead_47122310385
+    - [Philippines Document Numbering Setup](section_157891055492.md) — section_157891055492
+      - [Setting Up Philippines Document Numbering](article_1219015500.md) — article_1219015500
+    - [Permit To Use (PTU) for Computerized Accounting System (CAS)](section_157891320550.md) — section_157891320550
+      - [Specifying PTU Details on Philippines Documents](article_1219015607.md) — article_1219015607
+    - [Support for Simplified System Registration for CAS Users](section_161531133306.md) — section_161531133306
+      - [Specifying Acknowledgment Certificate Details on Printed Philippines Documents](article_1219020009.md) — article_1219020009
+    - [Philippines Inclusive Serial Number](section_161531259282.md) — section_161531259282
+      - [Indicating Philippines Inclusive Serial Number on Philippines Documents](article_1219020141.md) — article_1219020141
+    - [Available Fields for Philippines Invoicing](section_0506043452.md) — section_0506043452
+    - [Printing Philippines Invoicing Transactions](section_161530891415.md) — section_161530891415
+      - [Changing the Printing Preference](bridgehead_162401091084.md) — bridgehead_162401091084
+      - [Displaying BIR-Required Details](bridgehead_163463327702.md) — bridgehead_163463327702
+      - [Labels and Watermarks in Philippines Invoicing Documents](bridgehead_15131955781.md) — bridgehead_15131955781
+        - [Sample BIR-Compliant Philippines Documents](article_1219023323.md) — article_1219023323
+      - [About Mixed Non-VAT Sales Invoices](bridgehead_0805081640.md) — bridgehead_0805081640
+  - [Philippines Localization](section_160131997443.md) — section_160131997443
+    - [BIR-Required Details](bridgehead_163947477950.md) — bridgehead_163947477950
+      - [Seller and Buyer Information](article_1219030455.md) — article_1219030455
+      - [Transaction Details](article_1219030420.md) — article_1219030420
+      - [Footer Details](article_1219030253.md) — article_1219030253
+    - [Setting Up Philippines Localization](article_1219031802.md) — article_1219031802
+      - [Prerequisites for the Philippines Localization SuiteApp](section_160132029316.md) — section_160132029316
+      - [Installing the Philippines Localization SuiteApp](section_160132073422.md) — section_160132073422
+      - [Configuring BIR-Compliant Invoicing Features](section_162391821540.md) — section_162391821540
+      - [Limitations of the Philippines Localization SuiteApp](section_160132152779.md) — section_160132152779
+        - [Merge and Send](bridgehead_160132163176.md) — bridgehead_160132163176
+        - [Unlocked Templates](bridgehead_160132172915.md) — bridgehead_160132172915
+        - [VAT Reg Number in Printing Multiple Invoices](bridgehead_160132178431.md) — bridgehead_160132178431
+        - [Custom Fields are Hidden if Locations Feature is Disabled](bridgehead_160132201605.md) — bridgehead_160132201605
+    - [Simplified System Registration for Computerized Accounting System (CAS) Users](section_162390883580.md) — section_162390883580
+      - [Permit To Use (PTU) for CAS](bridgehead_162390887863.md) — bridgehead_162390887863
+      - [Acknowledgement Certificate (AC) for CAS](bridgehead_162390964246.md) — bridgehead_162390964246
+    - [Philippines Localization Series Range](section_162391091866.md) — section_162391091866
+      - [Indicating Philippines Inclusive Serial Number on Philippines Documents](article_1219033348.md) — article_1219033348
+    - [Printing Philippines Localization Transactions](section_162391189397.md) — section_162391189397
+      - [Changing the Printing Preference](bridgehead_162391650018.md) — bridgehead_162391650018
+      - [Displaying BIR-Required Details](bridgehead_162391693050.md) — bridgehead_162391693050
+      - [Sample Sales Invoice and Transaction Status](article_1219033739.md) — article_1219033739
+    - [Transactions in Foreign Currency](section_0911063515.md) — section_0911063515
+      - [Printing Philippines Documents with Foreign Currency](bridgehead_0911064242.md) — bridgehead_0911064242
+      - [Sending Philippines Documents with Foreign Currency by Email](bridgehead_0911064850.md) — bridgehead_0911064850
+    - [Philippines Invoicing with SuiteTax](section_160132213655.md) — section_160132213655
+      - [Invoicing Features of the Philippines Localization SuiteApp](bridgehead_160132252335.md) — bridgehead_160132252335
+      - [Getting Started with Invoicing in the Philippines Localization SuiteApp](article_1222035517.md) — article_1222035517
+        - [Roles and Permissions for Philippines Invoicing with SuiteTax](section_160132342451.md) — section_160132342451
+          - [Roles and Permissions for Creating Philippines Transactions with Document Numbering](bridgehead_160139290365.md) — bridgehead_160139290365
+          - [Roles and Permissions for Printing Philippines Transactions or Sending by Email](bridgehead_160139512859.md) — bridgehead_160139512859
+          - [Assigning Permissions to Set Up Philippines Localization](bridgehead_0412094337.md) — bridgehead_0412094337
+          - [Adding Philippines Localization SPA Permissions](bridgehead_0417111529.md) — bridgehead_0417111529
+          - [Updating the Permissions of Existing Roles](bridgehead_0417112537.md) — bridgehead_0417112537
+          - [Adding the Required Script Deployment for Philippines Localization (OneWorld Accounts)](bridgehead_0417013938.md) — bridgehead_0417013938
+        - [Using Invoicing in the Philippines Localization SuiteApp](bridgehead_160132254406.md) — bridgehead_160132254406
+      - [Standard Philippines Forms and PDF/HTML Templates](section_160132331257.md) — section_160132331257
+      - [Customizing PDF/HTML Templates of Philippines Documents](section_160132334698.md) — section_160132334698
+      - [Transaction Form Mapping](section_160132337858.md) — section_160132337858
+        - [Using Philippines PDF/HTML Templates on Customized Forms](article_1219035224.md) — article_1219035224
+        - [Mapping Customized Transaction Forms to Philippines Document Types](article_1219035251.md) — article_1219035251
+      - [Document Numbering in Philippines Localization](section_160132340169.md) — section_160132340169
+        - [Setting Up Philippines Document Numbering](article_1219035614.md) — article_1219035614
+      - [Specifying Persons Who Processed Philippines Documents](section_160132355800.md) — section_160132355800
+      - [Setting Up Philippines Customer Details](section_160132358850.md) — section_160132358850
+        - [Specifying Customer's Default Tax Registration Number](article_1219040848.md) — article_1219040848
+        - [Specifying Customer's Business Style](article_1219040914.md) — article_1219040914
+      - [Excluding Items from Tax Summary Based on Tax Code Setup](section_160132361147.md) — section_160132361147

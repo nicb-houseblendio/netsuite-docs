@@ -1,0 +1,69 @@
+# Non-Profit Financial Management
+
+65 pages, category: Non-Profit Management
+
+- [Non-Profit Management](preface_1548271679.md) — preface_1548271679
+  - [Non-Profit Financial Management](chapter_1544043337.md) — chapter_1544043337
+    - [Setup for NFP Financials](section_1519241769.md) — section_1519241769
+      - [Installing NFP Financials](section_1534794923.md) — section_1534794923
+      - [Configuration for NFP Financials](section_1515161795.md) — section_1515161795
+        - [Roles and Permissions for NFP Financials](section_1515165318.md) — section_1515165318
+        - [Report Configuration](section_1539726239.md) — section_1539726239
+      - [Custom Segments for NFP Financials](section_1519241750.md) — section_1519241750
+        - [Permissions for NFP Financials Custom Segments](section_1536534144.md) — section_1536534144
+      - [Creating Segment Codes](section_1520437461.md) — section_1520437461
+      - [Modifying or Inactivating Segment Codes](section_1536178243.md) — section_1536178243
+      - [Constituents](section_1536271516.md) — section_1536271516
+      - [Creating a Program](section_1545077933.md) — section_1545077933
+      - [Items for Revenue and Expense](section_1536275392.md) — section_1536275392
+    - [Revenue Restriction Management](section_1526407369.md) — section_1526407369
+      - [Setting Restrictions on Contributions](section_1515168541.md) — section_1515168541
+      - [Release from Use Restriction Report](section_1538060186.md) — section_1538060186
+      - [Release from Time Restriction](section_1539716420.md) — section_1539716420
+      - [Releasing Revenue from Restrictions](section_1526407397.md) — section_1526407397
+    - [Grant Management](section_1518029025.md) — section_1518029025
+      - [Creating a Grant](section_1519955860.md) — section_1519955860
+      - [Editing a Grant](section_1524856990.md) — section_1524856990
+      - [Setting Grant Receivables](section_1551131553.md) — section_1551131553
+      - [Creating a Grant Opportunity](section_1518029231.md) — section_1518029231
+        - [Converting a Grant Opportunity](section_1526479272.md) — section_1526479272
+        - [Invoicing Grant Opportunities](section_1551133580.md) — section_1551133580
+      - [Creating a Grant Milestone](section_1523652604.md) — section_1523652604
+      - [Upcoming Grant Milestones Report](section_1538059229.md) — section_1538059229
+      - [Grant Statement of Activity](section_1537909702.md) — section_1537909702
+      - [Overdue Grant Payments](section_1534116394.md) — section_1534116394
+      - [Unbilled Grants Report](section_1537991891.md) — section_1537991891
+    - [Pledge and Donation Management](section_1519955881.md) — section_1519955881
+      - [Creating Pledges](section_1519955901.md) — section_1519955901
+      - [Invoicing Pledges](section_1525122362.md) — section_1525122362
+      - [Creating Cash Donations](section_1519955925.md) — section_1519955925
+      - [Writing off Pledge or Grant Receivables](section_1525122459.md) — section_1525122459
+    - [Creating Merchandise Sales](section_1519956611.md) — section_1519956611
+    - [Non-Profit Specific Reports](section_1526492472.md) — section_1526492472
+      - [Non-Profit Financial Reports](section_1526492826.md) — section_1526492826
+        - [Statement of Activity](section_1534097812.md) — section_1534097812
+        - [Statement of Cash Flow](section_1537569297.md) — section_1537569297
+        - [Statement of Financial Position](section_1537569353.md) — section_1537569353
+        - [Statement of Functional Expense](section_1537569375.md) — section_1537569375
+        - [Restricted Revenue by Account](section_1534110752.md) — section_1534110752
+        - [Restricted Revenue by Program](section_1534111464.md) — section_1534111464
+      - [Non-Profit Revenue Reports](section_1526492843.md) — section_1526492843
+        - [Program Revenue by Month](section_1534104897.md) — section_1534104897
+        - [Program Revenue by Year](section_1537655290.md) — section_1537655290
+        - [Program Revenue Detail](section_1534112448.md) — section_1534112448
+        - [Revenue Stream Distribution by Month](section_1537655336.md) — section_1537655336
+        - [Revenue Stream Distribution by Year](section_1537655365.md) — section_1537655365
+        - [Revenue Stream Distribution Detail](section_1537655445.md) — section_1537655445
+        - [Comparative Revenue Summary](section_1537655478.md) — section_1537655478
+        - [Giving Statistics by Constituent](section_1529004898.md) — section_1529004898
+        - [Giving Statistics by Program](section_1534103614.md) — section_1534103614
+        - [Giving Statistics by Type](section_1534104561.md) — section_1534104561
+      - [Non-Profit Expense Reports](section_1526492854.md) — section_1526492854
+        - [Program Expenses by Year](section_1534105367.md) — section_1534105367
+        - [Program Expense Detail](section_1534105326.md) — section_1534105326
+        - [Net Assets by Program](section_1534101485.md) — section_1534101485
+        - [Grant Expenses by Year](section_1537977836.md) — section_1537977836
+        - [Grant Expense Detail](section_1537987850.md) — section_1537987850
+        - [Net Assets by Grant](section_1526492915.md) — section_1526492915
+        - [Comparative Expense Summary](section_1537924242.md) — section_1537924242
+      - [Non-Profit LYBUNT and SYBUNT Reports](section_161322451356.md) — section_161322451356

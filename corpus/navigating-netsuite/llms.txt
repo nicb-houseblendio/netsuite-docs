@@ -1,0 +1,23 @@
+# Navigating NetSuite
+
+Navigating NetSuite (24 pages): Navigating NetSuite
+
+## Chapters
+- [Navigating NetSuite](section_N474404.md): This section provides an overview of the basic user interface (UI) elements and navigation features in NetSuite.
+  - [Finding Your NetSuite Account ID](section_1498754928.md): You don't need to know your NetSuite account ID to use NetSuite.
+  - [Header and Menus](section_N474479.md): The header area of NetSuite pages is locked and always remains accessible at the top.
+  - [Centers](section_164208316196.md): A center is a set of tabbed pages that changes based on your role.
+  - [Dashboards](section_4320707520.md): When you log in, NetSuite opens your home page.
+  - [Global Search](section_4307693953.md): The NetSuite global search tool enables you to find any type of record from a single keyword query.
+  - [Create New Menu](section_N588325.md): The Create New menu appears in the NetSuite header.
+  - [QuickViews](section_N474793.md): QuickViews let you quickly see the most important details of a record.
+  - [Keyboard Shortcuts](section_N474926.md): The following are useful keyboard shortcuts you can use in NetSuite.
+  - [Popup and Dropdown Lists](section_N474536.md): When you're selecting from a long list of records in a NetSuite field, you can use built-in features like autocompletion and popup lists to save time.
+  - [Buttons and Menus in NetSuite](section_4180852421.md): Each button in NetSuite serves a specific purpose and has the ability to fulfill individual business needs.
+  - [Text Enhance](article_2171112518.md): Text Enhance uses generative AI to assist you with writing business content in NetSuite.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch navigating-netsuite
