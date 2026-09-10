@@ -37,24 +37,6 @@
       "status": "ok",
       "degraded": false,
       "error": null
-    },
-    "article_159531755298": {
-      "path": "corpus/glossary/article_159531755298.md",
-      "title": "Area-Specific Glossaries",
-      "type": "article",
-      "breadcrumb": "Additional Resources > Glossary > Area-Specific Glossaries",
-      "parent": "book_N3928385",
-      "category": "additional-resources",
-      "source": "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/article_159531755298.html",
-      "etag": "\"c5fac269c8e755d6e7630fa73fc91d19:1786980289.071883\"",
-      "lastModified": null,
-      "fetchedAt": "2026-09-09T13:03:44.826Z",
-      "sha256": "5f24746c3d497c45e9d9c98edb994182a57e28d8a1c4da7c324e97733da39df3",
-      "bytes": 2317,
-      "anchors": 0,
-      "status": "ok",
-      "degraded": false,
-      "error": null
     }
   }
 }
