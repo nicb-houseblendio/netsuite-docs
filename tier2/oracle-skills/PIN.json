@@ -1,0 +1,136 @@
+{
+  "commit": "03d349ecbed3dd3f1f0557e964268d5d21663e68",
+  "date": "2026-09-10T11:46:09.578Z",
+  "skills": [
+    {
+      "name": "add-client",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "agenda",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "arch-options",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "creating-claude-md",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "demo-trace",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "deploy-runbook",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "memory-gardener",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "netsuite-ai-connector-instructions",
+      "status": "upstream-only",
+      "files": []
+    },
+    {
+      "name": "netsuite-finance-analyst",
+      "status": "upstream-only",
+      "files": []
+    },
+    {
+      "name": "netsuite-owasp-secure-coding",
+      "status": "held-unchanged",
+      "files": []
+    },
+    {
+      "name": "netsuite-sdf-project-documentation",
+      "status": "upstream-only",
+      "files": []
+    },
+    {
+      "name": "netsuite-sdf-roles-and-permissions",
+      "status": "held-unchanged",
+      "files": []
+    },
+    {
+      "name": "netsuite-sdf-safe-guide",
+      "status": "held-unchanged",
+      "files": []
+    },
+    {
+      "name": "netsuite-suitescript-learning",
+      "status": "upstream-only",
+      "files": []
+    },
+    {
+      "name": "netsuite-suitescript-records-reference",
+      "status": "held-unchanged",
+      "files": []
+    },
+    {
+      "name": "netsuite-suitescript-upgrade",
+      "status": "held-unchanged",
+      "files": []
+    },
+    {
+      "name": "netsuite-uif-spa-reference",
+      "status": "upstream-only",
+      "files": []
+    },
+    {
+      "name": "ns-docs",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "qrg",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "rtm",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "session-calendar",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "solution-design",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "sow",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "spec-feature",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "uat-plan",
+      "status": "local-only",
+      "files": []
+    },
+    {
+      "name": "workplan",
+      "status": "local-only",
+      "files": []
+    }
+  ]
+}
