@@ -9,3 +9,11 @@
 2026-09-10T03:25:00.053Z refresh  check=current toc=unchanged weekly=unchanged sample=0/364 candidates=0 fetched=0 failed=0 index=skipped selftest=skipped duration=00:00:55 exit=0 commit=none push=skipped
 2026-09-10T03:27:22.802Z check    toc=unchanged weekly=unchanged sample=0/266 candidates=0 exit=0
 2026-09-10T03:27:39.538Z check    toc=unchanged weekly=unchanged sample=0/266 candidates=0 exit=0
+2026-09-10T03:27:41.309Z refresh  check=current toc=unchanged weekly=unchanged sample=0/266 candidates=0 fetched=0 failed=0 index=current selftest=skipped duration=00:00:18 exit=0 commit=8f29bf84 push=ok
+2026-09-10T03:27:57.208Z check    toc=unchanged weekly=unchanged sample=0/266 candidates=0 exit=0
+2026-09-10T03:28:35.761Z targeted concurrency=2 enumerated=1 fetched=1 unchanged=0 byhash=0 healed=0 failed=0 removed=0 degraded=0 duration=00:00:00 exit=0 run=20260910T032835Z-targeted-f5b846
+2026-09-10T03:28:43.916Z check    toc=unchanged weekly=unchanged sample=0/260 candidates=0 exit=0
+2026-09-10T03:37:36.833Z check    toc=unchanged weekly=unchanged sample=0/261 candidates=1 exit=3
+2026-09-10T03:37:48.021Z check    toc=unchanged weekly=unchanged sample=0/261 candidates=1 exit=3
+2026-09-10T03:37:48.961Z heal     concurrency=2 enumerated=1 fetched=0 unchanged=0 byhash=0 healed=1 failed=0 removed=0 degraded=0 duration=00:00:00 exit=0 run=20260910T033748Z-heal-a659ea
+2026-09-10T03:37:49.912Z targeted concurrency=2 enumerated=1 fetched=0 unchanged=1 byhash=0 healed=0 failed=0 removed=0 degraded=0 duration=00:00:00 exit=0 run=20260910T033749Z-targeted-68eeb9

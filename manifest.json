@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T13:03:48.408Z",
+  "generatedAt": "2026-09-10T03:37:49.494Z",
   "release": "2026.2",
-  "censusGeneratedAt": "2026-09-08T19:08:33.180Z",
+  "censusGeneratedAt": "2026-09-09T13:04:35.123Z",
   "tocEtag": "\"9da95a850e79e857a473f052d4be0e16:1786980826.391738\"",
   "tocLastModified": "Mon, 17 Aug 2026 15:17:45 GMT",
   "branches": [
@@ -2071,21 +2071,21 @@
     }
   ],
   "stats": {
-    "fetched": 37,
-    "unchanged": 0,
+    "fetched": 0,
+    "unchanged": 1,
     "unchangedByHash": 0,
     "healed": 0,
     "failed": 0,
     "removed": 0,
     "degraded": 0,
-    "durationMs": 12143,
+    "durationMs": 109,
     "partial": false
   },
   "lastRun": {
-    "runId": "20260908T195545Z-all-e12f2d",
-    "mode": "all",
-    "startedAt": "2026-09-09T13:03:36.265Z",
-    "finishedAt": "2026-09-09T13:03:48.408Z"
+    "runId": "20260910T033749Z-targeted-68eeb9",
+    "mode": "targeted",
+    "startedAt": "2026-09-10T03:37:49.385Z",
+    "finishedAt": "2026-09-10T03:37:49.494Z"
   },
   "lastFullSweep": null
 }
