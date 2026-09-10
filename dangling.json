@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-10T03:38:15.070Z",
+  "generatedAt": "2026-09-10T17:29:59.631Z",
   "manifestGeneratedAt": "2026-09-10T03:37:49.494Z",
   "counts": {
     "internal": 247728,
     "resolved": 222978,
     "dangling": 24750,
     "anchorsUnresolved": 5,
-    "external": 4573,
+    "external": 4638,
     "images": 7877
   },
   "dangling": [
@@ -24997,7 +24997,7 @@
     "www.netsuite.com": 47,
     "system.netsuite.com": 1994,
     "suiteanswers.custhelp.com": 305,
-    "github.com": 74,
+    "github.com": 139,
     "videohub.oracle.com": 429,
     "www.typescriptlang.org": 2,
     "suiteapp.com": 6,

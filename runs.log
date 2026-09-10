@@ -17,3 +17,10 @@
 2026-09-10T03:37:48.021Z check    toc=unchanged weekly=unchanged sample=0/261 candidates=1 exit=3
 2026-09-10T03:37:48.961Z heal     concurrency=2 enumerated=1 fetched=0 unchanged=0 byhash=0 healed=1 failed=0 removed=0 degraded=0 duration=00:00:00 exit=0 run=20260910T033748Z-heal-a659ea
 2026-09-10T03:37:49.912Z targeted concurrency=2 enumerated=1 fetched=0 unchanged=1 byhash=0 healed=0 failed=0 removed=0 degraded=0 duration=00:00:00 exit=0 run=20260910T033749Z-targeted-68eeb9
+2026-09-10T03:38:19.546Z refresh  check=drift toc=unchanged weekly=unchanged sample=0/261 candidates=1 fetched=0 healed=1 removed=0 failed=0 index=rebuilt selftest=pass duration=00:00:42 exit=0 commit=cbcdaab6 push=ok
+2026-09-10T03:38:30.353Z check    toc=unchanged weekly=unchanged sample=0/261 candidates=0 exit=0
+2026-09-10T03:38:43.893Z check    toc=unchanged weekly=unchanged sample=0/261 candidates=0 exit=0
+2026-09-10T03:38:43.913Z refresh  check=current toc=unchanged weekly=unchanged sample=0/261 candidates=0 fetched=0 healed=0 removed=0 failed=0 index=current selftest=skipped duration=00:00:13 exit=0 commit=none push=skipped
+2026-09-10T11:54:02.769Z tier2:rest-browser version=2026.1 outcome=not-found durationMs=4433
+2026-09-10T12:14:24.492Z tier2:records-browser version=2024_1 outcome=not-found attempted=272 notFound=272 failed=0 durationMs=1221596
+2026-09-10T17:07:08.756Z tier2:typings-pin commit=b84ad47 outcome=ok modules=65 failed=0 durationMs=975

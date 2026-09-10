@@ -1,0 +1,76 @@
+# SuiteScript 2.x Typings
+
+SuiteScript 2.x Typings (65 pages): ElectronicBankPaymentsPlugin (SuiteScript 2.x typings), EmailCapturePlugin (SuiteScript 2.x typings), N (SuiteScript 2.x typings), N/action (SuiteScript 2.x typings), N/auth (SuiteScript 2.x typings), N/cache (SuiteScript 2.x typings), N/certificateControl (SuiteScript 2.x typings), N/commerce/recordView (SuiteScript 2.x typings), N/compress (SuiteScript 2.x typings), N/config (SuiteScript 2.x typings), N/crypto (SuiteScript 2.x typings), N/crypto/certificate (SuiteScript 2.x typings), N/crypto/random (SuiteScript 2.x typings), N/currency (SuiteScript 2.x typings), N/currentRecord (SuiteScript 2.x typings), N/dataset (SuiteScript 2.x typings), N/datasetLink (SuiteScript 2.x typings), N/documentCapture (SuiteScript 2.x typings), N/email (SuiteScript 2.x typings), N/encode (SuiteScript 2.x typings), N/error (SuiteScript 2.x typings), N/file (SuiteScript 2.x typings), N/format (SuiteScript 2.x typings), N/format/i18n (SuiteScript 2.x typings), N/http (SuiteScript 2.x typings), N/https (SuiteScript 2.x typings), N/https/clientCertificate (SuiteScript 2.x typings), N/keyControl (SuiteScript 2.x typings), N/llm (SuiteScript 2.x typings), N/log (SuiteScript 2.x typings), N/machineTranslation (SuiteScript 2.x typings), N/manufacturing/productionCharges (SuiteScript 2.x typings), N/pgp (SuiteScript 2.x typings), N/piremoval (SuiteScript 2.x typings), N/plugin (SuiteScript 2.x typings), N/plugins/fiConnectivityPlugin (SuiteScript 2.x typings), N/plugins/fiParserPlugin (SuiteScript 2.x typings), N/plugins/glPlugin (SuiteScript 2.x typings), N/portlet (SuiteScript 2.x typings), N/query (SuiteScript 2.x typings), N/record (SuiteScript 2.x typings), N/recordContext (SuiteScript 2.x typings), N/redirect (SuiteScript 2.x typings), N/render (SuiteScript 2.x typings), N/runtime (SuiteScript 2.x typings), N/scriptTypes/restlet (SuiteScript 2.x typings), N/search (SuiteScript 2.x typings), N/sftp (SuiteScript 2.x typings), N/sso (SuiteScript 2.x typings), N/suiteAppInfo (SuiteScript 2.x typings), N/task (SuiteScript 2.x typings), N/task/accounting/recognition (SuiteScript 2.x typings), N/transaction (SuiteScript 2.x typings), N/translation (SuiteScript 2.x typings), N/types (SuiteScript 2.x typings), N/ui/dialog (SuiteScript 2.x typings), N/ui/message (SuiteScript 2.x typings), N/ui/serverWidget (SuiteScript 2.x typings), N/url (SuiteScript 2.x typings), N/util (SuiteScript 2.x typings), N/workbook (SuiteScript 2.x typings), N/workflow (SuiteScript 2.x typings), N/xml (SuiteScript 2.x typings), SuiteGL (SuiteScript 2.x typings), SuiteScriptV1 (SuiteScript 2.x typings)
+
+## Chapters
+- [ElectronicBankPaymentsPlugin (SuiteScript 2.x typings)](ts_ElectronicBankPaymentsPlugin.md): SuiteScript 2.
+- [EmailCapturePlugin (SuiteScript 2.x typings)](ts_EmailCapturePlugin.md): SuiteScript 2.
+- [N (SuiteScript 2.x typings)](ts_N.md): SuiteScript 2.
+- [N/action (SuiteScript 2.x typings)](ts_N_action.md): SuiteScript 2.
+- [N/auth (SuiteScript 2.x typings)](ts_N_auth.md): SuiteScript 2.
+- [N/cache (SuiteScript 2.x typings)](ts_N_cache.md): SuiteScript 2.
+- [N/certificateControl (SuiteScript 2.x typings)](ts_N_certificateControl.md): SuiteScript 2.
+- [N/commerce/recordView (SuiteScript 2.x typings)](ts_N_commerce_recordView.md): SuiteScript 2.
+- [N/compress (SuiteScript 2.x typings)](ts_N_compress.md): SuiteScript 2.
+- [N/config (SuiteScript 2.x typings)](ts_N_config.md): SuiteScript 2.
+- [N/crypto (SuiteScript 2.x typings)](ts_N_crypto.md): SuiteScript 2.
+- [N/crypto/certificate (SuiteScript 2.x typings)](ts_N_crypto_certificate.md): SuiteScript 2.
+- [N/crypto/random (SuiteScript 2.x typings)](ts_N_crypto_random.md): SuiteScript 2.
+- [N/currency (SuiteScript 2.x typings)](ts_N_currency.md): SuiteScript 2.
+- [N/currentRecord (SuiteScript 2.x typings)](ts_N_currentRecord.md): SuiteScript 2.
+- [N/dataset (SuiteScript 2.x typings)](ts_N_dataset.md): SuiteScript 2.
+- [N/datasetLink (SuiteScript 2.x typings)](ts_N_datasetLink.md): SuiteScript 2.
+- [N/documentCapture (SuiteScript 2.x typings)](ts_N_documentCapture.md): SuiteScript 2.
+- [N/email (SuiteScript 2.x typings)](ts_N_email.md): SuiteScript 2.
+- [N/encode (SuiteScript 2.x typings)](ts_N_encode.md): SuiteScript 2.
+- [N/error (SuiteScript 2.x typings)](ts_N_error.md): SuiteScript 2.
+- [N/file (SuiteScript 2.x typings)](ts_N_file.md): SuiteScript 2.
+- [N/format (SuiteScript 2.x typings)](ts_N_format.md): SuiteScript 2.
+- [N/format/i18n (SuiteScript 2.x typings)](ts_N_format_i18n.md): SuiteScript 2.
+- [N/http (SuiteScript 2.x typings)](ts_N_http.md): SuiteScript 2.
+- [N/https (SuiteScript 2.x typings)](ts_N_https.md): SuiteScript 2.
+- [N/https/clientCertificate (SuiteScript 2.x typings)](ts_N_https_clientCertificate.md): SuiteScript 2.
+- [N/keyControl (SuiteScript 2.x typings)](ts_N_keyControl.md): SuiteScript 2.
+- [N/llm (SuiteScript 2.x typings)](ts_N_llm.md): SuiteScript 2.
+- [N/log (SuiteScript 2.x typings)](ts_N_log.md): SuiteScript 2.
+- [N/machineTranslation (SuiteScript 2.x typings)](ts_N_machineTranslation.md): SuiteScript 2.
+- [N/manufacturing/productionCharges (SuiteScript 2.x typings)](ts_N_manufacturing_productionCharges.md): SuiteScript 2.
+- [N/pgp (SuiteScript 2.x typings)](ts_N_pgp.md): SuiteScript 2.
+- [N/piremoval (SuiteScript 2.x typings)](ts_N_piremoval.md): SuiteScript 2.
+- [N/plugin (SuiteScript 2.x typings)](ts_N_plugin.md): SuiteScript 2.
+- [N/plugins/fiConnectivityPlugin (SuiteScript 2.x typings)](ts_N_plugins_fiConnectivityPlugin.md): SuiteScript 2.
+- [N/plugins/fiParserPlugin (SuiteScript 2.x typings)](ts_N_plugins_fiParserPlugin.md): SuiteScript 2.
+- [N/plugins/glPlugin (SuiteScript 2.x typings)](ts_N_plugins_glPlugin.md): SuiteScript 2.
+- [N/portlet (SuiteScript 2.x typings)](ts_N_portlet.md): SuiteScript 2.
+- [N/query (SuiteScript 2.x typings)](ts_N_query.md): SuiteScript 2.
+- [N/record (SuiteScript 2.x typings)](ts_N_record.md): SuiteScript 2.
+- [N/recordContext (SuiteScript 2.x typings)](ts_N_recordContext.md): SuiteScript 2.
+- [N/redirect (SuiteScript 2.x typings)](ts_N_redirect.md): SuiteScript 2.
+- [N/render (SuiteScript 2.x typings)](ts_N_render.md): SuiteScript 2.
+- [N/runtime (SuiteScript 2.x typings)](ts_N_runtime.md): SuiteScript 2.
+- [N/scriptTypes/restlet (SuiteScript 2.x typings)](ts_N_scriptTypes_restlet.md): SuiteScript 2.
+- [N/search (SuiteScript 2.x typings)](ts_N_search.md): SuiteScript 2.
+- [N/sftp (SuiteScript 2.x typings)](ts_N_sftp.md): SuiteScript 2.
+- [N/sso (SuiteScript 2.x typings)](ts_N_sso.md): SuiteScript 2.
+- [N/suiteAppInfo (SuiteScript 2.x typings)](ts_N_suiteAppInfo.md): SuiteScript 2.
+- [N/task (SuiteScript 2.x typings)](ts_N_task.md): SuiteScript 2.
+- [N/task/accounting/recognition (SuiteScript 2.x typings)](ts_N_task_accounting_recognition.md): SuiteScript 2.
+- [N/transaction (SuiteScript 2.x typings)](ts_N_transaction.md): SuiteScript 2.
+- [N/translation (SuiteScript 2.x typings)](ts_N_translation.md): SuiteScript 2.
+- [N/types (SuiteScript 2.x typings)](ts_N_types.md): SuiteScript 2.
+- [N/ui/dialog (SuiteScript 2.x typings)](ts_N_ui_dialog.md): SuiteScript 2.
+- [N/ui/message (SuiteScript 2.x typings)](ts_N_ui_message.md): SuiteScript 2.
+- [N/ui/serverWidget (SuiteScript 2.x typings)](ts_N_ui_serverWidget.md): SuiteScript 2.
+- [N/url (SuiteScript 2.x typings)](ts_N_url.md): SuiteScript 2.
+- [N/util (SuiteScript 2.x typings)](ts_N_util.md): SuiteScript 2.
+- [N/workbook (SuiteScript 2.x typings)](ts_N_workbook.md): SuiteScript 2.
+- [N/workflow (SuiteScript 2.x typings)](ts_N_workflow.md): SuiteScript 2.
+- [N/xml (SuiteScript 2.x typings)](ts_N_xml.md): SuiteScript 2.
+- [SuiteGL (SuiteScript 2.x typings)](ts_SuiteGL.md): SuiteScript 2.
+- [SuiteScriptV1 (SuiteScript 2.x typings)](ts_SuiteScriptV1.md): SuiteScript 2.
+
+## Index
+INDEX.md
+
+## Search
+node Templates/netsuite-docs/bin/ns-docs.js search "<query>" --branch tier2-typings-suitescript-2.0
