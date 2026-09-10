@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T13:04:50.103Z",
+  "generatedAt": "2026-09-10T02:00:50.267Z",
   "manifestGeneratedAt": "2026-09-09T13:03:48.408Z",
   "counts": {
-    "internal": 247725,
-    "resolved": 222975,
+    "internal": 247728,
+    "resolved": 222978,
     "dangling": 24750,
     "anchorsUnresolved": 5,
     "external": 4573,

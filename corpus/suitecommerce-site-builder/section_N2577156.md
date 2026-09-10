@@ -8,7 +8,7 @@ breadcrumb: "Commerce > SuiteCommerce Site Builder > Setting Up Your Site Builde
 parent: "section_N2576937"
 source: "https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N2577156.html"
 anchors: ["procedure_4706929897"]
-sha256: "05d099fa4a7642a934ac31dc658c32edd8e828ed48462113c4da74a60a1f420b"
+sha256: "77784d8017b331ba030bfd3dbfb2b9e1caf70bbc9a92e9cda628daacf8b67641"
 ---
 
 You can operate a website hosted by NetSuite and still allow your users to log in to your NetSuite account. You can also create a custom login page that displays your company's branding on the page used to log in to your NetSuite account.
@@ -81,7 +81,7 @@ When visitors click the link to your custom login page, they can enter their ema
 
 ### Related Topics
 
--   [Secure Login Access to Your NetSuite Account](section_N2577046.html)
+-   [Secure Login Access to Your NetSuite Account](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N2577046.html)
 -   [Customizing Login and Logout](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N2577359.html)
 -   [Registration-Free Shopping](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N2577575.html)
 -   [Restricting Access to Your Website](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_N2577753.html)
